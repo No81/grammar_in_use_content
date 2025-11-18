@@ -1,0 +1,76 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ site.data.unit5.title }}</title>
+  <style>
+    /* 기존 스타일 그대로 유지 (복잡도 줄이기 위해 핵심만 남김) */
+    body { font-family: system-ui, sans-serif; line-height: 1.7; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fffaf5; color: #333; }
+    h1 { text-align: center; color: #ff7b7b; }
+    h2 { color: #3a7bd5; border-left: 8px solid #ffd86b; padding-left: 10px; margin-top: 30px; }
+    .section { background: #fff; border: 2px solid #f5d5a3; border-radius: 15px; padding: 20px; margin-bottom: 20px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); }
+    .meta { background: #fff3c4; padding: 10px; border-radius: 10px; font-size: 0.9em; color: #666; text-align: center; margin-bottom: 30px; }
+    .item { margin-bottom: 15px; }
+    .subheading { font-weight: bold; color: #3a7bd5; margin-bottom: 5px; }
+    .highlight { background: #fff3b0; font-weight: bold; padding: 2px 5px; border-radius: 4px; }
+    .note { background: #eee; padding: 10px; border-radius: 8px; font-size: 0.9em; color: #555; }
+    .question { font-weight: bold; }
+    
+    /* 버튼 및 정답 스타일 */
+    .answer-toggle { background: #ffd86b; border: none; padding: 5px 12px; border-radius: 15px; cursor: pointer; font-weight: bold; margin: 5px 0; }
+    .answer { display: none; background: #e7f9e7; padding: 10px; border-left: 5px solid #6fcf97; border-radius: 5px; margin-top: 5px; }
+    .answer.visible { display: block; }
+    ul { padding-left: 20px; margin: 5px 0; }
+  </style>
+  <script>
+    function toggleAnswer(btn) {
+      const ans = btn.nextElementSibling;
+      ans.classList.toggle('visible');
+      btn.textContent = ans.classList.contains('visible') ? '정답 숨기기' : '정답 보기';
+    }
+  </script>
+</head>
+<body>
+
+  {% assign data = site.data.unit5 %}
+
+  <h1>{{ data.title }}</h1>
+  <div class="meta">{{ data.meta }}</div>
+
+  {% for section in data.sections %}
+  <div class="section">
+    <h2>{{ section.title }}</h2>
+
+    {% for item in section.items %}
+    <div class="item">
+      
+      {% if item.type == 'text' %}
+        <p>{{ item.content }}</p>
+      
+      {% elsif item.type == 'list' %}
+        {% if item.heading %}<p class="subheading">{{ item.heading }}</p>{% endif %}
+        <ul>
+          {% for li in item.list %}
+            <li>{{ li }}</li>
+          {% endfor %}
+        </ul>
+
+      {% elsif item.type == 'note' %}
+        <div class="note">{{ item.content }}</div>
+
+      {% elsif item.type == 'qna' %}
+        <p class="question">{{ item.question }}</p>
+        <button class="answer-toggle" onclick="toggleAnswer(this)">정답 보기</button>
+        <div class="answer">{{ item.answer }}</div>
+      {% endif %}
+
+    </div>
+    {% endfor %}
+
+  </div>
+  {% endfor %}
+  </body>
+</html>
