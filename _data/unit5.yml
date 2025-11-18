@@ -1,0 +1,34 @@
+title: "Unit 5 – I do / work / like (Simple Present)"
+meta: "학습자: 초6 · 수준: 기초 · 시간: 30분"
+sections:
+  - title: "1. 문법 한눈에 보기 – Simple Present"
+    items:
+      - type: text
+        content: "<span class='highlight'>Simple Present</span>는 <span class='highlight'>습관, 사실, 규칙적으로 하는 일</span>을 말할 때 쓰는 시제예요."
+      - type: list
+        heading: "① 기본 형태"
+        list:
+          - "I / you / we / they + 동사원형"
+          - "he / she / it + 동사에 -s / -es"
+      - type: note
+        content: "★ am/is/are는 be동사이고, play/like 등은 일반동사예요. 섞어 쓰지 않도록 조심하기!"
+
+  - title: "2. Noticing 활동 – 규칙 발견하기"
+    items:
+      - type: text
+        content: "아래 문장을 읽고 질문에 답해 보세요."
+      - type: qna
+        question: "Q1. 문장 묶음 A에서 동사(walk, eat)는 어떤 모양인가요?"
+        answer: "동사 뒤에 -s가 붙지 않고, <span class='highlight'>원래 모양(동사원형)</span>이에요."
+      - type: qna
+        question: "Q2. 문장 묶음 B(he/she) 뒤의 동사는 어떤 모양인가요?"
+        answer: "<span class='highlight'>한 사람/대상</span>일 때 동사에 <span class='highlight'>-s / -es</span>가 붙어요."
+
+  - title: "3. 연습 문제 – 동사 모양 고르기"
+    items:
+      - type: qna
+        question: "1) I (play / plays) soccer after school."
+        answer: "I <span class='highlight'>play</span> soccer. (I는 동사원형)"
+      - type: qna
+        question: "2) She (like / likes) math."
+        answer: "She <span class='highlight'>likes</span> math. (3인칭 단수)"
