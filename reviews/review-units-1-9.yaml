@@ -1,0 +1,456 @@
+title: "Units 1-9 종합 복습 (Comprehensive Review)"
+meta: "대상: 6학년 · 난이도: 중~중상 · 권장 35-50분 (A4 3p)"
+review_scope: "Present Tense Grammar (Units 1-9)"
+units_covered:
+  - "Unit 1: am/is/are"
+  - "Unit 2: am/is/are (questions)"
+  - "Unit 3: I am doing (present continuous)"
+  - "Unit 4: are you doing? (present continuous questions)"
+  - "Unit 5: I do/work/like, etc. (simple present)"
+  - "Unit 6: I don't... (simple present negative)"
+  - "Unit 7: Do you...? (simple present questions)"
+  - "Unit 8: I am doing and I do (comparison)"
+  - "Unit 9: I have... and I've got..."
+
+sections:
+  - title: "1. 복습 시작 전 자기 진단"
+    items:
+      - type: text
+        content: "Units 1-9에서 배운 내용을 얼마나 기억하고 있는지 체크해 보세요! 솔직하게 평가하는 것이 중요합니다."
+      - type: list
+        heading: "나는 할 수 있다..."
+        list:
+          - "☐ am/is/are를 주어에 맞게 사용할 수 있다 (Unit 1)"
+          - "☐ be동사 의문문을 만들 수 있다 (Unit 2)"
+          - "☐ 현재진행형(am/is/are + -ing)을 사용할 수 있다 (Unit 3)"
+          - "☐ 현재진행형 의문문을 만들 수 있다 (Unit 4)"
+          - "☐ 단순 현재 시제를 사용할 수 있다 (Unit 5)"
+          - "☐ 단순 현재 부정문을 만들 수 있다 (Unit 6)"
+          - "☐ 단순 현재 의문문을 만들 수 있다 (Unit 7)"
+          - "☐ 현재진행형과 단순 현재의 차이를 안다 (Unit 8)"
+          - "☐ have/have got을 올바르게 사용할 수 있다 (Unit 9)"
+      - type: note
+        content: "💡 7개 이상 체크: 아주 잘 준비되었어요!<br />4-6개 체크: 복습이 꼭 필요해요!<br />3개 이하 체크: 각 Unit을 다시 천천히 읽어보세요!"
+      - type: note
+        content: "⏱️ 시간이 부족하다면? Section 3, 4, 9만 풀어도 충분히 효과적인 복습이 됩니다! (약 30분)"
+
+  - title: "2. 핵심 개념 빠른 정리 (Quick Summary)"
+    items:
+      - type: text
+        content: "지금까지 배운 9개 Unit의 핵심 내용을 한눈에 정리했어요!"
+      - type: list
+        heading: "Unit 1-2: be동사 (am/is/are)"
+        list:
+          - "형태: I am, You are, He/She/It is, We/They are"
+          - "용도: 상태, 신분, 위치, 특징 표현"
+          - "부정문: am not, isn't, aren't"
+          - "의문문: Am I...? Is he...? Are you...?"
+      - type: list
+        heading: "Unit 3-4: 현재진행형 (Present Continuous)"
+        list:
+          - "형태: am/is/are + 동사-ing"
+          - "용도: 지금 이 순간 하고 있는 일"
+          - "시간 표현: now, at the moment, right now"
+          - "부정문: I am not working, She isn't playing"
+          - "의문문: Are you studying? Is he eating?"
+      - type: list
+        heading: "Unit 5-7: 단순 현재 (Simple Present)"
+        list:
+          - "형태: 동사 원형 (3인칭 단수: -s/es)"
+          - "용도: 습관, 반복, 일반적 사실"
+          - "시간 표현: every day, always, usually, often"
+          - "부정문: don't/doesn't + 동사 원형"
+          - "의문문: Do/Does + 주어 + 동사 원형?"
+      - type: list
+        heading: "Unit 8: 현재진행형 vs 단순 현재"
+        list:
+          - "현재진행형: 지금 하고 있는 일 (I am eating now.)"
+          - "단순 현재: 평소에 하는 일 (I eat breakfast at 7.)"
+          - "핵심 차이: 지금 vs 습관"
+      - type: list
+        heading: "Unit 9: have/have got"
+        list:
+          - "have = have got (같은 의미)"
+          - "3인칭 단수: has/has got"
+          - "축약형: I've got, She's got, They've got"
+          - "용도: 소유, 관계, 특징 표현"
+
+  - title: "3. 통합 회상 연습 (Mixed Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 보지 말고 기억을 떠올려 답해 보세요! 이것이 가장 효과적인 학습법입니다."
+      - type: qna
+        question: "R1. I, He, They 뒤에 오는 be동사는 각각 무엇인가요?"
+        answer: "I am, He is, They are<br />평가: 3개 모두 맞으면 정답"
+      - type: qna
+        question: "R2. '지금 숙제를 하고 있다'와 '매일 숙제를 한다'를 영어로 각각 어떻게 표현하나요?"
+        answer: "I am doing my homework now. (현재진행형)<br />I do my homework every day. (단순 현재)<br />평가: 두 시제가 올바르게 구분되면 정답"
+      - type: qna
+        question: "R3. 'She play soccer'가 틀린 이유는 무엇인가요?"
+        answer: "She는 3인칭 단수이므로 plays로 써야 합니다.<br />평가: 3인칭 단수 -s를 언급하면 정답"
+      - type: qna
+        question: "R4. 'Do he like pizza?'의 틀린 부분을 찾고 설명하세요."
+        answer: "Does he like pizza?<br />He는 3인칭 단수이므로 Do가 아니라 Does를 써야 합니다.<br />평가: Does로 고치고 이유를 설명하면 정답"
+      - type: qna
+        question: "R5. have와 have got의 차이점은 무엇인가요?"
+        answer: "의미는 같습니다. 둘 다 '가지고 있다'는 뜻이며 자유롭게 바꿔 쓸 수 있습니다.<br />평가: 같은 의미라는 점을 언급하면 정답"
+      - type: qna
+        question: "R6. 현재진행형을 만들 때 필요한 두 가지 요소는 무엇인가요?"
+        answer: "be동사(am/is/are) + 동사-ing<br />평가: 두 가지를 모두 언급하면 정답"
+      - type: qna
+        question: "R7. 'now', 'every day', 'at the moment' 중 현재진행형과 함께 쓰이는 표현은?"
+        answer: "now, at the moment<br />평가: 두 개 이상 맞으면 정답"
+      - type: qna
+        question: "R8. 단순 현재 부정문을 만들 때 사용하는 조동사는 무엇인가요?"
+        answer: "don't (do not) 또는 doesn't (does not)<br />평가: 둘 중 하나만 맞아도 정답"
+
+  - title: "4. 진단 문제 - 약점 찾기 (Diagnostic Test)"
+    items:
+      - type: note
+        content: "각 문제는 특정 Unit의 핵심 개념을 테스트합니다. 틀린 문제가 속한 Unit을 집중 복습하세요!"
+      - type: qna
+        question: "D1. [Unit 1] 빈칸 채우기: My sister ___ very tall."
+        answer: "is<br />설명: My sister는 3인칭 단수이므로 is를 씁니다.<br />틀렸다면 → Unit 1 복습"
+      - type: qna
+        question: "D2. [Unit 2] 의문문 만들기: You are busy. → ___"
+        answer: "Are you busy?<br />설명: be동사를 문장 앞으로 보냅니다.<br />틀렸다면 → Unit 2 복습"
+      - type: qna
+        question: "D3. [Unit 3] 현재진행형 만들기: She ___ (read) a book now."
+        answer: "is reading<br />설명: She + is + reading (동사-ing)<br />틀렸다면 → Unit 3 복습"
+      - type: qna
+        question: "D4. [Unit 4] 의문문 만들기: They are playing games. → ___"
+        answer: "Are they playing games?<br />설명: be동사 are를 앞으로 보냅니다.<br />틀렸다면 → Unit 4 복습"
+      - type: qna
+        question: "D5. [Unit 5] 단순 현재 만들기: He ___ (go) to school by bus."
+        answer: "goes<br />설명: He는 3인칭 단수이므로 goes (go + es)<br />틀렸다면 → Unit 5 복습"
+      - type: qna
+        question: "D6. [Unit 6] 부정문 만들기: She likes chocolate. → She ___ chocolate."
+        answer: "doesn't like<br />설명: doesn't + 동사 원형<br />틀렸다면 → Unit 6 복습"
+      - type: qna
+        question: "D7. [Unit 7] 의문문 만들기: You play soccer. → ___"
+        answer: "Do you play soccer?<br />설명: Do + 주어 + 동사 원형<br />틀렸다면 → Unit 7 복습"
+      - type: qna
+        question: "D8. [Unit 8] 올바른 시제 선택: I ___ (watch) TV every evening.<br />a) watch  b) am watching"
+        answer: "a) watch<br />설명: every evening은 습관이므로 단순 현재<br />틀렸다면 → Unit 8 복습"
+      - type: qna
+        question: "D9. [Unit 9] have got으로 바꾸기: I have a dog. → ___"
+        answer: "I've got a dog. / I have got a dog.<br />설명: have = have got<br />틀렸다면 → Unit 9 복습"
+
+  - title: "5. 개념 연결하기 - 인터리빙 연습 (Interleaving Practice)"
+    items:
+      - type: note
+        content: "여러 Unit의 개념을 섞어서 연습합니다. 이렇게 하면 각 개념을 더 명확하게 구분할 수 있어요!"
+      - type: qna
+        question: "I1. 다음 문장을 완성하세요: I ___ (be) a student. I ___ (study) English every day. Right now, I ___ (do) my homework."
+        answer: "am, study, am doing<br />설명: be동사 → 단순 현재 → 현재진행형 순서로 사용<br />개념: Unit 1, 5, 3 통합"
+      - type: qna
+        question: "I2. 틀린 부분을 모두 찾아 고치세요: 'She don't like pizza and she eating it now.'"
+        answer: "She doesn't like pizza and she is eating it now.<br />설명: ① don't → doesn't (Unit 6), ② eating → is eating (Unit 3)<br />개념: Unit 3, 6 통합"
+      - type: qna
+        question: "I3. 질문과 답변을 완성하세요:<br />A: ___ you ___ (have) a brother?<br />B: Yes, I ___. I ___ got a younger brother."
+        answer: "A: Do you have a brother?<br />B: Yes, I do. I have/I've got a younger brother.<br />설명: Unit 7 의문문 + Unit 9 have/have got<br />개념: Unit 7, 9 통합"
+      - type: qna
+        question: "I4. 상황에 맞게 빈칸을 채우세요:<br />Every morning, I ___ (wake) up at 7. Now it ___ (be) 7:15 and I ___ (eat) breakfast."
+        answer: "wake, is, am eating<br />설명: 습관(wake) → 현재 상태(is) → 지금 진행(am eating)<br />개념: Unit 5, 1, 3 통합"
+      - type: qna
+        question: "I5. 다음 대화를 완성하세요:<br />A: What ___ you ___ (do) now?<br />B: I ___ (watch) a movie.<br />A: ___ you ___ (watch) movies often?<br />B: Yes, I ___ (watch) them every weekend."
+        answer: "A: What are you doing now?<br />B: I am watching a movie. (또는 I'm watching)<br />A: Do you watch movies often?<br />B: Yes, I watch them every weekend.<br />설명: 현재진행형 의문문 → 답변 → 단순 현재 의문문 → 답변<br />개념: Unit 4, 3, 7, 5 통합"
+      - type: qna
+        question: "I6. 주어진 문장을 부정문과 의문문으로 바꾸세요: 'She is reading a book.'"
+        answer: "부정문: She is not reading a book. / She isn't reading a book.<br />의문문: Is she reading a book?<br />설명: 현재진행형 부정문과 의문문<br />개념: Unit 3, 4 통합"
+      - type: qna
+        question: "I7. 주어진 문장을 부정문과 의문문으로 바꾸세요: 'They play basketball.'"
+        answer: "부정문: They don't play basketball.<br />의문문: Do they play basketball?<br />설명: 단순 현재 부정문과 의문문<br />개념: Unit 6, 7 통합"
+      - type: qna
+        question: "I8. 다음 세 문장의 차이를 한글로 설명하세요:<br />① I am a teacher.<br />② I am teaching now.<br />③ I teach English."
+        answer: "① 나는 선생님이다 (신분/직업 - be동사)<br />② 나는 지금 가르치고 있다 (지금 진행 중 - 현재진행형)<br />③ 나는 영어를 가르친다 (직업/습관 - 단순 현재)<br />설명: be동사, 현재진행형, 단순 현재의 차이<br />개념: Unit 1, 3, 5 통합"
+
+  - title: "6. 레벨별 종합 연습 (Progressive Practice)"
+    items:
+      - type: note
+        content: "난이도가 점점 올라갑니다. 자신의 수준에 맞게 도전해 보세요!"
+      - type: text
+        content: "<span class='highlight'>Level 1: 기초 - 빈칸 채우기</span>"
+      - type: qna
+        question: "L1-1. I ___ (be) happy and my friends ___ (be) happy too."
+        answer: "am, are<br />설명: I am, my friends are"
+      - type: qna
+        question: "L1-2. She ___ (study) math now, but she usually ___ (study) English."
+        answer: "is studying, studies<br />설명: now → 현재진행형, usually → 단순 현재"
+      - type: qna
+        question: "L1-3. ___ you ___ (have) a pen? Yes, I ___ got one."
+        answer: "Do, have, have/I've<br />설명: Do you have = 의문문, I've got = 답변"
+      - type: qna
+        question: "L1-4. They ___ (not/play) games now. They ___ (do) homework."
+        answer: "are not playing / aren't playing, are doing<br />설명: 현재진행형 부정문과 긍정문"
+      - type: text
+        content: "<span class='highlight'>Level 2: 중급 - 문장 만들기</span>"
+      - type: qna
+        question: "L2-1. 한영 번역: 나는 지금 음악을 듣고 있고, 매일 음악을 듣는다."
+        answer: "I am listening to music now, and I listen to music every day.<br />평가: 현재진행형과 단순 현재를 모두 올바르게 사용하면 정답"
+      - type: qna
+        question: "L2-2. 틀린 부분 고치기: 'He don't have a car and he doesn't driving now.'"
+        answer: "He doesn't have a car and he isn't driving now.<br />설명: ① don't → doesn't, ② doesn't driving → isn't driving"
+      - type: qna
+        question: "L2-3. 대화 완성: A: Where is Tom? B: He ___ (be) in the library. He ___ (study) there every afternoon."
+        answer: "is, studies<br />설명: 지금 위치(is) + 습관(studies)"
+      - type: qna
+        question: "L2-4. 두 가지 방법으로 쓰기: '그녀는 파란 눈을 가지고 있다' (have 사용 / have got 사용)"
+        answer: "She has blue eyes. / She's got blue eyes.<br />평가: 두 문장 모두 올바르면 정답"
+      - type: text
+        content: "<span class='highlight'>Level 3: 고급 - 종합 응용</span>"
+      - type: qna
+        question: "L3-1. 다음 상황을 3문장으로 영작하세요: 민수는 학생이다. 그는 매일 축구를 한다. 지금 그는 숙제를 하고 있다."
+        answer: "Minsu is a student. He plays soccer every day. He is doing his homework now.<br />평가: be동사, 단순 현재, 현재진행형이 모두 올바르게 사용되면 정답"
+      - type: qna
+        question: "L3-2. 오류 찾기와 설명: 'My sister have three cats. She loving them very much and she feeding them now.'"
+        answer: "올바른 문장: My sister has three cats. She loves them very much and she is feeding them now.<br />설명: ① have → has (3인칭 단수), ② loving → loves (상태동사는 진행형 불가), ③ feeding → is feeding (현재진행형)"
+      - type: qna
+        question: "L3-3. 질문 3개 만들기: 친구에게 ①be동사 의문문, ②현재진행형 의문문, ③단순 현재 의문문을 각각 하나씩 만드세요."
+        answer: "예시 답안:<br />① Are you happy? / Is your brother a student?<br />② Are you studying now? / What are you doing?<br />③ Do you like pizza? / Does your sister play piano?<br />평가: 각 의문문 형태가 올바르면 정답"
+      - type: qna
+        question: "L3-4. 창의적 작문: 자신의 하루를 5문장으로 설명하세요. (be동사, 현재진행형, 단순 현재, have/have got을 각각 1번 이상 사용)"
+        answer: "예시 답안: I am a 6th grader. I wake up at 7 every morning. I have got two siblings. Right now, I am doing my homework. I like studying English.<br />평가: 네 가지 문법 요소가 모두 올바르게 사용되고 의미가 통하면 정답"
+
+  - title: "7. 실생활 통합 적용 (Real-Life Integration)"
+    items:
+      - type: note
+        content: "실제 상황에서 Units 1-9의 문법을 모두 사용해 봅시다!"
+      - type: qna
+        question: "R1. 자기소개 만들기: be동사, 현재진행형, 단순 현재, have/have got을 모두 사용해서 자신을 5문장으로 소개하세요."
+        answer: "예시 답안:<br />I am Jimin and I am 12 years old. (be동사)<br />I have a younger brother. (have)<br />I study at Seoul Elementary School. (단순 현재)<br />I usually play soccer after school. (단순 현재)<br />Right now, I am doing my English homework. (현재진행형)<br />평가 기준: 5문장, 네 가지 문법 요소 포함, 문법적으로 올바름"
+      - type: qna
+        question: "R2. 일상 대화 완성하기: 친구와 방과 후에 만났을 때의 대화를 6줄 이상 만드세요. (질문과 대답 포함)"
+        answer: "예시 답안:<br />A: Hi! What are you doing now?<br />B: I am going to the library. Do you want to come?<br />A: I don't have time now. I have piano lessons at 4.<br />B: Oh, do you play piano every day?<br />A: No, I play it three times a week.<br />B: That's cool! Are you good at it?<br />A: I am not bad!<br />평가 기준: 대화가 자연스럽고, 여러 문법 요소가 섞여 있으며, 문법적으로 올바름"
+      - type: qna
+        question: "R3. 가족 소개하기: 가족 구성원 한 명을 4문장으로 소개하세요."
+        answer: "예시 답안:<br />My mother is a teacher. She teaches math at a middle school. She is very kind and patient. Right now, she is cooking dinner in the kitchen.<br />평가 기준: 4문장 이상, 다양한 문법 사용, 의미가 통함"
+      - type: qna
+        question: "R4. 주말 계획과 현재 상황: 'Now'와 'This weekend'를 사용해서 4문장을 만드세요."
+        answer: "예시 답안:<br />Now: I am sitting on my bed. I am reading a book.<br />This weekend: I usually visit my grandparents. I play with my cousins there.<br />평가 기준: now(현재진행형) 2문장 + this weekend(단순 현재) 2문장, 올바른 시제 사용"
+      - type: qna
+        question: "R5. SNS 게시글 쓰기: 지금 하고 있는 일과 평소 취미를 짧은 글로 쓰세요."
+        answer: "예시 답안:<br />Hi everyone! I'm watching my favorite K-drama right now. It's so exciting! I usually watch it every Friday night. Do you have a favorite show? I also have got a dog named Max. He is sleeping next to me. 😊<br />평가 기준: 현재진행형, 단순 현재, have/have got, be동사가 자연스럽게 섞여 있음"
+
+  - title: "8. 흔한 실수 바로잡기 (Common Mistakes Correction)"
+    items:
+      - type: note
+        content: "한국 학습자들이 자주 하는 실수들을 모았어요. 각 실수를 고치고 왜 틀렸는지 설명해 보세요!"
+      - type: qna
+        question: "E1. He don't like coffee. → ___"
+        answer: "He doesn't like coffee.<br />설명: He는 3인칭 단수이므로 don't가 아니라 doesn't를 써야 합니다."
+      - type: qna
+        question: "E2. She is like pizza. → ___"
+        answer: "She likes pizza.<br />설명: like는 일반동사이므로 be동사와 함께 쓸 수 없습니다."
+      - type: qna
+        question: "E3. I am study English every day. → ___"
+        answer: "I study English every day.<br />설명: every day는 습관이므로 현재진행형이 아니라 단순 현재를 씁니다."
+      - type: qna
+        question: "E4. Does he plays tennis? → ___"
+        answer: "Does he play tennis?<br />설명: Does 뒤에는 동사 원형(play)이 와야 합니다."
+      - type: qna
+        question: "E5. They are have a dog. → ___"
+        answer: "They have a dog. / They have got a dog.<br />설명: have는 일반동사이므로 are와 함께 쓸 수 없습니다."
+      - type: qna
+        question: "E6. I working now. → ___"
+        answer: "I am working now.<br />설명: 현재진행형은 be동사(am/is/are) + 동사-ing 형태입니다."
+      - type: qna
+        question: "E7. My brother like reading books. → ___"
+        answer: "My brother likes reading books.<br />설명: My brother는 3인칭 단수이므로 동사에 -s를 붙여야 합니다."
+      - type: qna
+        question: "E8. Are you have a pencil? → ___"
+        answer: "Do you have a pencil?<br />설명: have는 일반동사이므로 의문문은 Do you have...? 형태입니다."
+      - type: qna
+        question: "E9. She doesn't playing games now. → ___"
+        answer: "She isn't playing games now.<br />설명: 현재진행형 부정문은 be동사 + not + 동사-ing 형태입니다."
+      - type: qna
+        question: "E10. I've get two brothers. → ___"
+        answer: "I've got two brothers.<br />설명: have got의 축약형은 've got입니다."
+
+  - title: "9. 최종 종합 평가 (Final Comprehensive Test)"
+    items:
+      - type: note
+        content: "지금까지 복습한 내용을 모두 활용하는 최종 테스트입니다! 시간을 재면서 풀어보세요. (권장 시간: 15분)"
+      - type: text
+        content: "<span class='highlight'>Part A: 빈칸 채우기 (각 1점, 총 10점)</span>"
+      - type: qna
+        question: "1. I ___ (be) a student and I ___ (go) to school every day."
+        answer: "am, go"
+      - type: qna
+        question: "2. She ___ (have) long hair and she ___ (be) very pretty."
+        answer: "has, is"
+      - type: qna
+        question: "3. They ___ (play) soccer right now, but they usually ___ (play) basketball."
+        answer: "are playing, play"
+      - type: qna
+        question: "4. ___ you ___ (study) English? Yes, I ___ (study) it every day."
+        answer: "Do, study, study"
+      - type: qna
+        question: "5. My brother ___ (not/like) vegetables and he ___ (not/eat) them now."
+        answer: "doesn't like, isn't eating"
+      - type: text
+        content: "<span class='highlight'>Part B: 문장 변형 (각 2점, 총 10점)</span>"
+      - type: qna
+        question: "6. I am reading a book. (부정문으로)"
+        answer: "I am not reading a book. / I'm not reading a book."
+      - type: qna
+        question: "7. She likes chocolate. (의문문으로)"
+        answer: "Does she like chocolate?"
+      - type: qna
+        question: "8. They are playing games. (의문문으로)"
+        answer: "Are they playing games?"
+      - type: qna
+        question: "9. He goes to school by bus. (부정문으로)"
+        answer: "He doesn't go to school by bus."
+      - type: qna
+        question: "10. I have a dog. (have got으로 바꾸기)"
+        answer: "I have got a dog. / I've got a dog."
+      - type: text
+        content: "<span class='highlight'>Part C: 오류 수정 (각 2점, 총 10점)</span>"
+      - type: qna
+        question: "11. She don't have a sister."
+        answer: "She doesn't have a sister."
+      - type: qna
+        question: "12. I am play tennis every weekend."
+        answer: "I play tennis every weekend."
+      - type: qna
+        question: "13. Does they like pizza?"
+        answer: "Do they like pizza?"
+      - type: qna
+        question: "14. He working in the garden now."
+        answer: "He is working in the garden now."
+      - type: qna
+        question: "15. We are have many books."
+        answer: "We have many books. / We have got many books."
+      - type: text
+        content: "<span class='highlight'>Part D: 영작 (각 3점, 총 15점)</span>"
+      - type: qna
+        question: "16. 나는 매일 아침 7시에 일어난다."
+        answer: "I wake up at 7 (o'clock) every morning.<br />평가: 단순 현재 시제, 시간 표현 포함"
+      - type: qna
+        question: "17. 그녀는 지금 음악을 듣고 있다."
+        answer: "She is listening to music now.<br />평가: 현재진행형, now 포함"
+      - type: qna
+        question: "18. 너는 형제자매가 있니? (의문문)"
+        answer: "Do you have brothers or sisters? / Do you have any siblings?<br />평가: 의문문 형태 올바름"
+      - type: qna
+        question: "19. 우리는 숙제가 없다. (부정문)"
+        answer: "We don't have homework. / We haven't got homework.<br />평가: 부정문 형태 올바름"
+      - type: qna
+        question: "20. 그는 축구 선수이고 매일 연습한다."
+        answer: "He is a soccer player and he practices every day.<br />평가: be동사와 단순 현재 모두 사용"
+      - type: text
+        content: "<span class='highlight'>Part E: 서술형 (총 15점)</span>"
+      - type: qna
+        question: "21. 현재진행형과 단순 현재의 차이를 예문과 함께 한글로 설명하세요. (5점)"
+        answer: "예시 답안: 현재진행형은 '지금 이 순간' 하고 있는 일을 나타내고, 단순 현재는 '습관이나 반복되는 일'을 나타냅니다.<br />예문: I am eating now. (지금 먹고 있다) vs I eat breakfast at 7. (매일 7시에 먹는다)<br />평가 기준: 차이를 명확히 설명하고 예문이 올바르면 정답"
+      - type: qna
+        question: "22. 자신의 일상을 5문장으로 영어로 쓰세요. be동사, 현재진행형, 단순 현재, have/have got을 모두 사용하세요. (10점)"
+        answer: "예시 답안: I am a student. I have two sisters. I go to school by bus every day. I usually play games after school. Right now, I am studying English.<br />평가 기준: 5문장, 네 가지 문법 모두 사용, 문법적으로 올바름, 의미 연결성"
+      - type: note
+        content: "💯 채점하기:<br />총 60점 만점<br />54-60점: 완벽! 모든 Unit을 마스터했습니다! 🌟🌟🌟<br />48-53점: 아주 잘했어요! 작은 실수만 보완하면 완벽합니다! 🌟🌟<br />36-47점: 잘하고 있어요! 틀린 부분의 Unit을 다시 복습하세요! 🌟<br />35점 이하: 기초를 다시 다져봅시다! Units 1-5를 천천히 복습하세요!"
+
+  - title: "10. 복습 계획표 & 자기 점검 (Review Schedule & Self-Assessment)"
+    items:
+      - type: text
+        content: "<span class='highlight'>복습 계획 (Spaced Repetition Schedule)</span>"
+      - type: list
+        heading: "효과적인 장기 기억을 위한 복습 일정"
+        list:
+          - "📅 오늘: 이 복습 자료 완료 ✓"
+          - "📅 내일 (1일 후): Section 3 회상 연습 다시 풀기"
+          - "📅 3일 후: Section 4 진단 문제 다시 풀기"
+          - "📅 1주일 후: Section 9 최종 종합 평가 다시 풀기"
+          - "📅 2주일 후: 틀린 문제가 많았던 Unit 집중 복습"
+          - "📅 1개월 후: 전체 Units 1-9 빠르게 훑어보기"
+      - type: note
+        content: "💡 복습 팁: 각 복습 시 틀린 문제를 노트에 기록하세요. 반복해서 틀리는 부분이 여러분의 약점입니다!"
+      - type: text
+        content: "<span class='highlight'>자기 점검 체크리스트</span>"
+      - type: list
+        heading: "이제 나는 할 수 있다..."
+        list:
+          - "☑ am/is/are를 실수 없이 사용할 수 있다"
+          - "☑ be동사 의문문과 부정문을 만들 수 있다"
+          - "☑ 현재진행형을 올바르게 만들고 사용할 수 있다"
+          - "☑ 현재진행형 의문문과 부정문을 만들 수 있다"
+          - "☑ 단순 현재 시제를 정확하게 사용할 수 있다"
+          - "☑ 단순 현재 의문문과 부정문을 만들 수 있다"
+          - "☑ 현재진행형과 단순 현재의 차이를 설명할 수 있다"
+          - "☑ have와 have got을 자유롭게 사용할 수 있다"
+          - "☑ 실생활에서 이 문법들을 자연스럽게 사용할 수 있다"
+      - type: qna
+        question: "SC1. 위 체크리스트에서 몇 개를 체크했나요?"
+        answer: "9개: 완벽합니다! 자신감을 가지세요! 🌟🌟🌟<br />7-8개: 아주 잘했어요! 조금만 더 연습하면 완벽해요! 🌟🌟<br />5-6개: 잘하고 있어요! 약한 부분을 집중 복습하세요! 🌟<br />4개 이하: 괜찮아요! 천천히 각 Unit을 다시 복습해 봅시다!"
+      - type: qna
+        question: "SC2. 가장 어려웠던 Unit은 무엇이었나요? 그 이유는?"
+        answer: "자유 답변. 어려웠던 Unit을 파악하고 그 Unit을 집중적으로 복습하세요."
+      - type: qna
+        question: "SC3. 가장 자신 있는 Unit은 무엇인가요?"
+        answer: "자유 답변. 자신 있는 부분도 계속 연습하면 더욱 탄탄해집니다!"
+      - type: qna
+        question: "SC4. 실생활에서 이 문법을 사용해 본 경험이 있나요? 또는 언제 사용할 수 있을까요?"
+        answer: "자유 답변. 실생활 적용 계획을 세우는 것이 중요합니다. 예: SNS, 친구와 대화, 일기 쓰기 등"
+      - type: note
+        content: "🎉 축하합니다! Units 1-9 종합 복습을 완료했습니다!<br /><br />여러분은 이제 영어 현재 시제의 핵심을 모두 마스터했어요. be동사, 현재진행형, 단순 현재, have/have got... 이 모든 것을 자유자재로 사용할 수 있다는 것은 정말 대단한 일입니다!<br /><br />💪 앞으로 할 일:<br />1. 매일 영어로 3문장씩 일기를 써 보세요<br />2. 영어 대화를 들을 때 어떤 시제를 쓰는지 주의 깊게 들어보세요<br />3. 친구나 가족에게 배운 내용을 설명해 보세요 (가르치면 더 잘 기억됩니다!)<br /><br />영어는 꾸준히 연습하면 반드시 늘어요. 오늘도 최선을 다한 여러분, 정말 자랑스럽습니다! 🌟<br /><br />See you in Unit 10! 다음 단원도 파이팅! 🚀"
+
+pedagogical_design:
+  spaced_repetition:
+    - "Section 1: 복습 시작 전 사전 활성화"
+    - "Section 3: 즉각적인 회상 연습"
+    - "Section 10: 향후 복습 계획표 제공 (1일, 3일, 1주, 2주, 1개월)"
+
+  retrieval_practice:
+    - "Section 3: 힌트 없이 기억 인출하기"
+    - "Section 4: 진단 테스트로 약점 파악"
+    - "Section 9: 최종 종합 평가"
+
+  interleaving:
+    - "Section 5: 여러 Unit의 개념을 섞어서 연습"
+    - "Section 6: 레벨별 연습에서 다양한 문법 요소 혼합"
+    - "Section 8: 흔한 실수를 무작위로 섞어 제시"
+
+  diagnostic_assessment:
+    - "Section 4: 각 문제마다 해당 Unit 표시로 약점 파악"
+    - "Section 9: 최종 평가 후 점수별 맞춤 피드백"
+
+  progressive_difficulty:
+    - "Section 6: Level 1 (기초) → Level 2 (중급) → Level 3 (고급)"
+    - "전체 구조: 개념 정리 → 진단 → 연습 → 통합 → 평가"
+
+  concrete_examples:
+    - "모든 예문이 6학년 학생의 실생활과 연결 (학교, 친구, 가족, 취미, 게임, 음식)"
+    - "Section 7: 실생활 통합 적용 (자기소개, SNS, 대화 등)"
+
+  metacognition:
+    - "Section 1: 사전 자기 진단"
+    - "Section 10: 사후 자기 점검 및 학습 성찰"
+    - "각 섹션 후: 스스로 평가하고 약점 파악하기"
+
+  dual_coding:
+    - "이모지와 시각적 구조 활용 (☐, ✓, 🌟, 💡, 📅)"
+    - "표와 리스트로 개념 시각화"
+    - "색상 구분 (<span class='highlight'>)"
+
+differentiation:
+  - "진단 테스트로 개인별 약점 파악 → 맞춤 복습 가능"
+  - "레벨별 연습으로 학습자 수준에 맞는 도전 제공"
+  - "선택적 섹션: 자신 있는 부분은 건너뛰고 어려운 부분 집중 가능"
+
+estimated_time:
+  - "Section 1-2: 5분 (진단 및 개념 정리)"
+  - "Section 3-4: 8분 (회상 및 진단)"
+  - "Section 5-6: 10분 (통합 연습)"
+  - "Section 7-8: 8분 (실생활 적용 및 오류 수정)"
+  - "Section 9: 15분 (최종 평가)"
+  - "Section 10: 4분 (자기 점검)"
+  - "총 예상 시간: 약 40-50분 (깊이 있게 할 경우)"
+  - "빠른 복습: 30분 (Section 3, 4, 9만 집중)"
+
+notes: |
+  이 복습 자료는 Units 1-9의 핵심 개념을 통합적으로 복습하도록 설계되었습니다.
+  단순한 반복이 아니라 개념을 연결하고(interleaving), 실생활에 적용하며,
+  학습자가 스스로 약점을 진단하고 계획적으로 복습할 수 있도록 구성했습니다.
+
+  특히 '회상 연습'과 '간격 반복'에 중점을 두어 장기 기억에 효과적이며,
+  진단 테스트와 최종 평가를 통해 학습 성취도를 객관적으로 확인할 수 있습니다.

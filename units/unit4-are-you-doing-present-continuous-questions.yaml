@@ -1,0 +1,237 @@
+title: "Unit 4 · 현재진행형 의문문 (Are you doing...? / What are you doing?)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "지금 일어나고 있는 일을 물어볼 때 현재진행형 의문문을 사용합니다. Unit 3에서 현재진행형 평서문을 배웠다면, 이번에는 질문하는 방법을 배워봅시다!"
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "<span class='highlight'>Am/Is/Are + 주어 + 동사-ing...?</span> (Yes/No 질문)<br />Are you eating lunch? (너 지금 점심 먹고 있니?)<br />Is she playing games? (그녀는 지금 게임하고 있니?)"
+          - "<span class='highlight'>의문사 + am/is/are + 주어 + 동사-ing...?</span> (정보 질문)<br />What are you doing? (너 지금 뭐 하고 있니?)<br />Where is he going? (그는 어디 가고 있니?)"
+          - "<span class='highlight'>Who is + 동사-ing...?</span> (주어가 누구인지 물을 때)<br />Who is singing? (누가 노래하고 있니?)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 현재진행형 의문문은 '지금 이 순간' 또는 '요즘' 일어나고 있는 행동이나 상황을 물어볼 때 사용합니다. 상대방의 현재 활동이나 상태에 대해 궁금할 때 쓰는 표현입니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 상황 1: 지금 이 순간 상대방이 무엇을 하고 있는지 물을 때 (전화통화 중, 문 두드리며 등)<br />• 상황 2: 주변에서 지금 일어나고 있는 일을 확인할 때 (\"저 사람 뭐하는 거야?\")<br />• 상황 3: 요즘 진행 중인 프로젝트나 활동에 대해 물을 때 (\"요즘 무슨 책 읽고 있어?\")"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "Are you studying math now? (너 지금 수학 공부하고 있니?) - 학교 공부"
+          - "Is your brother doing homework? (네 남동생 숙제하고 있니?) - 가족"
+          - "Are they playing soccer in the playground? (그들은 운동장에서 축구하고 있니?) - 친구들"
+          - "What are you eating? (너 뭐 먹고 있니?) - 음식"
+          - "Where is Mom going? (엄마 어디 가시는 거야?) - 일상생활"
+          - "Who is using my computer? (누가 내 컴퓨터 쓰고 있어?) - 물건/소유"
+          - "Why are you crying? (너 왜 울고 있니?) - 감정"
+          - "What game is she playing? (그녀는 무슨 게임 하고 있니?) - 게임/취미"
+          - "Are you watching YouTube? (너 유튜브 보고 있니?) - 오락"
+          - "Is it raining outside? (밖에 비 오고 있니?) - 날씨"
+          - "Are you wearing my jacket? (너 내 재킷 입고 있는 거야?) - 옷/물건"
+          - "What are they talking about? (그들은 무슨 얘기하고 있니?) - 대화"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수<br />1. Be동사를 빼먹는 실수: ✗ You doing homework? → ✓ Are you doing homework?<br />2. 어순 실수: ✗ What you are doing? → ✓ What are you doing?<br />3. Do/Does를 쓰는 실수: ✗ Do you playing games? → ✓ Are you playing games?<br />4. -ing를 빼먹는 실수: ✗ Is he study? → ✓ Is he studying?"
+      - type: text
+        content: "<span class='highlight'>비슷한 문법과의 차이</span><br /><br />✦ <span class='highlight'>현재진행형 의문문 vs 단순현재 의문문</span><br />• Are you playing games? = 지금 이 순간 게임하고 있니? (현재진행형)<br />• Do you play games? = 평소에 게임하니? / 게임을 좋아하니? (단순현재)<br /><br />✦ <span class='highlight'>Be동사 의문문 (Unit 1-2) vs 현재진행형 의문문</span><br />• Are you happy? = 너 행복하니? (상태를 묻는 질문)<br />• Are you playing? = 너 지금 놀고 있니? (동작을 묻는 질문)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "아래 예문들을 관찰하고, 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "Are you listening to music?"
+          - "Is Tom sleeping?"
+          - "Are we having pizza for dinner?"
+          - "What is she drawing?"
+          - "Where are you sitting?"
+          - "Who is knocking on the door?"
+          - "Why are they laughing?"
+          - "Is your dog barking?"
+      - type: qna
+        question: "Q1. 위 문장들에서 공통적으로 어떤 순서가 나타나나요? (Yes/No 질문과 의문사 질문을 구분해서 설명해 보세요)"
+        answer: "Yes/No 질문: Be동사(Am/Is/Are) + 주어 + 동사-ing 순서<br />의문사 질문: 의문사(What/Where/Who/Why) + be동사 + 주어 + 동사-ing 순서<br /><br />평가 기준: 두 가지 유형을 구분하고, be동사가 주어 앞으로 나온다는 점을 설명하면 정답입니다."
+      - type: qna
+        question: "Q2. 이 문장들은 모두 무엇에 대해 물어보고 있나요?"
+        answer: "지금 현재 일어나고 있는 행동이나 상황에 대해 물어보고 있습니다.<br /><br />평가 기준: '지금', '현재', '진행 중인 동작/행동' 등의 개념을 포함하면 정답입니다."
+      - type: qna
+        question: "Q3. 'Who is knocking on the door?'에서 be동사 뒤에 주어가 없는 이유는 무엇일까요?"
+        answer: "Who(누가)가 이미 주어 역할을 하기 때문입니다. 누가 문을 두드리고 있는지 물어보는 질문이므로, 주어 자체를 묻고 있는 것입니다.<br /><br />평가 기준: Who가 주어라는 점을 이해하면 정답입니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 현재진행형 Yes/No 의문문을 만드는 순서를 한글로 간단히 설명해 보세요."
+        answer: "Be동사(Am/Is/Are) + 주어 + 동사-ing + (나머지 부분) + ?<br /><br />평가 기준: be동사가 맨 앞에 온다는 점과 -ing가 붙는다는 점만 설명하면 정답으로 인정합니다."
+      - type: qna
+        question: "R2. 'What are you doing?'처럼 의문사가 있는 질문의 어순을 기억나는 대로 써 보세요."
+        answer: "의문사 + be동사 + 주어 + 동사-ing<br />(예: What + are + you + doing?)<br /><br />평가 기준: 의문사가 맨 앞, 그 다음 be동사 순서만 맞으면 정답입니다."
+      - type: qna
+        question: "R3. 한국 학생들이 자주 하는 실수 2가지를 기억나는 대로 써 보세요."
+        answer: "예시 답안:<br />1. Be동사를 빼먹는 실수 (You doing homework?)<br />2. Do/Does를 잘못 쓰는 실수 (Do you playing?)<br />3. 어순을 틀리는 실수 (What you are doing?)<br />4. -ing를 안 붙이는 실수 (Is he study?)<br /><br />평가 기준: 위 4가지 중 2가지 이상 쓰면 정답입니다."
+      - type: qna
+        question: "R4. 'Are you playing games?'와 'Do you play games?'의 의미 차이를 기억나는 대로 설명해 보세요."
+        answer: "Are you playing games? = 지금 게임하고 있니? (현재 진행)<br />Do you play games? = 평소에 게임하니? (습관/일반적인 사실)<br /><br />평가 기준: '지금'과 '평소' 또는 '현재'와 '습관'의 차이를 언급하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 be동사(am/is/are)를 넣으세요."
+      - type: qna
+        question: "Q1. _____ you doing your homework now?"
+        answer: "Are<br />설명: 주어가 you이므로 are를 사용합니다."
+      - type: qna
+        question: "Q2. _____ she watching TV?"
+        answer: "Is<br />설명: 주어가 she(3인칭 단수)이므로 is를 사용합니다."
+      - type: qna
+        question: "Q3. What _____ they eating for lunch?"
+        answer: "are<br />설명: 주어가 they(복수)이므로 are를 사용합니다."
+      - type: qna
+        question: "Q4. Where _____ I sitting?"
+        answer: "am<br />설명: 주어가 I이므로 am을 사용합니다."
+      - type: qna
+        question: "Q5. _____ your brother playing basketball?"
+        answer: "Is<br />설명: 주어가 your brother(3인칭 단수)이므로 is를 사용합니다."
+      - type: qna
+        question: "Q6. Who _____ cooking in the kitchen?"
+        answer: "is<br />설명: Who 질문에서 Who를 단수로 취급하므로 is를 사용합니다."
+      - type: qna
+        question: "Q7. Why _____ you crying? (너 왜 울고 있니?)"
+        answer: "are<br />설명: 주어가 you이므로 are를 사용합니다."
+      - type: qna
+        question: "Q8. _____ it snowing outside? (밖에 눈 오고 있니?)"
+        answer: "Is<br />설명: 주어가 it(3인칭 단수)이므로 is를 사용합니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어 현재진행형 의문문으로 번역해 보세요."
+      - type: qna
+        question: "T1. 너 지금 뭐 하고 있니?"
+        answer: "What are you doing?<br />평가 기준: 의문사-be동사-주어-동사ing 순서가 맞으면 정답입니다. (What are you doing now?도 정답)"
+      - type: qna
+        question: "T2. 그녀는 음악을 듣고 있니?"
+        answer: "Is she listening to music?<br />평가 기준: Is she listening이 포함되고 어순이 맞으면 정답입니다."
+      - type: qna
+        question: "T3. 그들은 어디에서 공부하고 있니?"
+        answer: "Where are they studying?<br />평가 기준: Where are they studying이 맞으면 정답입니다. (Where are they studying now?도 정답)"
+      - type: qna
+        question: "T4. 민수는 게임하고 있니?"
+        answer: "Is Minsu playing games? / Is Minsu playing a game?<br />평가 기준: Is Minsu playing이 포함되면 정답입니다."
+      - type: qna
+        question: "T5. 누가 노래하고 있니?"
+        answer: "Who is singing?<br />평가 기준: Who is singing이 정확하면 정답입니다."
+      - type: qna
+        question: "T6. 너희들 점심 먹고 있니?"
+        answer: "Are you eating lunch? / Are you having lunch?<br />평가 기준: Are you eating/having lunch가 포함되면 정답입니다."
+      - type: qna
+        question: "T7. 엄마는 왜 요리하고 있으세요? (why 사용)"
+        answer: "Why is Mom cooking? / Why is my mom cooking?<br />평가 기준: Why is + 주어 + cooking 순서가 맞으면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 의문문으로 바꿔 보세요."
+      - type: qna
+        question: "TF1. I am reading a book. → (Yes/No 의문문으로)"
+        answer: "Are you reading a book?<br />설명: 주어 I를 you로 바꾸고, am을 are로 바꾼 후 맨 앞으로 이동합니다."
+      - type: qna
+        question: "TF2. She is playing the piano. → (Yes/No 의문문으로)"
+        answer: "Is she playing the piano?<br />설명: be동사 is를 주어 앞으로 이동시키면 됩니다."
+      - type: qna
+        question: "TF3. They are watching a movie. → (What 의문문으로 - 영화를 묻기)"
+        answer: "What are they watching?<br />설명: a movie를 What으로 바꾸고 맨 앞에 놓습니다. 어순: What + are + they + watching?"
+      - type: qna
+        question: "TF4. He is going to school. → (Where 의문문으로 - 장소를 묻기)"
+        answer: "Where is he going?<br />설명: to school을 Where로 바꾸고 맨 앞에 놓습니다. 어순: Where + is + he + going?"
+      - type: qna
+        question: "TF5. My sister is studying English. → (What 의문문으로 - 과목을 묻기)"
+        answer: "What is your sister studying? / What is my sister studying?<br />설명: English를 What으로 바꾸고 맨 앞에 놓습니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요! 현재진행형 의문문을 사용해서 질문을 만들어 봅시다."
+      - type: qna
+        question: "A1. 친구에게 전화해서 지금 뭐 하고 있는지 물어보는 질문 2개를 만들어 보세요."
+        answer: "예시 답안:<br />• What are you doing?<br />• Are you playing games?<br />• Are you studying?<br />• Where are you?<br /><br />평가 기준: 현재진행형 의문문 형태가 맞고, 전화 상황에 어울리면 모두 정답입니다. 의문사 질문과 Yes/No 질문을 섞어도 좋습니다."
+      - type: qna
+        question: "A2. 교실에서 친구가 뭔가를 하고 있습니다. 그 친구에게 물어볼 질문 3개를 써 보세요. (what, where, who 등 다양한 의문사 사용)"
+        answer: "예시 답안:<br />• What are you doing?<br />• Are you drawing?<br />• Who are you writing to?<br />• Where are you going?<br /><br />평가 기준: 현재진행형 의문문이 맞게 쓰였고, 교실 상황에 어울리면 정답입니다. 최소 2개 이상 맞으면 좋습니다."
+      - type: qna
+        question: "A3. 집에서 가족들의 활동에 대해 궁금한 것을 3가지 질문으로 만들어 보세요."
+        answer: "예시 답안:<br />• What is Mom cooking?<br />• Is Dad watching TV?<br />• What is my brother doing?<br />• Are you doing homework?<br /><br />평가 기준: 가족 구성원에 대한 현재진행형 질문이 문법에 맞게 쓰였으면 정답입니다."
+      - type: qna
+        question: "A4. 운동장에서 친구들이 뭔가를 하고 있습니다. 궁금한 것을 2가지 질문으로 만들어 보세요."
+        answer: "예시 답안:<br />• What are they playing?<br />• Are they playing soccer?<br />• Who is running?<br />• Where are they going?<br /><br />평가 기준: they 또는 특정 친구에 대한 현재진행형 질문이 맞으면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 틀린 부분을 찾아 바르게 고치세요.<br />a) What you are doing?<br />b) Do you playing games?<br />c) Is she listen to music?"
+        answer: "a) What are you doing? (be동사가 주어 앞으로)<br />b) Are you playing games? (Do 대신 Are 사용)<br />c) Is she listening to music? (listen → listening)<br /><br />평가 기준: 3개 중 2개 이상 맞으면 정답으로 인정합니다."
+      - type: qna
+        question: "C2. 다음 대화를 완성하세요.<br />A: Hi! __________ (너 지금 뭐 하고 있니?)<br />B: I'm doing my homework.<br />A: __________ (무슨 과목 공부하고 있니?)<br />B: I'm studying science."
+        answer: "A: Hi! What are you doing?<br />B: I'm doing my homework.<br />A: What are you studying? / What subject are you studying?<br />B: I'm studying science.<br /><br />평가 기준: 두 질문의 어순과 문법이 맞으면 정답입니다."
+      - type: qna
+        question: "C3. 다음 상황에 어울리는 질문을 각각 2개씩 만들어 보세요.<br />상황 1: 문을 두드리는 소리가 들립니다.<br />상황 2: 친구가 전화를 받지 않습니다."
+        answer: "상황 1 예시:<br />• Who is knocking?<br />• Is someone knocking on the door?<br /><br />상황 2 예시:<br />• What is she doing?<br />• Is she sleeping?<br />• Why isn't she answering?<br /><br />평가 기준: 상황에 어울리고 현재진행형 의문문 형태가 맞으면 정답입니다. 각 상황마다 1개씩만 맞아도 좋습니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 문제들입니다."
+      - type: qna
+        question: "SR1. 빈칸 채우기: _____ you listening to me? (너 내 말 듣고 있니?)"
+        answer: "Are"
+      - type: qna
+        question: "SR2. 번역: 그는 뭐 먹고 있니?"
+        answer: "What is he eating?"
+      - type: qna
+        question: "SR3. 빈칸: Where _____ they playing soccer?"
+        answer: "are"
+      - type: qna
+        question: "SR4. 의문문으로 바꾸기: She is reading a book. → (Yes/No 의문문)"
+        answer: "Is she reading a book?"
+      - type: qna
+        question: "SR5. 번역: 누가 울고 있니?"
+        answer: "Who is crying?"
+      - type: qna
+        question: "SR6. 틀린 부분 고치기: What she is doing?"
+        answer: "What is she doing?"
+      - type: qna
+        question: "SR7. 빈칸: _____ your mom cooking dinner?"
+        answer: "Is"
+      - type: qna
+        question: "SR8. 번역: 너희들 어디 가고 있니?"
+        answer: "Where are you going?"
+      - type: qna
+        question: "SR9. 의문문으로 바꾸기: They are watching TV. → (What 의문문)"
+        answer: "What are they watching?"
+      - type: qna
+        question: "SR10. 빈칸: Why _____ he running? (그는 왜 달리고 있니?)"
+        answer: "is"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. 'What are you doing?'을 보지 않고 정확하게 쓸 수 있나요?"
+        answer: "할 수 있다면: 완벽합니다! 가장 자주 쓰는 현재진행형 질문을 마스터했어요.<br />어렵다면: What + are + you + doing 순서를 기억하세요. 5번만 따라 써 보면 저절로 외워집니다!"
+      - type: qna
+        question: "SC2. be동사를 주어 앞에 놓아서 의문문을 만들 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 의문문의 핵심 규칙을 이해했습니다.<br />어렵다면: He is playing. → Is he playing? 이렇게 be동사만 앞으로 빼면 됩니다. 몇 개만 연습해 보세요!"
+      - type: qna
+        question: "SC3. 의문사(What, Where, Who 등)를 사용한 질문을 3개 이상 만들 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 다양한 질문을 할 수 있다는 것은 영어 실력이 많이 늘었다는 증거입니다.<br />어렵다면: 먼저 What are you doing?을 익히고, What을 Where, Who, Why로 바꿔보세요. 의문사만 바뀌고 나머지는 같아요!"
+      - type: note
+        content: "💬 여기까지 완료했다면 정말 잘하고 있어요! 현재진행형 평서문(Unit 3)과 의문문(Unit 4)을 모두 배웠으니, 이제 '지금 일어나는 일'에 대해 말하고 물어볼 수 있게 되었습니다. 친구들과 영어로 대화할 때 'What are you doing?'부터 시작해 보세요!"
+      - type: note
+        content: "🎯 내일 할 일:<br />1. '9. 내일 복습용 문제' 10개를 다시 풀어보세요.<br />2. 가족이나 친구에게 'What are you doing?' 질문을 영어로 3번 이상 해 보세요.<br />3. 오늘 배운 의문사 질문(What, Where, Who, Why)을 각각 1개씩 노트에 써 보세요."

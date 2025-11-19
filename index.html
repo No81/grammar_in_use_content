@@ -1,76 +1,303 @@
----
-layout: null
----
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8" />
-  <title>{{ site.data.unit5.title }}</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grammar in Use - 영문법 학습 자료</title>
   <style>
-    /* 기존 스타일 그대로 유지 (복잡도 줄이기 위해 핵심만 남김) */
-    body { font-family: system-ui, sans-serif; line-height: 1.7; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fffaf5; color: #333; }
-    h1 { text-align: center; color: #ff7b7b; }
-    h2 { color: #3a7bd5; border-left: 8px solid #ffd86b; padding-left: 10px; margin-top: 30px; }
-    .section { background: #fff; border: 2px solid #f5d5a3; border-radius: 15px; padding: 20px; margin-bottom: 20px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05); }
-    .meta { background: #fff3c4; padding: 10px; border-radius: 10px; font-size: 0.9em; color: #666; text-align: center; margin-bottom: 30px; }
-    .item { margin-bottom: 15px; }
-    .subheading { font-weight: bold; color: #3a7bd5; margin-bottom: 5px; }
-    .highlight { background: #fff3b0; font-weight: bold; padding: 2px 5px; border-radius: 4px; }
-    .note { background: #eee; padding: 10px; border-radius: 8px; font-size: 0.9em; color: #555; }
-    .question { font-weight: bold; }
-    
-    /* 버튼 및 정답 스타일 */
-    .answer-toggle { background: #ffd86b; border: none; padding: 5px 12px; border-radius: 15px; cursor: pointer; font-weight: bold; margin: 5px 0; }
-    .answer { display: none; background: #e7f9e7; padding: 10px; border-left: 5px solid #6fcf97; border-radius: 5px; margin-top: 5px; }
-    .answer.visible { display: block; }
-    ul { padding-left: 20px; margin: 5px 0; }
-  </style>
-  <script>
-    function toggleAnswer(btn) {
-      const ans = btn.nextElementSibling;
-      ans.classList.toggle('visible');
-      btn.textContent = ans.classList.contains('visible') ? '정답 숨기기' : '정답 보기';
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
     }
-  </script>
+
+    body {
+      font-family: 'Segoe UI', 'Malgun Gothic', sans-serif;
+      line-height: 1.6;
+      background: linear-gradient(135deg, #fffaf5 0%, #fff3e0 100%);
+      padding: 20px;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+
+    header {
+      text-align: center;
+      padding: 40px 20px;
+      background: white;
+      border-radius: 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      margin-bottom: 40px;
+    }
+
+    h1 {
+      color: #ff7b7b;
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+
+    .subtitle {
+      color: #666;
+      font-size: 1.1em;
+      margin-top: 10px;
+    }
+
+    .section {
+      background: white;
+      border-radius: 15px;
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    h2 {
+      color: #3a7bd5;
+      font-size: 1.8em;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 3px solid #ffd86b;
+    }
+
+    .unit-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 15px;
+      margin-top: 20px;
+    }
+
+    .unit-card {
+      background: linear-gradient(135deg, #fff 0%, #fffef9 100%);
+      border: 2px solid #f5d5a3;
+      border-radius: 12px;
+      padding: 20px;
+      transition: all 0.3s ease;
+      text-decoration: none;
+      display: block;
+    }
+
+    .unit-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+      border-color: #ffd86b;
+    }
+
+    .unit-number {
+      display: inline-block;
+      background: #ffd86b;
+      color: #333;
+      font-weight: bold;
+      padding: 5px 12px;
+      border-radius: 20px;
+      font-size: 0.9em;
+      margin-bottom: 10px;
+    }
+
+    .unit-title {
+      color: #3a7bd5;
+      font-size: 1.1em;
+      font-weight: bold;
+      margin-bottom: 8px;
+      line-height: 1.4;
+    }
+
+    .unit-desc {
+      color: #666;
+      font-size: 0.95em;
+      line-height: 1.5;
+    }
+
+    .review-card {
+      background: linear-gradient(135deg, #e7f9e7 0%, #f0fff0 100%);
+      border: 2px solid #6fcf97;
+      border-radius: 12px;
+      padding: 25px;
+      transition: all 0.3s ease;
+      text-decoration: none;
+      display: block;
+    }
+
+    .review-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 6px 16px rgba(111, 207, 151, 0.3);
+      border-color: #52b788;
+    }
+
+    .review-badge {
+      display: inline-block;
+      background: #6fcf97;
+      color: white;
+      font-weight: bold;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 0.9em;
+      margin-bottom: 12px;
+    }
+
+    .review-title {
+      color: #2d6a4f;
+      font-size: 1.3em;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .review-desc {
+      color: #555;
+      font-size: 1em;
+      line-height: 1.5;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: #999;
+      font-size: 0.9em;
+    }
+
+    .info-box {
+      background: #fff3c4;
+      border-left: 5px solid #ffd86b;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 30px;
+    }
+
+    .info-box h3 {
+      color: #ff7b7b;
+      margin-bottom: 10px;
+    }
+
+    .info-box p {
+      color: #666;
+      line-height: 1.8;
+    }
+
+    .badge-list {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 10px;
+    }
+
+    .badge {
+      background: #e0e0e0;
+      padding: 5px 12px;
+      border-radius: 15px;
+      font-size: 0.85em;
+      color: #555;
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 2em;
+      }
+
+      .unit-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
 </head>
 <body>
+  <div class="container">
+    <header>
+      <h1>📚 Grammar in Use</h1>
+      <p class="subtitle">초등 6학년을 위한 영문법 학습 자료</p>
+    </header>
 
-  {% assign data = site.data.unit5 %}
-
-  <h1>{{ data.title }}</h1>
-  <div class="meta">{{ data.meta }}</div>
-
-  {% for section in data.sections %}
-  <div class="section">
-    <h2>{{ section.title }}</h2>
-
-    {% for item in section.items %}
-    <div class="item">
-      
-      {% if item.type == 'text' %}
-        <p>{{ item.content }}</p>
-      
-      {% elsif item.type == 'list' %}
-        {% if item.heading %}<p class="subheading">{{ item.heading }}</p>{% endif %}
-        <ul>
-          {% for li in item.list %}
-            <li>{{ li }}</li>
-          {% endfor %}
-        </ul>
-
-      {% elsif item.type == 'note' %}
-        <div class="note">{{ item.content }}</div>
-
-      {% elsif item.type == 'qna' %}
-        <p class="question">{{ item.question }}</p>
-        <button class="answer-toggle" onclick="toggleAnswer(this)">정답 보기</button>
-        <div class="answer">{{ item.answer }}</div>
-      {% endif %}
-
+    <div class="info-box">
+      <h3>💡 사용 방법</h3>
+      <p>
+        아래 유닛을 클릭하면 각 문법 주제의 학습 자료를 볼 수 있습니다.
+        각 유닛은 약 30분 분량으로 구성되어 있으며, 핵심 개념 정리부터 실생활 적용까지 체계적으로 학습할 수 있습니다.
+      </p>
+      <div class="badge-list">
+        <span class="badge">🎯 연구 기반 학습법 적용</span>
+        <span class="badge">📝 다양한 연습 문제</span>
+        <span class="badge">🔄 간격 반복 복습</span>
+        <span class="badge">✅ 자기 점검 포함</span>
+      </div>
     </div>
-    {% endfor %}
 
+    <div class="section">
+      <h2>📖 Present Tense Units (1-9)</h2>
+      <div class="unit-grid">
+        <a href="viewer.html?file=units/unit1-am-is-are.yaml" class="unit-card">
+          <div class="unit-number">Unit 1</div>
+          <div class="unit-title">am/is/are</div>
+          <div class="unit-desc">be동사의 기본 형태와 사용법을 배웁니다.</div>
+        </a>
+
+        <a href="viewer.html?file=units/unit2-am-is-are-questions.yaml" class="unit-card">
+          <div class="unit-number">Unit 2</div>
+          <div class="unit-title">am/is/are (questions)</div>
+          <div class="unit-desc">be동사를 사용한 의문문 만드는 법을 배웁니다.</div>
+        </a>
+
+        <a href="viewer.html?file=units/unit3-i-am-doing-present-continuous.yaml" class="unit-card">
+          <div class="unit-number">Unit 3</div>
+          <div class="unit-title">I am doing (present continuous)</div>
+          <div class="unit-desc">현재진행형으로 지금 하고 있는 일을 표현합니다.</div>
+        </a>
+
+        <a href="viewer.html?file=units/unit4-are-you-doing-present-continuous-questions.yaml" class="unit-card">
+          <div class="unit-number">Unit 4</div>
+          <div class="unit-title">Are you doing? (present continuous questions)</div>
+          <div class="unit-desc">현재진행형 의문문을 만들고 대답하는 법을 배웁니다.</div>
+        </a>
+
+        <a href="viewer.html?file=units/unit5-i-do-work-like-simple-present.yaml" class="unit-card">
+          <div class="unit-number">Unit 5</div>
+          <div class="unit-title">I do/work/like (simple present)</div>
+          <div class="unit-desc">단순 현재 시제로 습관과 일반적 사실을 표현합니다.</div>
+        </a>
+
+        <a href="viewer.html?file=units/unit6-simple-present-negative.yaml" class="unit-card">
+          <div class="unit-number">Unit 6</div>
+          <div class="unit-title">I don't... (simple present negative)</div>
+          <div class="unit-desc">단순 현재 시제의 부정문을 만드는 법을 배웁니다.</div>
+        </a>
+
+        <a href="viewer.html?file=units/unit7-simple-present-questions.yaml" class="unit-card">
+          <div class="unit-number">Unit 7</div>
+          <div class="unit-title">Do you...? (simple present questions)</div>
+          <div class="unit-desc">단순 현재 시제의 의문문을 만들고 대답합니다.</div>
+        </a>
+
+        <a href="viewer.html?file=units/unit8-present-continuous-vs-simple-present.yaml" class="unit-card">
+          <div class="unit-number">Unit 8</div>
+          <div class="unit-title">I am doing and I do (comparison)</div>
+          <div class="unit-desc">현재진행형과 단순 현재의 차이를 비교하고 이해합니다.</div>
+        </a>
+
+        <a href="viewer.html?file=units/unit9-have-and-have-got.yaml" class="unit-card">
+          <div class="unit-number">Unit 9</div>
+          <div class="unit-title">I have... and I've got...</div>
+          <div class="unit-desc">소유를 표현하는 두 가지 방법을 배웁니다.</div>
+        </a>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>🔄 Reviews</h2>
+      <a href="viewer.html?file=reviews/review-units-1-9.yaml" class="review-card">
+        <div class="review-badge">종합 복습</div>
+        <div class="review-title">Units 1-9 종합 복습</div>
+        <div class="review-desc">
+          Units 1-9에서 배운 모든 내용을 종합적으로 복습합니다.
+          진단 테스트로 약점을 찾고, 통합 연습으로 실력을 다집니다. (약 35-50분)
+        </div>
+      </a>
+    </div>
+
+    <footer>
+      <p>💻 GitHub Pages로 배포됨 | 🎓 초등 6학년 대상 영문법 학습 자료</p>
+      <p style="margin-top: 10px; font-size: 0.85em;">
+        연구 기반 학습 원리 적용: Spaced Repetition · Retrieval Practice · Interleaving · Metacognition
+      </p>
+    </footer>
   </div>
-  {% endfor %}
-  </body>
+</body>
 </html>

@@ -1,0 +1,260 @@
+title: "Unit 1 · am/is/are (be동사 현재형)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 '~이다', '~에 있다'를 표현할 때 be동사를 사용합니다. 주어에 따라 am, is, are 중 하나를 선택해야 해요."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "I am ~ (나는 ~이다 / 나는 ~에 있다)"
+          - "He/She/It is ~ (그/그녀/그것은 ~이다 / ~에 있다)"
+          - "You/We/They are ~ (너는/우리는/그들은 ~이다 / ~에 있다)"
+          - "부정문: I am not / He is not (isn't) / They are not (aren't)"
+          - "의문문: Am I~? / Is he~? / Are they~?"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> be동사는 '존재', '상태', '신분'을 나타냅니다. 한국어로는 '~이다', '~에 있다', '~한 상태다'로 번역됩니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 직업이나 신분을 말할 때: I am a student. (나는 학생이다)<br />• 감정이나 상태를 표현할 때: She is happy. (그녀는 행복하다)<br />• 위치를 말할 때: They are in the classroom. (그들은 교실에 있다)<br />• 나이, 국적, 특징을 설명할 때: He is 12 years old. (그는 12살이다)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "I am hungry now. (나는 지금 배고프다) - 상태"
+          - "My teacher is very kind. (우리 선생님은 매우 친절하시다) - 특징"
+          - "You are my best friend. (너는 내 가장 친한 친구다) - 관계"
+          - "This game is really fun! (이 게임은 정말 재미있다!) - 평가"
+          - "We are in the library. (우리는 도서관에 있다) - 위치"
+          - "The cookies are delicious. (그 쿠키들은 맛있다) - 음식 평가"
+          - "My sister is 14 years old. (내 언니는 14살이다) - 나이"
+          - "I am not ready yet. (나는 아직 준비가 안 됐다) - 부정문"
+          - "Are you okay? (너 괜찮아?) - 의문문"
+          - "They are good at soccer. (그들은 축구를 잘한다) - 능력"
+          - "It is cold today. (오늘은 춥다) - 날씨"
+          - "My backpack is heavy. (내 가방은 무겁다) - 물건의 상태"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 주어와 be동사 불일치: He are (X) → He is (O)<br />2. be동사 생략: I student (X) → I am a student (O)<br />3. 중복 사용: I am like pizza (X) → I like pizza (O) - 일반동사와 be동사는 함께 쓰지 않아요!"
+      - type: text
+        content: "<span class='highlight'>비슷한 문법과의 차이점:</span><br />• be동사 vs 일반동사: be동사는 '상태'를, 일반동사는 '동작'을 나타냅니다.<br />  예) I am happy. (상태) vs I play soccer. (동작)<br />• 현재형 vs 과거형: am/is/are는 현재 상태, was/were는 과거 상태입니다.<br />  예) I am tired now. (지금) vs I was tired yesterday. (어제)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I am a middle school student."
+          - "She is my math teacher."
+          - "We are classmates."
+          - "You are very smart."
+          - "The book is on the desk."
+          - "They are in the gym."
+          - "He is 13 years old."
+          - "It is sunny today."
+      - type: qna
+        question: "Q1. 위 문장들에서 사용된 동사는 무엇인가요? 몇 가지 형태가 있나요?"
+        answer: "am, is, are 세 가지 형태가 있습니다. 이것들은 모두 be동사의 현재형입니다."
+      - type: qna
+        question: "Q2. 어떤 주어 뒤에 am이 오나요? is는? are는?"
+        answer: "am: I 뒤에만<br />is: He, She, It, 단수 명사 뒤에<br />are: You, We, They, 복수 명사 뒤에"
+      - type: qna
+        question: "Q3. be동사는 어떤 의미를 표현하나요?"
+        answer: "신분(학생, 선생님), 관계(같은 반 친구), 상태(똑똑한), 위치(책상 위에, 체육관에), 나이, 날씨 등을 표현합니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. I, He, We 뒤에는 각각 어떤 be동사가 오나요?"
+        answer: "I am, He is, We are<br />평가 기준: 세 개 중 2개 이상 맞으면 정답으로 봐주세요."
+      - type: qna
+        question: "R2. 아까 본 예문 중 하나를 기억나는 대로 영어로 써 보세요."
+        answer: "예시 답안: I am a student. / She is happy. / They are in the library. 등<br />평가 기준: be동사와 주어가 올바르게 짝지어지면 정답입니다. 철자 실수는 괜찮습니다."
+      - type: qna
+        question: "R3. 한국 학습자가 자주 하는 실수 중 하나를 말해 보세요."
+        answer: "예시 답안: be동사를 생략하는 것 / 주어와 be동사가 안 맞는 것 / be동사와 일반동사를 같이 쓰는 것<br />평가 기준: 하나만 제대로 말하면 정답입니다."
+      - type: qna
+        question: "R4. 'I student'라는 문장이 왜 틀렸는지 설명해 보세요."
+        answer: "be동사가 빠졌기 때문입니다. 올바른 문장: I am a student.<br />평가 기준: be동사가 필요하다는 점을 언급하면 정답입니다."
+      - type: qna
+        question: "R5. be동사는 주로 어떤 것을 표현할 때 쓰나요?"
+        answer: "상태, 신분, 위치, 나이, 감정, 특징 등을 표현할 때 씁니다.<br />평가 기준: 2가지 이상 맞으면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 am, is, are 중 알맞은 것을 넣으세요."
+      - type: qna
+        question: "Q1. I ___ happy today."
+        answer: "am<br />설명: I 뒤에는 항상 am이 옵니다."
+      - type: qna
+        question: "Q2. She ___ my sister."
+        answer: "is<br />설명: She는 단수 3인칭이므로 is를 씁니다."
+      - type: qna
+        question: "Q3. We ___ students."
+        answer: "are<br />설명: We는 복수이므로 are를 씁니다."
+      - type: qna
+        question: "Q4. The cat ___ under the table."
+        answer: "is<br />설명: The cat은 단수 명사이므로 is를 씁니다."
+      - type: qna
+        question: "Q5. You ___ a good friend."
+        answer: "are<br />설명: You 뒤에는 항상 are가 옵니다."
+      - type: qna
+        question: "Q6. My parents ___ at work now."
+        answer: "are<br />설명: My parents는 복수이므로 are를 씁니다."
+      - type: qna
+        question: "Q7. It ___ very hot today."
+        answer: "is<br />설명: It 뒤에는 is가 옵니다."
+      - type: qna
+        question: "Q8. I ___ not sleepy."
+        answer: "am<br />설명: 부정문에서도 I 뒤에는 am을 씁니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 6학년이다."
+        answer: "I am in 6th grade. / I am a 6th grader.<br />평가 기준: I am이 올바르게 사용되고 의미가 통하면 정답입니다."
+      - type: qna
+        question: "T2. 그녀는 내 단짝 친구이다."
+        answer: "She is my best friend.<br />평가 기준: She is가 맞고, best friend나 close friend가 있으면 정답입니다."
+      - type: qna
+        question: "T3. 우리는 지금 교실에 있다."
+        answer: "We are in the classroom now.<br />평가 기준: We are와 in the classroom이 있으면 정답입니다. now 위치는 자유롭게 봐주세요."
+      - type: qna
+        question: "T4. 이 피자는 맛있다."
+        answer: "This pizza is delicious. / This pizza is good.<br />평가 기준: This pizza is가 맞고 맛있다는 의미의 형용사가 있으면 정답입니다."
+      - type: qna
+        question: "T5. 그들은 축구 선수이다."
+        answer: "They are soccer players.<br />평가 기준: They are와 soccer player가 있으면 정답입니다. 복수형 s를 안 썼어도 괜찮습니다."
+      - type: qna
+        question: "T6. 너는 똑똑하다."
+        answer: "You are smart. / You are clever.<br />평가 기준: You are와 똑똑하다는 의미의 형용사가 있으면 정답입니다."
+      - type: qna
+        question: "T7. 나는 배고프지 않다."
+        answer: "I am not hungry. / I'm not hungry.<br />평가 기준: I am not과 hungry가 있으면 정답입니다."
+      - type: qna
+        question: "T8. 그는 키가 크다."
+        answer: "He is tall.<br />평가 기준: He is tall이 정확하면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I am tired. → 부정문으로 바꾸세요."
+        answer: "I am not tired. / I'm not tired.<br />설명: am 뒤에 not을 넣으면 됩니다."
+      - type: qna
+        question: "TF2. She is a teacher. → 의문문으로 바꾸세요."
+        answer: "Is she a teacher?<br />설명: be동사를 주어 앞으로 보내면 의문문이 됩니다."
+      - type: qna
+        question: "TF3. You are busy. → 주어를 He로 바꾸세요."
+        answer: "He is busy.<br />설명: He는 3인칭 단수이므로 are를 is로 바꿔야 합니다."
+      - type: qna
+        question: "TF4. We are in the park. → 의문문으로 바꾸세요."
+        answer: "Are we in the park?<br />설명: be동사 are를 문장 맨 앞으로 보냅니다."
+      - type: qna
+        question: "TF5. He is happy. → 주어를 They로 바꾸세요."
+        answer: "They are happy.<br />설명: They는 복수이므로 is를 are로 바꿔야 합니다."
+      - type: qna
+        question: "TF6. I am a student. → 주어를 My brother로 바꾸세요."
+        answer: "My brother is a student.<br />설명: My brother는 3인칭 단수이므로 am을 is로 바꿉니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 영어로 만들어 보세요! 창의적으로 표현해도 좋습니다."
+      - type: qna
+        question: "A1. 자신에 대해 3가지 문장을 써 보세요. (예: 나이, 특징, 위치 등)"
+        answer: "예시 답안: I am 12 years old. I am a student. I am in my room.<br />평가 기준: I am을 올바르게 사용하고 문법에 맞으면 정답입니다. 내용은 자유롭게 인정해 주세요."
+      - type: qna
+        question: "A2. 자신의 가족 중 한 명에 대해 2문장을 써 보세요."
+        answer: "예시 답안: My mother is a nurse. She is very kind.<br />평가 기준: be동사를 올바르게 사용하고 의미가 통하면 정답입니다."
+      - type: qna
+        question: "A3. 지금 보이는 물건 하나를 골라서 그것에 대해 설명하는 문장 2개를 써 보세요."
+        answer: "예시 답안: My pencil is blue. It is on the desk.<br />평가 기준: is를 올바르게 사용하고 물건을 설명하면 정답입니다."
+      - type: qna
+        question: "A4. 당신의 가장 친한 친구에 대해 2문장을 써 보세요."
+        answer: "예시 답안: My best friend is Minho. He is funny and smart.<br />평가 기준: be동사를 올바르게 사용하면 정답입니다. 형용사가 2개 이상이면 더욱 좋습니다."
+      - type: qna
+        question: "A5. 오늘의 날씨와 당신의 기분을 각각 1문장씩 써 보세요."
+        answer: "예시 답안: It is sunny today. I am happy.<br />평가 기준: It is와 I am을 올바르게 사용하면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 올바르게 고치세요: 'I am like pizza very much.'"
+        answer: "올바른 문장: I like pizza very much.<br />설명: 'like'는 일반동사이므로 be동사와 함께 쓸 수 없습니다. be동사 am을 제거해야 합니다."
+      - type: qna
+        question: "C2. 다음 3개의 문장을 하나의 문장으로 연결해 보세요: 'I am a student. I am 12 years old. I am Korean.'"
+        answer: "I am a 12-year-old Korean student. / I am a Korean student and I am 12 years old.<br />설명: 여러 정보를 and로 연결하거나 형용사로 만들어 연결할 수 있습니다."
+      - type: qna
+        question: "C3. 다음 대화의 빈칸을 채우세요:<br />A: ___ you a middle school student?<br />B: Yes, I ___.<br />A: ___ your school big?<br />B: No, it ___."
+        answer: "A: Are you a middle school student?<br />B: Yes, I am.<br />A: Is your school big?<br />B: No, it isn't. / No, it is not.<br />설명: 의문문은 be동사를 앞으로 보내고, 짧은 대답에서는 주어 + be동사만 씁니다."
+      - type: qna
+        question: "C4. 'He are very tall'이 틀린 이유를 설명하고 올바른 문장을 쓰세요."
+        answer: "올바른 문장: He is very tall.<br />설명: He는 3인칭 단수 주어이므로 복수 be동사 are가 아니라 단수 be동사 is를 써야 합니다. 주어와 be동사의 형태가 일치해야 합니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. 빈칸 채우기: I ___ a student."
+        answer: "am"
+      - type: qna
+        question: "SR2. 빈칸 채우기: She ___ my friend."
+        answer: "is"
+      - type: qna
+        question: "SR3. 빈칸 채우기: They ___ in the classroom."
+        answer: "are"
+      - type: qna
+        question: "SR4. 번역하기: 나는 행복하다."
+        answer: "I am happy."
+      - type: qna
+        question: "SR5. 번역하기: 그는 학생이다."
+        answer: "He is a student."
+      - type: qna
+        question: "SR6. 변형하기: I am tired. → 부정문으로"
+        answer: "I am not tired. / I'm not tired."
+      - type: qna
+        question: "SR7. 변형하기: You are busy. → 의문문으로"
+        answer: "Are you busy?"
+      - type: qna
+        question: "SR8. 틀린 곳 찾기: He are a teacher."
+        answer: "He is a teacher. (are → is)"
+      - type: qna
+        question: "SR9. 빈칸 채우기: My books ___ on the desk."
+        answer: "are"
+      - type: qna
+        question: "SR10. 번역하기: 우리는 친구들이다."
+        answer: "We are friends."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. I, He, You 뒤에 각각 어떤 be동사가 오는지 말할 수 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! be동사의 기본을 완벽히 이해했습니다.<br />어렵다면: 괜찮아요. 'I am, He is, You are'를 종이에 3번씩 써 보세요. 손으로 쓰면 더 잘 기억됩니다!"
+      - type: qna
+        question: "SC2. 간단한 문장을 부정문이나 의문문으로 바꿀 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 문장 변형까지 마스터했네요.<br />어렵다면: 천천히 다시 연습해 보세요. 부정문은 'be동사 + not', 의문문은 'be동사를 맨 앞으로'라는 규칙만 기억하면 됩니다."
+      - type: qna
+        question: "SC3. 오늘 배운 be동사를 사용해서 자기소개를 3문장 이상 만들 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 이제 실생활에서도 사용할 준비가 됐습니다.<br />어렵다면: 예문을 참고해서 자신의 상황에 맞게 하나씩 바꿔 보세요. 처음엔 따라 하는 것도 훌륭한 연습입니다."
+      - type: qna
+        question: "SC4. 한국 학습자가 자주 하는 실수(be동사 생략, 주어 불일치 등)를 이해하고 피할 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 실수를 알고 있으면 안 하게 됩니다.<br />어렵다면: 문장을 쓸 때마다 '주어가 뭐지? 그럼 be동사는?' 이렇게 체크하는 습관을 들여 보세요."
+      - type: qna
+        question: "SC5. 오늘 배운 내용 중 가장 재미있었던 부분이나 유용했던 부분은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 자신만의 학습 포인트를 찾는 것이 중요합니다!"
+      - type: note
+        content: "여기까지 완료했다면 정말 잘하고 있어요! be동사는 영어의 가장 기본이면서도 가장 중요한 문법입니다. 오늘 배운 am/is/are를 매일 사용하다 보면 자연스럽게 입에서 나올 거예요. 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 책을 보지 않고 풀 수 있다면 완벽하게 이해한 것입니다!"

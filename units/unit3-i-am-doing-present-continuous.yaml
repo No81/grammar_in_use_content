@@ -1,0 +1,239 @@
+title: "Unit 3 · 현재진행형 (I am doing)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "Unit 1과 Unit 2에서 am/is/are를 배웠죠? 이번에는 '지금 무엇을 하고 있는지'를 말하는 방법을 배웁니다. 바로 <span class='highlight'>현재진행형</span>입니다!"
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "I am + 동사-ing → I am playing (나는 놀고 있어)"
+          - "You/We/They are + 동사-ing → They are studying (그들은 공부하고 있어)"
+          - "He/She/It is + 동사-ing → She is reading (그녀는 읽고 있어)"
+          - "부정문: am/is/are + not + 동사-ing → I am not sleeping (나는 자고 있지 않아)"
+          - "의문문: Am/Is/Are + 주어 + 동사-ing? → Are you listening? (너 듣고 있니?)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 현재진행형은 '바로 지금 이 순간' 일어나고 있는 동작을 나타냅니다. 한국어로 '~하고 있다', '~중이다'에 해당합니다. 지금 진행되고 있는 일이기 때문에 생생하고 역동적인 느낌을 줍니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 지금 이 순간 하고 있는 동작: Mom is cooking dinner now. (엄마가 지금 저녁을 요리하고 있어)<br />• 전화나 대화 중 상대방이 무엇을 하는지 물을 때: What are you doing? (너 지금 뭐 하니?)<br />• 사진이나 그림을 보면서 설명할 때: In this picture, a boy is riding a bike. (이 사진에서 한 소년이 자전거를 타고 있어)"
+      - type: list
+        heading: "더 많은 예문 (다양한 주어와 동사)"
+        list:
+          - "I am doing my homework right now. (나는 지금 숙제를 하고 있어) - 학교/공부"
+          - "My sister is watching TV in the living room. (내 여동생이 거실에서 TV를 보고 있어) - 가족"
+          - "We are playing soccer in the playground. (우리는 운동장에서 축구를 하고 있어) - 친구/운동"
+          - "Tom is eating lunch at school. (Tom은 학교에서 점심을 먹고 있어) - 음식"
+          - "They are drawing pictures in art class. (그들은 미술 시간에 그림을 그리고 있어) - 수업"
+          - "She is listening to music with headphones. (그녀는 헤드폰으로 음악을 듣고 있어) - 취미"
+          - "The dog is running in the park. (그 개가 공원에서 뛰고 있어) - 동물/일상"
+          - "I am not sleeping. I am reading a book. (나는 자고 있지 않아. 책을 읽고 있어) - 부정문"
+          - "Are you playing games on your phone? (너 휴대폰으로 게임하고 있니?) - 의문문/게임"
+          - "My friends are waiting for me at the bus stop. (내 친구들이 버스 정류장에서 나를 기다리고 있어) - 친구"
+          - "Dad is working in his office. (아빠가 사무실에서 일하고 있어) - 가족/직업"
+          - "Look! It is raining outside. (봐! 밖에 비가 오고 있어) - 날씨/자연"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수<br />1. am/is/are를 빼먹는 경우: ✗ I playing (틀림) → ✓ I am playing (맞음)<br />2. -ing를 안 붙이는 경우: ✗ I am play (틀림) → ✓ I am playing (맞음)<br />3. 동사를 두 번 쓰는 경우: ✗ I am play playing (틀림)<br />4. 철자 규칙을 모르는 경우: run → running (n을 두 번), make → making (e를 빼고 -ing)"
+      - type: text
+        content: "<span class='highlight'>비슷한 문법과의 차이</span><br />• <span class='highlight'>현재진행형 (am/is/are + -ing)</span>: 지금 하고 있는 일 → I am studying now. (나는 지금 공부하고 있어)<br />• <span class='highlight'>현재시제 (일반동사)</span>: 습관이나 사실 → I study every day. (나는 매일 공부해)<br /><br />예시 비교:<br />She plays the piano. (그녀는 피아노를 친다 - 능력/습관)<br />She is playing the piano. (그녀는 지금 피아노를 치고 있다 - 지금 이 순간)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "아래 예문들을 잘 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I am sitting on a chair."
+          - "You are wearing a blue shirt."
+          - "He is drinking water."
+          - "She is writing a letter."
+          - "We are learning English."
+          - "They are talking loudly."
+          - "The cat is sleeping on the sofa."
+          - "My brother is not coming home today."
+      - type: qna
+        question: "Q1. 위 문장들에서 공통적으로 나타나는 단어 패턴은 무엇인가요? (힌트: 주어 다음에 오는 두 가지 요소)"
+        answer: "am/is/are + 동사-ing 형태<br />설명: 모든 문장에서 주어 뒤에 am/is/are가 오고, 그 다음에 동사에 -ing를 붙인 형태가 옵니다."
+      - type: qna
+        question: "Q2. 이 문장들이 나타내는 시간은 언제인가요? 과거? 현재? 미래?"
+        answer: "현재 (지금 이 순간)<br />설명: 현재진행형은 '지금 하고 있는' 동작을 나타냅니다. sitting(앉아 있는 중), drinking(마시고 있는 중) 등 모두 현재 진행 중인 동작입니다."
+      - type: qna
+        question: "Q3. 주어가 I, you, we, they일 때와 he, she, it일 때 사용하는 be동사가 어떻게 다른가요?"
+        answer: "I → am, You/We/They → are, He/She/It → is<br />설명: Unit 1-2에서 배운 am/is/are 규칙이 그대로 적용됩니다!"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 현재진행형의 형태는 무엇인가요? 한글로 간단하게 설명해 보세요."
+        answer: "am/is/are + 동사-ing (또는 '주어 + am/is/are + 동사-ing')<br />평가 기준: be동사와 -ing 형태 두 가지를 모두 언급하면 정답입니다."
+      - type: qna
+        question: "R2. 현재진행형은 어떤 상황을 나타내나요? (과거의 일? 지금 하고 있는 일? 습관?)"
+        answer: "지금 하고 있는 일 (현재 이 순간 진행 중인 동작)<br />평가 기준: '지금', '현재', '진행 중' 등의 표현이 들어가면 정답입니다."
+      - type: qna
+        question: "R3. 아까 본 예문 중에서 기억나는 것을 하나만 영어로 다시 써 보세요."
+        answer: "(예시) I am doing my homework. / She is watching TV. / They are playing soccer. 등<br />평가 기준: 주어 + am/is/are + 동사-ing 형태가 맞으면 됩니다. 정확한 예문이 아니어도 괜찮습니다."
+      - type: qna
+        question: "R4. 한국 학습자가 자주 하는 실수 한 가지를 말해 보세요."
+        answer: "(예시) am/is/are를 빼먹는다 / -ing를 안 붙인다 / 철자를 틀린다 등<br />평가 기준: 실수 사례 중 하나만 말할 수 있으면 됩니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 형태를 넣으세요. (am/is/are + 동사-ing 형태)"
+      - type: qna
+        question: "Q1. I _______ (watch) a movie now."
+        answer: "am watching<br />설명: 주어가 I이므로 am을 쓰고, watch에 -ing를 붙입니다."
+      - type: qna
+        question: "Q2. She _______ (read) a book in her room."
+        answer: "is reading<br />설명: 주어가 She이므로 is를 쓰고, read에 -ing를 붙입니다."
+      - type: qna
+        question: "Q3. They _______ (play) basketball right now."
+        answer: "are playing<br />설명: 주어가 They이므로 are를 쓰고, play에 -ing를 붙입니다."
+      - type: qna
+        question: "Q4. My mom _______ (not/cook) dinner. She is resting."
+        answer: "is not cooking (또는 isn't cooking)<br />설명: 부정문이므로 is not을 쓰고, cook에 -ing를 붙입니다."
+      - type: qna
+        question: "Q5. _______ you _______ (listen) to me?"
+        answer: "Are / listening<br />설명: 의문문이므로 Are를 문장 앞에 쓰고, listen에 -ing를 붙입니다."
+      - type: qna
+        question: "Q6. We _______ (run) in the park."
+        answer: "are running<br />설명: 주어가 We이므로 are를 쓰고, run은 n을 하나 더 붙여서 running이 됩니다."
+      - type: qna
+        question: "Q7. The baby _______ (sleep) in the bedroom."
+        answer: "is sleeping<br />설명: 주어가 The baby(단수)이므로 is를 쓰고, sleep에 -ing를 붙입니다."
+      - type: qna
+        question: "Q8. What _______ he _______ (do) over there?"
+        answer: "is / doing<br />설명: 의문문이므로 is를 앞에 쓰고, do에 -ing를 붙입니다. (의문사 What이 맨 앞)"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. 현재진행형을 사용하세요!"
+      - type: qna
+        question: "T1. 나는 지금 숙제를 하고 있어."
+        answer: "I am doing my homework now.<br />평가 기준: 주어, am, doing, homework가 포함되고 어순이 맞으면 정답입니다."
+      - type: qna
+        question: "T2. 그녀는 음악을 듣고 있어."
+        answer: "She is listening to music.<br />평가 기준: She is listening to music 순서가 맞으면 됩니다. (listen to ~를 잊지 마세요!)"
+      - type: qna
+        question: "T3. 우리는 영어를 공부하고 있어."
+        answer: "We are studying English.<br />평가 기준: We are studying English 형태가 맞으면 정답입니다."
+      - type: qna
+        question: "T4. 그들은 축구를 하고 있지 않아."
+        answer: "They are not playing soccer. (또는 They aren't playing soccer.)<br />평가 기준: are not (또는 aren't)을 사용하고 playing이 들어가면 정답입니다."
+      - type: qna
+        question: "T5. 너는 뭐 하고 있니?"
+        answer: "What are you doing?<br />평가 기준: 의문사 What이 맨 앞에 오고, are you doing 순서가 맞으면 정답입니다."
+      - type: qna
+        question: "T6. 내 형은 방에서 자고 있어."
+        answer: "My brother is sleeping in his room. (또는 in the room)<br />평가 기준: is sleeping이 포함되고 기본 어순이 맞으면 됩니다."
+      - type: qna
+        question: "T7. 비가 오고 있어."
+        answer: "It is raining.<br />평가 기준: It is raining 형태가 맞으면 정답입니다. (날씨 표현은 It을 주어로 씁니다!)"
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "문장을 변형해 보세요."
+      - type: qna
+        question: "TF1. 다음 문장을 부정문으로 바꾸세요.<br />I am watching TV."
+        answer: "I am not watching TV. (또는 I'm not watching TV.)<br />설명: am 뒤에 not을 넣으면 부정문이 됩니다."
+      - type: qna
+        question: "TF2. 다음 문장을 의문문으로 바꾸세요.<br />She is reading a book."
+        answer: "Is she reading a book?<br />설명: be동사(is)를 문장 맨 앞으로 보내면 의문문이 됩니다."
+      - type: qna
+        question: "TF3. 주어를 They로 바꿔 문장을 다시 쓰세요.<br />He is playing the piano."
+        answer: "They are playing the piano.<br />설명: 주어가 He(단수)에서 They(복수)로 바뀌면 is도 are로 바뀝니다."
+      - type: qna
+        question: "TF4. 다음 문장을 부정 의문문으로 바꾸세요.<br />You are listening to music."
+        answer: "Are you not listening to music? (또는 Aren't you listening to music?)<br />설명: be동사를 앞으로 보내고 not을 추가하면 부정 의문문이 됩니다."
+      - type: qna
+        question: "TF5. 주어를 My sister로 바꿔 문장을 다시 쓰세요.<br />I am eating pizza."
+        answer: "My sister is eating pizza.<br />설명: 주어가 I에서 My sister(3인칭 단수)로 바뀌면 am도 is로 바뀝니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요! 현재진행형을 사용하세요."
+      - type: qna
+        question: "A1. 지금 이 순간 당신은 무엇을 하고 있나요? 3개 문장으로 써 보세요.<br />(예: I am sitting... I am reading... I am thinking...)"
+        answer: "(예시) I am sitting at my desk. I am reading a grammar book. I am thinking about English.<br />평가 기준: 3개 문장 모두 '주어 + am/is/are + 동사-ing' 형태가 맞으면 정답입니다. 내용은 자유롭게!"
+      - type: qna
+        question: "A2. 당신의 가족이 지금 무엇을 하고 있을까요? 2-3개 문장으로 상상해서 써 보세요."
+        answer: "(예시) My mom is cooking in the kitchen. My dad is watching news on TV. My brother is playing games.<br />평가 기준: 가족 구성원을 주어로 하고, 현재진행형이 맞게 사용되었으면 정답입니다."
+      - type: qna
+        question: "A3. 친구와 전화 통화를 한다고 상상해 보세요. 'What are you doing?'이라고 친구가 물으면 뭐라고 대답하겠어요?"
+        answer: "(예시) I am doing my homework. / I am eating snacks. / I am watching YouTube.<br />평가 기준: I am + 동사-ing 형태로 자연스럽게 답변하면 됩니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장에서 틀린 부분을 찾아 고치세요.<br />① I am play soccer now.<br />② She listening to music.<br />③ They is studying English."
+        answer: "① I am playing soccer now. (play → playing)<br />② She is listening to music. (is가 빠졌음)<br />③ They are studying English. (is → are)<br />설명: ①은 -ing를 빼먹음, ②는 be동사가 없음, ③은 주어와 be동사가 안 맞음"
+      - type: qna
+        question: "C2. 다음 대화를 완성하세요.<br />A: What _______ you _______ (do)?<br />B: I _______ (watch) TV. What about you?<br />A: I _______ (not/watch) TV. I _______ (read) a book."
+        answer: "A: What are you doing?<br />B: I am watching TV. What about you?<br />A: I am not watching TV. I am reading a book.<br />설명: 의문문은 be동사를 앞으로, 부정문은 be동사 뒤에 not을 넣습니다."
+      - type: qna
+        question: "C3. 이 사진을 설명하는 3-4개 문장을 써 보세요. (상황: 공원에서 사람들이 다양한 활동을 하고 있습니다)<br />힌트: Some people... / A boy... / A girl... / Dogs..."
+        answer: "(예시) Some people are walking in the park. A boy is riding a bicycle. A girl is eating ice cream. Two dogs are running together.<br />평가 기준: 최소 3문장, 모두 현재진행형 사용, 다양한 주어와 동사가 포함되면 정답입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "📌 내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. 빈칸 채우기: She _______ (swim) in the pool."
+        answer: "is swimming"
+      - type: qna
+        question: "SR2. 빈칸 채우기: We _______ (not/talk) right now."
+        answer: "are not talking (aren't talking)"
+      - type: qna
+        question: "SR3. 번역: 나는 지금 게임을 하고 있어."
+        answer: "I am playing a game now."
+      - type: qna
+        question: "SR4. 번역: 그들은 밥을 먹고 있니?"
+        answer: "Are they eating?"
+      - type: qna
+        question: "SR5. 의문문으로 바꾸기: You are sleeping."
+        answer: "Are you sleeping?"
+      - type: qna
+        question: "SR6. 부정문으로 바꾸기: He is running."
+        answer: "He is not running. (He isn't running.)"
+      - type: qna
+        question: "SR7. 틀린 부분 고치기: I am study English."
+        answer: "I am studying English. (study → studying)"
+      - type: qna
+        question: "SR8. 현재진행형은 언제 쓰나요? 한글로 간단히 답하세요."
+        answer: "지금 하고 있는 일을 나타낼 때"
+      - type: qna
+        question: "SR9. 대화 완성: A: What _______ she _______? B: She _______ (dance)."
+        answer: "A: What is she doing? B: She is dancing."
+      - type: qna
+        question: "SR10. 자유 작문: 지금 당신 옆에 있는 사람이 무엇을 하고 있나요? (없다면 상상해서)"
+        answer: "(예시) My friend is sitting next to me. / My mom is cooking. 등 (현재진행형 사용하면 정답)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "✅ 스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. 현재진행형의 형태(am/is/are + 동사-ing)를 설명할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 형태를 정확히 이해했어요.<br />어렵다면: Section 1을 다시 한 번 읽어 보세요. 패턴을 소리 내어 말해 보는 것도 좋아요."
+      - type: qna
+        question: "SC2. am/is/are를 주어에 맞게 구분해서 쓸 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! Unit 1-2의 내용을 잘 기억하고 있네요.<br />어렵다면: I am, You are, He/She/It is, We/They are를 다섯 번씩 써 보세요."
+      - type: qna
+        question: "SC3. 한글 문장을 보고 현재진행형 영어 문장으로 바꿀 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 실전에서 사용할 준비가 되었어요.<br />어렵다면: Section 5의 번역 문제를 다시 풀어 보고, 소리 내어 읽어 보세요."
+      - type: qna
+        question: "SC4. 부정문과 의문문을 만들 수 있나요?"
+        answer: "할 수 있다면: 최고예요! 문장 변형을 자유롭게 할 수 있어요.<br />어렵다면: 부정문은 'am/is/are + not', 의문문은 'be동사를 앞으로' - 이 두 가지만 기억하세요!"
+      - type: note
+        content: "💬 여러분, 정말 수고했어요! 현재진행형은 일상에서 가장 많이 쓰는 표현 중 하나예요. '지금 뭐 해?' 'What are you doing?'이라고 친구에게 물어볼 수 있겠죠? 앞으로 영어로 말할 때 '~하고 있어'라는 표현이 필요하면 바로 이 현재진행형을 떠올리세요. 오늘 배운 패턴(am/is/are + 동사-ing)을 머릿속에 확실히 새겨 두세요!"
+      - type: note
+        content: "🎯 내일 할 일<br />1. Section 9 '내일 복습용 문제' 10개를 다시 풀어 보세요<br />2. 가족이나 친구에게 'What are you doing?' 하고 물어보고, 대답을 들어 보세요<br />3. 오늘 하루 중 세 가지 활동을 현재진행형으로 일기에 써 보세요 (예: I am eating breakfast. I am going to school...)"

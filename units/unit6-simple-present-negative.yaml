@@ -1,0 +1,237 @@
+title: "Unit 6 · 일반현재 부정문 (I don't...)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "오늘은 '~하지 않는다'라는 의미의 일반현재 부정문을 배워요. 습관, 일상, 좋아하는 것/싫어하는 것을 부정할 때 사용합니다."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "I/You/We/They + <span class='highlight'>don't</span> + 동사원형 → I don't like pizza. (나는 피자를 좋아하지 않아.)"
+          - "He/She/It + <span class='highlight'>doesn't</span> + 동사원형 → She doesn't play soccer. (그녀는 축구를 하지 않아.)"
+          - "부정문에서는 동사에 -s를 붙이지 않아요! (doesn't 뒤는 항상 동사원형)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 일반현재 부정문은 '평소에 ~하지 않는다', '~가 아니다', '~을 좋아하지 않는다'는 의미입니다. 지금 이 순간이 아니라 일반적인 사실이나 습관을 부정할 때 씁니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 싫어하는 것 말할 때: I don't like vegetables. (나는 채소를 좋아하지 않아.)<br />• 하지 않는 습관 말할 때: My brother doesn't study at night. (내 남동생은 밤에 공부하지 않아.)<br />• 능력이 없거나 사실이 아닐 때: We don't speak Japanese. (우리는 일본어를 못해.)"
+      - type: list
+        heading: "더 많은 예문 (다양한 주제)"
+        list:
+          - "📚 학교: I don't understand math. (나는 수학을 이해하지 못해.) / He doesn't go to school on Sundays. (그는 일요일에 학교에 가지 않아.)"
+          - "👫 친구: My best friend doesn't live near my house. (내 절친은 우리 집 근처에 살지 않아.) / They don't play together after school. (그들은 방과 후에 함께 놀지 않아.)"
+          - "👨‍👩‍👧‍👦 가족: My mom doesn't drink coffee. (우리 엄마는 커피를 마시지 않으셔.) / We don't watch TV during dinner. (우리는 저녁 식사 중에 TV를 보지 않아.)"
+          - "🎮 취미: I don't play video games on weekdays. (나는 평일에 비디오 게임을 하지 않아.) / She doesn't like reading books. (그녀는 책 읽는 것을 좋아하지 않아.)"
+          - "🍕 음식: He doesn't eat meat. (그는 고기를 먹지 않아.) / I don't want ice cream today. (나는 오늘 아이스크림을 원하지 않아.)"
+          - "🎲 게임/오락: My sister doesn't know how to play chess. (내 여동생은 체스 하는 법을 몰라.) / They don't enjoy board games. (그들은 보드게임을 즐기지 않아.)"
+          - "🏃 일상생활: I don't wake up early on weekends. (나는 주말에 일찍 일어나지 않아.) / My dog doesn't sleep in my room. (우리 강아지는 내 방에서 자지 않아.)"
+          - "😊 감정/생각: We don't feel tired today. (우리는 오늘 피곤하지 않아.) / He doesn't think English is difficult. (그는 영어가 어렵다고 생각하지 않아.)"
+          - "🎨 활동: I don't draw well. (나는 그림을 잘 그리지 못해.) / She doesn't sing in the choir. (그녀는 합창단에서 노래하지 않아.)"
+          - "🌐 상태: My computer doesn't work properly. (내 컴퓨터는 제대로 작동하지 않아.) / It doesn't rain much in winter here. (여기는 겨울에 비가 많이 오지 않아.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />• ❌ He don't like apples. → ✅ He doesn't like apples. (3인칭 단수는 doesn't!)<br />• ❌ I doesn't play soccer. → ✅ I don't play soccer. (I/You/We/They는 don't!)<br />• ❌ She doesn't likes music. → ✅ She doesn't like music. (doesn't 뒤는 동사원형!)<br />• ❌ I no like coffee. → ✅ I don't like coffee. (한국어처럼 '노'를 쓰면 안 돼요!)"
+      - type: text
+        content: "<span class='highlight'>비슷한 문법과의 차이:</span><br />• <strong>I'm not vs. I don't:</strong> 'I'm not'은 be동사 부정 (I'm not a student. 나는 학생이 아니야.), 'I don't'은 일반동사 부정 (I don't study. 나는 공부하지 않아.)<br />• <strong>현재진행 부정 vs. 일반현재 부정:</strong> 'I'm not eating'은 지금 먹고 있지 않다는 뜻, 'I don't eat'은 평소에 먹지 않는다는 뜻입니다."
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "아래 문장들을 보고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I don't like spicy food."
+          - "You don't need a pencil."
+          - "He doesn't play baseball."
+          - "She doesn't know my name."
+          - "We don't have homework today."
+          - "They don't speak Chinese."
+          - "My cat doesn't drink milk."
+      - type: qna
+        question: "Q1. 위 문장에서 'I, You, We, They' 뒤에 쓰인 부정 표현은 무엇인가요? 그리고 'He, She, It' 뒤에 쓰인 부정 표현은 무엇인가요?"
+        answer: "I, You, We, They 뒤에는 <span class='highlight'>don't</span>를 씁니다. He, She, It 뒤에는 <span class='highlight'>doesn't</span>를 씁니다.<br />설명: 주어가 3인칭 단수(he, she, it)일 때는 doesn't, 나머지는 don't를 사용합니다."
+      - type: qna
+        question: "Q2. 'doesn't' 뒤에 나오는 동사들(play, know, drink)을 보세요. 동사에 -s나 -es가 붙어 있나요?"
+        answer: "아니요, 붙어 있지 않습니다. 모두 동사원형입니다.<br />설명: 일반현재 긍정문에서는 3인칭 단수 주어 뒤에 동사에 -s를 붙이지만, 부정문에서는 doesn't에 이미 -s 개념이 들어가 있어서 동사는 원형을 씁니다."
+      - type: qna
+        question: "Q3. 위 문장들은 '지금 이 순간'의 행동을 말하나요, 아니면 '평소의 습관이나 사실'을 말하나요?"
+        answer: "평소의 습관이나 사실을 말합니다.<br />설명: 일반현재 시제는 반복되는 행동, 습관, 일반적인 사실을 나타냅니다."
+      - type: qna
+        question: "Q4. 부정문에서 동사의 형태를 긍정문과 비교해 보세요. 'He plays'는 'He doesn't play'가 됩니다. 무엇이 달라졌나요?"
+        answer: "긍정문에서 동사에 붙어 있던 -s가 doesn't로 옮겨갔습니다. 그래서 동사는 원형 play로 돌아갑니다.<br />설명: 3인칭 단수를 나타내는 -s는 doesn't에 이미 포함되어 있어서, 동사는 원형을 사용합니다. 이것이 'He doesn't plays'가 틀린 이유입니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 일반현재 부정문을 만들 때, 주어가 'I, You, We, They'일 때와 'He, She, It'일 때 각각 무엇을 사용하나요?"
+        answer: "I, You, We, They일 때는 don't를 사용하고, He, She, It일 때는 doesn't를 사용합니다.<br />평가 기준: don't와 doesn't를 주어에 맞게 구분할 수 있으면 정답입니다."
+      - type: qna
+        question: "R2. 아까 배운 예문 중 하나를 기억나는 대로 영어로 써 보세요. (학교, 가족, 음식 관련 예문 중 아무거나)"
+        answer: "예시: I don't like vegetables. / My mom doesn't drink coffee. / He doesn't go to school on Sundays. 등<br />평가 기준: 주어에 맞는 don't/doesn't를 쓰고, 동사원형을 사용했으면 정답입니다."
+      - type: qna
+        question: "R3. 한국 학습자가 자주 하는 실수 중 하나를 말해 보세요. (예: She doesn't likes music.는 왜 틀렸나요?)"
+        answer: "doesn't 뒤에는 동사원형을 써야 하는데 likes처럼 -s를 붙이면 틀립니다. She doesn't like music.이 맞습니다.<br />평가 기준: doesn't 뒤 동사원형 규칙을 설명할 수 있으면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 don't 또는 doesn't를 넣으세요."
+      - type: qna
+        question: "Q1. I ______ like homework."
+        answer: "don't<br />설명: 주어가 I이므로 don't를 씁니다."
+      - type: qna
+        question: "Q2. She ______ eat breakfast."
+        answer: "doesn't<br />설명: 주어가 She(3인칭 단수)이므로 doesn't를 씁니다."
+      - type: qna
+        question: "Q3. We ______ play tennis."
+        answer: "don't<br />설명: 주어가 We이므로 don't를 씁니다."
+      - type: qna
+        question: "Q4. My brother ______ watch TV in the morning."
+        answer: "doesn't<br />설명: My brother는 he로 바꿀 수 있는 3인칭 단수이므로 doesn't를 씁니다."
+      - type: qna
+        question: "Q5. You ______ need a dictionary."
+        answer: "don't<br />설명: 주어가 You이므로 don't를 씁니다."
+      - type: qna
+        question: "Q6. The cat ______ ______ (sleep) on the sofa."
+        answer: "doesn't sleep<br />설명: The cat은 it으로 바꿀 수 있는 3인칭 단수이므로 doesn't를 쓰고, 그 뒤에는 동사원형 sleep을 씁니다."
+      - type: qna
+        question: "Q7. They ______ ______ (understand) Korean."
+        answer: "don't understand<br />설명: 주어가 They이므로 don't를 쓰고, 그 뒤에는 동사원형 understand를 씁니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. (don't/doesn't + 동사원형)"
+      - type: qna
+        question: "T1. 나는 축구를 하지 않아."
+        answer: "I don't play soccer.<br />평가 기준: don't play 순서와 동사원형만 맞으면 정답입니다."
+      - type: qna
+        question: "T2. 그녀는 고양이를 좋아하지 않아."
+        answer: "She doesn't like cats.<br />평가 기준: doesn't like 사용하고 cats 복수형 쓰면 정답입니다."
+      - type: qna
+        question: "T3. 우리는 매일 과자를 먹지 않아."
+        answer: "We don't eat snacks every day.<br />평가 기준: don't eat과 every day 위치만 맞으면 정답입니다."
+      - type: qna
+        question: "T4. 내 아빠는 매운 음식을 먹지 않으셔."
+        answer: "My dad doesn't eat spicy food.<br />평가 기준: doesn't eat spicy food 어순과 형태만 맞으면 정답입니다."
+      - type: qna
+        question: "T5. 그들은 방과 후에 공부하지 않아."
+        answer: "They don't study after school.<br />평가 기준: don't study와 after school 표현만 들어가면 정답입니다."
+      - type: qna
+        question: "T6. 내 강아지는 고양이를 무서워하지 않아."
+        answer: "My dog doesn't fear cats. / My dog isn't afraid of cats.<br />평가 기준: doesn't + 동사원형 구조가 맞으면 정답입니다. (fear 사용) 또는 be동사 부정형 isn't afraid of도 가능합니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "긍정문을 부정문으로, 또는 주어를 바꿔서 문장을 변형해 보세요."
+      - type: qna
+        question: "TF1. 긍정문을 부정문으로 바꾸세요: I like chocolate."
+        answer: "I don't like chocolate.<br />설명: like 앞에 don't를 넣어 부정문을 만듭니다."
+      - type: qna
+        question: "TF2. 긍정문을 부정문으로 바꾸세요: She plays the piano."
+        answer: "She doesn't play the piano.<br />설명: plays를 doesn't play(동사원형)로 바꿉니다. doesn't 뒤에는 -s를 빼야 합니다."
+      - type: qna
+        question: "TF3. 주어를 'He'로 바꾸세요: I don't watch movies."
+        answer: "He doesn't watch movies.<br />설명: don't를 doesn't로 바꿉니다. 동사는 그대로 원형 watch입니다."
+      - type: qna
+        question: "TF4. 주어를 'We'로 바꾸세요: My sister doesn't drink soda."
+        answer: "We don't drink soda.<br />설명: doesn't를 don't로 바꿉니다. 동사는 그대로 원형 drink입니다."
+      - type: qna
+        question: "TF5. 부정문을 긍정문으로 바꾸세요: They don't speak English."
+        answer: "They speak English.<br />설명: don't를 빼면 긍정문이 됩니다."
+      - type: qna
+        question: "TF6. 부정문을 의문문으로 바꾸세요: She doesn't like math."
+        answer: "Does she like math?<br />설명: doesn't를 문장 앞으로 보내고 Does로 바꿉니다. 동사는 그대로 원형 like를 씁니다."
+      - type: qna
+        question: "TF7. 과거형을 일반현재 부정문으로 바꾸세요: I didn't eat breakfast yesterday. → (일반현재로)"
+        answer: "I don't eat breakfast.<br />설명: didn't를 don't로 바꾸고, 동사는 원형 eat을 그대로 씁니다. yesterday는 빼야 합니다(일반적인 습관을 나타내므로)."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 don't/doesn't를 사용해서 만들어 보세요!"
+      - type: qna
+        question: "A1. 당신이 좋아하지 않는 음식 2가지를 문장으로 써 보세요. (예: I don't like...)"
+        answer: "예시: I don't like onions. I don't like mushrooms.<br />평가 기준: I don't like + 음식 이름 형태로 2문장 작성하면 정답입니다. 철자는 크게 중요하지 않습니다."
+      - type: qna
+        question: "A2. 당신의 가족 중 한 명이 하지 않는 일을 3문장으로 써 보세요. (예: My mom doesn't...)"
+        answer: "예시: My brother doesn't clean his room. He doesn't do his homework early. He doesn't go to bed before 11 PM.<br />평가 기준: doesn't + 동사원형 구조로 3문장 쓰면 정답입니다. 내용의 사실 여부는 상관없어요."
+      - type: qna
+        question: "A3. 당신과 친구들이 평소에 하지 않는 활동을 2문장으로 써 보세요. (예: We don't...)"
+        answer: "예시: We don't play basketball. We don't go to the library on weekends.<br />평가 기준: We don't + 동사원형 형태로 2문장 작성하면 정답입니다."
+      - type: qna
+        question: "A4. 반려동물이나 좋아하는 동물이 하지 않는 것을 써 보세요. (예: My dog doesn't... / Cats don't...)"
+        answer: "예시: My dog doesn't like strangers. / Cats don't like water.<br />평가 기준: 단수 동물(My dog/The cat)은 doesn't, 복수(Cats/Dogs)는 don't 사용하면 정답입니다."
+      - type: qna
+        question: "A5. 당신의 꿈의 직업을 가진 사람이 하지 않는 일을 상상해서 써 보세요. (예: A famous soccer player doesn't...)"
+        answer: "예시: A famous singer doesn't go to school. / A professional gamer doesn't work in an office. / A doctor doesn't have free time on weekends.<br />평가 기준: 직업 + doesn't + 동사원형 형태로 1-2문장 작성하면 정답입니다. 창의적인 답변을 격려해 주세요!"
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 틀린 부분을 찾아 바르게 고치세요:<br />a) He don't like sports.<br />b) I doesn't know her name.<br />c) She doesn't plays video games.<br />d) They doesn't eat meat."
+        answer: "a) He doesn't like sports. (He는 3인칭 단수이므로 doesn't)<br />b) I don't know her name. (I는 don't 사용)<br />c) She doesn't play video games. (doesn't 뒤는 동사원형 play)<br />d) They don't eat meat. (They는 don't 사용)<br />설명: 주어에 따라 don't/doesn't를 구분하고, doesn't 뒤에는 항상 동사원형을 씁니다."
+      - type: qna
+        question: "C2. 다음 대화를 완성하세요:<br />A: Do you like winter?<br />B: No, I ______ ______ winter. I ______ ______ cold weather."
+        answer: "기본 답안: No, I don't like winter. I don't like cold weather.<br />다른 가능한 답안:<br />- No, I don't. It's too cold.<br />- No, I don't like winter. I prefer summer.<br />- No, I don't like it. I don't like cold weather.<br />평가 기준: 첫 번째 빈칸에 'don't like'를 정확히 사용하면 정답입니다. 두 번째 빈칸은 'don't like' 또는 'don't + 다른 동사' 형태로 자연스럽게 연결되면 인정합니다.<br />설명: 질문 'Do you like~?'에 대한 부정 대답은 'I don't like~' 형태로 씁니다. 두 번째 문장은 이유나 추가 정보를 제공합니다."
+      - type: qna
+        question: "C3. 당신의 학교생활에 대해 긍정문 2개, 부정문 2개를 써서 짧은 글을 만들어 보세요."
+        answer: "예시: I go to school at 8 AM. I study English and math. I don't like P.E. class. I don't eat school lunch on Fridays.<br />평가 기준: 긍정문 2개(일반현재 형태), 부정문 2개(don't/doesn't 사용) 총 4문장이면 정답입니다. 내용의 진실성보다 문법 정확성을 평가합니다.<br />추가로, 문장들이 서로 연결된 이야기를 만들면 더 훌륭합니다! (예: I go to school at 8 AM. I study English and math. But I don't like P.E. class because I don't run fast.)"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 잊지 않도록 도와줄 거예요."
+      - type: qna
+        question: "SR1. 빈칸 채우기: My teacher ______ give us homework on Fridays."
+        answer: "doesn't"
+      - type: qna
+        question: "SR2. 번역: 나는 아침에 커피를 마시지 않아."
+        answer: "I don't drink coffee in the morning."
+      - type: qna
+        question: "SR3. 빈칸 채우기: We ______ play outside when it rains."
+        answer: "don't"
+      - type: qna
+        question: "SR4. 틀린 문장 고치기: She don't speak Spanish."
+        answer: "She doesn't speak Spanish."
+      - type: qna
+        question: "SR5. 번역: 그는 비디오 게임을 하지 않아."
+        answer: "He doesn't play video games."
+      - type: qna
+        question: "SR6. 변형: 긍정문으로 바꾸기 - They don't live in Seoul."
+        answer: "They live in Seoul."
+      - type: qna
+        question: "SR7. 빈칸 채우기: I ______ understand this question."
+        answer: "don't"
+      - type: qna
+        question: "SR8. 번역: 우리 엄마는 매운 음식을 좋아하지 않으셔."
+        answer: "My mom doesn't like spicy food."
+      - type: qna
+        question: "SR9. 주어 바꾸기: I don't watch TV. (주어를 He로 바꾸기)"
+        answer: "He doesn't watch TV."
+      - type: qna
+        question: "SR10. 자유 작문: 당신이 주말에 하지 않는 일 1가지를 문장으로 쓰세요."
+        answer: "예시: I don't go to school on weekends. / I don't wake up early on Saturdays."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. don't와 doesn't의 차이를 친구에게 설명할 수 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! 주어에 따라 구분하는 것은 영어 문법의 기초입니다. 계속 연습하면 자동으로 나올 거예요!<br />어렵다면: 괜찮아요. 간단하게 기억하세요! 'I, You, We, They'는 don't / 'He, She, It'는 doesn't입니다. 오늘 예문들을 소리 내어 10번씩 읽어 보세요."
+      - type: qna
+        question: "SC2. doesn't 뒤에 동사원형을 쓴다는 규칙을 기억하고 실수 없이 쓸 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 이 규칙은 정말 중요한데 이미 마스터했네요. 앞으로 글을 쓸 때도 자신있게 사용하세요!<br />어렵다면: 이렇게 기억하세요! doesn't는 이미 -s를 가지고 있어서 동사는 원래 모습(원형)으로 쓴다고 생각하면 돼요. 예: doesn't play (O), doesn't plays (X)"
+      - type: qna
+        question: "SC3. 오늘 배운 문장 중 3개 이상을 기억하고 말할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 기억력이 정말 좋네요. 내일 친구나 가족에게 오늘 배운 문장을 말해 보세요!<br />어렵다면: 천천히 해도 괜찮아요. Section 1의 예문들 중 당신의 실제 상황과 비슷한 것 3개만 골라서 노트에 써 보세요. 내일 다시 읽어 보면 기억날 거예요."
+      - type: note
+        content: "💬 여기까지 완성했다면 정말 잘하고 있어요! 일반현재 부정문은 영어에서 매일 사용하는 표현이에요. 오늘 배운 don't/doesn't 규칙만 기억하면 자신의 생각과 감정을 훨씬 더 정확하게 표현할 수 있어요. 실수해도 괜찮아요. 연습할수록 자연스러워질 거예요!"
+      - type: note
+        content: "🎯 내일 할 일:<br />1. Section 9의 복습 문제 10개를 다시 풀어 보세요 (답을 보지 말고!)<br />2. 오늘 하루 동안 당신이 '하지 않은 일' 5가지를 영어로 일기에 써 보세요<br />3. 가족이나 친구 한 명을 관찰하고, 그 사람이 '하지 않는 것' 3가지를 문장으로 만들어 보세요"

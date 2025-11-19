@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grammar in Use 학습 자료 뷰어</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', 'Malgun Gothic', sans-serif;
+      line-height: 1.7;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fffaf5;
+      color: #333;
+    }
+
+    h1 {
+      text-align: center;
+      color: #ff7b7b;
+      margin-bottom: 10px;
+      font-size: 2em;
+    }
+
+    .meta {
+      background: #fff3c4;
+      padding: 12px;
+      border-radius: 10px;
+      font-size: 0.95em;
+      color: #666;
+      text-align: center;
+      margin-bottom: 30px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .section {
+      background: #fff;
+      border: 2px solid #f5d5a3;
+      border-radius: 15px;
+      padding: 25px;
+      margin-bottom: 25px;
+      box-shadow: 2px 2px 8px rgba(0,0,0,0.08);
+    }
+
+    h2 {
+      color: #3a7bd5;
+      border-left: 8px solid #ffd86b;
+      padding-left: 15px;
+      margin-top: 0;
+      margin-bottom: 20px;
+      font-size: 1.5em;
+    }
+
+    .item {
+      margin-bottom: 18px;
+    }
+
+    .subheading {
+      font-weight: bold;
+      color: #3a7bd5;
+      margin-bottom: 8px;
+      font-size: 1.05em;
+    }
+
+    .highlight {
+      background: #fff3b0;
+      font-weight: bold;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+
+    .note {
+      background: #f0f0f0;
+      padding: 15px;
+      border-radius: 8px;
+      font-size: 0.95em;
+      color: #555;
+      border-left: 4px solid #999;
+    }
+
+    .question {
+      font-weight: bold;
+      color: #222;
+      margin-bottom: 8px;
+    }
+
+    .answer-toggle {
+      background: #ffd86b;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 20px;
+      cursor: pointer;
+      font-weight: bold;
+      margin: 8px 0;
+      transition: all 0.3s;
+      font-size: 0.9em;
+    }
+
+    .answer-toggle:hover {
+      background: #ffcc47;
+      transform: translateY(-1px);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+
+    .answer {
+      display: none;
+      background: #e7f9e7;
+      padding: 15px;
+      border-left: 5px solid #6fcf97;
+      border-radius: 5px;
+      margin-top: 8px;
+      font-size: 0.95em;
+    }
+
+    .answer.visible {
+      display: block;
+      animation: fadeIn 0.3s;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-5px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    ul {
+      padding-left: 25px;
+      margin: 8px 0;
+    }
+
+    li {
+      margin-bottom: 6px;
+    }
+
+    p {
+      margin: 10px 0;
+    }
+
+    .file-selector {
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      margin-bottom: 30px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .file-selector label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: #3a7bd5;
+    }
+
+    .file-selector input {
+      width: 100%;
+      padding: 10px;
+      border: 2px solid #f5d5a3;
+      border-radius: 5px;
+      font-size: 1em;
+    }
+
+    .error {
+      background: #ffe7e7;
+      color: #d32f2f;
+      padding: 15px;
+      border-radius: 8px;
+      border-left: 5px solid #d32f2f;
+      margin: 20px 0;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 40px;
+      color: #999;
+      font-size: 1.2em;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+</head>
+<body>
+  <div class="file-selector">
+    <label for="yamlFile">YAML 파일 선택:</label>
+    <input type="file" id="yamlFile" accept=".yaml,.yml">
+  </div>
+
+  <div id="content">
+    <div class="loading">👆 위에서 YAML 파일을 선택해주세요</div>
+  </div>
+
+  <script>
+    function toggleAnswer(btn) {
+      const ans = btn.nextElementSibling;
+      ans.classList.toggle('visible');
+      btn.textContent = ans.classList.contains('visible') ? '정답 숨기기' : '정답 보기';
+    }
+
+    function renderContent(data) {
+      const container = document.getElementById('content');
+
+      let html = `
+        <h1>${data.title}</h1>
+        <div class="meta">${data.meta}</div>
+      `;
+
+      data.sections.forEach(section => {
+        html += `<div class="section"><h2>${section.title}</h2>`;
+
+        section.items.forEach(item => {
+          html += '<div class="item">';
+
+          if (item.type === 'text') {
+            html += `<p>${item.content}</p>`;
+          }
+          else if (item.type === 'list') {
+            if (item.heading) {
+              html += `<p class="subheading">${item.heading}</p>`;
+            }
+            html += '<ul>';
+            item.list.forEach(li => {
+              html += `<li>${li}</li>`;
+            });
+            html += '</ul>';
+          }
+          else if (item.type === 'note') {
+            html += `<div class="note">${item.content}</div>`;
+          }
+          else if (item.type === 'qna') {
+            html += `
+              <p class="question">${item.question}</p>
+              <button class="answer-toggle" onclick="toggleAnswer(this)">정답 보기</button>
+              <div class="answer">${item.answer}</div>
+            `;
+          }
+
+          html += '</div>';
+        });
+
+        html += '</div>';
+      });
+
+      container.innerHTML = html;
+    }
+
+    document.getElementById('yamlFile').addEventListener('change', function(e) {
+      const file = e.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function(event) {
+        try {
+          const yamlContent = event.target.result;
+          const data = jsyaml.load(yamlContent);
+          renderContent(data);
+        } catch (error) {
+          document.getElementById('content').innerHTML = `
+            <div class="error">
+              <strong>파일 로드 오류:</strong><br>
+              ${error.message}
+            </div>
+          `;
+        }
+      };
+      reader.readAsText(file);
+    });
+
+    // 또는 직접 YAML 경로를 불러오는 함수 (로컬 서버에서만 작동)
+    async function loadYamlFromPath(path) {
+      try {
+        const response = await fetch(path);
+        const yamlText = await response.text();
+        const data = jsyaml.load(yamlText);
+        renderContent(data);
+      } catch (error) {
+        document.getElementById('content').innerHTML = `
+          <div class="error">
+            <strong>파일 로드 오류:</strong><br>
+            ${error.message}<br><br>
+            로컬 파일 시스템에서는 보안상의 이유로 직접 로드할 수 없습니다.<br>
+            위의 파일 선택 버튼을 사용하거나, 로컬 서버를 실행해주세요.
+          </div>
+        `;
+      }
+    }
+
+    // URL 파라미터로 파일 지정 가능 (예: viewer.html?file=units/unit6-simple-present-negative.yaml)
+    const urlParams = new URLSearchParams(window.location.search);
+    const fileParam = urlParams.get('file');
+    if (fileParam) {
+      loadYamlFromPath(fileParam);
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,259 @@
+title: "Unit 5 · 단순 현재 시제 (Simple Present)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "단순 현재 시제는 반복되는 행동, 습관, 일반적인 사실을 말할 때 사용합니다. am/is/are(Unit 1-2)와 진행형 am/is/are + -ing(Unit 3-4)와는 다른 형태입니다."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "I/You/We/They + 동사 원형 → I work, You play, We study, They like"
+          - "He/She/It + 동사-s/es → He works, She plays, It looks, Tom studies"
+          - "부정문: do not (don't) / does not (doesn't) + 동사 원형 → I don't work, She doesn't like"
+          - "의문문: Do/Does + 주어 + 동사 원형? → Do you play? Does he work?"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 단순 현재는 '지금 이 순간'이 아니라 평소에, 자주, 항상 하는 일이나 변하지 않는 사실을 말합니다. 진행형(am working)은 '지금 하고 있는 일'이고, 단순 현재(work)는 '평소에 하는 일'입니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 습관/반복: 매일, 보통, 자주 하는 일 (I walk to school every day.)<br />• 일반 사실: 항상 참인 것 (The sun rises in the east.)<br />• 좋아하는 것/싫어하는 것: 변하지 않는 취향 (She likes pizza.)<br />• 정기적인 일정: 수업, 모임 등 (Class starts at 9 AM.)"
+      - type: list
+        heading: "더 많은 예문 (다양한 주어와 동사)"
+        list:
+          - "I go to school by bus. (나는 버스로 학교에 갑니다.) - 학교 관련"
+          - "My friend plays soccer every weekend. (내 친구는 매주 주말에 축구를 합니다.) - 친구 관련"
+          - "My mom cooks dinner at 6 PM. (우리 엄마는 저녁 6시에 저녁을 요리하십니다.) - 가족 관련"
+          - "We watch movies on Fridays. (우리는 금요일에 영화를 봅니다.) - 취미 관련"
+          - "He eats rice for breakfast. (그는 아침으로 밥을 먹습니다.) - 음식 관련"
+          - "They play games after school. (그들은 방과 후에 게임을 합니다.) - 게임/오락 관련"
+          - "She brushes her teeth twice a day. (그녀는 하루에 두 번 이를 닦습니다.) - 일상생활 관련"
+          - "I like math but I don't like history. (나는 수학을 좋아하지만 역사는 좋아하지 않습니다.) - 감정/생각 관련"
+          - "Dogs bark and cats meow. (개는 짖고 고양이는 야옹 하고 웁니다.) - 일반 사실"
+          - "Water boils at 100 degrees. (물은 100도에서 끓습니다.) - 과학 사실"
+          - "My sister studies English every evening. (내 여동생은 매일 저녁 영어를 공부합니다.) - 가족/공부"
+          - "Do you play the piano? (너는 피아노를 치니?) - 취미 질문"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 3인칭 단수(he/she/it) 뒤에 -s를 빼먹음: He work (X) → He works (O)<br />2. 부정문/의문문에서 동사에 -s를 붙임: Does he works? (X) → Does he work? (O)<br />3. 현재 진행형과 혼동: I am like pizza (X) → I like pizza (O)<br />4. 상태동사(like, know, want)에 -ing 붙임: I am wanting (X) → I want (O)"
+      - type: text
+        content: "<span class='highlight'>비슷한 문법과의 차이점:</span><br />• <span class='highlight'>단순 현재 vs. 현재 진행형:</span><br />  - I work at a library. (평소에 도서관에서 일해요 - 직업)<br />  - I am working at a library. (지금 도서관에서 일하고 있어요 - 지금 이 순간)<br />• <span class='highlight'>단순 현재 vs. be동사:</span><br />  - I am a student. (나는 학생입니다 - 신분/상태)<br />  - I study every day. (나는 매일 공부합니다 - 행동/습관)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "아래 문장들을 읽고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I drink milk every morning."
+          - "She drinks juice for breakfast."
+          - "We play basketball on Mondays."
+          - "He plays the guitar very well."
+          - "They live in Seoul."
+          - "My teacher teaches English."
+          - "Do you like chocolate?"
+          - "Does your brother watch TV?"
+      - type: qna
+        question: "Q1. 위 문장에서 I, we, they 뒤에 오는 동사와 she, he, my teacher 뒤에 오는 동사의 형태가 어떻게 다른가요?"
+        answer: "I, we, they 뒤에는 동사 원형(drink, play, live)이 오고, she, he, my teacher(3인칭 단수) 뒤에는 동사에 -s나 -es가 붙습니다(drinks, plays, teaches)."
+      - type: qna
+        question: "Q2. 이 문장들은 '지금 이 순간' 하는 행동인가요, 아니면 '평소에 자주' 하는 행동인가요?"
+        answer: "평소에 자주, 반복적으로 하는 행동입니다. 'every morning', 'on Mondays', 'very well' 같은 표현이 습관이나 일반적인 사실을 나타냅니다."
+      - type: qna
+        question: "Q3. 의문문에서 'Do you like'와 'Does your brother watch'의 차이는 무엇인가요?"
+        answer: "주어가 I/you/we/they일 때는 'Do'를 쓰고, 주어가 he/she/it(3인칭 단수)일 때는 'Does'를 씁니다. Does 뒤에는 동사 원형(watch)이 옵니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 단순 현재 시제는 어떤 상황에서 사용하나요? 세 가지만 한글로 적어 보세요."
+        answer: "1. 습관이나 반복되는 행동 2. 일반적인 사실 3. 좋아하는 것/싫어하는 것<br />평가 기준: 세 가지 중 두 가지 이상 맞으면 정답입니다."
+      - type: qna
+        question: "R2. 'He'나 'She' 뒤에 동사가 올 때 어떤 변화가 있나요?"
+        answer: "동사에 -s나 -es를 붙입니다. (예: work → works, watch → watches)<br />평가 기준: '-s나 -es를 붙인다'는 내용이 들어가면 정답입니다."
+      - type: qna
+        question: "R3. 기억나는 예문 하나를 영어로 다시 써 보세요."
+        answer: "예시: I go to school by bus. / She likes pizza. / They play games.<br />평가 기준: 문법이 맞고 의미가 통하면 정답입니다. 앞에서 본 예문이 아니어도 괜찮습니다."
+      - type: qna
+        question: "R4. 단순 현재 시제와 현재 진행형의 차이를 한글로 간단히 설명해 보세요."
+        answer: "단순 현재는 평소에 하는 일이나 습관을 말하고, 현재 진행형은 지금 이 순간 하고 있는 일을 말합니다.<br />평가 기준: '평소/습관'과 '지금/이 순간'의 차이를 언급하면 정답입니다."
+      - type: qna
+        question: "R5. 한국 학습자가 자주 하는 실수 중 하나를 말해 보세요."
+        answer: "예시: 3인칭 단수 뒤에 -s를 빼먹는다 / Does 뒤에 동사-s를 붙인다 / like 같은 동사에 -ing를 붙인다<br />평가 기준: 앞에서 배운 실수 중 하나만 말해도 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 동사 형태를 넣으세요. 괄호 안의 동사를 적절히 변형하세요."
+      - type: qna
+        question: "Q1. I __________ (eat) breakfast at 7 AM every day."
+        answer: "eat<br />설명: 주어가 'I'이므로 동사 원형을 그대로 씁니다."
+      - type: qna
+        question: "Q2. She __________ (study) math after school."
+        answer: "studies<br />설명: 주어가 'She'(3인칭 단수)이므로 study의 y를 i로 바꾸고 -es를 붙입니다."
+      - type: qna
+        question: "Q3. They __________ (play) soccer every weekend."
+        answer: "play<br />설명: 주어가 'They'이므로 동사 원형을 그대로 씁니다."
+      - type: qna
+        question: "Q4. My brother __________ (watch) TV in the evening."
+        answer: "watches<br />설명: 주어가 'My brother'(3인칭 단수)이고 watch는 -ch로 끝나므로 -es를 붙입니다."
+      - type: qna
+        question: "Q5. We __________ (not/like) spicy food."
+        answer: "don't like<br />설명: 주어가 'We'이므로 don't + 동사 원형을 씁니다."
+      - type: qna
+        question: "Q6. He __________ (not/go) to school on Sundays."
+        answer: "doesn't go<br />설명: 주어가 'He'(3인칭 단수)이므로 doesn't + 동사 원형을 씁니다."
+      - type: qna
+        question: "Q7. __________ you __________ (read) books every night?"
+        answer: "Do, read<br />설명: 주어가 'you'이므로 Do + 주어 + 동사 원형 순서입니다."
+      - type: qna
+        question: "Q8. __________ she __________ (drink) coffee?"
+        answer: "Does, drink<br />설명: 주어가 'she'(3인칭 단수)이므로 Does + 주어 + 동사 원형 순서입니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. 단순 현재 시제를 사용하세요."
+      - type: qna
+        question: "T1. 나는 매일 아침 운동을 합니다."
+        answer: "I exercise every morning. (또는 I work out every morning.)<br />평가 기준: 주어와 동사 형태가 맞고, 'every morning' 같은 시간 표현이 있으면 정답입니다."
+      - type: qna
+        question: "T2. 그녀는 피아노를 정말 잘 칩니다."
+        answer: "She plays the piano very well.<br />평가 기준: 'plays'에 -s가 붙었고 'the piano'가 들어가면 정답입니다."
+      - type: qna
+        question: "T3. 우리는 토요일마다 영화를 봅니다."
+        answer: "We watch movies on Saturdays. (또는 every Saturday)<br />평가 기준: 'watch' 동사 원형, 'on Saturdays' 표현이 있으면 정답입니다."
+      - type: qna
+        question: "T4. 그는 초콜릿을 좋아하지 않습니다."
+        answer: "He doesn't like chocolate.<br />평가 기준: 'doesn't + 동사 원형' 형태가 맞으면 정답입니다."
+      - type: qna
+        question: "T5. 너는 방과 후에 무엇을 하니?"
+        answer: "What do you do after school?<br />평가 기준: 'do you do' 어순과 'after school'이 들어가면 정답입니다."
+      - type: qna
+        question: "T6. 내 아빠는 병원에서 일하십니다."
+        answer: "My dad works at a hospital. (또는 in a hospital)<br />평가 기준: 'works'에 -s가 붙고 'at/in a hospital'이 있으면 정답입니다."
+      - type: qna
+        question: "T7. 고양이들은 물을 좋아하지 않습니다."
+        answer: "Cats don't like water.<br />평가 기준: 복수 주어 'Cats'에 'don't + 동사 원형'이 맞으면 정답입니다."
+      - type: qna
+        question: "T8. 수업은 9시에 시작합니다."
+        answer: "Class starts at 9 o'clock. (또는 at 9 AM)<br />평가 기준: 'starts'에 -s가 붙고 시간 표현이 있으면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I eat pizza every Friday. → 부정문으로 바꾸세요."
+        answer: "I don't eat pizza every Friday.<br />설명: 주어가 'I'이므로 don't + 동사 원형을 씁니다."
+      - type: qna
+        question: "TF2. She likes chocolate. → 의문문으로 바꾸세요."
+        answer: "Does she like chocolate?<br />설명: 3인칭 단수이므로 Does + 주어 + 동사 원형 순서입니다."
+      - type: qna
+        question: "TF3. They play basketball. → 주어를 'He'로 바꾸세요."
+        answer: "He plays basketball.<br />설명: 주어가 3인칭 단수 'He'로 바뀌므로 동사에 -s를 붙입니다."
+      - type: qna
+        question: "TF4. My sister doesn't watch TV. → 긍정문으로 바꾸세요."
+        answer: "My sister watches TV.<br />설명: doesn't를 빼고 동사에 -es를 붙입니다."
+      - type: qna
+        question: "TF5. Do you study English? → 주어를 'your brother'로 바꾸세요."
+        answer: "Does your brother study English?<br />설명: 주어가 3인칭 단수로 바뀌므로 Do를 Does로 바꿉니다."
+      - type: qna
+        question: "TF6. He goes to school by bus. → 의문문으로 바꾸세요."
+        answer: "Does he go to school by bus?<br />설명: Does + 주어 + 동사 원형 순서이며 goes가 go로 바뀝니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요! 단순 현재 시제를 사용해서 자유롭게 답하세요."
+      - type: qna
+        question: "A1. 당신의 하루 일과를 3문장으로 설명해 보세요. (예: I wake up at 7. I go to school...)"
+        answer: "예시 답안: I wake up at 7 AM. I go to school by bus. I study math and English. I come home at 4 PM.<br />평가 기준: 단순 현재 시제가 맞게 사용되고, 일상 활동이 3문장 이상 나오면 정답입니다. 문장 구조와 동사 형태만 확인하세요."
+      - type: qna
+        question: "A2. 당신의 가족 중 한 명이 평소에 무엇을 하는지 3문장으로 써 보세요. (예: My mom...)"
+        answer: "예시 답안: My mom works at a hospital. She cooks dinner every day. She likes gardening.<br />평가 기준: 3인칭 단수 주어에 동사 -s가 제대로 붙었고, 3문장 이상이면 정답입니다."
+      - type: qna
+        question: "A3. 당신이 좋아하는 것과 싫어하는 것을 각각 2가지씩 써 보세요. (I like... I don't like...)"
+        answer: "예시 답안: I like playing soccer and reading books. I don't like getting up early and doing homework.<br />평가 기준: like/don't like 형태가 맞고, 각각 2개씩 나열되면 정답입니다. 동명사(playing, reading)나 명사 모두 가능합니다."
+      - type: qna
+        question: "A4. 당신의 베스트 프렌드는 평소에 무엇을 하나요? 4문장으로 설명해 보세요."
+        answer: "예시 답안: My best friend lives near my house. He plays computer games every day. He likes soccer. He doesn't like studying math.<br />평가 기준: 3인칭 단수 동사 형태가 맞고, 친구의 일상이나 취향을 4문장 이상 표현하면 정답입니다."
+      - type: qna
+        question: "A5. 당신이 주말에 보통 하는 일을 질문과 대답 형식으로 써 보세요. (Q: What do you do on weekends? A: I...)"
+        answer: "예시 답안: Q: What do you do on weekends? A: I play basketball with my friends. I watch movies at home. I sometimes go to the park.<br />평가 기준: 의문문과 답변 문장의 형태가 맞고, 주말 활동이 구체적으로 나오면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 배운 내용을 종합해서 풀어 보세요."
+      - type: qna
+        question: "C1. 다음 문장에서 틀린 부분을 찾아 바르게 고치세요:<br />① He don't like coffee.<br />② She play tennis every Sunday.<br />③ Do she study English?<br />④ I am want a new phone."
+        answer: "① He doesn't like coffee. (3인칭 단수이므로 doesn't)<br />② She plays tennis every Sunday. (3인칭 단수이므로 plays)<br />③ Does she study English? (3인칭 단수이므로 Does)<br />④ I want a new phone. (want는 상태동사로 진행형 불가)<br />설명: 3인칭 단수와 상태동사의 특성을 정확히 이해했는지 확인하는 문제입니다."
+      - type: qna
+        question: "C2. 다음 두 문장의 차이를 한글로 설명하세요:<br />① I work in a library.<br />② I am working in a library."
+        answer: "① 나는 도서관에서 일합니다. (직업이거나 평소에 하는 일 - 단순 현재)<br />② 나는 지금 도서관에서 일하고 있습니다. (지금 이 순간 하는 일 - 현재 진행형)<br />설명: 단순 현재는 습관이나 일반적인 사실을, 현재 진행형은 지금 진행 중인 동작을 나타냅니다."
+      - type: qna
+        question: "C3. 당신의 학교 생활에 대해 긍정문 2개, 부정문 2개, 의문문 2개를 만들어 보세요."
+        answer: "예시 답안:<br />긍정: I go to school by bus. My teacher teaches English.<br />부정: I don't like math. My friend doesn't eat lunch at school.<br />의문: Do you play sports? Does your school have a library?<br />평가 기준: 각 형태(긍정/부정/의문)가 문법적으로 맞고 학교 생활과 관련된 내용이면 정답입니다."
+      - type: qna
+        question: "C4. 다음 상황에서 단순 현재와 현재 진행형 중 어느 것을 써야 할까요?<br />① 나는 매일 아침 우유를 마신다.<br />② 지금 형이 숙제를 하고 있다.<br />③ 태양은 동쪽에서 뜬다.<br />④ 엄마가 지금 전화 통화 중이시다."
+        answer: "① 단순 현재 (I drink milk every morning.) - 습관<br />② 현재 진행형 (My brother is doing homework now.) - 지금<br />③ 단순 현재 (The sun rises in the east.) - 일반 사실<br />④ 현재 진행형 (My mom is talking on the phone now.) - 지금<br />설명: 습관/반복/사실은 단순 현재, 지금 이 순간은 현재 진행형을 씁니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 데 도움이 됩니다."
+      - type: qna
+        question: "SR1. She __________ (go) to school by subway."
+        answer: "goes"
+      - type: qna
+        question: "SR2. They __________ (not/eat) meat."
+        answer: "don't eat"
+      - type: qna
+        question: "SR3. __________ he __________ (play) the guitar?"
+        answer: "Does, play"
+      - type: qna
+        question: "SR4. 한글 번역: 나는 매일 책을 읽습니다."
+        answer: "I read books every day."
+      - type: qna
+        question: "SR5. 부정문으로 바꾸기: My sister likes ice cream."
+        answer: "My sister doesn't like ice cream."
+      - type: qna
+        question: "SR6. 틀린 부분 고치기: He don't watch TV."
+        answer: "He doesn't watch TV."
+      - type: qna
+        question: "SR7. 당신이 평소에 하는 일 2문장 쓰기."
+        answer: "예: I study English every day. I play games after school."
+      - type: qna
+        question: "SR8. 의문문으로 바꾸기: You like pizza."
+        answer: "Do you like pizza?"
+      - type: qna
+        question: "SR9. 주어를 She로 바꾸기: I watch movies on weekends."
+        answer: "She watches movies on weekends."
+      - type: qna
+        question: "SR10. 단순 현재는 언제 쓰나요? (한글로 간단히)"
+        answer: "습관, 반복되는 일, 일반적인 사실을 말할 때"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 오늘 배운 내용을 얼마나 이해했나요?"
+      - type: qna
+        question: "SC1. 3인칭 단수(he/she/it) 뒤에 동사에 -s를 붙이는 것을 기억하고 있나요?"
+        answer: "할 수 있다면: 잘했어요! 가장 중요한 규칙을 기억하고 있네요.<br />어렵다면: 'He works', 'She likes' 같은 예문을 소리 내어 5번씩 읽어 보세요. 입으로 익히면 자연스러워집니다!"
+      - type: qna
+        question: "SC2. 단순 현재와 현재 진행형의 차이를 설명할 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 시제의 뉘앙스를 정확히 이해하고 있습니다.<br />어렵다면: 'I work(평소에 일해요)' vs. 'I am working(지금 일하고 있어요)'를 계속 비교해 보세요. 시간이 지나면 자연스럽게 구분됩니다."
+      - type: qna
+        question: "SC3. 부정문과 의문문을 만들 때 doesn't/does 뒤에 동사 원형을 쓰는 것을 기억하나요?"
+        answer: "할 수 있다면: 완벽해요! 이제 실수 없이 문장을 만들 수 있겠네요.<br />어렵다면: 'Does he work?' 'He doesn't work.'를 여러 번 써 보세요. does/doesn't가 이미 3인칭 의미를 담고 있어서 동사는 원형입니다!"
+      - type: qna
+        question: "SC4. 자신의 일상을 영어로 3문장 이상 말할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 실생활에서 바로 사용할 수 있는 수준입니다.<br />어렵다면: 매일 아침 일어나서 'I wake up at...' 'I go to...' 'I like...' 이렇게 3문장씩 혼잣말로 연습해 보세요."
+      - type: qna
+        question: "SC5. 오늘 문제를 풀면서 가장 어려웠던 부분은 무엇인가요?"
+        answer: "어려웠던 부분을 다시 한 번 복습하세요. 완벽하게 이해하지 못해도 괜찮습니다. 반복하면서 점점 익숙해질 거예요!"
+      - type: note
+        content: "💬 여기까지 완료했다면 정말 잘하고 있어요! 단순 현재 시제는 영어의 가장 기본이 되는 시제입니다. 이제 습관, 반복, 일반 사실을 표현할 수 있게 되었어요. be동사(am/is/are), 현재 진행형(am/is/are + -ing), 단순 현재(do/does)를 구분해서 쓸 수 있다면 영어 기초가 아주 탄탄해진 것입니다!"
+      - type: note
+        content: "🎯 내일 할 일:<br />1. '9. 내일 복습용 문제'를 다시 풀어 보세요.<br />2. 일어나서부터 자기 전까지 자신이 하는 일을 영어로 혼잣말해 보세요. (I wake up. I brush my teeth. I go to school...)<br />3. 가족이나 친구 한 명을 정해서 그 사람이 평소에 하는 일을 3인칭 단수로 써 보세요. (My mom works... She likes...)"
