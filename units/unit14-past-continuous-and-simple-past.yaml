@@ -1,0 +1,881 @@
+unit: 14
+title: "I was doing (past continuous) and I did (simple past)"
+level: "Elementary"
+target_student:
+  grade: "6th grade elementary"
+  native_language: "Korean"
+  english_level: "Can read sentences but lacks precise grammatical knowledge"
+session_duration: "30 minutes"
+material_volume: "2 A4 pages equivalent"
+
+sections:
+  - id: 1
+    title: "핵심 개념 정리"
+    content: |
+      # 과거진행형 vs 단순과거 - 언제 어떤 것을 쓸까?
+
+      영어에서 과거를 표현하는 두 가지 방법을 배웠어요.
+      이제 둘의 차이점을 정확히 이해해봅시다!
+
+      ## 두 시제 비교
+
+      | 과거진행형 (Past Continuous) | 단순과거 (Simple Past) |
+      |------------------------------|------------------------|
+      | was/were + 동사-ing | 동사 과거형 |
+      | ~하고 있었다 | ~했다 |
+      | 진행 중인 동작 | 완료된 동작 |
+
+      ## 핵심 차이점
+
+      ### 1. 과거진행형: 배경 상황 (길게 진행 중)
+      ### 2. 단순과거: 짧은 동작/사건 (순간적으로 일어남)
+
+      **예시:**
+      - I **was watching** TV when mom **came** home.
+        (엄마가 들어왔을 때 나는 TV를 보고 있었다.)
+
+      - was watching = 이미 진행 중이던 동작 (배경)
+      - came = 갑자기 일어난 동작 (사건)
+
+      ## when을 사용한 문장 패턴
+
+      **패턴: 과거진행형 + when + 단순과거**
+
+      - I was sleeping when the phone rang.
+        (전화가 울렸을 때 나는 자고 있었다.)
+
+      - She was cooking when I arrived.
+        (내가 도착했을 때 그녀는 요리하고 있었다.)
+
+      - We were studying when the lights went out.
+        (불이 나갔을 때 우리는 공부하고 있었다.)
+
+      - They were playing when it started to rain.
+        (비가 오기 시작했을 때 그들은 놀고 있었다.)
+
+      ## while을 사용한 문장
+
+      **패턴: while + 과거진행형**
+
+      - While I was sleeping, the phone rang.
+        (내가 자고 있는 동안 전화가 울렸다.)
+
+      - While she was cooking, I set the table.
+        (그녀가 요리하는 동안 나는 상을 차렸다.)
+
+      - While we were studying, dad came home.
+        (우리가 공부하는 동안 아빠가 집에 오셨다.)
+
+      ## 다양한 예문으로 이해하기
+
+      ### 1. 일상생활
+
+      - I **was eating** breakfast when my friend **called**.
+        (친구가 전화했을 때 나는 아침을 먹고 있었다.)
+
+      - She **was brushing** her teeth when the doorbell **rang**.
+        (초인종이 울렸을 때 그녀는 이를 닦고 있었다.)
+
+      - We **were walking** to school when we **saw** a rainbow.
+        (우리가 학교에 걸어가고 있을 때 무지개를 봤다.)
+
+      ### 2. 학교생활
+
+      - The teacher **was explaining** when a student **asked** a question.
+        (학생이 질문했을 때 선생님이 설명하고 있었다.)
+
+      - We **were taking** a test when the fire alarm **went** off.
+        (화재 경보가 울렸을 때 우리는 시험을 보고 있었다.)
+
+      - I **was writing** when my pencil **broke**.
+        (연필이 부러졌을 때 나는 글을 쓰고 있었다.)
+
+      ### 3. 날씨/자연
+
+      - We **were playing** outside when it **started** to rain.
+        (비가 오기 시작했을 때 우리는 밖에서 놀고 있었다.)
+
+      - I **was sleeping** when the thunder **woke** me up.
+        (천둥이 나를 깨웠을 때 나는 자고 있었다.)
+
+      ### 4. 집에서
+
+      - Mom **was cooking** dinner when dad **came** home.
+        (아빠가 집에 왔을 때 엄마는 저녁을 요리하고 있었다.)
+
+      - I **was doing** homework when my sister **turned** on the TV.
+        (언니가 TV를 켰을 때 나는 숙제를 하고 있었다.)
+
+      ## 두 동작이 동시에 진행될 때
+
+      **패턴: while + 과거진행형, 과거진행형**
+
+      - While I **was studying**, my brother **was playing** games.
+        (내가 공부하고 있는 동안 동생은 게임을 하고 있었다.)
+
+      - While mom **was cooking**, dad **was watching** TV.
+        (엄마가 요리하고 있는 동안 아빠는 TV를 보고 있었다.)
+
+      ## 연속된 동작 (순서대로 일어남)
+
+      **패턴: 단순과거 + and + 단순과거**
+
+      - I **woke up** and **ate** breakfast.
+        (나는 일어나서 아침을 먹었다.)
+
+      - She **opened** the door and **went** outside.
+        (그녀는 문을 열고 밖으로 나갔다.)
+
+      ## 시각적으로 이해하기
+
+      ```
+      시간 흐름 →
+
+      과거진행형: ─────────────
+                     ↑
+      단순과거:       ● (여기서 사건 발생)
+
+      예: I was watching TV when mom came home.
+          ────────────────
+                          ↑
+                          came
+      ```
+
+      ## 한국 학습자가 자주 하는 실수
+
+      1. **두 시제 모두 단순과거 사용**
+         - ❌ I watched TV when mom came home.
+         - ✅ I was watching TV when mom came home.
+
+      2. **두 시제 모두 과거진행형 사용**
+         - ❌ I was watching TV when mom was coming home.
+         - ✅ I was watching TV when mom came home.
+
+      3. **when과 while 혼동**
+         - when + 단순과거 (짧은 동작)
+         - while + 과거진행형 (긴 동작)
+
+  - id: 2
+    title: "Noticing 활동"
+    content: |
+      # 문장 관찰하기 - 패턴을 발견해봐요!
+
+      아래 문장들을 읽고 두 시제가 어떻게 사용되는지 관찰해보세요.
+
+      ## 예문들
+
+      1. I **was eating** lunch when my friend **called**.
+      2. She **was sleeping** when the alarm **rang**.
+      3. We **were studying** when the lights **went** out.
+      4. They **were playing** soccer when it **started** to rain.
+      5. He **was cooking** when his phone **fell** on the floor.
+
+      ---
+
+      ## 발견 질문
+
+      1. **패턴 찾기:** 각 문장에서 어떤 동사가 과거진행형이고 어떤 동사가 단순과거인가요?
+
+         문장 1: 과거진행형 = _______, 단순과거 = _______
+         문장 2: 과거진행형 = _______, 단순과거 = _______
+         문장 3: 과거진행형 = _______, 단순과거 = _______
+
+      2. **의미 생각하기:** 과거진행형 동작과 단순과거 동작 중 어느 것이 먼저 시작되었나요?
+         답: _________________
+
+      3. **상황 상상하기:** 문장 1에서 전화가 왔을 때 나는 이미 점심을 먹기 시작했나요?
+         답: _________________
+
+      4. **접속사 관찰:** 두 동작을 연결하는 단어는 무엇인가요?
+         답: _________________
+
+      ---
+
+      ## 패턴 정리
+
+      **when 앞:** 과거진행형 (이미 진행 중)
+      **when 뒤:** 단순과거 (갑자기 일어남)
+
+      💡 **핵심:** 진행 중인 동작을 끊거나 방해하는 사건이 일어날 때 이 패턴을 사용해요!
+
+  - id: 3
+    title: "회상 연습"
+    content: |
+      # 배운 내용 떠올리기
+
+      책을 보지 않고 먼저 답을 생각해보세요!
+
+      ## 질문 1
+      과거진행형과 단순과거의 차이는 무엇인가요?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:**
+      - 과거진행형: 진행 중인 동작 (배경)
+      - 단순과거: 짧은/완료된 동작 (사건)
+
+      ---
+
+      ## 질문 2
+      "I was sleeping when the phone rang."에서 어떤 일이 먼저 일어났나요?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** sleeping이 먼저 (이미 자고 있었고, 전화가 울림)
+
+      ---
+
+      ## 질문 3
+      when 뒤에는 주로 어떤 시제가 오나요?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** 단순과거 (짧은 동작)
+
+      ---
+
+      ## 질문 4
+      while 뒤에는 주로 어떤 시제가 오나요?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** 과거진행형 (긴 동작)
+
+      ---
+
+      ## 질문 5
+      "엄마가 들어왔을 때 나는 TV를 보고 있었다"를 영어로?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** I was watching TV when mom came home.
+
+      ---
+
+      ## 질문 6
+      연속된 동작(순서대로 일어남)은 어떤 시제를 사용하나요?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** 단순과거 + and + 단순과거
+      예: I woke up and ate breakfast.
+
+  - id: 4
+    title: "기초 연습 - 빈칸 채우기"
+    content: |
+      # 빈칸 채우기로 익히기
+
+      ## Part A: 알맞은 형태를 고르세요
+
+      1. I _______ (was watching / watched) TV when mom _______ (was coming / came) home.
+
+      2. She _______ (was sleeping / slept) when the phone _______ (was ringing / rang).
+
+      3. We _______ (were playing / played) soccer when it _______ (was starting / started) to rain.
+
+      4. He _______ (was eating / ate) lunch when his friend _______ (was arriving / arrived).
+
+      5. They _______ (were studying / studied) when the lights _______ (were going / went) out.
+
+      ---
+
+      ## Part B: 괄호 안의 동사를 알맞은 형태로 바꾸세요
+
+      1. I _______ (watch) TV when the doorbell _______ (ring).
+
+      2. She _______ (cook) dinner when I _______ (come) home.
+
+      3. We _______ (walk) to school when we _______ (see) a dog.
+
+      4. He _______ (sleep) when his alarm _______ (go) off.
+
+      5. They _______ (do) homework when dad _______ (arrive).
+
+      ---
+
+      ## Part C: when 또는 while을 넣으세요
+
+      1. I was eating _______ my friend called.
+
+      2. _______ I was sleeping, the phone rang.
+
+      3. She was studying _______ her brother turned on the TV.
+
+      4. _______ we were playing, it started to rain.
+
+      5. The teacher came in _______ we were talking.
+
+      ---
+
+      ## Part D: 문장 완성하기
+
+      when을 사용하여 두 문장을 연결하세요.
+
+      1. I was eating breakfast. + My friend called.
+         → _________________________________
+
+      2. She was sleeping. + The alarm rang.
+         → _________________________________
+
+      3. We were playing outside. + It started to rain.
+         → _________________________________
+
+      ---
+
+      ## 정답 확인
+
+      **Part A:**
+      1. was watching, came
+      2. was sleeping, rang
+      3. were playing, started
+      4. was eating, arrived
+      5. were studying, went
+
+      **Part B:**
+      1. was watching, rang
+      2. was cooking, came
+      3. were walking, saw
+      4. was sleeping, went
+      5. were doing, arrived
+
+      **Part C:**
+      1. when
+      2. While
+      3. when
+      4. While
+      5. when
+
+      **Part D:**
+      1. I was eating breakfast when my friend called.
+      2. She was sleeping when the alarm rang.
+      3. We were playing outside when it started to rain.
+
+  - id: 5
+    title: "문장 만들기 - 번역"
+    content: |
+      # 한국어를 영어로 바꿔보기
+
+      ## 기본 레벨
+
+      1. 친구가 전화했을 때 나는 TV를 보고 있었다.
+         답: _________________________________
+
+      2. 전화가 울렸을 때 그녀는 자고 있었다.
+         답: _________________________________
+
+      3. 비가 오기 시작했을 때 우리는 놀고 있었다.
+         답: _________________________________
+
+      4. 내가 들어갔을 때 그는 먹고 있었다.
+         답: _________________________________
+
+      5. 불이 나갔을 때 그들은 공부하고 있었다.
+         답: _________________________________
+
+      ## 중급 레벨
+
+      6. 내가 일어났을 때 엄마는 아침을 만들고 있었다.
+         답: _________________________________
+
+      7. 선생님이 들어왔을 때 학생들은 떠들고 있었다.
+         답: _________________________________
+
+      8. 내가 집에 왔을 때 동생은 게임을 하고 있었다.
+         답: _________________________________
+
+      ## 도전 레벨
+
+      9. 내가 공부하고 있는 동안 남동생은 TV를 보고 있었다.
+         답: _________________________________
+
+      10. 아빠가 집에 왔을 때 엄마는 요리하고 있었고, 나는 숙제를 하고 있었다.
+          답: _________________________________
+
+      ---
+
+      ## 예시 답안
+
+      **기본 레벨:**
+      1. I was watching TV when my friend called.
+      2. She was sleeping when the phone rang.
+      3. We were playing when it started to rain.
+      4. He was eating when I came in.
+      5. They were studying when the lights went out.
+
+      **중급 레벨:**
+      6. Mom was making breakfast when I woke up.
+      7. The students were talking when the teacher came in.
+      8. My brother was playing games when I came home.
+
+      **도전 레벨:**
+      9. While I was studying, my brother was watching TV.
+      10. When dad came home, mom was cooking and I was doing homework.
+
+  - id: 6
+    title: "변형 연습"
+    content: |
+      # 문장 변형하기
+
+      ## Exercise 1: 두 문장을 when으로 연결하기
+
+      1. I was watching TV. + My friend came.
+         → _________________________________
+
+      2. She was sleeping. + The alarm rang.
+         → _________________________________
+
+      3. We were eating lunch. + He arrived.
+         → _________________________________
+
+      4. They were playing soccer. + It started to rain.
+         → _________________________________
+
+      5. He was studying. + His phone rang.
+         → _________________________________
+
+      ---
+
+      ## Exercise 2: while로 바꾸기
+
+      when 문장을 while 문장으로 바꾸세요.
+
+      1. I was cooking when mom called.
+         → While I _______ _______, mom _______.
+
+      2. She was sleeping when the bell rang.
+         → While she _______ _______, the bell _______.
+
+      3. We were playing when it started to rain.
+         → While we _______ _______, it _______ to rain.
+
+      ---
+
+      ## Exercise 3: 틀린 부분 고치기
+
+      1. I watched TV when mom came home.
+         → _________________________________
+
+      2. She was sleeping when the phone was ringing.
+         → _________________________________
+
+      3. We were playing when it was starting to rain.
+         → _________________________________
+
+      4. I was eat lunch when he arrived.
+         → _________________________________
+
+      ---
+
+      ## Exercise 4: 상황에 맞는 시제 선택
+
+      다음 상황에서 알맞은 시제를 고르세요.
+
+      1. 먼저 일어나서 시작된 동작 → (과거진행형 / 단순과거)
+      2. 갑자기 일어난 사건 → (과거진행형 / 단순과거)
+      3. when 앞에 오는 동작 → (과거진행형 / 단순과거)
+      4. when 뒤에 오는 동작 → (과거진행형 / 단순과거)
+
+      ---
+
+      ## 정답
+
+      **Exercise 1:**
+      1. I was watching TV when my friend came.
+      2. She was sleeping when the alarm rang.
+      3. We were eating lunch when he arrived.
+      4. They were playing soccer when it started to rain.
+      5. He was studying when his phone rang.
+
+      **Exercise 2:**
+      1. was cooking, called
+      2. was sleeping, rang
+      3. were playing, started
+
+      **Exercise 3:**
+      1. I was watching TV when mom came home.
+      2. She was sleeping when the phone rang.
+      3. We were playing when it started to rain.
+      4. I was eating lunch when he arrived.
+
+      **Exercise 4:**
+      1. 과거진행형
+      2. 단순과거
+      3. 과거진행형
+      4. 단순과거
+
+  - id: 7
+    title: "실생활 적용"
+    content: |
+      # 실생활에서 사용해보기
+
+      ## 상황 1: 어제 있었던 일
+
+      어제 있었던 일을 떠올리며 문장을 완성하세요.
+
+      예시: I was eating dinner when dad came home.
+
+      1. I was _______ when _______
+      2. I was _______ when _______
+      3. I was _______ when _______
+
+      ---
+
+      ## 상황 2: 가족 이야기
+
+      가족에게 일어난 일을 써보세요.
+
+      예시: Mom was cooking when the phone rang.
+
+      1. _________________________________
+      2. _________________________________
+      3. _________________________________
+
+      ---
+
+      ## 상황 3: 학교에서
+
+      학교에서 있었던 일을 써보세요.
+
+      예시: We were taking a test when the bell rang.
+
+      1. _________________________________
+      2. _________________________________
+
+      ---
+
+      ## 상황 4: 그림 설명하기
+
+      다음 상황을 상상하고 문장을 만들어보세요.
+
+      **상황 A:** 소녀가 책을 읽고 있다. 갑자기 친구가 온다.
+      → _________________________________
+
+      **상황 B:** 소년이 축구를 하고 있다. 비가 오기 시작한다.
+      → _________________________________
+
+      **상황 C:** 가족이 저녁을 먹고 있다. 초인종이 울린다.
+      → _________________________________
+
+      ---
+
+      ## 상황 5: 대화 연습
+
+      A: What were you doing when I called you yesterday?
+      B: I _______ _______. Why?
+      A: I wanted to invite you to my house.
+      B: Oh, I'm sorry! What _______ you _______ at that time?
+      A: I _______ _______ a movie. It was really fun!
+
+      ---
+
+      ## 상황 6: 알리바이 게임
+
+      탐정 게임을 해보세요! "어젯밤 9시에 뭐 하고 있었어?"
+
+      - I was _________________________________
+      - My brother was _________________________________
+      - My parents were _________________________________
+
+  - id: 8
+    title: "종합 문제"
+    content: |
+      # 종합 실력 테스트
+
+      ## Part A: 알맞은 형태 고르기 (각 2점, 총 10점)
+
+      1. I _______ TV when mom _______ home.
+         a) watched / came
+         b) was watching / came
+         c) was watching / was coming
+
+      2. She _______ when the alarm _______.
+         a) slept / rang
+         b) was sleeping / was ringing
+         c) was sleeping / rang
+
+      3. We _______ soccer when it _______ to rain.
+         a) were playing / started
+         b) played / started
+         c) were playing / was starting
+
+      4. _______ I was studying, my brother was playing games.
+         a) When
+         b) While
+         c) Before
+
+      5. They _______ and _______ to bed. (연속 동작)
+         a) were eating / going
+         b) ate / went
+         c) were eating / went
+
+      ---
+
+      ## Part B: 빈칸 채우기 (각 3점, 총 15점)
+
+      1. I _______ _______ (eat) lunch when my friend _______ (call).
+
+      2. She _______ _______ (sleep) when the phone _______ (ring).
+
+      3. We _______ _______ (play) when it _______ (start) to rain.
+
+      4. While he _______ _______ (study), his sister _______ _______ (watch) TV.
+
+      5. The teacher _______ (come) in when we _______ _______ (talk).
+
+      ---
+
+      ## Part C: 틀린 부분 고치기 (각 3점, 총 15점)
+
+      1. I watched TV when mom came home.
+         → _________________________________
+
+      2. She was sleeping when the phone was ringing.
+         → _________________________________
+
+      3. We were playing when it was starting to rain.
+         → _________________________________
+
+      4. While I was study, he was playing.
+         → _________________________________
+
+      5. I was eating and went to school.
+         → _________________________________
+
+      ---
+
+      ## Part D: 영작하기 (각 5점, 총 20점)
+
+      1. 친구가 왔을 때 나는 숙제를 하고 있었다.
+         _________________________________
+
+      2. 내가 공부하고 있는 동안 동생은 게임을 하고 있었다.
+         _________________________________
+
+      3. 비가 오기 시작했을 때 우리는 밖에서 놀고 있었다.
+         _________________________________
+
+      4. 나는 일어나서 아침을 먹었다. (연속 동작)
+         _________________________________
+
+      ---
+
+      ## Part E: 이야기 완성하기 (총 10점)
+
+      괄호 안의 동사를 알맞은 형태로 바꾸세요.
+
+      Yesterday was a crazy day! I _______ (sleep) when suddenly my alarm _______ (go) off.
+      While I _______ (eat) breakfast, the phone _______ (ring).
+      It was my friend. She _______ (ask) me to come to her house.
+      I _______ (get) ready and _______ (go) out.
+      While I _______ (walk) to her house, I _______ (see) our teacher!
+
+      ---
+
+      ## 정답
+
+      **Part A:** 1)b 2)c 3)a 4)b 5)b
+
+      **Part B:**
+      1. was eating, called
+      2. was sleeping, rang
+      3. were playing, started
+      4. was studying, was watching
+      5. came, were talking
+
+      **Part C:**
+      1. I was watching TV when mom came home.
+      2. She was sleeping when the phone rang.
+      3. We were playing when it started to rain.
+      4. While I was studying, he was playing.
+      5. I ate and went to school.
+
+      **Part D:**
+      1. I was doing homework when my friend came.
+      2. While I was studying, my brother was playing games.
+      3. We were playing outside when it started to rain.
+      4. I woke up and ate breakfast.
+
+      **Part E:**
+      was sleeping, went, was eating, rang, asked, got, went, was walking, saw
+
+      ---
+
+      ## 점수 해석 (총 70점 만점)
+
+      - **63-70점:** 완벽해요! 두 시제의 차이를 완전히 이해했어요!
+      - **56-62점:** 잘했어요! 조금만 더 연습하면 완벽!
+      - **49-55점:** 괜찮아요! when/while 사용법을 다시 확인!
+      - **48점 이하:** 다시 도전! Section 1부터 복습!
+
+  - id: 9
+    title: "내일 복습용 문제"
+    content: |
+      # 내일 복습하기
+
+      ## Quick Review (5분)
+
+      ### 1. 알맞은 형태 고르기
+
+      1. I (was watching / watched) TV when mom (was coming / came) home.
+      2. She (was sleeping / slept) when the phone (was ringing / rang).
+      3. We (were playing / played) when it (was starting / started) to rain.
+
+      ---
+
+      ### 2. 두 문장을 when으로 연결하기
+
+      1. I was eating lunch. + He called.
+         → _________________________________
+
+      2. She was sleeping. + The alarm rang.
+         → _________________________________
+
+      ---
+
+      ### 3. 틀린 곳 고치기
+
+      1. I watched TV when mom came home.
+      2. She was sleeping when the phone was ringing.
+
+      ---
+
+      ### 4. 영작하기
+
+      1. 친구가 왔을 때 나는 공부하고 있었다.
+         _________________________________
+
+      2. 내가 자고 있는 동안 전화가 울렸다.
+         _________________________________
+
+      ---
+
+      ## 정답
+
+      **1번:** was watching / came, was sleeping / rang, were playing / started
+
+      **2번:**
+      I was eating lunch when he called.
+      She was sleeping when the alarm rang.
+
+      **3번:**
+      I was watching TV when mom came home.
+      She was sleeping when the phone rang.
+
+      **4번:**
+      I was studying when my friend came.
+      While I was sleeping, the phone rang.
+
+      ---
+
+      ## 핵심 규칙
+
+      ✅ when 앞: 과거진행형 (진행 중인 동작)
+      ✅ when 뒤: 단순과거 (짧은 동작/사건)
+      ✅ while + 과거진행형
+
+  - id: 10
+    title: "자기 점검 & 격려"
+    content: |
+      # 오늘 공부 마무리
+
+      ## 자기 점검 체크리스트
+
+      ☐ 과거진행형과 단순과거의 차이를 알아요
+      ☐ when을 사용한 문장을 만들 수 있어요
+      ☐ while을 사용한 문장을 만들 수 있어요
+      ☐ 어떤 동작이 배경(진행 중)이고 어떤 것이 사건(순간)인지 구분해요
+      ☐ 연속 동작은 단순과거로 연결하는 것을 알아요
+
+      ---
+
+      ## 실력 레벨 확인
+
+      - **5개:** 완벽해요! 두 시제 완전 마스터!
+      - **3-4개:** 잘했어요! 연습만 더 하면 완벽!
+      - **1-2개:** 괜찮아요! 복습 필요!
+
+      ---
+
+      ## 격려 메시지
+
+      축하합니다!
+
+      오늘 여러분은 과거진행형과 단순과거를 함께 사용하는 방법을 배웠어요!
+
+      이제 여러분은:
+      - "~했을 때 ~하고 있었다"를 자연스럽게 표현할 수 있어요
+      - 이야기를 더 생생하게 전달할 수 있어요
+      - 두 동작의 시간 관계를 정확히 표현할 수 있어요
+
+      **기억하세요:**
+      - 배경 (길게 진행 중) = 과거진행형
+      - 사건 (짧게 일어남) = 단순과거
+
+      ---
+
+      ## 다음 단계
+
+      **내일:** Section 9 복습 문제 풀기
+      **이번 주:** 일상에서 일어난 일을 이 패턴으로 말해보기
+      **다음 단원:** Unit 15에서 "I used to..."를 배워요!
+
+      **You're doing great! 파이팅!**
+
+design_elements:
+  - element: "Spaced Repetition"
+    implementation: "내일 복습용 문제로 24시간 후 복습"
+
+  - element: "Retrieval Practice"
+    implementation: "회상 연습에서 차이점 떠올리기"
+
+  - element: "Interleaving"
+    implementation: "과거진행형과 단순과거를 섞어서 연습"
+
+  - element: "Concrete Examples"
+    implementation: "일상생활의 구체적인 상황 예시"
+
+  - element: "Visual Aid"
+    implementation: "시간선 다이어그램으로 시각적 이해 도움"
+
+learning_objectives:
+  - "과거진행형과 단순과거의 차이를 이해한다"
+  - "when을 사용하여 두 동작의 관계를 표현할 수 있다"
+  - "while을 사용하여 동시에 진행되는 동작을 표현할 수 있다"
+  - "배경 동작(진행 중)과 사건(순간)을 구분할 수 있다"
+  - "연속 동작은 단순과거로 연결하는 것을 안다"

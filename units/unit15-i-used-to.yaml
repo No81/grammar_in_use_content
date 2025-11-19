@@ -1,0 +1,912 @@
+unit: 15
+title: "I used to... (과거의 습관/상태)"
+level: "Elementary"
+target_student:
+  grade: "6th grade elementary"
+  native_language: "Korean"
+  english_level: "Can read sentences but lacks precise grammatical knowledge"
+session_duration: "30 minutes"
+material_volume: "2 A4 pages equivalent"
+
+sections:
+  - id: 1
+    title: "핵심 개념 정리"
+    content: |
+      # I used to... - 과거의 습관이나 상태
+
+      "예전에는 ~했다 (지금은 안 한다)"를 표현할 때 사용해요!
+
+      ## 형태: used to + 동사원형
+
+      **긍정문:** 주어 + used to + 동사원형
+      **부정문:** 주어 + didn't use to + 동사원형
+      **의문문:** Did + 주어 + use to + 동사원형?
+
+      ## 의미: 과거의 습관/상태 (지금은 아님)
+
+      - I used to play soccer. (예전에 축구를 했다. → 지금은 안 한다)
+      - She used to have long hair. (예전에 긴 머리였다. → 지금은 아니다)
+
+      ## 다양한 예문으로 이해하기
+
+      ### 1. 과거의 습관 (지금은 안 함)
+
+      - I used to watch cartoons every day.
+        (나는 예전에 매일 만화를 봤다. → 지금은 안 본다)
+
+      - She used to drink milk every morning.
+        (그녀는 예전에 매일 아침 우유를 마셨다. → 지금은 안 마신다)
+
+      - We used to walk to school.
+        (우리는 예전에 학교에 걸어갔다. → 지금은 버스를 탄다)
+
+      - He used to play games all day.
+        (그는 예전에 하루 종일 게임을 했다. → 지금은 안 한다)
+
+      ### 2. 과거의 상태 (지금은 다름)
+
+      - I used to be short.
+        (나는 예전에 키가 작았다. → 지금은 크다)
+
+      - She used to have curly hair.
+        (그녀는 예전에 곱슬머리였다. → 지금은 생머리다)
+
+      - We used to live in Busan.
+        (우리는 예전에 부산에 살았다. → 지금은 서울에 산다)
+
+      - This building used to be a school.
+        (이 건물은 예전에 학교였다. → 지금은 아니다)
+
+      ### 3. 어린 시절
+
+      - I used to believe in Santa Claus.
+        (나는 예전에 산타를 믿었다. → 지금은 안 믿는다)
+
+      - She used to cry a lot when she was a baby.
+        (그녀는 아기였을 때 많이 울었다. → 지금은 안 운다)
+
+      - We used to play outside every day.
+        (우리는 예전에 매일 밖에서 놀았다. → 지금은 안 논다)
+
+      ### 4. 과거 vs 현재 비교
+
+      - I used to hate vegetables, but now I like them.
+        (나는 예전에 채소를 싫어했지만, 지금은 좋아한다.)
+
+      - She used to be shy, but now she's very confident.
+        (그녀는 예전에 수줍었지만, 지금은 자신감이 넘친다.)
+
+      - We used to live in a small house, but now we live in an apartment.
+        (우리는 예전에 작은 집에 살았지만, 지금은 아파트에 산다.)
+
+      ### 5. 부정문 (예전에도 안 했다)
+
+      - I didn't use to like English.
+        (나는 예전에 영어를 좋아하지 않았다.)
+
+      - She didn't use to eat breakfast.
+        (그녀는 예전에 아침을 먹지 않았다.)
+
+      - We didn't use to have a car.
+        (우리는 예전에 차가 없었다.)
+
+      ### 6. 의문문 (예전에 ~했니?)
+
+      - Did you use to play soccer?
+        (너 예전에 축구 했었어?)
+
+      - Did she use to live here?
+        (그녀 예전에 여기 살았어?)
+
+      - Did they use to be friends?
+        (그들 예전에 친구였어?)
+
+      ## 짧은 대답
+
+      - Did you use to play soccer? - Yes, I did. / No, I didn't.
+      - Did she use to live here? - Yes, she did. / No, she didn't.
+
+      ## used to vs 단순과거
+
+      | used to | 단순과거 |
+      |---------|----------|
+      | 과거의 반복적 습관/상태 | 단순히 과거에 일어난 일 |
+      | 지금은 아님을 강조 | 지금과 비교 없음 |
+
+      - I used to play soccer. (예전에 축구를 했다 → 지금은 안 함)
+      - I played soccer yesterday. (어제 축구를 했다 → 단순한 과거 사실)
+
+      ## 자주 함께 쓰이는 표현
+
+      - when I was young (어렸을 때)
+      - when I was a child (어린이였을 때)
+      - in the past (과거에)
+      - before (전에)
+      - ..., but now... (하지만 지금은)
+
+      ## 한국 학습자가 자주 하는 실수
+
+      1. **used to 뒤에 과거형 사용**
+         - ❌ I used to played soccer.
+         - ✅ I used to play soccer.
+
+      2. **부정문에서 used 사용**
+         - ❌ I didn't used to like...
+         - ✅ I didn't use to like...
+
+      3. **의문문에서 used 사용**
+         - ❌ Did you used to play...?
+         - ✅ Did you use to play...?
+
+      4. **be used to와 혼동**
+         - used to + 동사원형 = 예전에 ~했다
+         - be used to + 동사-ing = ~에 익숙하다 (다른 표현!)
+
+  - id: 2
+    title: "Noticing 활동"
+    content: |
+      # 문장 관찰하기 - 패턴을 발견해봐요!
+
+      아래 문장들을 읽고 used to가 어떻게 사용되는지 관찰해보세요.
+
+      ## 예문들
+
+      1. I used to live in Busan.
+      2. She used to have long hair.
+      3. We used to walk to school.
+      4. He used to play soccer every day.
+      5. They used to be good friends.
+
+      ---
+
+      ## 현재와 비교하기
+
+      1. I used to live in Busan. → Now I live in Seoul.
+      2. She used to have long hair. → Now she has short hair.
+      3. We used to walk to school. → Now we take the bus.
+      4. He used to play soccer. → Now he plays basketball.
+      5. They used to be friends. → Now they don't talk.
+
+      ---
+
+      ## 발견 질문
+
+      1. **형태 관찰:** used to 뒤에 오는 동사의 형태는?
+         답: _________________
+
+      2. **의미 파악:** used to는 어떤 의미인가요?
+         답: _________________
+
+      3. **시간 관계:** used to가 나타내는 것은 과거인가요, 현재인가요?
+         답: _________________
+
+      4. **현재 상황:** used to 문장이 암시하는 현재 상황은?
+         답: _________________
+
+      ---
+
+      ## 패턴 정리
+
+      **used to + 동사원형** = 예전에는 ~했다 (지금은 안 한다/다르다)
+
+      💡 **핵심:** used to는 "과거에는 그랬지만 지금은 아니다"를 나타내요!
+
+  - id: 3
+    title: "회상 연습"
+    content: |
+      # 배운 내용 떠올리기
+
+      책을 보지 않고 먼저 답을 생각해보세요!
+
+      ## 질문 1
+      used to의 형태는?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** used to + 동사원형
+
+      ---
+
+      ## 질문 2
+      used to의 의미는?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** 예전에는 ~했다 (지금은 안 한다/다르다)
+
+      ---
+
+      ## 질문 3
+      "I used to play soccer."가 암시하는 현재 상황은?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** 지금은 축구를 안 한다.
+
+      ---
+
+      ## 질문 4
+      used to의 부정문은?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** didn't use to + 동사원형
+      (주의: used가 아니라 use!)
+
+      ---
+
+      ## 질문 5
+      used to의 의문문은?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** Did + 주어 + use to + 동사원형?
+      (주의: used가 아니라 use!)
+
+      ---
+
+      ## 질문 6
+      "나는 예전에 채소를 싫어했다"를 영어로?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** I used to hate vegetables.
+
+  - id: 4
+    title: "기초 연습 - 빈칸 채우기"
+    content: |
+      # 빈칸 채우기로 익히기
+
+      ## Part A: used to + 동사원형
+
+      1. I used to _______ (play) soccer.
+      2. She used to _______ (have) long hair.
+      3. We used to _______ (live) in Busan.
+      4. He used to _______ (watch) cartoons.
+      5. They used to _______ (be) good friends.
+      6. I used to _______ (eat) cereal for breakfast.
+      7. She used to _______ (walk) to school.
+      8. We used to _______ (play) outside every day.
+
+      ---
+
+      ## Part B: 부정문 만들기
+
+      1. I used to like math.
+         → I _______ _______ to like math.
+
+      2. She used to eat breakfast.
+         → She _______ _______ to eat breakfast.
+
+      3. We used to have a dog.
+         → We _______ _______ to have a dog.
+
+      4. He used to play games.
+         → He _______ _______ to play games.
+
+      5. They used to live here.
+         → They _______ _______ to live here.
+
+      ---
+
+      ## Part C: 의문문 만들기
+
+      1. You used to play soccer.
+         → _______ you _______ to play soccer?
+
+      2. She used to live here.
+         → _______ she _______ to live here?
+
+      3. They used to be friends.
+         → _______ they _______ to be friends?
+
+      4. He used to watch cartoons.
+         → _______ he _______ to watch cartoons?
+
+      ---
+
+      ## Part D: 짧은 대답
+
+      1. Did you use to play soccer? (Yes)
+         → Yes, _______ _______.
+
+      2. Did she use to live here? (No)
+         → No, _______ _______.
+
+      3. Did they use to be friends? (Yes)
+         → Yes, _______ _______.
+
+      ---
+
+      ## 정답 확인
+
+      **Part A:**
+      1. play
+      2. have
+      3. live
+      4. watch
+      5. be
+      6. eat
+      7. walk
+      8. play
+
+      **Part B:**
+      1. didn't use
+      2. didn't use
+      3. didn't use
+      4. didn't use
+      5. didn't use
+
+      **Part C:**
+      1. Did, use
+      2. Did, use
+      3. Did, use
+      4. Did, use
+
+      **Part D:**
+      1. I did
+      2. she didn't
+      3. they did
+
+  - id: 5
+    title: "문장 만들기 - 번역"
+    content: |
+      # 한국어를 영어로 바꿔보기
+
+      ## 기본 레벨
+
+      1. 나는 예전에 축구를 했다.
+         답: _________________________________
+
+      2. 그녀는 예전에 긴 머리였다.
+         답: _________________________________
+
+      3. 우리는 예전에 부산에 살았다.
+         답: _________________________________
+
+      4. 그는 예전에 매일 만화를 봤다.
+         답: _________________________________
+
+      5. 그들은 예전에 좋은 친구였다.
+         답: _________________________________
+
+      ## 중급 레벨
+
+      6. 나는 예전에 채소를 싫어했지만 지금은 좋아한다.
+         답: _________________________________
+
+      7. 그녀는 예전에 수줍었지만 지금은 자신감이 있다.
+         답: _________________________________
+
+      8. 나는 예전에 영어를 좋아하지 않았다.
+         답: _________________________________
+
+      9. 너 예전에 여기 살았어?
+         답: _________________________________
+
+      10. 이 건물은 예전에 학교였다.
+          답: _________________________________
+
+      ## 도전 레벨
+
+      11. 나는 어렸을 때 산타를 믿었다.
+          답: _________________________________
+
+      12. 우리는 예전에 차가 없었지만 지금은 있다.
+          답: _________________________________
+
+      ---
+
+      ## 예시 답안
+
+      **기본 레벨:**
+      1. I used to play soccer.
+      2. She used to have long hair.
+      3. We used to live in Busan.
+      4. He used to watch cartoons every day.
+      5. They used to be good friends.
+
+      **중급 레벨:**
+      6. I used to hate vegetables, but now I like them.
+      7. She used to be shy, but now she is confident.
+      8. I didn't use to like English.
+      9. Did you use to live here?
+      10. This building used to be a school.
+
+      **도전 레벨:**
+      11. I used to believe in Santa Claus when I was young.
+      12. We didn't use to have a car, but now we have one.
+
+  - id: 6
+    title: "변형 연습"
+    content: |
+      # 문장 변형하기
+
+      ## Exercise 1: 긍정문 → 부정문
+
+      1. I used to play soccer.
+         → _________________________________
+
+      2. She used to eat breakfast.
+         → _________________________________
+
+      3. They used to live here.
+         → _________________________________
+
+      ---
+
+      ## Exercise 2: 긍정문 → 의문문
+
+      1. You used to play games.
+         → _________________________________
+
+      2. She used to have a dog.
+         → _________________________________
+
+      3. They used to be friends.
+         → _________________________________
+
+      ---
+
+      ## Exercise 3: 현재 상황 추가하기
+
+      used to 문장에 "but now..."를 추가하세요.
+
+      1. I used to live in Busan.
+         → I used to live in Busan, but now _________________.
+
+      2. She used to have short hair.
+         → She used to have short hair, but now _________________.
+
+      3. He used to be shy.
+         → He used to be shy, but now _________________.
+
+      4. We used to walk to school.
+         → We used to walk to school, but now _________________.
+
+      ---
+
+      ## Exercise 4: 틀린 부분 고치기
+
+      1. I used to played soccer.
+         → _________________________________
+
+      2. She didn't used to like English.
+         → _________________________________
+
+      3. Did you used to live here?
+         → _________________________________
+
+      4. I use to watch cartoons.
+         → _________________________________
+
+      ---
+
+      ## Exercise 5: 단순과거 → used to
+
+      반복적인 과거 습관을 used to로 바꾸세요.
+
+      1. I watched cartoons every day when I was young.
+         → _________________________________
+
+      2. She walked to school when she was in elementary school.
+         → _________________________________
+
+      ---
+
+      ## 정답
+
+      **Exercise 1:**
+      1. I didn't use to play soccer.
+      2. She didn't use to eat breakfast.
+      3. They didn't use to live here.
+
+      **Exercise 2:**
+      1. Did you use to play games?
+      2. Did she use to have a dog?
+      3. Did they use to be friends?
+
+      **Exercise 3:** (예시)
+      1. I live in Seoul
+      2. she has long hair
+      3. he is confident
+      4. we take the bus
+
+      **Exercise 4:**
+      1. I used to play soccer.
+      2. She didn't use to like English.
+      3. Did you use to live here?
+      4. I used to watch cartoons.
+
+      **Exercise 5:**
+      1. I used to watch cartoons when I was young.
+      2. She used to walk to school when she was in elementary school.
+
+  - id: 7
+    title: "실생활 적용"
+    content: |
+      # 실생활에서 사용해보기
+
+      ## 상황 1: 어렸을 때 나
+
+      어렸을 때 했었지만 지금은 안 하는 것들을 써보세요.
+
+      예시: I used to watch cartoons every day.
+
+      1. I used to _________________________________
+      2. I used to _________________________________
+      3. I used to _________________________________
+      4. I used to _________________________________
+      5. I used to _________________________________
+
+      ---
+
+      ## 상황 2: 과거 vs 현재 비교
+
+      예전과 지금이 다른 것을 써보세요.
+
+      예시: I used to be short, but now I'm tall.
+
+      1. I used to _________________, but now I _________________.
+      2. I used to _________________, but now I _________________.
+      3. I used to _________________, but now I _________________.
+
+      ---
+
+      ## 상황 3: 가족에 대해
+
+      가족의 과거 습관이나 상태를 써보세요.
+
+      예시: My mom used to work at a bank.
+
+      1. My mom/dad used to _________________________________
+      2. My sister/brother used to _________________________________
+
+      ---
+
+      ## 상황 4: 친구에게 질문하기
+
+      친구에게 과거 습관에 대해 물어볼 질문을 만들어보세요.
+
+      예시: Did you use to play video games when you were young?
+
+      1. Did you use to _________________________________?
+      2. Did you use to _________________________________?
+      3. Did you use to _________________________________?
+
+      ---
+
+      ## 상황 5: 대화 연습
+
+      A: You're so tall now! You _______ _______ be short.
+      B: Yeah, I know! I _______ _______ be the shortest in my class.
+      A: _______ you _______ to like vegetables?
+      B: No, I _______ _______ to hate them. But now I love them!
+      A: Me too! I _______ _______ eat only junk food, but now I eat healthy.
+
+      **예시 답안:**
+      used to, used to, Did/use, didn't use, used to
+
+      ---
+
+      ## 상황 6: 나의 변화 이야기
+
+      짧은 글을 써보세요.
+
+      When I was younger, I used to _________________.
+      I also used to _________________.
+      But now I _________________.
+      I think I've changed a lot!
+
+  - id: 8
+    title: "종합 문제"
+    content: |
+      # 종합 실력 테스트
+
+      ## Part A: 빈칸에 알맞은 형태 (각 2점, 총 10점)
+
+      1. I used to _______ (play) soccer.
+      2. She used to _______ (have) a dog.
+      3. We used to _______ (live) in Busan.
+      4. He used to _______ (watch) cartoons.
+      5. They used to _______ (be) good friends.
+
+      ---
+
+      ## Part B: 부정문과 의문문 (각 3점, 총 15점)
+
+      1. I used to like math. (부정문)
+         → _________________________________
+
+      2. She used to live here. (의문문)
+         → _________________________________
+
+      3. They used to be friends. (부정문)
+         → _________________________________
+
+      4. You used to play games. (의문문)
+         → _________________________________
+
+      5. He used to eat cereal. (부정문)
+         → _________________________________
+
+      ---
+
+      ## Part C: 틀린 부분 고치기 (각 3점, 총 15점)
+
+      1. I used to played soccer.
+         → _________________________________
+
+      2. She didn't used to like English.
+         → _________________________________
+
+      3. Did you used to live here?
+         → _________________________________
+
+      4. I use to watch cartoons.
+         → _________________________________
+
+      5. We used to was friends.
+         → _________________________________
+
+      ---
+
+      ## Part D: 영작하기 (각 5점, 총 20점)
+
+      1. 나는 예전에 매일 만화를 봤다.
+         _________________________________
+
+      2. 그녀는 예전에 긴 머리였지만 지금은 짧다.
+         _________________________________
+
+      3. 너는 예전에 여기 살았니?
+         _________________________________
+
+      4. 나는 예전에 채소를 좋아하지 않았다.
+         _________________________________
+
+      ---
+
+      ## Part E: 대화 완성하기 (총 10점)
+
+      A: Where _______ you _______ (use) to live?
+      B: I _______ _______ (use) to live in Busan.
+      A: Wow! _______ you _______ (use) to go to the beach often?
+      B: Yes, I _______ (do). I _______ _______ (use) to swim every weekend.
+      A: That sounds fun! I _______ _______ (not use) to like the beach, but now I love it.
+
+      ---
+
+      ## 정답
+
+      **Part A:** play, have, live, watch, be
+
+      **Part B:**
+      1. I didn't use to like math.
+      2. Did she use to live here?
+      3. They didn't use to be friends.
+      4. Did you use to play games?
+      5. He didn't use to eat cereal.
+
+      **Part C:**
+      1. I used to play soccer.
+      2. She didn't use to like English.
+      3. Did you use to live here?
+      4. I used to watch cartoons.
+      5. We used to be friends.
+
+      **Part D:**
+      1. I used to watch cartoons every day.
+      2. She used to have long hair, but now she has short hair.
+      3. Did you use to live here?
+      4. I didn't use to like vegetables.
+
+      **Part E:**
+      did, use, used to, Did, use, did, used to, didn't use
+
+      ---
+
+      ## 점수 해석 (총 70점 만점)
+
+      - **63-70점:** 완벽해요! used to 완전 마스터!
+      - **56-62점:** 잘했어요! 부정/의문문을 더 연습!
+      - **49-55점:** 괜찮아요! use/used 구분을 다시 확인!
+      - **48점 이하:** 다시 도전! Section 1부터 복습!
+
+  - id: 9
+    title: "내일 복습용 문제"
+    content: |
+      # 내일 복습하기
+
+      ## Quick Review (5분)
+
+      ### 1. 동사 원형 넣기
+
+      1. I used to _______ (watch) cartoons.
+      2. She used to _______ (live) in Seoul.
+      3. We used to _______ (play) outside.
+      4. He used to _______ (have) a dog.
+
+      ---
+
+      ### 2. 부정문 만들기
+
+      1. I used to like vegetables.
+         → _________________________________
+
+      2. They used to live here.
+         → _________________________________
+
+      ---
+
+      ### 3. 의문문 만들기
+
+      1. You used to play soccer.
+         → _________________________________
+
+      2. She used to have long hair.
+         → _________________________________
+
+      ---
+
+      ### 4. 틀린 곳 고치기
+
+      1. I used to played games.
+      2. She didn't used to like math.
+      3. Did you used to live here?
+
+      ---
+
+      ### 5. 영작하기
+
+      1. 나는 예전에 키가 작았다.
+         _________________________________
+
+      2. 너는 예전에 여기 살았니?
+         _________________________________
+
+      3. 그녀는 예전에 수줍었지만 지금은 자신감 있다.
+         _________________________________
+
+      ---
+
+      ## 정답
+
+      **1번:** watch, live, play, have
+
+      **2번:**
+      I didn't use to like vegetables.
+      They didn't use to live here.
+
+      **3번:**
+      Did you use to play soccer?
+      Did she use to have long hair?
+
+      **4번:**
+      I used to play games.
+      She didn't use to like math.
+      Did you use to live here?
+
+      **5번:**
+      I used to be short.
+      Did you use to live here?
+      She used to be shy, but now she is confident.
+
+      ---
+
+      ## 핵심 규칙
+
+      ✅ used to + 동사원형
+      ✅ 부정: didn't use to (used 아님!)
+      ✅ 의문: Did + use to (used 아님!)
+      ✅ 의미: 예전에는 ~했다 (지금은 아님)
+
+  - id: 10
+    title: "자기 점검 & 격려"
+    content: |
+      # 오늘 공부 마무리
+
+      ## 자기 점검 체크리스트
+
+      ☐ used to의 형태를 알아요 (used to + 동사원형)
+      ☐ used to의 의미를 알아요 (예전에는 ~했다)
+      ☐ 부정문을 만들 수 있어요 (didn't use to)
+      ☐ 의문문을 만들 수 있어요 (Did you use to?)
+      ☐ "but now..."를 사용해서 과거와 현재를 비교할 수 있어요
+
+      ---
+
+      ## 실력 레벨 확인
+
+      - **5개:** 완벽해요! used to 완전 마스터!
+      - **3-4개:** 잘했어요! 연습만 더 하면 완벽!
+      - **1-2개:** 괜찮아요! 복습 필요!
+
+      ---
+
+      ## 격려 메시지
+
+      축하합니다!
+
+      오늘 여러분은 Past Tense 시리즈의 마지막 단원을 마쳤어요!
+
+      이제 여러분은:
+      - "예전에는 ~했다"를 표현할 수 있어요
+      - 과거의 습관과 상태를 말할 수 있어요
+      - 과거와 현재를 비교할 수 있어요
+
+      **Unit 10-15 총정리:**
+      - was/were: be동사의 과거
+      - worked/went: 일반동사의 과거
+      - didn't/Did you?: 과거 부정/의문
+      - was doing: 과거진행형
+      - was doing vs did: 배경 vs 사건
+      - used to: 과거의 습관/상태
+
+      여러분은 이제 과거에 대해 다양하게 표현할 수 있어요!
+
+      ---
+
+      ## 다음 단계
+
+      **내일:** Section 9 복습 문제 풀기
+      **이번 주:** 어렸을 때와 지금의 차이를 영어로 말해보기
+      **다음:** Unit 10-15 전체 복습!
+
+      **Congratulations on completing the Past Tense units! 정말 잘했어요!**
+
+design_elements:
+  - element: "Spaced Repetition"
+    implementation: "내일 복습용 문제로 24시간 후 복습"
+
+  - element: "Retrieval Practice"
+    implementation: "회상 연습에서 형태와 의미 떠올리기"
+
+  - element: "Interleaving"
+    implementation: "긍정문, 부정문, 의문문을 섞어서 연습"
+
+  - element: "Concrete Examples"
+    implementation: "어린 시절, 가족, 습관 변화 등 실생활 맥락"
+
+learning_objectives:
+  - "used to의 형태를 알고 사용할 수 있다 (used to + 동사원형)"
+  - "used to의 의미를 이해한다 (과거의 습관/상태, 지금은 아님)"
+  - "부정문과 의문문을 올바르게 만들 수 있다"
+  - "과거와 현재를 비교하여 표현할 수 있다"
+  - "used to와 단순과거의 차이를 이해한다"

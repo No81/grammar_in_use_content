@@ -1,0 +1,463 @@
+title: "Units 10-15 종합 복습 (Comprehensive Review)"
+meta: "대상: 6학년 · 난이도: 중~중상 · 권장 35-50분 (A4 3p)"
+review_scope: "Past Tense Grammar (Units 10-15)"
+units_covered:
+  - "Unit 10: was/were (be동사 과거형)"
+  - "Unit 11: worked/got/went etc. (simple past)"
+  - "Unit 12: I didn't... Did you...? (simple past negative and questions)"
+  - "Unit 13: I was doing (past continuous)"
+  - "Unit 14: I was doing and I did (past continuous vs simple past)"
+  - "Unit 15: I used to... (past habits and states)"
+
+sections:
+  - title: "1. 복습 시작 전 자기 진단"
+    items:
+      - type: text
+        content: "Units 10-15에서 배운 내용을 얼마나 기억하고 있는지 체크해 보세요! 솔직하게 평가하는 것이 중요합니다."
+      - type: list
+        heading: "나는 할 수 있다..."
+        list:
+          - "☐ was/were를 주어에 맞게 사용할 수 있다 (Unit 10)"
+          - "☐ 규칙/불규칙 동사의 과거형을 사용할 수 있다 (Unit 11)"
+          - "☐ 과거 부정문을 만들 수 있다 (didn't + 동사원형) (Unit 12)"
+          - "☐ 과거 의문문을 만들 수 있다 (Did you...?) (Unit 12)"
+          - "☐ 과거진행형을 사용할 수 있다 (was/were + -ing) (Unit 13)"
+          - "☐ 과거진행형과 단순과거의 차이를 안다 (Unit 14)"
+          - "☐ used to를 사용해서 과거 습관을 표현할 수 있다 (Unit 15)"
+          - "☐ 실생활에서 과거 시제를 자연스럽게 사용할 수 있다 (Units 10-15)"
+      - type: note
+        content: "💡 7개 이상 체크: 아주 잘 준비되었어요!<br />5-6개 체크: 복습이 꼭 필요해요!<br />4개 이하 체크: 각 Unit을 다시 천천히 읽어보세요!"
+      - type: note
+        content: "⏱️ 시간이 부족하다면? Section 3, 4, 9만 풀어도 충분히 효과적인 복습이 됩니다! (약 30분)"
+
+  - title: "2. 핵심 개념 빠른 정리 (Quick Summary)"
+    items:
+      - type: text
+        content: "지금까지 배운 6개 Unit의 핵심 내용을 한눈에 정리했어요!"
+      - type: list
+        heading: "Unit 10: was/were (be동사 과거형)"
+        list:
+          - "형태: I/He/She/It was, You/We/They were"
+          - "용도: 과거의 상태, 위치, 감정, 날씨 표현"
+          - "부정문: wasn't, weren't"
+          - "의문문: Was I...? Were you...?"
+      - type: list
+        heading: "Unit 11: 단순과거 (Simple Past)"
+        list:
+          - "규칙 동사: 동사 + ed (worked, played, studied)"
+          - "불규칙 동사: go→went, eat→ate, have→had, see→saw"
+          - "용도: 과거에 완료된 행동"
+          - "특징: 모든 주어에 같은 과거형 사용"
+      - type: list
+        heading: "Unit 12: 과거 부정문/의문문"
+        list:
+          - "부정문: didn't + 동사원형 (I didn't go)"
+          - "의문문: Did + 주어 + 동사원형? (Did you go?)"
+          - "짧은 대답: Yes, I did. / No, I didn't."
+          - "핵심: didn't/Did 뒤에는 항상 동사원형!"
+      - type: list
+        heading: "Unit 13: 과거진행형 (Past Continuous)"
+        list:
+          - "형태: was/were + 동사-ing"
+          - "용도: 과거의 특정 시점에 진행 중이던 동작"
+          - "시간 표현: at 7 o'clock, at that time, when ~"
+          - "부정문: wasn't/weren't + 동사-ing"
+      - type: list
+        heading: "Unit 14: 과거진행형 vs 단순과거"
+        list:
+          - "과거진행형: 배경 동작 (길게 진행 중)"
+          - "단순과거: 짧은 동작/사건 (순간적으로 일어남)"
+          - "패턴: I was watching TV when mom came home."
+          - "when + 단순과거, while + 과거진행형"
+      - type: list
+        heading: "Unit 15: used to"
+        list:
+          - "형태: used to + 동사원형"
+          - "의미: 예전에는 ~했다 (지금은 안 한다/다르다)"
+          - "부정문: didn't use to (use! not used)"
+          - "의문문: Did you use to...? (use! not used)"
+
+  - title: "3. 통합 회상 연습 (Mixed Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 보지 말고 기억을 떠올려 답해 보세요! 이것이 가장 효과적인 학습법입니다."
+      - type: qna
+        question: "R1. I, He, She 뒤에 오는 be동사의 과거형과 You, We, They 뒤에 오는 것은 각각 무엇인가요?"
+        answer: "I/He/She → was, You/We/They → were<br />평가: 두 그룹 모두 맞으면 정답"
+      - type: qna
+        question: "R2. go, eat, have, see의 과거형을 말해보세요."
+        answer: "go → went, eat → ate, have → had, see → saw<br />평가: 4개 중 3개 이상 맞으면 정답"
+      - type: qna
+        question: "R3. '나는 어제 학교에 가지 않았다'를 영어로 어떻게 표현하나요?"
+        answer: "I didn't go to school yesterday.<br />평가: didn't + 동사원형(go)을 올바르게 사용하면 정답"
+      - type: qna
+        question: "R4. 'I didn't went to school.'가 틀린 이유는 무엇인가요?"
+        answer: "didn't 뒤에는 동사원형이 와야 합니다. went가 아니라 go가 맞습니다.<br />평가: 동사원형을 언급하면 정답"
+      - type: qna
+        question: "R5. 과거진행형의 형태는 무엇인가요?"
+        answer: "was/were + 동사-ing<br />평가: be동사 과거형 + 동사-ing를 모두 언급하면 정답"
+      - type: qna
+        question: "R6. 'I was watching TV when mom came home.'에서 어떤 동작이 먼저 시작되었나요?"
+        answer: "watching (TV를 보는 것이 먼저 진행 중이었고, 엄마가 들어왔다)<br />평가: 과거진행형이 배경임을 이해하면 정답"
+      - type: qna
+        question: "R7. used to의 의미는 무엇인가요?"
+        answer: "예전에는 ~했다 (지금은 안 한다/다르다)<br />평가: 과거 습관과 현재와의 차이를 언급하면 정답"
+      - type: qna
+        question: "R8. 'Did you used to play soccer?'에서 틀린 부분은?"
+        answer: "used → use (Did 뒤에는 use to가 맞습니다)<br />평가: use로 고치면 정답"
+
+  - title: "4. 진단 문제 - 약점 찾기 (Diagnostic Test)"
+    items:
+      - type: note
+        content: "각 문제는 특정 Unit의 핵심 개념을 테스트합니다. 틀린 문제가 속한 Unit을 집중 복습하세요!"
+      - type: qna
+        question: "D1. [Unit 10] 빈칸 채우기: They ___ at the park yesterday."
+        answer: "were<br />설명: They는 복수이므로 were를 씁니다.<br />틀렸다면 → Unit 10 복습"
+      - type: qna
+        question: "D2. [Unit 10] 의문문 만들기: She was happy. → ___"
+        answer: "Was she happy?<br />설명: was를 문장 앞으로 보냅니다.<br />틀렸다면 → Unit 10 복습"
+      - type: qna
+        question: "D3. [Unit 11] 과거형 쓰기: I ___ (go) to the library yesterday."
+        answer: "went<br />설명: go의 불규칙 과거형은 went<br />틀렸다면 → Unit 11 복습"
+      - type: qna
+        question: "D4. [Unit 11] 과거형 쓰기: She ___ (study) English last night."
+        answer: "studied<br />설명: study → studied (y → ied)<br />틀렸다면 → Unit 11 복습"
+      - type: qna
+        question: "D5. [Unit 12] 부정문 만들기: I went to school. → I ___ to school."
+        answer: "didn't go<br />설명: didn't + 동사원형<br />틀렸다면 → Unit 12 복습"
+      - type: qna
+        question: "D6. [Unit 12] 의문문 만들기: She ate lunch. → ___ she ___ lunch?"
+        answer: "Did she eat<br />설명: Did + 주어 + 동사원형<br />틀렸다면 → Unit 12 복습"
+      - type: qna
+        question: "D7. [Unit 13] 과거진행형 만들기: I ___ (sleep) at 10 PM."
+        answer: "was sleeping<br />설명: I + was + sleeping<br />틀렸다면 → Unit 13 복습"
+      - type: qna
+        question: "D8. [Unit 14] 올바른 시제 선택: I ___ (watch) TV when mom ___ (come) home."
+        answer: "was watching, came<br />설명: 배경(과거진행형) + 사건(단순과거)<br />틀렸다면 → Unit 14 복습"
+      - type: qna
+        question: "D9. [Unit 15] used to 사용: I ___ (use) to live in Busan."
+        answer: "used<br />설명: used to + 동사원형<br />틀렸다면 → Unit 15 복습"
+      - type: qna
+        question: "D10. [Unit 15] 부정문 만들기: She used to eat breakfast. → She ___ eat breakfast."
+        answer: "didn't use to<br />설명: didn't use to (used가 아님!)<br />틀렸다면 → Unit 15 복습"
+
+  - title: "5. 개념 연결하기 - 인터리빙 연습 (Interleaving Practice)"
+    items:
+      - type: note
+        content: "여러 Unit의 개념을 섞어서 연습합니다. 이렇게 하면 각 개념을 더 명확하게 구분할 수 있어요!"
+      - type: qna
+        question: "I1. 다음 문장을 완성하세요: Yesterday I ___ (be) tired. I ___ (go) to bed early and ___ (sleep) well."
+        answer: "was, went, slept<br />설명: be동사 과거 → 단순과거 → 단순과거 순서로 사용<br />개념: Unit 10, 11 통합"
+      - type: qna
+        question: "I2. 틀린 부분을 모두 찾아 고치세요: 'She didn't went to school and she was sleep at home.'"
+        answer: "She didn't go to school and she was sleeping at home.<br />설명: ① went → go (Unit 12), ② sleep → sleeping (Unit 13)<br />개념: Unit 12, 13 통합"
+      - type: qna
+        question: "I3. 두 문장을 when으로 연결하세요: 'I was eating lunch.' + 'My friend called.'"
+        answer: "I was eating lunch when my friend called.<br />설명: 과거진행형(배경) + when + 단순과거(사건)<br />개념: Unit 13, 14 통합"
+      - type: qna
+        question: "I4. 상황에 맞게 빈칸을 채우세요:<br />I ___ (use) to play soccer, but now I play basketball. Yesterday I ___ (play) basketball with my friends. We ___ (have) fun."
+        answer: "used, played, had<br />설명: 과거 습관(used to) → 단순과거(played) → 단순과거(had)<br />개념: Unit 15, 11 통합"
+      - type: qna
+        question: "I5. 다음 대화를 완성하세요:<br />A: What ___ you ___ (do) at 8 PM yesterday?<br />B: I ___ (watch) TV when you ___ (call).<br />A: ___ you ___ (do) your homework?<br />B: No, I ___ (not do) it yet."
+        answer: "A: were, doing<br />B: was watching, called<br />A: Did, do<br />B: didn't do<br />설명: 과거진행형 의문문 → 답변(when) → 단순과거 의문문 → 부정 답변<br />개념: Unit 13, 14, 12 통합"
+      - type: qna
+        question: "I6. 주어진 문장을 부정문과 의문문으로 바꾸세요: 'He was playing games.'"
+        answer: "부정문: He wasn't playing games.<br />의문문: Was he playing games?<br />설명: 과거진행형 부정문과 의문문<br />개념: Unit 13 심화"
+      - type: qna
+        question: "I7. 주어진 문장을 부정문과 의문문으로 바꾸세요: 'They went to school.'"
+        answer: "부정문: They didn't go to school.<br />의문문: Did they go to school?<br />설명: 단순과거 부정문과 의문문<br />개념: Unit 12 심화"
+      - type: qna
+        question: "I8. 다음 세 문장의 차이를 한글로 설명하세요:<br />① I was tired yesterday.<br />② I went to school yesterday.<br />③ I was going to school when I saw my friend."
+        answer: "① 나는 어제 피곤했다 (과거의 상태 - be동사 과거)<br />② 나는 어제 학교에 갔다 (완료된 행동 - 단순과거)<br />③ 친구를 봤을 때 나는 학교에 가고 있었다 (진행 중인 배경 - 과거진행형)<br />설명: be동사 과거, 단순과거, 과거진행형의 차이<br />개념: Unit 10, 11, 14 통합"
+
+  - title: "6. 레벨별 종합 연습 (Progressive Practice)"
+    items:
+      - type: note
+        content: "난이도가 점점 올라갑니다. 자신의 수준에 맞게 도전해 보세요!"
+      - type: text
+        content: "<span class='highlight'>Level 1: 기초 - 빈칸 채우기</span>"
+      - type: qna
+        question: "L1-1. I ___ (be) at school yesterday. The teacher ___ (be) very kind."
+        answer: "was, was<br />설명: I was, The teacher was (둘 다 단수)"
+      - type: qna
+        question: "L1-2. She ___ (eat) pizza yesterday, but she usually ___ (eat) rice."
+        answer: "ate, eats<br />설명: 과거(ate) vs 현재 습관(eats)"
+      - type: qna
+        question: "L1-3. ___ you ___ (go) to school? No, I ___."
+        answer: "Did, go, didn't<br />설명: Did you go = 의문문, I didn't = 짧은 대답"
+      - type: qna
+        question: "L1-4. I ___ (watch) TV when mom ___ (come) home."
+        answer: "was watching, came<br />설명: 과거진행형(배경) + 단순과거(사건)"
+      - type: text
+        content: "<span class='highlight'>Level 2: 중급 - 문장 만들기</span>"
+      - type: qna
+        question: "L2-1. 한영 번역: 나는 어제 학교에 갔다. 수업이 재미있었다."
+        answer: "I went to school yesterday. The class was fun/interesting.<br />평가: 단순과거와 be동사 과거를 모두 올바르게 사용하면 정답"
+      - type: qna
+        question: "L2-2. 틀린 부분 고치기: 'I didn't went to school and I was sleep at home.'"
+        answer: "I didn't go to school and I was sleeping at home.<br />설명: ① went → go, ② sleep → sleeping"
+      - type: qna
+        question: "L2-3. 대화 완성: A: Where were you at 3 PM? B: I ___ (be) at home. I ___ (do) my homework."
+        answer: "was, was doing<br />설명: 위치(was) + 진행 중인 행동(was doing)"
+      - type: qna
+        question: "L2-4. used to 사용: '그녀는 예전에 긴 머리였지만 지금은 짧다.'"
+        answer: "She used to have long hair, but now she has short hair.<br />평가: used to + but now 패턴을 올바르게 사용"
+      - type: text
+        content: "<span class='highlight'>Level 3: 고급 - 종합 응용</span>"
+      - type: qna
+        question: "L3-1. 다음 상황을 4문장으로 영작하세요: 어제 비가 왔다. 내가 집에 걸어가고 있을 때 비가 오기 시작했다. 나는 뛰어서 집에 갔다. 나는 젖었다."
+        answer: "It rained yesterday. I was walking home when it started to rain. I ran home. I was wet.<br />평가: 단순과거, 과거진행형+when+단순과거, be동사 과거가 모두 올바르게 사용되면 정답"
+      - type: qna
+        question: "L3-2. 오류 찾기와 설명: 'Yesterday I used to go to school. I didn't ate lunch and I was study in the library.'"
+        answer: "올바른 문장: Yesterday I went to school. I didn't eat lunch and I was studying in the library.<br />설명: ① used to go → went (yesterday는 특정 과거, used to는 과거 습관), ② ate → eat (didn't + 원형), ③ study → studying (was + ing)"
+      - type: qna
+        question: "L3-3. 질문 3개 만들기: 친구에게 ①was/were 의문문, ②단순과거 의문문, ③used to 의문문을 각각 하나씩 만드세요."
+        answer: "예시 답안:<br />① Were you at home yesterday? / Was the movie good?<br />② Did you go to school? / What did you eat for lunch?<br />③ Did you use to live here? / Did you use to play soccer?<br />평가: 각 의문문 형태가 올바르면 정답"
+      - type: qna
+        question: "L3-4. 창의적 작문: 어제 하루를 5문장으로 설명하세요. (was/were, 단순과거, 과거진행형, when, used to를 각각 1번 이상 사용)"
+        answer: "예시 답안: Yesterday was a busy day. I woke up at 7 and went to school. I was eating lunch when my friend called me. After school, I did my homework. I used to play games every day, but now I study more.<br />평가: 다섯 가지 문법 요소가 모두 올바르게 사용되고 의미가 통하면 정답"
+
+  - title: "7. 실생활 통합 적용 (Real-Life Integration)"
+    items:
+      - type: note
+        content: "실제 상황에서 Units 10-15의 문법을 모두 사용해 봅시다!"
+      - type: qna
+        question: "R1. 어제 하루 이야기: was/were, 단순과거, 과거진행형을 모두 사용해서 어제 있었던 일을 5문장으로 쓰세요."
+        answer: "예시 답안:<br />Yesterday was a good day. (was/were)<br />I went to school by bus. (단순과거)<br />I studied math and English. (단순과거)<br />At 3 PM, I was playing soccer with my friends. (과거진행형)<br />I was eating dinner when my friend called. (when + 단순과거)<br />평가 기준: 5문장, 세 가지 문법 요소 포함, 문법적으로 올바름"
+      - type: qna
+        question: "R2. 과거와 현재 비교: used to와 but now를 사용해서 예전과 지금이 다른 것을 4문장으로 쓰세요."
+        answer: "예시 답안:<br />I used to be short, but now I'm tall.<br />I used to hate vegetables, but now I like them.<br />I used to live in Busan, but now I live in Seoul.<br />I used to watch cartoons every day, but now I watch movies.<br />평가 기준: 4문장, used to + but now 패턴 올바름"
+      - type: qna
+        question: "R3. 친구와 대화 만들기: 어제에 대한 대화를 6줄 이상 만드세요. (질문과 대답 포함)"
+        answer: "예시 답안:<br />A: Hi! What did you do yesterday?<br />B: I went to the library. What about you?<br />A: I was at home. I was playing games when you called.<br />B: Oh, did you finish your homework?<br />A: No, I didn't. I was too tired.<br />B: Were you sick?<br />A: No, I wasn't sick. I just slept late.<br />평가 기준: 대화가 자연스럽고, 여러 문법 요소가 섞여 있으며, 문법적으로 올바름"
+      - type: qna
+        question: "R4. 특정 시간에 대해 쓰기: '어제 저녁 8시에 뭘 하고 있었어?'에 대한 대화를 완성하세요."
+        answer: "예시 답안:<br />A: What were you doing at 8 PM yesterday?<br />B: I was watching TV. What about you?<br />A: I was doing my homework. Did you watch any good shows?<br />B: Yes! I watched a really fun drama.<br />평가 기준: 과거진행형과 단순과거가 올바르게 사용됨"
+      - type: qna
+        question: "R5. 일기 쓰기: 어제에 대한 짧은 영어 일기를 쓰세요. (최소 6문장, 다양한 과거 시제 사용)"
+        answer: "예시 답안:<br />Date: Yesterday<br />Today was a fun day! I woke up at 7 AM and ate breakfast. The weather was sunny. I went to school and studied hard. At lunch, I was eating with my friends when the fire alarm rang! We all went outside. After school, I did my homework and played games. I used to stay up late, but now I go to bed early.<br />평가 기준: was/were, 단순과거, 과거진행형, used to가 자연스럽게 섞여 있음"
+
+  - title: "8. 흔한 실수 바로잡기 (Common Mistakes Correction)"
+    items:
+      - type: note
+        content: "한국 학습자들이 자주 하는 실수들을 모았어요. 각 실수를 고치고 왜 틀렸는지 설명해 보세요!"
+      - type: qna
+        question: "E1. They was at the park. → ___"
+        answer: "They were at the park.<br />설명: They는 복수이므로 was가 아니라 were를 써야 합니다."
+      - type: qna
+        question: "E2. I goed to school yesterday. → ___"
+        answer: "I went to school yesterday.<br />설명: go의 과거형은 goed가 아니라 불규칙 변화인 went입니다."
+      - type: qna
+        question: "E3. I didn't went to school. → ___"
+        answer: "I didn't go to school.<br />설명: didn't 뒤에는 과거형이 아니라 동사원형(go)이 와야 합니다."
+      - type: qna
+        question: "E4. Did you ate pizza? → ___"
+        answer: "Did you eat pizza?<br />설명: Did 뒤에는 동사원형(eat)이 와야 합니다."
+      - type: qna
+        question: "E5. I sleeping at 10 PM. → ___"
+        answer: "I was sleeping at 10 PM.<br />설명: 과거진행형은 was/were + 동사-ing 형태입니다. be동사가 필요합니다."
+      - type: qna
+        question: "E6. She was eat lunch. → ___"
+        answer: "She was eating lunch.<br />설명: 과거진행형은 was + 동사-ing 형태입니다. eating이 맞습니다."
+      - type: qna
+        question: "E7. I watched TV when mom was coming home. → ___"
+        answer: "I was watching TV when mom came home.<br />설명: 배경 동작은 과거진행형, when 뒤의 사건은 단순과거입니다."
+      - type: qna
+        question: "E8. I used to played soccer. → ___"
+        answer: "I used to play soccer.<br />설명: used to 뒤에는 동사원형이 와야 합니다."
+      - type: qna
+        question: "E9. Did you used to live here? → ___"
+        answer: "Did you use to live here?<br />설명: Did 뒤에는 used가 아니라 use입니다."
+      - type: qna
+        question: "E10. She didn't used to like English. → ___"
+        answer: "She didn't use to like English.<br />설명: didn't 뒤에는 used가 아니라 use입니다."
+
+  - title: "9. 최종 종합 평가 (Final Comprehensive Test)"
+    items:
+      - type: note
+        content: "지금까지 복습한 내용을 모두 활용하는 최종 테스트입니다! 시간을 재면서 풀어보세요. (권장 시간: 15분)"
+      - type: text
+        content: "<span class='highlight'>Part A: 빈칸 채우기 (각 1점, 총 10점)</span>"
+      - type: qna
+        question: "1. I ___ (be) at home yesterday. The weather ___ (be) cold."
+        answer: "was, was"
+      - type: qna
+        question: "2. She ___ (go) to school and ___ (eat) lunch there."
+        answer: "went, ate"
+      - type: qna
+        question: "3. ___ you ___ (see) the movie? Yes, I ___."
+        answer: "Did, see, did"
+      - type: qna
+        question: "4. I ___ (sleep) when the phone ___ (ring)."
+        answer: "was sleeping, rang"
+      - type: qna
+        question: "5. He ___ (use) to play soccer, but now he ___ (play) basketball."
+        answer: "used, plays"
+      - type: text
+        content: "<span class='highlight'>Part B: 문장 변형 (각 2점, 총 10점)</span>"
+      - type: qna
+        question: "6. I went to school. (부정문으로)"
+        answer: "I didn't go to school."
+      - type: qna
+        question: "7. She ate breakfast. (의문문으로)"
+        answer: "Did she eat breakfast?"
+      - type: qna
+        question: "8. He was playing games. (의문문으로)"
+        answer: "Was he playing games?"
+      - type: qna
+        question: "9. They were at the park. (부정문으로)"
+        answer: "They weren't at the park. / They were not at the park."
+      - type: qna
+        question: "10. I used to live in Busan. (의문문으로)"
+        answer: "Did I use to live in Busan?<br />참고: 상대방에게 물어볼 때는 Did you use to live in Busan?"
+      - type: text
+        content: "<span class='highlight'>Part C: 오류 수정 (각 2점, 총 10점)</span>"
+      - type: qna
+        question: "11. She were tired yesterday."
+        answer: "She was tired yesterday."
+      - type: qna
+        question: "12. I didn't went to the park."
+        answer: "I didn't go to the park."
+      - type: qna
+        question: "13. They was playing soccer."
+        answer: "They were playing soccer."
+      - type: qna
+        question: "14. I used to played games."
+        answer: "I used to play games."
+      - type: qna
+        question: "15. Did you ate lunch?"
+        answer: "Did you eat lunch?"
+      - type: text
+        content: "<span class='highlight'>Part D: 영작 (각 3점, 총 15점)</span>"
+      - type: qna
+        question: "16. 나는 어제 학교에 갔다."
+        answer: "I went to school yesterday.<br />평가: 단순과거 시제, 시간 표현 포함"
+      - type: qna
+        question: "17. 그녀는 10시에 자고 있었다."
+        answer: "She was sleeping at 10 o'clock.<br />평가: 과거진행형, 시간 포함"
+      - type: qna
+        question: "18. 너는 점심을 먹었니? (의문문)"
+        answer: "Did you eat lunch?<br />평가: 의문문 형태 올바름"
+      - type: qna
+        question: "19. 나는 숙제를 하지 않았다. (부정문)"
+        answer: "I didn't do my homework.<br />평가: 부정문 형태 올바름"
+      - type: qna
+        question: "20. 나는 예전에 여기 살았다."
+        answer: "I used to live here.<br />평가: used to 사용 올바름"
+      - type: text
+        content: "<span class='highlight'>Part E: 서술형 (총 15점)</span>"
+      - type: qna
+        question: "21. 과거진행형과 단순과거의 차이를 예문과 함께 한글로 설명하세요. (5점)"
+        answer: "예시 답안: 과거진행형은 '그때 진행 중이던 동작(배경)'을 나타내고, 단순과거는 '순간적으로 일어난 동작(사건)'을 나타냅니다.<br />예문: I was watching TV when mom came home. (TV를 보고 있었을 때 엄마가 오셨다)<br />- was watching: 이미 진행 중이던 배경<br />- came: 갑자기 일어난 사건<br />평가 기준: 차이를 명확히 설명하고 예문이 올바르면 정답"
+      - type: qna
+        question: "22. 어제 하루를 5문장으로 영어로 쓰세요. was/were, 단순과거, 과거진행형, used to를 모두 사용하세요. (10점)"
+        answer: "예시 답안: Yesterday was a busy day. I woke up early and went to school. I was studying math when my friend called. We had lunch together. I used to hate math, but now I like it.<br />평가 기준: 5문장, 네 가지 문법 모두 사용, 문법적으로 올바름, 의미 연결성"
+      - type: note
+        content: "💯 채점하기:<br />총 60점 만점<br />54-60점: 완벽! 모든 Unit을 마스터했습니다!<br />48-53점: 아주 잘했어요! 작은 실수만 보완하면 완벽합니다!<br />36-47점: 잘하고 있어요! 틀린 부분의 Unit을 다시 복습하세요!<br />35점 이하: 기초를 다시 다져봅시다! Units 10-12를 천천히 복습하세요!"
+
+  - title: "10. 복습 계획표 & 자기 점검 (Review Schedule & Self-Assessment)"
+    items:
+      - type: text
+        content: "<span class='highlight'>복습 계획 (Spaced Repetition Schedule)</span>"
+      - type: list
+        heading: "효과적인 장기 기억을 위한 복습 일정"
+        list:
+          - "📅 오늘: 이 복습 자료 완료 ✓"
+          - "📅 내일 (1일 후): Section 3 회상 연습 다시 풀기"
+          - "📅 3일 후: Section 4 진단 문제 다시 풀기"
+          - "📅 1주일 후: Section 9 최종 종합 평가 다시 풀기"
+          - "📅 2주일 후: 틀린 문제가 많았던 Unit 집중 복습"
+          - "📅 1개월 후: 전체 Units 10-15 빠르게 훑어보기"
+      - type: note
+        content: "💡 복습 팁: 각 복습 시 틀린 문제를 노트에 기록하세요. 반복해서 틀리는 부분이 여러분의 약점입니다!"
+      - type: text
+        content: "<span class='highlight'>자기 점검 체크리스트</span>"
+      - type: list
+        heading: "이제 나는 할 수 있다..."
+        list:
+          - "☑ was/were를 실수 없이 사용할 수 있다"
+          - "☑ 규칙/불규칙 동사의 과거형을 알고 있다"
+          - "☑ 과거 부정문을 만들 수 있다 (didn't + 동사원형)"
+          - "☑ 과거 의문문을 만들 수 있다 (Did you...?)"
+          - "☑ 과거진행형을 올바르게 만들고 사용할 수 있다"
+          - "☑ 과거진행형과 단순과거의 차이를 설명할 수 있다"
+          - "☑ used to를 사용해서 과거 습관을 표현할 수 있다"
+          - "☑ 실생활에서 과거 시제를 자연스럽게 사용할 수 있다"
+      - type: qna
+        question: "SC1. 위 체크리스트에서 몇 개를 체크했나요?"
+        answer: "8개: 완벽합니다! 자신감을 가지세요!<br />6-7개: 아주 잘했어요! 조금만 더 연습하면 완벽해요!<br />4-5개: 잘하고 있어요! 약한 부분을 집중 복습하세요!<br />3개 이하: 괜찮아요! 천천히 각 Unit을 다시 복습해 봅시다!"
+      - type: qna
+        question: "SC2. 가장 어려웠던 Unit은 무엇이었나요? 그 이유는?"
+        answer: "자유 답변. 어려웠던 Unit을 파악하고 그 Unit을 집중적으로 복습하세요."
+      - type: qna
+        question: "SC3. 가장 자신 있는 Unit은 무엇인가요?"
+        answer: "자유 답변. 자신 있는 부분도 계속 연습하면 더욱 탄탄해집니다!"
+      - type: qna
+        question: "SC4. 실생활에서 과거 시제를 사용해 본 경험이 있나요? 또는 언제 사용할 수 있을까요?"
+        answer: "자유 답변. 실생활 적용 계획을 세우는 것이 중요합니다. 예: 일기 쓰기, 어제 있었던 일 말하기, 친구와 대화 등"
+      - type: note
+        content: "🎉 축하합니다! Units 10-15 종합 복습을 완료했습니다!<br /><br />여러분은 이제 영어 과거 시제의 핵심을 모두 마스터했어요. was/were, 단순과거, 과거 부정/의문문, 과거진행형, used to... 이 모든 것을 자유자재로 사용할 수 있다는 것은 정말 대단한 일입니다!<br /><br />💪 앞으로 할 일:<br />1. 매일 영어로 어제 있었던 일을 3문장씩 써 보세요<br />2. 영어 이야기나 대화를 들을 때 어떤 과거 시제를 쓰는지 주의 깊게 들어보세요<br />3. 친구나 가족에게 배운 내용을 설명해 보세요 (가르치면 더 잘 기억됩니다!)<br /><br />영어는 꾸준히 연습하면 반드시 늘어요. 오늘도 최선을 다한 여러분, 정말 자랑스럽습니다!<br /><br />Past Tense units 완료! 정말 잘했어요! 🚀"
+
+pedagogical_design:
+  spaced_repetition:
+    - "Section 1: 복습 시작 전 사전 활성화"
+    - "Section 3: 즉각적인 회상 연습"
+    - "Section 10: 향후 복습 계획표 제공 (1일, 3일, 1주, 2주, 1개월)"
+
+  retrieval_practice:
+    - "Section 3: 힌트 없이 기억 인출하기"
+    - "Section 4: 진단 테스트로 약점 파악"
+    - "Section 9: 최종 종합 평가"
+
+  interleaving:
+    - "Section 5: 여러 Unit의 개념을 섞어서 연습"
+    - "Section 6: 레벨별 연습에서 다양한 문법 요소 혼합"
+    - "Section 8: 흔한 실수를 무작위로 섞어 제시"
+
+  diagnostic_assessment:
+    - "Section 4: 각 문제마다 해당 Unit 표시로 약점 파악"
+    - "Section 9: 최종 평가 후 점수별 맞춤 피드백"
+
+  progressive_difficulty:
+    - "Section 6: Level 1 (기초) → Level 2 (중급) → Level 3 (고급)"
+    - "전체 구조: 개념 정리 → 진단 → 연습 → 통합 → 평가"
+
+  concrete_examples:
+    - "모든 예문이 6학년 학생의 실생활과 연결 (학교, 친구, 가족, 취미, 게임, 음식)"
+    - "Section 7: 실생활 통합 적용 (어제 하루, 일기, 대화 등)"
+
+  metacognition:
+    - "Section 1: 사전 자기 진단"
+    - "Section 10: 사후 자기 점검 및 학습 성찰"
+    - "각 섹션 후: 스스로 평가하고 약점 파악하기"
+
+  dual_coding:
+    - "이모지와 시각적 구조 활용 (☐, ✓, 💡, 📅)"
+    - "표와 리스트로 개념 시각화"
+    - "색상 구분 (<span class='highlight'>)"
+
+differentiation:
+  - "진단 테스트로 개인별 약점 파악 → 맞춤 복습 가능"
+  - "레벨별 연습으로 학습자 수준에 맞는 도전 제공"
+  - "선택적 섹션: 자신 있는 부분은 건너뛰고 어려운 부분 집중 가능"
+
+estimated_time:
+  - "Section 1-2: 5분 (진단 및 개념 정리)"
+  - "Section 3-4: 8분 (회상 및 진단)"
+  - "Section 5-6: 10분 (통합 연습)"
+  - "Section 7-8: 8분 (실생활 적용 및 오류 수정)"
+  - "Section 9: 15분 (최종 평가)"
+  - "Section 10: 4분 (자기 점검)"
+  - "총 예상 시간: 약 40-50분 (깊이 있게 할 경우)"
+  - "빠른 복습: 30분 (Section 3, 4, 9만 집중)"
+
+notes: |
+  이 복습 자료는 Units 10-15의 핵심 개념을 통합적으로 복습하도록 설계되었습니다.
+  단순한 반복이 아니라 개념을 연결하고(interleaving), 실생활에 적용하며,
+  학습자가 스스로 약점을 진단하고 계획적으로 복습할 수 있도록 구성했습니다.
+
+  과거 시제의 핵심인 was/were, 단순과거, 과거 부정/의문문, 과거진행형,
+  과거진행형 vs 단순과거, used to를 모두 통합하여 연습합니다.
+
+  특히 '회상 연습'과 '간격 반복'에 중점을 두어 장기 기억에 효과적이며,
+  진단 테스트와 최종 평가를 통해 학습 성취도를 객관적으로 확인할 수 있습니다.

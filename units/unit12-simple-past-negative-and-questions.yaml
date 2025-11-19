@@ -1,0 +1,931 @@
+unit: 12
+title: "I didn't... Did you...? (simple past negative and questions)"
+level: "Elementary"
+target_student:
+  grade: "6th grade elementary"
+  native_language: "Korean"
+  english_level: "Can read sentences but lacks precise grammatical knowledge"
+session_duration: "30 minutes"
+material_volume: "2 A4 pages equivalent"
+
+sections:
+  - id: 1
+    title: "핵심 개념 정리"
+    content: |
+      # 단순 과거의 부정문과 의문문
+
+      Unit 11에서 과거형 긍정문을 배웠어요 (I went, She ate).
+      이번에는 부정문(~하지 않았다)과 의문문(~했니?)을 배워요!
+
+      ## 1. 부정문: did not (didn't) + 동사원형
+
+      **중요:** 부정문에서는 동사가 원형으로 돌아가요!
+
+      | 긍정문 | 부정문 |
+      |--------|--------|
+      | I went | I didn't go |
+      | She ate | She didn't eat |
+      | We played | We didn't play |
+      | He watched | He didn't watch |
+
+      **예문:**
+      - I didn't go to school yesterday. (나는 어제 학교에 가지 않았다.)
+      - She didn't eat breakfast. (그녀는 아침을 먹지 않았다.)
+      - We didn't play soccer. (우리는 축구를 하지 않았다.)
+      - He didn't watch TV. (그는 TV를 보지 않았다.)
+      - They didn't come to the party. (그들은 파티에 오지 않았다.)
+
+      ## 2. 의문문: Did + 주어 + 동사원형?
+
+      **중요:** 의문문에서도 동사가 원형으로 돌아가요!
+
+      | 긍정문 | 의문문 |
+      |--------|--------|
+      | You went | Did you go? |
+      | She ate | Did she eat? |
+      | They played | Did they play? |
+
+      **예문:**
+      - Did you go to school? (너는 학교에 갔니?)
+      - Did she eat lunch? (그녀는 점심을 먹었니?)
+      - Did they play games? (그들은 게임을 했니?)
+      - Did he watch the movie? (그는 영화를 봤니?)
+
+      ## 3. 짧은 대답 (Short answers)
+
+      **긍정:** Yes, 주어 + did.
+      **부정:** No, 주어 + didn't.
+
+      - Did you go to school? - Yes, I did. / No, I didn't.
+      - Did she eat lunch? - Yes, she did. / No, she didn't.
+      - Did they come? - Yes, they did. / No, they didn't.
+
+      ## 4. 의문사가 있는 질문
+
+      **What/Where/When/Why/How + did + 주어 + 동사원형?**
+
+      - What did you eat? (너는 무엇을 먹었니?)
+      - Where did you go? (너는 어디에 갔니?)
+      - When did you come home? (너는 언제 집에 왔니?)
+      - Why did you cry? (너는 왜 울었니?)
+      - How did you go to school? (너는 어떻게 학교에 갔니?)
+
+      ## 다양한 예문
+
+      ### 일상생활
+      - I didn't wake up early. (나는 일찍 일어나지 않았다.)
+      - Did you eat breakfast? (너는 아침 먹었니?)
+      - She didn't do her homework. (그녀는 숙제를 하지 않았다.)
+
+      ### 학교생활
+      - We didn't have a test. (우리는 시험이 없었다.)
+      - Did you study for the test? (너는 시험 공부했니?)
+      - The teacher didn't give us homework. (선생님이 우리에게 숙제를 안 내주셨다.)
+
+      ### 주말/여가
+      - I didn't go anywhere yesterday. (나는 어제 아무 데도 가지 않았다.)
+      - Did you watch the movie? (너는 그 영화 봤니?)
+      - They didn't play games last night. (그들은 어젯밤 게임을 하지 않았다.)
+
+      ### 음식
+      - I didn't eat pizza. (나는 피자를 먹지 않았다.)
+      - Did she like the food? (그녀는 음식을 좋아했니?)
+      - We didn't have dinner. (우리는 저녁을 먹지 않았다.)
+
+      ## 핵심 규칙
+
+      **didn't / Did 뒤에는 항상 동사원형!**
+
+      - ❌ I didn't went to school.
+      - ✅ I didn't go to school.
+
+      - ❌ Did you went to school?
+      - ✅ Did you go to school?
+
+      ## 한국 학습자가 자주 하는 실수
+
+      1. **동사를 과거형으로 쓰는 실수**
+         - ❌ I didn't went.
+         - ✅ I didn't go.
+
+      2. **Did 뒤에 과거형 쓰는 실수**
+         - ❌ Did you ate?
+         - ✅ Did you eat?
+
+      3. **짧은 대답에서 동사 추가**
+         - ❌ Yes, I did go.
+         - ✅ Yes, I did.
+
+      4. **주어 빠뜨리기**
+         - ❌ Did go to school?
+         - ✅ Did you go to school?
+
+  - id: 2
+    title: "Noticing 활동"
+    content: |
+      # 문장 관찰하기 - 패턴을 발견해봐요!
+
+      아래 문장들을 읽고 패턴을 찾아보세요.
+
+      ## Group A: 긍정문 vs 부정문
+
+      긍정문: I went to school.
+      부정문: I didn't go to school.
+
+      긍정문: She ate pizza.
+      부정문: She didn't eat pizza.
+
+      긍정문: They played games.
+      부정문: They didn't play games.
+
+      긍정문: He watched TV.
+      부정문: He didn't watch TV.
+
+      ## Group B: 긍정문 vs 의문문
+
+      긍정문: You went to school.
+      의문문: Did you go to school?
+
+      긍정문: She ate lunch.
+      의문문: Did she eat lunch?
+
+      긍정문: They came to the party.
+      의문문: Did they come to the party?
+
+      ---
+
+      ## 발견 질문
+
+      1. **부정문 관찰:** "didn't" 뒤에 오는 동사의 형태는 어떤가요?
+         (과거형? 원형?)
+         답: _________________
+
+      2. **의문문 관찰:** "Did" 뒤에 오는 동사의 형태는 어떤가요?
+         답: _________________
+
+      3. **패턴 발견:** went → go, ate → eat로 바뀌는 이유는 무엇일까요?
+         답: _________________
+
+      4. **공통점:** 부정문과 의문문에서 공통으로 사용되는 단어는?
+         답: _________________
+
+      ---
+
+      ## 패턴 정리
+
+      **핵심 발견:** didn't와 Did가 과거의 의미를 담고 있기 때문에,
+      동사는 원형으로 돌아갑니다!
+
+      - didn't + 동사원형 = 부정문
+      - Did + 주어 + 동사원형? = 의문문
+
+      💡 **중요:** 과거 시제는 did/didn't에 들어있어요!
+
+  - id: 3
+    title: "회상 연습"
+    content: |
+      # 배운 내용 떠올리기
+
+      책을 보지 않고 먼저 답을 생각해보세요!
+
+      ## 질문 1
+      과거 부정문은 어떻게 만드나요?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** didn't + 동사원형
+      예: I didn't go. She didn't eat.
+
+      ---
+
+      ## 질문 2
+      과거 의문문은 어떻게 만드나요?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** Did + 주어 + 동사원형?
+      예: Did you go? Did she eat?
+
+      ---
+
+      ## 질문 3
+      "I went"의 부정문은?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** I didn't go.
+      (went가 아니라 go!)
+
+      ---
+
+      ## 질문 4
+      "She ate"를 의문문으로 바꾸면?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** Did she eat?
+      (ate가 아니라 eat!)
+
+      ---
+
+      ## 질문 5
+      "Did you go?"에 대한 긍정 짧은 대답은?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** Yes, I did.
+
+      ---
+
+      ## 질문 6
+      "너는 어디에 갔니?"를 영어로?
+
+      💡 **먼저 생각해보세요!**
+
+      .
+
+      .
+
+      .
+
+      **정답:** Where did you go?
+
+  - id: 4
+    title: "기초 연습 - 빈칸 채우기"
+    content: |
+      # 빈칸 채우기로 익히기
+
+      ## Part A: 부정문 만들기
+
+      긍정문을 부정문으로 바꾸세요.
+
+      1. I went to school.
+         → I _______ _______ to school.
+
+      2. She ate lunch.
+         → She _______ _______ lunch.
+
+      3. We played soccer.
+         → We _______ _______ soccer.
+
+      4. He watched TV.
+         → He _______ _______ TV.
+
+      5. They came to the party.
+         → They _______ _______ to the party.
+
+      6. I did my homework.
+         → I _______ _______ my homework.
+
+      7. She bought a new bag.
+         → She _______ _______ a new bag.
+
+      8. We had fun.
+         → We _______ _______ fun.
+
+      ---
+
+      ## Part B: 의문문 만들기
+
+      긍정문을 의문문으로 바꾸세요.
+
+      1. You went to school.
+         → _______ you _______ to school?
+
+      2. She ate breakfast.
+         → _______ she _______ breakfast?
+
+      3. They played games.
+         → _______ they _______ games?
+
+      4. He saw the movie.
+         → _______ he _______ the movie?
+
+      5. You studied English.
+         → _______ you _______ English?
+
+      6. She made cookies.
+         → _______ she _______ cookies?
+
+      ---
+
+      ## Part C: 짧은 대답
+
+      1. Did you eat lunch? (Yes)
+         → Yes, _______ _______.
+
+      2. Did she go to school? (No)
+         → No, _______ _______.
+
+      3. Did they play soccer? (Yes)
+         → Yes, _______ _______.
+
+      4. Did he watch TV? (No)
+         → No, _______ _______.
+
+      ---
+
+      ## Part D: 의문사 질문
+
+      빈칸에 알맞은 말을 넣으세요.
+
+      1. _______ did you go yesterday? (어디)
+      2. _______ did you eat for lunch? (무엇)
+      3. _______ did you come home? (언제)
+      4. _______ did you cry? (왜)
+      5. _______ did you go to school? (어떻게)
+
+      ---
+
+      ## 정답 확인
+
+      **Part A:**
+      1. didn't go
+      2. didn't eat
+      3. didn't play
+      4. didn't watch
+      5. didn't come
+      6. didn't do
+      7. didn't buy
+      8. didn't have
+
+      **Part B:**
+      1. Did, go
+      2. Did, eat
+      3. Did, play
+      4. Did, see
+      5. Did, study
+      6. Did, make
+
+      **Part C:**
+      1. I did
+      2. she didn't
+      3. they did
+      4. he didn't
+
+      **Part D:**
+      1. Where
+      2. What
+      3. When
+      4. Why
+      5. How
+
+  - id: 5
+    title: "문장 만들기 - 번역"
+    content: |
+      # 한국어를 영어로 바꿔보기
+
+      ## Part A: 부정문
+
+      1. 나는 어제 학교에 가지 않았다.
+         답: _________________________________
+
+      2. 그녀는 아침을 먹지 않았다.
+         답: _________________________________
+
+      3. 우리는 게임을 하지 않았다.
+         답: _________________________________
+
+      4. 그는 숙제를 하지 않았다.
+         답: _________________________________
+
+      5. 그들은 파티에 오지 않았다.
+         답: _________________________________
+
+      ## Part B: 의문문
+
+      6. 너는 학교에 갔니?
+         답: _________________________________
+
+      7. 그녀는 점심을 먹었니?
+         답: _________________________________
+
+      8. 그들은 영화를 봤니?
+         답: _________________________________
+
+      9. 그는 숙제를 했니?
+         답: _________________________________
+
+      10. 너는 재미있었니?
+          답: _________________________________
+
+      ## Part C: 의문사 질문
+
+      11. 너는 어제 어디에 갔니?
+          답: _________________________________
+
+      12. 너는 점심에 무엇을 먹었니?
+          답: _________________________________
+
+      13. 너는 언제 집에 왔니?
+          답: _________________________________
+
+      ---
+
+      ## 예시 답안
+
+      **Part A:**
+      1. I didn't go to school yesterday.
+      2. She didn't eat breakfast.
+      3. We didn't play games.
+      4. He didn't do his homework.
+      5. They didn't come to the party.
+
+      **Part B:**
+      6. Did you go to school?
+      7. Did she eat lunch?
+      8. Did they watch the movie? / Did they see the movie?
+      9. Did he do his homework?
+      10. Did you have fun?
+
+      **Part C:**
+      11. Where did you go yesterday?
+      12. What did you eat for lunch?
+      13. When did you come home?
+
+  - id: 6
+    title: "변형 연습"
+    content: |
+      # 문장 변형하기
+
+      ## Exercise 1: 긍정문 → 부정문 → 의문문
+
+      1. I went to school.
+         부정문: _________________________________
+         의문문: _________________________________
+
+      2. She ate pizza.
+         부정문: _________________________________
+         의문문: _________________________________
+
+      3. They played soccer.
+         부정문: _________________________________
+         의문문: _________________________________
+
+      ---
+
+      ## Exercise 2: 틀린 부분 고치기
+
+      1. I didn't went to school.
+         → _________________________________
+
+      2. Did you ate lunch?
+         → _________________________________
+
+      3. She didn't watched TV.
+         → _________________________________
+
+      4. Did he played soccer?
+         → _________________________________
+
+      5. They didn't came to the party.
+         → _________________________________
+
+      ---
+
+      ## Exercise 3: 대화 완성하기
+
+      1. A: Did you go to school yesterday?
+         B: No, _______ _______. I was sick.
+
+      2. A: Did she eat breakfast?
+         B: Yes, _______ _______. She ate cereal.
+
+      3. A: Did they play games?
+         B: No, _______ _______. They studied.
+
+      ---
+
+      ## Exercise 4: 의문사 질문 만들기
+
+      주어진 답을 보고 질문을 만들어보세요.
+
+      1. 답: I went to the library.
+         질문: _______ did you _______?
+
+      2. 답: I ate pizza.
+         질문: _______ did you _______?
+
+      3. 답: I came home at 5 PM.
+         질문: _______ did you _______ home?
+
+      ---
+
+      ## 정답
+
+      **Exercise 1:**
+      1. I didn't go to school. / Did you go to school?
+      2. She didn't eat pizza. / Did she eat pizza?
+      3. They didn't play soccer. / Did they play soccer?
+
+      **Exercise 2:**
+      1. I didn't go to school.
+      2. Did you eat lunch?
+      3. She didn't watch TV.
+      4. Did he play soccer?
+      5. They didn't come to the party.
+
+      **Exercise 3:**
+      1. I didn't
+      2. she did
+      3. they didn't
+
+      **Exercise 4:**
+      1. Where, go
+      2. What, eat
+      3. When, come
+
+  - id: 7
+    title: "실생활 적용"
+    content: |
+      # 실생활에서 사용해보기
+
+      ## 상황 1: 어제 안 한 일
+
+      어제 하지 않은 일을 5가지 써보세요.
+
+      예시:
+      - I didn't eat breakfast.
+      - I didn't play games.
+
+      나의 답:
+      1. _________________________________
+      2. _________________________________
+      3. _________________________________
+      4. _________________________________
+      5. _________________________________
+
+      ---
+
+      ## 상황 2: 친구에게 질문하기
+
+      친구에게 과거에 대해 물어볼 질문 5개를 만들어보세요.
+
+      예시:
+      - Did you do your homework?
+      - Did you watch the movie?
+
+      나의 질문:
+      1. _________________________________
+      2. _________________________________
+      3. _________________________________
+      4. _________________________________
+      5. _________________________________
+
+      ---
+
+      ## 상황 3: 대화 연습
+
+      친구와의 대화를 완성해보세요.
+
+      A: Hi! _______ you _______ to school yesterday?
+      B: No, I _______. I was sick.
+      A: Oh no! _______ did you _______?
+      B: I stayed at home and slept.
+      A: _______ you _______ to the doctor?
+      B: Yes, I _______. The doctor gave me medicine.
+
+      ---
+
+      ## 상황 4: 일기 쓰기
+
+      어제에 대한 일기를 써보세요. 긍정문, 부정문을 모두 사용하세요.
+
+      Yesterday, I _________________________________
+      I didn't _________________________________
+      Did I have fun? Yes, I did! / No, I didn't.
+
+      ---
+
+      ## 상황 5: 인터뷰 게임
+
+      짝과 함께 인터뷰 게임을 해보세요.
+      서로 질문하고 대답하기!
+
+      Sample questions:
+      - What did you eat for breakfast?
+      - Where did you go last weekend?
+      - Did you watch any movies?
+      - Did you play any sports?
+      - When did you wake up this morning?
+
+  - id: 8
+    title: "종합 문제"
+    content: |
+      # 종합 실력 테스트
+
+      ## Part A: 부정문 만들기 (각 2점, 총 10점)
+
+      1. I went to school.
+         → I _______ _______ to school.
+
+      2. She ate lunch.
+         → She _______ _______ lunch.
+
+      3. We played soccer.
+         → We _______ _______ soccer.
+
+      4. He saw the movie.
+         → He _______ _______ the movie.
+
+      5. They did homework.
+         → They _______ _______ homework.
+
+      ---
+
+      ## Part B: 의문문 만들기 (각 2점, 총 10점)
+
+      1. You went to school.
+         → _______ you _______ to school?
+
+      2. She ate breakfast.
+         → _______ she _______ breakfast?
+
+      3. They came to the party.
+         → _______ they _______ to the party?
+
+      4. He bought a new phone.
+         → _______ he _______ a new phone?
+
+      5. You had fun.
+         → _______ you _______ fun?
+
+      ---
+
+      ## Part C: 틀린 부분 고치기 (각 3점, 총 15점)
+
+      1. I didn't went to school.
+         → _________________________________
+
+      2. Did you ate pizza?
+         → _________________________________
+
+      3. She didn't watched TV.
+         → _________________________________
+
+      4. Did they came to the party?
+         → _________________________________
+
+      5. He didn't bought a book.
+         → _________________________________
+
+      ---
+
+      ## Part D: 영작하기 (각 5점, 총 20점)
+
+      1. 나는 어제 학교에 가지 않았다.
+         _________________________________
+
+      2. 너는 점심을 먹었니?
+         _________________________________
+
+      3. 그녀는 숙제를 하지 않았다.
+         _________________________________
+
+      4. 너는 어디에 갔니?
+         _________________________________
+
+      ---
+
+      ## Part E: 대화 완성하기 (총 15점)
+
+      A: Hi! _______ you _______ (go) to school yesterday?
+      B: No, I _______. I was sick.
+      A: That's too bad. _______ you _______ (see) a doctor?
+      B: Yes, I _______. He gave me some medicine.
+      A: _______ did you _______ (eat) yesterday?
+      B: I _______ (not eat) much. I just had soup.
+      A: I hope you feel better!
+      B: Thanks! I _______ (not do) my homework. Can I copy yours?
+      A: Sure!
+
+      ---
+
+      ## 정답
+
+      **Part A:** didn't go, didn't eat, didn't play, didn't see, didn't do
+
+      **Part B:** Did, go; Did, eat; Did, come; Did, buy; Did, have
+
+      **Part C:**
+      1. I didn't go to school.
+      2. Did you eat pizza?
+      3. She didn't watch TV.
+      4. Did they come to the party?
+      5. He didn't buy a book.
+
+      **Part D:**
+      1. I didn't go to school yesterday.
+      2. Did you eat lunch?
+      3. She didn't do her homework.
+      4. Where did you go?
+
+      **Part E:**
+      Did, go, didn't, Did, see, did, What, eat, didn't eat, didn't do
+
+      ---
+
+      ## 점수 해석 (총 70점 만점)
+
+      - **63-70점:** 완벽해요! 부정문과 의문문 완전 이해!
+      - **56-62점:** 잘했어요! 조금만 더 연습하세요.
+      - **49-55점:** 괜찮아요! 동사원형 규칙을 다시 확인하세요.
+      - **48점 이하:** 다시 도전! Section 1부터 복습하세요.
+
+  - id: 9
+    title: "내일 복습용 문제"
+    content: |
+      # 내일 복습하기
+
+      ## Quick Review (5분)
+
+      ### 1. 부정문 만들기
+
+      1. I went to school.
+         → _________________________________
+
+      2. She ate breakfast.
+         → _________________________________
+
+      3. They played games.
+         → _________________________________
+
+      ---
+
+      ### 2. 의문문 만들기
+
+      1. You went to school.
+         → _________________________________
+
+      2. She ate lunch.
+         → _________________________________
+
+      3. He watched TV.
+         → _________________________________
+
+      ---
+
+      ### 3. 틀린 곳 고치기
+
+      1. I didn't went to school.
+      2. Did you ate pizza?
+      3. She didn't watched TV.
+
+      ---
+
+      ### 4. 짧은 대답
+
+      1. Did you go to school? (Yes)
+         → _________________________________
+
+      2. Did she eat lunch? (No)
+         → _________________________________
+
+      ---
+
+      ### 5. 영작하기
+
+      1. 나는 숙제를 하지 않았다.
+         _________________________________
+
+      2. 너는 영화를 봤니?
+         _________________________________
+
+      3. 너는 어디에 갔니?
+         _________________________________
+
+      ---
+
+      ## 정답
+
+      **1번:**
+      I didn't go to school.
+      She didn't eat breakfast.
+      They didn't play games.
+
+      **2번:**
+      Did you go to school?
+      Did she eat lunch?
+      Did he watch TV?
+
+      **3번:**
+      I didn't go to school.
+      Did you eat pizza?
+      She didn't watch TV.
+
+      **4번:**
+      Yes, I did.
+      No, she didn't.
+
+      **5번:**
+      I didn't do my homework.
+      Did you watch the movie?
+      Where did you go?
+
+      ---
+
+      ## 핵심 규칙
+
+      ✅ didn't + 동사원형
+      ✅ Did + 주어 + 동사원형?
+      ✅ 짧은 대답: Yes, I did. / No, I didn't.
+
+  - id: 10
+    title: "자기 점검 & 격려"
+    content: |
+      # 오늘 공부 마무리
+
+      ## 자기 점검 체크리스트
+
+      ☐ 부정문을 만들 수 있어요 (didn't + 동사원형)
+      ☐ 의문문을 만들 수 있어요 (Did + 주어 + 동사원형?)
+      ☐ 짧은 대답을 할 수 있어요 (Yes, I did. / No, I didn't.)
+      ☐ 의문사 질문을 만들 수 있어요 (What/Where/When did you...?)
+      ☐ didn't/Did 뒤에는 항상 동사원형이 온다는 것을 알아요
+
+      ---
+
+      ## 실력 레벨 확인
+
+      - **5개:** 완벽해요! 과거 시제 완전 정복!
+      - **3-4개:** 잘했어요! 연습만 더 하면 완벽!
+      - **1-2개:** 괜찮아요! 핵심 규칙을 다시 확인!
+
+      ---
+
+      ## 격려 메시지
+
+      축하합니다!
+
+      오늘 여러분은 과거 시제의 부정문과 의문문을 배웠어요!
+
+      이제 여러분은:
+      - "나는 ~하지 않았다"를 말할 수 있어요
+      - "너는 ~했니?"라고 물어볼 수 있어요
+      - 친구와 과거에 대해 대화할 수 있어요
+
+      **핵심만 기억하세요:**
+      didn't / Did 뒤에는 항상 **동사원형**!
+
+      went → didn't go, Did you go?
+      ate → didn't eat, Did you eat?
+
+      ---
+
+      ## 다음 단계
+
+      **내일:** Section 9 복습 문제 풀기
+      **이번 주:** 친구와 과거에 대한 대화 연습하기
+      **다음 단원:** Unit 13에서 과거진행형을 배워요! (I was doing)
+
+      **Great job! 파이팅!**
+
+design_elements:
+  - element: "Spaced Repetition"
+    implementation: "내일 복습용 문제로 24시간 후 복습 유도"
+
+  - element: "Retrieval Practice"
+    implementation: "회상 연습에서 규칙 떠올리기"
+
+  - element: "Interleaving"
+    implementation: "부정문, 의문문, 의문사 질문을 섞어서 연습"
+
+  - element: "Concrete Examples"
+    implementation: "일상생활, 학교, 음식 등 실생활 맥락"
+
+learning_objectives:
+  - "과거 부정문을 만들 수 있다 (didn't + 동사원형)"
+  - "과거 의문문을 만들 수 있다 (Did + 주어 + 동사원형?)"
+  - "짧은 대답을 할 수 있다 (Yes, I did. / No, I didn't.)"
+  - "의문사가 있는 과거 질문을 만들 수 있다"
+  - "didn't/Did 뒤에 동사원형이 온다는 규칙을 이해한다"
