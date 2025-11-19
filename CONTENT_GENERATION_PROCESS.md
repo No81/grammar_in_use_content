@@ -75,14 +75,33 @@ Past: Unit15 - I used to . . .
 
 ## 📋 Step 2: 컨텐츠 생성 (병렬 실행)
 
-### 2.1 단일 에이전트 사용 (권장)
+### 2.1 슬래시 커맨드 사용 (권장)
 
-**사용 에이전트:** `general-purpose`
+**방법 1: 자동 워크플로우 사용**
+
+```markdown
+/generate-units
+```
+
+이 커맨드는 자동으로:
+1. 유닛 목록을 읽음
+2. content-creator 에이전트로 컨텐츠 생성
+3. content-reviewer 에이전트로 검수
+4. 이슈 발견 시 자동 수정
+5. 진행 상황 리포트
+
+**단점:** 순차 실행 (느림)
+
+---
+
+### 2.2 직접 에이전트 호출 (병렬 실행 - 빠름!)
+
+**사용 에이전트:** `content-creator` (Task tool 사용)
 
 ```markdown
 Task 프롬프트 예시:
 
-You are the content-creator agent. Generate learning materials for all units in curriculum/02-past_units.txt
+Launch the content-creator agent to generate learning materials for all units in curriculum/02-past_units.txt
 
 Requirements:
 1. Read curriculum/02-past_units.txt to get the list of units
@@ -104,7 +123,11 @@ Return a summary of:
 - Any issues encountered
 ```
 
-### 2.2 병렬 실행 확인 사항
+**에이전트 파일 위치:** `.claude/agents/content-creator.md`
+
+---
+
+### 2.3 병렬 실행 확인 사항
 
 **중요:** 에이전트에게 명시적으로 병렬 실행을 요청해야 합니다.
 
@@ -119,7 +142,7 @@ Return a summary of:
 "Generate unit files one by one" (순차 실행 - 느림)
 ```
 
-### 2.3 생성될 파일 예시 (Past units)
+### 2.4 생성될 파일 예시 (Past units)
 
 ```
 units/unit10-was-were.yaml
@@ -134,14 +157,23 @@ units/unit15-i-used-to.yaml
 
 ## 📋 Step 3: 검수 실행
 
-### 3.1 검수 에이전트 실행
+### 3.1 슬래시 커맨드 사용
 
-**사용 에이전트:** `general-purpose`
+**방법 1: 자동 검수**
+```markdown
+/review-content
+```
+
+---
+
+### 3.2 직접 에이전트 호출 (권장)
+
+**사용 에이전트:** `content-reviewer` (Task tool 사용)
 
 ```markdown
 Task 프롬프트 예시:
 
-You are the content-reviewer agent. Review all Past tense units (Unit 10-15) that were just generated.
+Launch the content-reviewer agent to review all Past tense units (Unit 10-15) that were just generated.
 
 Files to review:
 - units/unit10-was-were.yaml
@@ -174,7 +206,11 @@ reviews/unit15-review.md
 Return a summary table of all reviews.
 ```
 
-### 3.2 검수 결과 확인
+**에이전트 파일 위치:** `.claude/agents/content-reviewer.md`
+
+---
+
+### 3.3 검수 결과 확인
 
 ```bash
 # 검수 결과 파일 확인
@@ -231,10 +267,12 @@ git diff units/unit10-was-were.yaml
 
 ### 5.1 그룹 복습 자료 생성
 
+**사용 에이전트:** `review-content-creator` (Task tool 사용)
+
 ```markdown
 Task 프롬프트 예시:
 
-Generate a comprehensive review file for Past tense units (Units 10-15).
+Launch the review-content-creator agent to generate a comprehensive review file for Past tense units (Units 10-15).
 
 Requirements:
 1. Read all units: unit10-unit15
@@ -251,6 +289,10 @@ Requirements:
 
 Return summary of review content created.
 ```
+
+**에이전트 파일 위치:** `.claude/agents/review-content-creator.md`
+
+검수는 `review-content-reviewer` 에이전트 사용 (`.claude/agents/review-content-reviewer.md`)
 
 ---
 
@@ -433,23 +475,73 @@ git checkout main
 
 ## 🎯 빠른 시작 템플릿
 
-### 새 그룹 시작 시 복사해서 사용:
+### 방법 1: 슬래시 커맨드 사용 (자동화)
+
+```markdown
+/generate-units
+```
+
+그 다음 파일을 선택하라고 하면 `curriculum/02-past_units.txt` 선택
+
+**장점:** 완전 자동화
+**단점:** 순차 실행으로 느림
+
+---
+
+### 방법 2: 직접 에이전트 호출 (병렬 실행 - 빠름!)
 
 ```markdown
 # Step 1: 커리큘럼 확인
 @curriculum/02-past_units.txt 파일을 읽고 Past 그룹 유닛 목록을 확인해주세요.
 
-# Step 2: 컨텐츠 생성
-content-creator 에이전트에게 curriculum/02-past_units.txt에 있는 모든 유닛의 학습 자료를 병렬로 생성해달라고 요청해주세요.
+# Step 2: 컨텐츠 생성 (병렬)
+Task tool을 사용해서 content-creator 에이전트를 실행해주세요.
+curriculum/02-past_units.txt에 있는 모든 유닛의 학습 자료를 병렬로 생성하도록 요청해주세요.
 
 # Step 3: 검수
-생성이 완료되면 content-reviewer 에이전트에게 모든 Past 유닛(10-15)을 검수해달라고 요청해주세요.
+생성이 완료되면 Task tool로 content-reviewer 에이전트를 실행해주세요.
+모든 Past 유닛(10-15)을 검수하도록 요청해주세요.
 
 # Step 4: 이슈 반영
 검수에서 발견된 이슈들을 반영해서 컨텐츠를 업데이트해주세요.
 
-# Step 5: 커밋
+# Step 5: 복습 자료 생성 (선택)
+Task tool로 review-content-creator 에이전트를 실행해서 units/review-units-10-15.yaml 생성
+
+# Step 6: 커밋
 변경사항을 커밋하고 푸시해주세요.
+```
+
+---
+
+## 🔧 사용 가능한 도구
+
+### 슬래시 커맨드
+- `/generate-units` - 유닛 생성 + 검수 자동화
+- `/create-content` - 단일 유닛 생성
+- `/review-content` - 컨텐츠 검수
+
+### 에이전트 (Task tool 사용)
+- `content-creator` - 학습 자료 생성
+- `content-reviewer` - 학습 자료 검수
+- `review-content-creator` - 복습 자료 생성
+- `review-content-reviewer` - 복습 자료 검수
+
+### 에이전트 파일 위치
+```
+.claude/agents/
+├── content-creator.md
+├── content-reviewer.md
+├── review-content-creator.md
+└── review-content-reviewer.md
+```
+
+### 커맨드 파일 위치
+```
+.claude/commands/
+├── create-content.md
+├── generate-units.md
+└── review-content.md
 ```
 
 ---
