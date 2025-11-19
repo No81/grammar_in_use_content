@@ -59,6 +59,26 @@
       margin-bottom: 20px;
       padding-bottom: 10px;
       border-bottom: 3px solid #ffd86b;
+      cursor: pointer;
+      user-select: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      transition: all 0.3s ease;
+    }
+
+    h2:hover {
+      color: #2a5da5;
+    }
+
+    h2::after {
+      content: '▼';
+      font-size: 0.7em;
+      transition: transform 0.3s ease;
+    }
+
+    h2.collapsed::after {
+      transform: rotate(-90deg);
     }
 
     .unit-grid {
@@ -66,6 +86,15 @@
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
       gap: 15px;
       margin-top: 20px;
+      max-height: 2000px;
+      overflow: hidden;
+      transition: max-height 0.5s ease, opacity 0.3s ease;
+    }
+
+    .unit-grid.collapsed {
+      max-height: 0;
+      opacity: 0;
+      margin-top: 0;
     }
 
     .unit-card {
@@ -117,6 +146,16 @@
       transition: all 0.3s ease;
       text-decoration: none;
       display: block;
+      max-height: 500px;
+      overflow: hidden;
+    }
+
+    .review-card.collapsed {
+      max-height: 0;
+      opacity: 0;
+      padding: 0;
+      margin: 0;
+      border: 0;
     }
 
     .review-card:hover {
@@ -222,7 +261,7 @@
     </div>
 
     <div class="section">
-      <h2>📖 Present Tense Units (1-9)</h2>
+      <h2>📖 Present Units (1-9)</h2>
       <div class="unit-grid">
         <a href="viewer.html?file=units/unit1-am-is-are.yaml" class="unit-card">
           <div class="unit-number">Unit 1</div>
@@ -299,5 +338,28 @@
       </p>
     </footer>
   </div>
+
+  <script>
+    // Accordion functionality
+    document.addEventListener('DOMContentLoaded', function() {
+      const sections = document.querySelectorAll('.section');
+
+      sections.forEach(section => {
+        const heading = section.querySelector('h2');
+        if (!heading) return;
+
+        heading.addEventListener('click', function() {
+          // Toggle collapsed class on heading
+          this.classList.toggle('collapsed');
+
+          // Toggle collapsed class on content (unit-grid or review-card)
+          const content = section.querySelector('.unit-grid, .review-card');
+          if (content) {
+            content.classList.toggle('collapsed');
+          }
+        });
+      });
+    });
+  </script>
 </body>
 </html>
