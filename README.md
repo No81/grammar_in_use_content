@@ -82,7 +82,7 @@ http://localhost:8000
 grammar_in_use_content/
 ├── index.html              # 메인 랜딩 페이지 (유닛 목록)
 ├── viewer.html             # YAML 뷰어
-├── units/                  # 유닛 파일들
+├── units/                  # 유닛 및 복습 자료
 │   ├── unit1-am-is-are.yaml
 │   ├── unit2-am-is-are-questions.yaml
 │   ├── unit3-i-am-doing-present-continuous.yaml
@@ -91,9 +91,9 @@ grammar_in_use_content/
 │   ├── unit6-simple-present-negative.yaml
 │   ├── unit7-simple-present-questions.yaml
 │   ├── unit8-present-continuous-vs-simple-present.yaml
-│   └── unit9-have-and-have-got.yaml
-├── reviews/                # 복습 자료
+│   ├── unit9-have-and-have-got.yaml
 │   └── review-units-1-9.yaml
+├── reviews/                # 에이전트 리뷰 결과 저장
 └── README.md              # 이 파일
 ```
 
