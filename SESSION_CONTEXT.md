@@ -45,14 +45,32 @@
 - `WORKFLOW.md` - 워크플로우 문서
 - `present_units.txt` - Present 파트 9개 유닛 목록
 
-### 3. 테스트 완료
+### 3. Present 파트 완료 (Unit 1-9)
 
-**Unit 6 생성 및 검수 완료**:
-- 파일: `units/unit6-simple-present-negative.yaml`
-- 검수 완료: Critical Error 1개 수정, 개선사항 3개 반영
-- 최종 등급: **Excellent**
+**생성 완료된 유닛**:
+- `units/unit1-am-is-are.yaml`
+- `units/unit2-am-is-are-questions.yaml`
+- `units/unit3-i-am-doing-present-continuous.yaml`
+- `units/unit4-are-you-doing-present-continuous-questions.yaml`
+- `units/unit5-i-do-work-like-simple-present.yaml`
+- `units/unit6-simple-present-negative.yaml`
+- `units/unit7-simple-present-questions.yaml`
+- `units/unit8-present-continuous-vs-simple-present.yaml`
+- `units/unit9-have-and-have-got.yaml`
+- `units/review-units-1-9.yaml` (Present 파트 복습)
 
-### 4. 뷰어 생성
+### 4. Past 파트 완료 (Unit 10-15)
+
+**생성 완료된 유닛**:
+- `units/unit10-was-were.yaml` (Good)
+- `units/unit11-simple-past.yaml` (Good)
+- `units/unit12-simple-past-negative-questions.yaml` (Good)
+- `units/unit13-past-continuous.yaml` (Good)
+- `units/unit14-past-continuous-vs-simple-past.yaml` (Good)
+- `units/unit15-used-to.yaml` (Excellent)
+- `units/review-units-10-15.yaml` (Past 파트 복습)
+
+### 5. 뷰어 생성
 
 **HTML 뷰어**: `viewer.html`
 - YAML 파일을 브라우저에서 보기 좋게 표시
@@ -64,20 +82,24 @@
 
 ### 즉시 시작 가능한 작업
 
-#### Option 1: Present 파트 나머지 유닛 생성 (8개)
+#### Option 1: Present Perfect 파트 생성 (Unit 16-19)
 
 아직 생성 안 된 유닛:
-- Unit 1: am/is/are
-- Unit 2: am/is/are (questions)
-- Unit 3: I am doing (present continuous)
-- Unit 4: are you doing? (present continuous questions)
-- Unit 5: I do/work/like, etc. (simple present)
-- ✅ Unit 6: I don't... (simple present negative) - 완료
-- Unit 7: Do you...? (simple present questions)
-- Unit 8: I am doing and I do (comparison)
-- Unit 9: I have... and I've got...
+- Unit 16: I've just... I've already... I haven't...yet
+- Unit 17: Have you ever...?
+- Unit 18: How long have you...?
+- Unit 19: for, since, ago
 
-#### Option 2: 자동 워크플로우 실행
+#### Option 2: Future 파트 생성 (Unit 20-25)
+
+- Unit 20: I'm going to...
+- Unit 21: will
+- Unit 22: will vs I'm going to...
+- Unit 23: Shall I...? Will you...?
+- Unit 24: might
+- Unit 25: can and could
+
+#### Option 3: 자동 워크플로우 실행
 
 ```
 /generate-units
@@ -104,10 +126,26 @@ E:\code\grammar_in_use_content/
 │   └── config.json                 (autoCompact: false)
 │
 ├── units/
-│   └── unit6-simple-present-negative.yaml  ✅ 완료
+│   ├── unit1-am-is-are.yaml                ✅ Present
+│   ├── unit2-am-is-are-questions.yaml      ✅ Present
+│   ├── unit3-i-am-doing-present-continuous.yaml  ✅ Present
+│   ├── unit4-are-you-doing-present-continuous-questions.yaml  ✅ Present
+│   ├── unit5-i-do-work-like-simple-present.yaml  ✅ Present
+│   ├── unit6-simple-present-negative.yaml  ✅ Present
+│   ├── unit7-simple-present-questions.yaml ✅ Present
+│   ├── unit8-present-continuous-vs-simple-present.yaml  ✅ Present
+│   ├── unit9-have-and-have-got.yaml        ✅ Present
+│   ├── unit10-was-were.yaml                ✅ Past
+│   ├── unit11-simple-past.yaml             ✅ Past
+│   ├── unit12-simple-past-negative-questions.yaml  ✅ Past
+│   ├── unit13-past-continuous.yaml         ✅ Past
+│   ├── unit14-past-continuous-vs-simple-past.yaml  ✅ Past
+│   ├── unit15-used-to.yaml                 ✅ Past
+│   ├── review-units-1-9.yaml               ✅ Review
+│   └── review-units-10-15.yaml             ✅ Review
 │
 ├── reviews/
-│   └── (검수 리포트 저장 예정)
+│   └── (검수 리포트)
 │
 ├── viewer.html                     ⭐ YAML 뷰어
 ├── present_units.txt               ⭐ 유닛 목록
@@ -194,13 +232,13 @@ Present: Unit{N} - {제목}
 
 - [x] 에이전트 2개 생성
 - [x] 워크플로우 시스템 구축
-- [x] Unit 6 테스트 완료
-- [ ] Unit 1-5 생성
-- [ ] Unit 7-9 생성
-- [ ] Past 파트 생성 (10-15)
+- [x] Present 파트 완료 (Unit 1-9)
+- [x] Past 파트 완료 (Unit 10-15)
+- [x] 복습 유닛 완료 (Units 1-9, 10-15)
 - [ ] Present Perfect 파트 생성 (16-19)
+- [ ] Future 파트 생성 (20-25)
 
-**현재**: Present 파트 9개 중 1개 완료 (11% 완료)
+**현재**: 15개 유닛 + 2개 복습 유닛 완료
 
 ---
 
@@ -213,6 +251,5 @@ Present: Unit{N} - {제목}
 
 ---
 
-**마지막 업데이트**: 2025-11-19
-**토큰 사용량**: 142k/200k (71%)
-**다음 작업**: Present 파트 나머지 8개 유닛 생성
+**마지막 업데이트**: 2025-11-21
+**다음 작업**: Present Perfect 파트 생성 (Unit 16-19)

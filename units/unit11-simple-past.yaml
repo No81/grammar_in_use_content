@@ -1,0 +1,272 @@
+title: "Unit 11 · 과거 시제 (Simple Past) - worked/got/went 등"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "과거 시제(Simple Past)는 <span class='highlight'>과거에 일어난 일</span>을 말할 때 사용해요. 어제, 지난주, 작년처럼 이미 끝난 일을 표현합니다."
+      - type: list
+        heading: "형식 (Form) - 규칙 동사"
+        list:
+          - "기본형 + ed → played, watched, cleaned"
+          - "e로 끝나면 + d → liked, danced, used"
+          - "자음 + y로 끝나면 y를 i로 바꾸고 + ed → studied, tried, cried"
+          - "짧은 모음 + 자음으로 끝나면 자음을 한 번 더 쓰고 + ed → stopped, planned"
+      - type: list
+        heading: "형식 (Form) - 불규칙 동사 (자주 쓰는 것들)"
+        list:
+          - "go → went (가다)"
+          - "get → got (얻다/받다)"
+          - "have → had (가지다/먹다)"
+          - "make → made (만들다)"
+          - "eat → ate (먹다)"
+          - "see → saw (보다)"
+          - "come → came (오다)"
+          - "do → did (하다)"
+          - "take → took (가져가다/찍다)"
+          - "buy → bought (사다)"
+          - "meet → met (만나다)"
+          - "ride → rode (타다)"
+      - type: list
+        heading: "부정문과 의문문"
+        list:
+          - "<span class='highlight'>부정문: didn't + 동사원형</span> → I didn't go to school. (나는 학교에 안 갔어.)"
+          - "She didn't eat breakfast. (그녀는 아침을 안 먹었어.)"
+          - "We didn't play games yesterday. (우리는 어제 게임을 안 했어.)"
+          - "<span class='highlight'>의문문: Did + 주어 + 동사원형?</span> → Did you finish homework? (너 숙제 끝냈어?)"
+          - "Did she go to the party? (그녀가 파티에 갔어?)"
+          - "Did they watch the movie? (그들이 영화를 봤어?)"
+      - type: note
+        content: "중요! 부정문과 의문문에서는 <span class='highlight'>didn't/Did 뒤에 동사원형</span>을 써요!<br />• I didn't <span class='highlight'>went</span> (X) → I didn't <span class='highlight'>go</span> (O)<br />• Did you <span class='highlight'>ate</span>? (X) → Did you <span class='highlight'>eat</span>? (O)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 과거 시제는 '그때 그 일이 일어났다'는 느낌을 줍니다. 지금과는 연결되지 않고, 과거의 특정 시점에 완료된 일을 말해요."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 어제 한 일: I played soccer yesterday. (나는 어제 축구를 했어.)<br />• 지난주에 있었던 일: We visited my grandmother last week. (우리는 지난주에 할머니를 방문했어.)<br />• 과거의 특정 시점: She got a new phone in March. (그녀는 3월에 새 핸드폰을 받았어.)"
+      - type: list
+        heading: "더 많은 예문 (10개 이상)"
+        list:
+          - "I <span class='highlight'>watched</span> a movie with my friend. (학교/친구) - 나는 친구와 영화를 봤어."
+          - "She <span class='highlight'>studied</span> math for the test. (학교/공부) - 그녀는 시험을 위해 수학을 공부했어."
+          - "We <span class='highlight'>ate</span> pizza for dinner. (음식) - 우리는 저녁으로 피자를 먹었어."
+          - "He <span class='highlight'>went</span> to the park after school. (일상) - 그는 방과 후에 공원에 갔어."
+          - "They <span class='highlight'>played</span> video games all day. (게임/오락) - 그들은 하루 종일 비디오 게임을 했어."
+          - "My mom <span class='highlight'>made</span> delicious cookies. (가족/음식) - 우리 엄마가 맛있는 쿠키를 만들었어."
+          - "I <span class='highlight'>got</span> a good grade on the test. (학교) - 나는 시험에서 좋은 점수를 받았어."
+          - "She <span class='highlight'>bought</span> a new book at the store. (취미/쇼핑) - 그녀는 가게에서 새 책을 샀어."
+          - "We <span class='highlight'>had</span> a great time at the party. (일상/감정) - 우리는 파티에서 즐거운 시간을 보냈어."
+          - "He <span class='highlight'>saw</span> his favorite singer on TV. (오락/감정) - 그는 TV에서 좋아하는 가수를 봤어."
+          - "I <span class='highlight'>cleaned</span> my room this morning. (일상/가족) - 나는 오늘 아침에 방을 청소했어."
+          - "They <span class='highlight'>came</span> to my birthday party. (친구/가족) - 그들은 내 생일 파티에 왔어."
+      - type: note
+        content: "한국 학습자가 자주 하는 실수:<br />• 동사 원형 그대로 쓰기: I go yesterday. (X) → I <span class='highlight'>went</span> yesterday. (O)<br />• did와 과거형 함께 쓰기: I did went. (X) → I went. (O) 또는 I did go. (강조)<br />• 불규칙 동사에 -ed 붙이기: goed (X) → went (O), eated (X) → ate (O)"
+      - type: text
+        content: "<span class='highlight'>현재 시제 vs 과거 시제</span><br />현재: I play soccer every day. (매일 하는 일)<br />과거: I <span class='highlight'>played</span> soccer yesterday. (어제 한 일, 끝남)<br /><br />현재 시제는 '지금 하는 일' 또는 '반복되는 일'을 말하고, 과거 시제는 '과거에 한 일'을 말해요."
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "아래 문장들을 잘 관찰하고, 공통점을 찾아보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "She walked to school this morning."
+          - "They watched a cartoon after lunch."
+          - "I made a sandwich for breakfast."
+          - "He went to the library yesterday."
+          - "We played basketball in the gym."
+          - "My sister bought new shoes last weekend."
+          - "The students finished their homework."
+      - type: qna
+        question: "Q1. 위 문장들의 동사는 어떤 형태인가요? 어떤 공통점이 있나요?"
+        answer: "모든 동사가 과거형입니다. walked, watched, finished는 -ed가 붙었고, made, went, played, bought는 과거형으로 변했어요. 이미 끝난 일을 말하고 있습니다."
+      - type: qna
+        question: "Q2. this morning, yesterday, last weekend 같은 단어들은 왜 쓰였을까요?"
+        answer: "'언제'인지 알려주는 시간 표현이에요. 과거 시제와 함께 자주 쓰여서 그 일이 과거에 일어났다는 것을 더 명확하게 해줍니다."
+      - type: qna
+        question: "Q3. walked와 went의 차이점은 무엇인가요?"
+        answer: "walked는 규칙 동사로 walk + ed = walked가 됐어요. went는 불규칙 동사로 go가 완전히 다른 형태인 went로 바뀌었어요."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "위의 설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 규칙 동사의 과거형을 만드는 기본 규칙을 써 보세요."
+        answer: "동사 원형에 -ed를 붙인다. (예: play → played, watch → watched)<br />평가 기준: '-ed를 붙인다'는 핵심이 있으면 정답"
+      - type: qna
+        question: "R2. go, eat, see의 과거형을 써 보세요."
+        answer: "go → went, eat → ate, see → saw<br />평가 기준: 3개 모두 맞으면 정답, 2개 맞으면 거의 정답"
+      - type: qna
+        question: "R3. 한국 학습자들이 자주 하는 실수 한 가지를 써 보세요."
+        answer: "예시: 동사 원형 그대로 쓰기 (I go yesterday), 불규칙 동사에 -ed 붙이기 (goed, eated), did와 과거형 함께 쓰기 (did went)<br />평가 기준: 위 실수 중 하나를 기억하면 정답"
+      - type: qna
+        question: "R4. 아까 배운 예문 중 하나를 기억나는 대로 영어로 써 보세요."
+        answer: "예시: I watched a movie with my friend. / She studied math for the test. / We ate pizza for dinner.<br />평가 기준: 과거 시제를 사용한 문장이면 정답 (단어가 조금 달라도 됨)"
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "괄호 안의 동사를 과거형으로 바꿔 빈칸에 써 보세요."
+      - type: qna
+        question: "Q1. I _______ (watch) a funny video last night."
+        answer: "watched<br />watch는 규칙 동사라서 -ed를 붙여요."
+      - type: qna
+        question: "Q2. She _______ (go) to the supermarket with her mom."
+        answer: "went<br />go는 불규칙 동사라서 went로 바뀌어요."
+      - type: qna
+        question: "Q3. We _______ (play) hide and seek in the playground."
+        answer: "played<br />play는 규칙 동사라서 -ed를 붙여요."
+      - type: qna
+        question: "Q4. He _______ (eat) three hamburgers for lunch."
+        answer: "ate<br />eat는 불규칙 동사라서 ate로 바뀌어요."
+      - type: qna
+        question: "Q5. They _______ (study) English together yesterday."
+        answer: "studied<br />study는 자음+y로 끝나서 y를 i로 바꾸고 -ed를 붙여요."
+      - type: qna
+        question: "Q6. My dad _______ (make) pancakes this morning."
+        answer: "made<br />make는 불규칙 동사라서 made로 바뀌어요."
+      - type: qna
+        question: "Q7. I _______ (buy) a gift for my friend's birthday."
+        answer: "bought<br />buy는 불규칙 동사라서 bought로 바뀌어요."
+      - type: qna
+        question: "Q8. She _______ (see) a rainbow after the rain."
+        answer: "saw<br />see는 불규칙 동사라서 saw로 바뀌어요."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. 과거 시제를 사용하세요!"
+      - type: qna
+        question: "T1. 나는 어제 숙제를 했어."
+        answer: "I did my homework yesterday.<br />평가 기준: did (과거형)와 homework, yesterday가 있으면 정답"
+      - type: qna
+        question: "T2. 그녀는 지난주에 새 가방을 샀어."
+        answer: "She bought a new bag last week.<br />평가 기준: bought (과거형), bag, last week가 있으면 정답"
+      - type: qna
+        question: "T3. 우리는 점심으로 김밥을 먹었어."
+        answer: "We ate gimbap for lunch. / We had gimbap for lunch.<br />평가 기준: ate/had (과거형)와 for lunch가 있으면 정답"
+      - type: qna
+        question: "T4. 그는 오늘 아침에 학교에 걸어갔어."
+        answer: "He walked to school this morning.<br />평가 기준: walked (과거형), school, this morning이 있으면 정답"
+      - type: qna
+        question: "T5. 나는 어젯밤에 좋은 꿈을 꿨어."
+        answer: "I had a good dream last night.<br />평가 기준: had (과거형), dream, last night가 있으면 정답"
+      - type: qna
+        question: "T6. 그들은 공원에서 자전거를 탔어."
+        answer: "They rode bikes in the park.<br />평가 기준: rode (ride의 과거형), bike/bicycle, park가 있으면 정답"
+      - type: qna
+        question: "T7. 내 친구가 어제 우리 집에 왔어."
+        answer: "My friend came to my house yesterday.<br />평가 기준: came (과거형), house/home, yesterday가 있으면 정답"
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I play tennis every day. → (어제로 바꾸기)"
+        answer: "I played tennis yesterday.<br />play → played로 바꾸고, every day → yesterday로 바꿔요."
+      - type: qna
+        question: "TF2. She goes to the library. → (지난 금요일로 바꾸기)"
+        answer: "She went to the library last Friday.<br />goes → went로 바꾸고, 시간 표현을 추가해요."
+      - type: qna
+        question: "TF3. We eat lunch at school. → (오늘로 바꾸기)"
+        answer: "We ate lunch at school today.<br />eat → ate로 바꾸고, 시간 표현을 추가해요."
+      - type: qna
+        question: "TF4. He makes his bed every morning. → (오늘 아침으로 바꾸기)"
+        answer: "He made his bed this morning.<br />makes → made로 바꾸고, every morning → this morning으로 바꿔요."
+      - type: qna
+        question: "TF5. They see their grandparents on Sundays. → (지난 일요일로 바꾸기)"
+        answer: "They saw their grandparents last Sunday.<br />see → saw로 바꾸고, on Sundays → last Sunday로 바꿔요."
+      - type: qna
+        question: "TF6. I buy snacks at the store. → (어제로 바꾸기)"
+        answer: "I bought snacks at the store yesterday.<br />buy → bought로 바꾸고, 시간 표현을 추가해요."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 과거 시제로 만들어 보세요!"
+      - type: qna
+        question: "A1. 어제 뭘 했나요? 2-3문장으로 써 보세요."
+        answer: "예시: I played computer games after school. I ate chicken for dinner. I watched YouTube before bed.<br />평가 기준: 과거 시제 동사를 올바르게 사용하면 정답. 내용은 자유롭게!"
+      - type: qna
+        question: "A2. 지난 주말에 한 일을 2-3문장으로 써 보세요."
+        answer: "예시: I went to a bookstore last Saturday. I bought two comic books. I had ice cream with my mom.<br />평가 기준: 과거 시제 동사를 올바르게 사용하면 정답. 진짜 경험이 아니어도 됨"
+      - type: qna
+        question: "A3. 오늘 아침에 일어나서 학교 오기 전까지 한 일을 3문장으로 써 보세요."
+        answer: "예시: I woke up at 7 o'clock. I ate breakfast quickly. I walked to school with my sister.<br />평가 기준: 과거 시제를 사용한 3문장이면 정답. 문장 순서는 자유"
+      - type: qna
+        question: "A4. 가장 좋아하는 음식을 마지막으로 먹은 날을 설명해 보세요."
+        answer: "예시: I ate pizza last Friday. My mom ordered it online. It was really delicious!<br />평가 기준: 과거 시제를 사용해서 음식에 대한 이야기를 하면 정답"
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장에서 틀린 부분을 찾아 고치세요: 'I goed to the mall and buyed a shirt yesterday.'"
+        answer: "I <span class='highlight'>went</span> to the mall and <span class='highlight'>bought</span> a shirt yesterday.<br />go와 buy는 불규칙 동사라서 goed, buyed가 아니라 went, bought를 써야 해요."
+      - type: qna
+        question: "C2. 다음 문장에서 틀린 부분을 찾아 고치세요: 'She did studied hard for the exam.'"
+        answer: "She <span class='highlight'>studied</span> hard for the exam.<br />did와 studied(과거형)를 함께 쓰면 안 돼요. studied만 쓰거나, did study(강조)로 써야 해요."
+      - type: qna
+        question: "C3. 친구에게 '지난 여름 방학에 뭘 했어?'라고 묻고 대답하는 대화를 3문장 이상으로 써 보세요."
+        answer: "예시:<br />A: What did you do last summer vacation?<br />B: I visited my grandparents in Busan. I swam in the sea every day. I also ate a lot of delicious seafood!<br />평가 기준: 질문과 대답이 있고, 과거 시제 동사가 올바르게 쓰이면 정답"
+      - type: qna
+        question: "C4. 다음 동사들을 모두 사용해서 짧은 이야기를 써 보세요: went, ate, saw, had"
+        answer: "예시: Last Sunday, I went to the zoo with my family. We saw many animals like lions and elephants. We ate hamburgers for lunch. We had a great time together!<br />평가 기준: 4개의 동사를 모두 사용하고 내용이 연결되면 정답"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 기억이 더 오래 남아요."
+      - type: qna
+        question: "SR1. play의 과거형은?"
+        answer: "played"
+      - type: qna
+        question: "SR2. go의 과거형은?"
+        answer: "went"
+      - type: qna
+        question: "SR3. eat의 과거형은?"
+        answer: "ate"
+      - type: qna
+        question: "SR4. make의 과거형은?"
+        answer: "made"
+      - type: qna
+        question: "SR5. 빈칸 채우기: I _______ (see) a beautiful sunset yesterday."
+        answer: "saw"
+      - type: qna
+        question: "SR6. 빈칸 채우기: She _______ (buy) new shoes last weekend."
+        answer: "bought"
+      - type: qna
+        question: "SR7. 번역: 나는 어제 친구를 만났어."
+        answer: "I met my friend yesterday."
+      - type: qna
+        question: "SR8. 틀린 곳 고치기: He goed to school by bus."
+        answer: "He went to school by bus."
+      - type: qna
+        question: "SR9. 현재 → 과거로 바꾸기: We have fun at the party."
+        answer: "We had fun at the party."
+      - type: qna
+        question: "SR10. 어제 한 일을 한 문장으로 써 보세요."
+        answer: "예시: I played games with my brother. (과거 시제 동사를 올바르게 사용하면 정답)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "오늘 배운 내용을 스스로 점검해 보세요!"
+      - type: qna
+        question: "SC1. 규칙 동사의 과거형 만드는 법을 설명할 수 있나요?"
+        answer: "할 수 있다면: 잘했어요! -ed 규칙을 잘 이해했네요.<br />어렵다면: Section 1의 규칙 동사 형식을 다시 읽어보세요. play → played처럼 -ed를 붙이는 게 기본이에요."
+      - type: qna
+        question: "SC2. go, eat, see, make, buy의 과거형을 모두 말할 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 불규칙 동사를 잘 외웠네요.<br />어렵다면: went, ate, saw, made, bought를 소리 내어 여러 번 읽어보세요. 반복하면 기억에 남아요!"
+      - type: qna
+        question: "SC3. 어제 한 일을 영어로 3문장 이상 말할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 과거 시제를 실생활에 적용할 수 있네요!<br />어렵다면: Section 7의 예시를 참고해서 자신의 이야기로 바꿔 보세요."
+      - type: qna
+        question: "SC4. 친구가 'I goed to school'이라고 쓰면, 왜 틀렸는지 설명할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 규칙/불규칙 동사의 차이를 잘 알고 있네요.<br />어렵다면: go는 불규칙 동사라서 -ed를 붙이면 안 돼요. went가 정답!"
+      - type: note
+        content: "오늘 과거 시제를 열심히 공부했어요! 과거 시제는 영어에서 정말 자주 쓰이는 중요한 문법이에요. 오늘 배운 내용을 잘 기억하면 영어로 자신의 경험을 말할 수 있어요. 정말 잘하고 있어요!"
+      - type: note
+        content: "내일 할 일: Section 9의 복습 문제를 풀어보세요. 그리고 오늘 있었던 일을 영어로 3문장 이상 일기처럼 써 보면 더 좋아요!"

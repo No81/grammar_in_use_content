@@ -1,0 +1,269 @@
+title: "Unit 14 · I was doing (과거진행형) vs I did (단순과거)"
+meta: "대상: 6학년 · 난이도: 중상 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "오늘은 과거진행형(was/were + -ing)과 단순과거(동사의 과거형)를 비교하고, 두 시제를 함께 사용하는 방법을 배워요. 이 두 시제는 둘 다 '과거'를 나타내지만, 의미가 완전히 달라요!"
+      - type: list
+        heading: "과거진행형 (Past Continuous)"
+        list:
+          - "<span class='highlight'>형식:</span> was/were + 동사-ing"
+          - "<span class='highlight'>의미:</span> 과거의 특정 시점에 진행 중이던 동작 (배경, 길게 계속됨)"
+          - "<span class='highlight'>느낌:</span> 마치 영화의 한 장면처럼, 그 순간 '~하고 있었다'"
+          - "예: I <span class='highlight'>was watching</span> TV. (나는 TV를 보고 있었어.) - 계속 진행 중이던 동작"
+      - type: list
+        heading: "단순과거 (Simple Past)"
+        list:
+          - "<span class='highlight'>형식:</span> 동사의 과거형 (-ed / 불규칙)"
+          - "<span class='highlight'>의미:</span> 과거에 완료된 동작, 짧게 일어난 사건"
+          - "<span class='highlight'>느낌:</span> '~했다'라고 딱 끝난 느낌"
+          - "예: The phone <span class='highlight'>rang</span>. (전화가 울렸어.) - 짧게 일어난 사건"
+      - type: text
+        content: "<span class='highlight'>핵심 차이: 배경 vs 사건</span><br />• 과거진행형: 길게 진행되던 <strong>배경 동작</strong> (장면을 설정함)<br />• 단순과거: 갑자기 일어난 <strong>짧은 사건</strong> (배경을 '끊는' 동작)"
+      - type: text
+        content: "<span class='highlight'>함께 쓸 때 (when/while)</span><br />• <strong>when + 단순과거:</strong> 짧은 사건이 일어날 때<br />I was sleeping <span class='highlight'>when</span> the alarm <span class='highlight'>rang</span>. (알람이 울렸을 때 나는 자고 있었어.)<br />• <strong>while + 과거진행형:</strong> 긴 동작이 진행되는 동안<br /><span class='highlight'>While</span> I <span class='highlight'>was sleeping</span>, my mom came home. (내가 자는 동안 엄마가 집에 오셨어.)"
+      - type: list
+        heading: "나란히 비교하는 예문"
+        list:
+          - "<span class='highlight'>배경 + 사건:</span><br />• I <span class='highlight'>was eating</span> breakfast when my friend <span class='highlight'>called</span>. (내가 아침을 먹고 있을 때 친구가 전화했어.)<br />과거진행 = 길게 진행 / 단순과거 = 짧게 끊음"
+          - "<span class='highlight'>두 가지 동시 동작:</span><br />• While I <span class='highlight'>was studying</span>, my brother <span class='highlight'>was playing</span> games. (내가 공부하는 동안 동생은 게임을 하고 있었어.)<br />둘 다 과거진행 = 둘 다 길게 진행"
+          - "<span class='highlight'>연속된 사건들:</span><br />• I <span class='highlight'>woke up</span>, <span class='highlight'>brushed</span> my teeth, and <span class='highlight'>ate</span> breakfast. (나는 일어나서, 이를 닦고, 아침을 먹었어.)<br />모두 단순과거 = 순서대로 일어난 완료된 동작들"
+          - "<span class='highlight'>진행 중 + 끼어든 사건:</span><br />• It <span class='highlight'>started</span> to rain while we <span class='highlight'>were walking</span> home. (우리가 집에 걸어가는 동안 비가 오기 시작했어.)<br />while절 = 배경 / 주절 = 끼어든 사건"
+      - type: list
+        heading: "다양한 상황의 예문 (10개 이상)"
+        list:
+          - "I <span class='highlight'>was doing</span> my homework when Mom <span class='highlight'>came</span> home. (내가 숙제하고 있을 때 엄마가 집에 오셨어.) - 숙제=배경, 도착=사건"
+          - "She <span class='highlight'>was talking</span> on the phone when the doorbell <span class='highlight'>rang</span>. (그녀가 통화하고 있을 때 초인종이 울렸어.) - 통화=배경, 초인종=사건"
+          - "While he <span class='highlight'>was cooking</span>, the fire alarm <span class='highlight'>went off</span>. (그가 요리하는 동안 화재 경보기가 울렸어.) - 요리=배경, 경보=사건"
+          - "We <span class='highlight'>were playing</span> soccer when it <span class='highlight'>started</span> to rain. (우리가 축구하고 있을 때 비가 오기 시작했어.) - 축구=배경, 비=사건"
+          - "I <span class='highlight'>saw</span> my teacher while I <span class='highlight'>was shopping</span> at the mall. (내가 쇼핑몰에서 쇼핑하는 동안 선생님을 봤어.) - 쇼핑=배경, 만남=사건"
+          - "The baby <span class='highlight'>was sleeping</span> when the dog <span class='highlight'>barked</span> loudly. (아기가 자고 있을 때 개가 크게 짖었어.) - 잠=배경, 짖음=사건"
+          - "While they <span class='highlight'>were watching</span> TV, the power <span class='highlight'>went out</span>. (그들이 TV를 보는 동안 전기가 나갔어.) - TV시청=배경, 정전=사건"
+          - "I <span class='highlight'>dropped</span> my phone while I <span class='highlight'>was running</span>. (내가 달리는 동안 휴대폰을 떨어뜨렸어.) - 달리기=배경, 떨어뜨림=사건"
+          - "What <span class='highlight'>were</span> you <span class='highlight'>doing</span> when I <span class='highlight'>texted</span> you? (내가 문자 보냈을 때 뭐 하고 있었어?) - 의문문"
+          - "I <span class='highlight'>wasn't paying</span> attention when the teacher <span class='highlight'>asked</span> me a question. (선생님이 질문했을 때 나는 집중하고 있지 않았어.) - 부정문"
+          - "While Mom <span class='highlight'>was cooking</span>, Dad <span class='highlight'>was cleaning</span> the house. (엄마가 요리하시는 동안 아빠는 집을 청소하고 계셨어.) - 동시 진행"
+          - "I <span class='highlight'>fell</span> asleep while I <span class='highlight'>was reading</span> a book. (책을 읽다가 잠이 들었어.) - 읽기=배경, 잠듦=사건"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1) 두 시제를 구분 없이 사용: I <span class='highlight'>was watching</span> TV and my friend <span class='highlight'>was calling</span>. (X) → I was watching TV when my friend <span class='highlight'>called</span>. (O) - 끼어든 동작은 단순과거!<br />2) when과 while 혼동: When I <span class='highlight'>was eating</span>, the phone rang. (O) / While I <span class='highlight'>ate</span>, the phone rang. (X) → While I <span class='highlight'>was eating</span>... (O) - while 뒤에는 진행형!<br />3) 연속 동작에 진행형 사용: I <span class='highlight'>was waking up</span> and <span class='highlight'>was eating</span> breakfast. (X) → I <span class='highlight'>woke up</span> and <span class='highlight'>ate</span> breakfast. (O) - 순서대로 끝난 일은 단순과거!<br />4) 배경과 사건을 반대로: The phone <span class='highlight'>was ringing</span> when I <span class='highlight'>watched</span> TV. (어색) → I <span class='highlight'>was watching</span> TV when the phone <span class='highlight'>rang</span>. (자연스러움)"
+      - type: text
+        content: "<span class='highlight'>어떤 시제를 선택할지 결정하는 방법:</span><br />질문해 보세요: '이 동작은 길게 진행되고 있었나, 아니면 짧게 딱 일어났나?'<br />• 길게 진행 (배경) → 과거진행형<br />• 짧게 끝남 (사건) → 단순과거<br />• 두 동작이 동시에 길게 → 둘 다 과거진행형<br />• 동작들이 순서대로 끝남 → 모두 단순과거"
+      - type: text
+        content: "<span class='highlight'>Unit 13과의 연결:</span><br />Unit 13에서 배운 과거진행형의 형태와 의미를 기억하세요. 오늘은 그것을 단순과거와 함께 사용하는 방법을 배우는 거예요. when/while을 사용해서 두 시제를 연결하는 것이 핵심이에요!"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "아래 문장들을 보고 과거진행형과 단순과거가 어떻게 함께 쓰이는지 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요 (밑줄 친 부분에 주목!)"
+        list:
+          - "I <u>was walking</u> to school when I <u>met</u> my friend."
+          - "While she <u>was reading</u>, her phone <u>rang</u>."
+          - "The kids <u>were playing</u> outside when it <u>started</u> to rain."
+          - "He <u>fell</u> down while he <u>was running</u>."
+          - "I <u>saw</u> a bird while I <u>was waiting</u> for the bus."
+          - "What <u>were</u> you <u>doing</u> when I <u>called</u>?"
+          - "While they <u>were eating</u> dinner, the lights <u>went out</u>."
+          - "She <u>was listening</u> to music when her mom <u>came</u> in."
+      - type: qna
+        question: "Q1. 위 문장들에서 was/were + -ing (진행형)와 과거형(-ed/불규칙)이 함께 쓰인 패턴을 찾아보세요. 어떤 동작이 진행형이고, 어떤 동작이 과거형인가요?"
+        answer: "진행형(was/were + -ing)은 <span class='highlight'>길게 진행되던 배경 동작</span>에 쓰입니다: walking, reading, playing, running, waiting, doing, eating, listening<br />단순과거(과거형)는 <span class='highlight'>짧게 일어난 사건</span>에 쓰입니다: met, rang, started, fell, saw, called, went out, came<br />진행형 = 배경 / 단순과거 = 그 배경을 끊는 사건"
+      - type: qna
+        question: "Q2. 'when'과 'while' 뒤에 오는 동사의 형태를 비교해 보세요. 차이점이 있나요?"
+        answer: "<span class='highlight'>when</span> 뒤에는 주로 <strong>단순과거</strong>가 옵니다: when I met, when I called, when it started<br /><span class='highlight'>while</span> 뒤에는 주로 <strong>과거진행형</strong>이 옵니다: while she was reading, while he was running, while I was waiting<br />이유: when은 '~했을 때'(짧은 순간), while은 '~하는 동안'(긴 시간)을 나타내기 때문이에요."
+      - type: qna
+        question: "Q3. 'I was walking to school when I met my friend'에서 누가 먼저 그 동작을 하고 있었나요? 그리고 무엇이 그 동작을 '끊었나요'?"
+        answer: "'I was walking'이 먼저 진행 중이었고, 'met my friend'가 그 동작을 끊었습니다.<br />설명: 걷는 동작이 배경처럼 길게 진행되고 있었는데, 친구를 만난 것은 그 중간에 갑자기 일어난 사건이에요. 이것이 과거진행형과 단순과거를 함께 쓰는 가장 기본적인 패턴이에요."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 과거진행형과 단순과거의 핵심 차이를 한 문장으로 설명해 보세요."
+        answer: "과거진행형은 길게 진행되던 배경 동작, 단순과거는 짧게 일어난 사건을 나타냅니다.<br />평가 기준: '배경/길게 진행'과 '사건/짧게 끝남'의 개념을 설명하면 정답"
+      - type: qna
+        question: "R2. when과 while 뒤에 주로 어떤 시제가 오는지 써 보세요."
+        answer: "when + 단순과거 (짧은 사건)<br />while + 과거진행형 (긴 배경)<br />평가 기준: 두 가지 패턴을 모두 맞추면 정답"
+      - type: qna
+        question: "R3. 기억나는 '과거진행형 + when + 단순과거' 예문을 하나 써 보세요."
+        answer: "예시) I was watching TV when my friend called. / She was cooking when the alarm rang.<br />평가 기준: was/were + -ing when + 과거형 구조가 맞으면 정답"
+      - type: qna
+        question: "R4. 한국 학생들이 두 시제를 함께 쓸 때 자주 하는 실수 한 가지를 써 보세요."
+        answer: "예시) 끼어든 짧은 동작에도 진행형을 씀 / while 뒤에 단순과거를 씀 / 연속 동작에 진행형을 씀<br />평가 기준: 실수의 종류를 정확히 설명했으면 정답"
+      - type: qna
+        question: "R5. 어떤 시제를 선택할지 결정할 때 스스로에게 물어야 할 질문은?"
+        answer: "'이 동작은 길게 진행되고 있었나, 아니면 짧게 딱 일어났나?'<br />평가 기준: 동작의 길이/성격을 판단하는 질문을 쓰면 정답"
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "괄호 안의 동사를 과거진행형 또는 단순과거로 바꿔서 빈칸을 채우세요. 어떤 동작이 배경(길게 진행)이고 어떤 동작이 사건(짧게 끝남)인지 생각하세요!"
+      - type: qna
+        question: "Q1. I _____________ (watch) TV when my mom _____________ (come) home."
+        answer: "was watching, came<br />설명: TV 시청은 길게 진행되던 배경(과거진행형), 엄마 도착은 짧은 사건(단순과거)"
+      - type: qna
+        question: "Q2. While she _____________ (sleep), her phone _____________ (ring)."
+        answer: "was sleeping, rang<br />설명: while 뒤에는 진행형(배경), 전화벨은 짧은 사건(단순과거)"
+      - type: qna
+        question: "Q3. The students _____________ (talk) when the teacher _____________ (enter) the classroom."
+        answer: "were talking, entered<br />설명: 학생들의 대화는 배경(과거진행형), 선생님 입장은 사건(단순과거)"
+      - type: qna
+        question: "Q4. I _____________ (drop) my ice cream while I _____________ (walk) in the park."
+        answer: "dropped, was walking<br />설명: 아이스크림 떨어뜨림은 짧은 사건, 공원 산책은 길게 진행되던 배경"
+      - type: qna
+        question: "Q5. What _____________ you _____________ (do) when the earthquake _____________ (happen)?"
+        answer: "were, doing, happened<br />설명: 하고 있던 일은 배경(과거진행형), 지진 발생은 사건(단순과거)"
+      - type: qna
+        question: "Q6. He _____________ (break) his leg while he _____________ (play) basketball."
+        answer: "broke, was playing<br />설명: 다리 부러진 것은 순간적 사건, 농구는 진행 중이던 배경"
+      - type: qna
+        question: "Q7. While I _____________ (cook), my sister _____________ (set) the table."
+        answer: "was cooking, was setting<br />설명: 둘 다 동시에 길게 진행되는 동작이므로 둘 다 과거진행형"
+      - type: qna
+        question: "Q8. The dog _____________ (bark) when the mailman _____________ (arrive)."
+        answer: "was barking, arrived<br />설명: 개가 짖고 있던 것이 배경이고, 우체부가 도착한 것이 순간 사건이에요"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. 과거진행형과 단순과거 중 어떤 것을 써야 할지 생각하세요!"
+      - type: qna
+        question: "T1. 내가 숙제하고 있을 때 친구가 전화했어."
+        answer: "I was doing my homework when my friend called.<br />평가 기준: was doing + when + called 구조이면 정답"
+      - type: qna
+        question: "T2. 그녀가 샤워하는 동안 초인종이 울렸어."
+        answer: "While she was taking a shower, the doorbell rang. / The doorbell rang while she was taking a shower.<br />평가 기준: while + was taking + 단순과거 구조이면 정답"
+      - type: qna
+        question: "T3. 우리가 점심을 먹고 있을 때 비가 오기 시작했어."
+        answer: "It started to rain when we were eating lunch. / We were eating lunch when it started to rain.<br />평가 기준: were eating + started 구조이면 정답"
+      - type: qna
+        question: "T4. 내가 책을 읽는 동안 동생은 게임을 하고 있었어."
+        answer: "While I was reading a book, my brother was playing games.<br />평가 기준: while + 과거진행형 + 과거진행형 구조이면 정답 (동시 진행)"
+      - type: qna
+        question: "T5. 그는 축구하다가 넘어졌어."
+        answer: "He fell down while he was playing soccer. / He was playing soccer when he fell down.<br />평가 기준: was playing(배경) + fell(사건) 구조이면 정답"
+      - type: qna
+        question: "T6. 내가 전화했을 때 너 뭐 하고 있었어?"
+        answer: "What were you doing when I called?<br />평가 기준: What were you doing + when + 단순과거 구조이면 정답"
+      - type: qna
+        question: "T7. 엄마가 요리하시는 동안 나는 식탁을 차리고 있었어."
+        answer: "While Mom was cooking, I was setting the table.<br />평가 기준: 두 동작 모두 과거진행형이면 정답 (동시 진행)"
+      - type: qna
+        question: "T8. 나는 버스를 기다리다가 옛날 친구를 만났어."
+        answer: "I met an old friend while I was waiting for the bus. / I was waiting for the bus when I met an old friend.<br />평가 기준: was waiting(배경) + met(사건) 구조이면 정답"
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. 두 문장을 when으로 연결하세요: I was eating dinner. + The phone rang."
+        answer: "I was eating dinner when the phone rang.<br />설명: 긴 동작(eating)은 과거진행형, 짧은 사건(rang)은 단순과거로 유지하고 when으로 연결"
+      - type: qna
+        question: "TF2. 두 문장을 while로 연결하세요: She was studying. + Her brother was playing games."
+        answer: "While she was studying, her brother was playing games.<br />설명: 둘 다 동시에 진행되던 동작이므로 둘 다 과거진행형 유지"
+      - type: qna
+        question: "TF3. when을 while로 바꾸세요: I was walking to school when I saw my teacher."
+        answer: "I saw my teacher while I was walking to school.<br />설명: while 뒤에 진행형(was walking)을 두고, 짧은 사건(saw)을 주절에 둠"
+      - type: qna
+        question: "TF4. 의문문으로 바꾸세요: She was reading a book when you called."
+        answer: "Was she reading a book when you called?<br />설명: Was를 문장 앞으로 보냄. when 이하는 그대로 유지"
+      - type: qna
+        question: "TF5. 부정문으로 바꾸세요: He was sleeping when the alarm went off."
+        answer: "He was not sleeping when the alarm went off. / He wasn't sleeping when the alarm went off.<br />설명: was 뒤에 not을 넣음"
+      - type: qna
+        question: "TF6. 주어를 They로 바꾸세요: I was playing soccer when it started to rain."
+        answer: "They were playing soccer when it started to rain.<br />설명: I was를 They were로 바꿈. 나머지는 그대로"
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 과거진행형과 단순과거를 사용해서 만들어 보세요!"
+      - type: qna
+        question: "A1. 어제 있었던 일을 떠올려 보세요. '~하고 있을 때 ~했다' 형태로 한 문장 써 보세요."
+        answer: "예시) I was watching YouTube when my mom called me for dinner. / I was playing games when my friend texted me.<br />평가 기준: was/were + -ing when + 단순과거 구조가 맞으면 정답"
+      - type: qna
+        question: "A2. 학교에서 있었던 상황을 떠올려 보세요. while을 사용해서 두 동작이 동시에 일어난 문장을 써 보세요."
+        answer: "예시) While the teacher was explaining, some students were talking. / While I was writing notes, my friend was drawing.<br />평가 기준: While + 과거진행형 + 과거진행형 구조이면 정답"
+      - type: qna
+        question: "A3. 누군가가 갑자기 나타난/일이 일어난 상황을 상상해서 2문장으로 써 보세요."
+        answer: "예시) I was walking home. Suddenly, I saw my teacher at the store. / We were eating lunch when the fire alarm rang.<br />평가 기준: 배경(과거진행형) + 갑작스러운 사건(단순과거)을 표현하면 정답"
+      - type: qna
+        question: "A4. 지난 주말에 가족들이 각각 뭘 하고 있었는지 while을 사용해서 3문장 이상 써 보세요."
+        answer: "예시) While Mom was cooking, Dad was reading a newspaper. While my sister was doing homework, I was playing games. While we were eating, our dog was sleeping under the table.<br />평가 기준: while + 과거진행형 구조를 3번 이상 사용하면 정답"
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장에서 틀린 부분을 찾아 고치세요.<br />a) While I ate dinner, the phone rang.<br />b) She was cooking when her husband was coming home.<br />c) I was falling asleep while I read a book."
+        answer: "a) While I <span class='highlight'>was eating</span> dinner, the phone rang. (while 뒤에는 과거진행형)<br />b) She was cooking when her husband <span class='highlight'>came</span> home. (끼어든 동작은 단순과거)<br />c) I <span class='highlight'>fell</span> asleep while I <span class='highlight'>was reading</span> a book. (잠듦=사건/단순과거, 읽기=배경/과거진행형)"
+      - type: qna
+        question: "C2. 괄호 안의 동사를 알맞은 형태로 바꾸어 짧은 이야기를 완성하세요.<br />Last Saturday, I _______ (walk) in the park with my dog. While we _______ (play) with a ball, it _______ (start) to rain. We _______ (run) to a tree and _______ (wait) under it. While we _______ (stand) there, a bird _______ (land) on my shoulder!"
+        answer: "Last Saturday, I <span class='highlight'>was walking</span> in the park with my dog. While we <span class='highlight'>were playing</span> with a ball, it <span class='highlight'>started</span> to rain. We <span class='highlight'>ran</span> to a tree and <span class='highlight'>waited</span> under it. While we <span class='highlight'>were standing</span> there, a bird <span class='highlight'>landed</span> on my shoulder!<br />설명: 배경이 되는 동작은 과거진행형, 순간적으로 일어난 사건들은 단순과거"
+      - type: qna
+        question: "C3. 다음 상황을 과거진행형과 단순과거를 적절히 사용해서 4문장 이상으로 묘사해 보세요.<br />상황: 어제 저녁에 정전이 났을 때"
+        answer: "예시)<br />I was doing my homework in my room when suddenly the lights went out.<br />My mom was cooking dinner in the kitchen.<br />She dropped her spoon because she was surprised.<br />While we were looking for candles, Dad came home with a flashlight.<br />평가 기준: 과거진행형(배경)과 단순과거(사건)를 적절히 섞어서 4문장 이상 쓰면 정답"
+      - type: qna
+        question: "C4. 'I was watching TV when my friend called' 문장에서 두 동작의 관계를 설명하고, 왜 watching은 진행형이고 called는 과거형인지 설명하세요."
+        answer: "설명: watching TV는 이미 오랫동안 진행되고 있던 배경 동작입니다. 친구의 전화(called)는 그 중간에 갑자기 일어난 짧은 사건입니다.<br />watching은 과거진행형 - 그 순간 계속 하고 있었기 때문<br />called는 단순과거 - 순간적으로 일어나서 배경을 '끊는' 동작이기 때문<br />평가 기준: 배경과 사건의 관계, 길이의 차이를 설명하면 정답"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! (답을 가리고 풀기)"
+      - type: qna
+        question: "SR1. 과거진행형과 단순과거의 차이를 한 단어로: 과거진행형 = _____동작, 단순과거 = _____동작"
+        answer: "과거진행형 = 배경/긴 동작, 단순과거 = 사건/짧은 동작"
+      - type: qna
+        question: "SR2. I _______ (eat) breakfast when the doorbell _______ (ring)."
+        answer: "was eating, rang"
+      - type: qna
+        question: "SR3. While she _______ (study), her brother _______ (play) games."
+        answer: "was studying, was playing"
+      - type: qna
+        question: "SR4. when 뒤에는 주로 _______ 시제, while 뒤에는 주로 _______ 시제가 옵니다."
+        answer: "when = 단순과거, while = 과거진행형"
+      - type: qna
+        question: "SR5. 내가 걸어가고 있을 때 비가 오기 시작했어. (영작)"
+        answer: "I was walking when it started to rain. / It started to rain when I was walking."
+      - type: qna
+        question: "SR6. 틀린 문장 고치기: While I ate lunch, the phone rang."
+        answer: "While I was eating lunch, the phone rang. (while 뒤에 과거진행형)"
+      - type: qna
+        question: "SR7. He _______ (break) his arm while he _______ (ride) a bike."
+        answer: "broke, was riding"
+      - type: qna
+        question: "SR8. 두 문장을 when으로 연결: I was sleeping. + The alarm rang."
+        answer: "I was sleeping when the alarm rang."
+      - type: qna
+        question: "SR9. What _______ you _______ (do) when I called you?"
+        answer: "were, doing"
+      - type: qna
+        question: "SR10. 틀린 문장 고치기: She was reading when he was arriving."
+        answer: "She was reading when he arrived. (끼어든 동작은 단순과거)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. '~하고 있을 때 ~했다' 구조를 자신 있게 만들 수 있나요?"
+        answer: "할 수 있다면: 잘하고 있어요! 이제 과거의 상황을 더 생생하게 묘사할 수 있어요. 영어 이야기나 일기를 쓸 때 꼭 필요한 구조예요!<br />어렵다면: Section 1의 예문들을 다시 읽고, 빈칸 채우기 문제를 한 번 더 풀어 보세요. '배경=진행형, 사건=과거형'을 기억하세요!"
+      - type: qna
+        question: "SC2. when과 while의 차이를 알고 올바르게 사용할 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! when과 while을 구분하는 것은 많은 학생들이 어려워하는 부분인데 잘 해냈어요!<br />어렵다면: 간단히 기억하세요 - when + 짧은 사건(단순과거), while + 긴 배경(과거진행형). 변형 연습 TF3을 다시 풀어보세요."
+      - type: qna
+        question: "SC3. 어떤 동작에 어떤 시제를 써야 하는지 스스로 결정할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! '길게 진행 vs 짧게 끝남'으로 판단하는 것이 핵심이에요. 이제 영어로 이야기할 때 시제 선택을 자연스럽게 할 수 있을 거예요!<br />어렵다면: 매번 '이 동작은 길게 계속됐나? 짧게 딱 일어났나?' 질문해 보세요. 종합 문제 C2의 이야기를 다시 분석해 보면 도움이 될 거예요."
+      - type: qna
+        question: "SC4. 과거진행형과 단순과거를 섞어서 짧은 이야기를 쓸 수 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! 이제 과거의 장면을 영화처럼 생생하게 묘사할 수 있어요. 영어 일기나 이야기 쓰기에 도전해 보세요!<br />어렵다면: 실생활 적용과 종합 문제의 예시 답안을 참고해서, 어제 있었던 일을 3-4문장으로 써 보세요. 처음에는 간단하게 시작하면 돼요!"
+      - type: note
+        content: "여기까지 풀었다면 정말 잘하고 있어요! 과거진행형과 단순과거를 함께 쓰는 것은 영어에서 이야기를 할 때 가장 많이 쓰이는 패턴이에요. 영화, 소설, 일기, 뉴스 등 어디서나 이 패턴을 볼 수 있어요. 오늘 배운 것을 열심히 연습하면, 영어로 훨씬 더 자연스럽게 이야기할 수 있게 될 거예요!"
+      - type: note
+        content: "내일 할 일:<br />1. Section 9의 복습 문제 10개를 답을 가리고 다시 풀어 보세요.<br />2. 오늘 하루 동안 '~하고 있을 때 ~했다' 상황이 있으면 영어로 생각해 보세요.<br />3. 좋아하는 영화나 드라마의 한 장면을 과거진행형과 단순과거로 묘사해 보세요.<br />4. 다음 Unit에서는 과거시제를 더 연습할 거예요. 오늘 배운 내용이 기초가 되니까 잘 복습해 두세요!"

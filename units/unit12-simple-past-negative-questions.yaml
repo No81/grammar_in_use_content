@@ -1,0 +1,256 @@
+title: "Unit 12 · 단순 과거 부정문과 의문문 (didn't / Did you ...?)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "과거에 '하지 않았다'고 말하거나 '했니?'라고 물어볼 때 사용하는 문법을 배워봅시다. 부정문에는 <span class='highlight'>didn't</span>, 의문문에는 <span class='highlight'>Did</span>를 사용해요."
+      - type: list
+        heading: "형식 (Form) - 부정문"
+        list:
+          - "주어 + <span class='highlight'>didn't</span> + 동사원형 → I didn't eat breakfast. (나는 아침을 먹지 않았어.)"
+          - "She didn't go to school. (그녀는 학교에 가지 않았어.)"
+          - "They didn't play soccer. (그들은 축구를 하지 않았어.)"
+          - "주의: didn't 뒤에는 항상 동사원형! (didn't went ❌ → didn't go ✅)"
+      - type: list
+        heading: "형식 (Form) - 의문문"
+        list:
+          - "<span class='highlight'>Did</span> + 주어 + 동사원형 + ? → Did you finish your homework? (너 숙제 끝냈니?)"
+          - "Did she call you? (그녀가 너에게 전화했니?)"
+          - "Did they arrive on time? (그들이 제시간에 도착했니?)"
+          - "주의: Did 다음에는 항상 동사원형! (Did you went ❌ → Did you go ✅)"
+      - type: list
+        heading: "형식 (Form) - 짧은 대답"
+        list:
+          - "긍정: Yes, I/you/he/she/we/they <span class='highlight'>did</span>."
+          - "부정: No, I/you/he/she/we/they <span class='highlight'>didn't</span>."
+          - "예: Did you eat lunch? - Yes, I did. / No, I didn't."
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> didn't는 과거에 어떤 행동을 '안 했다'는 것을 확실하게 말해요. Did로 시작하는 질문은 과거에 '그 일이 일어났는지 아닌지'를 물어보는 거예요. 짧은 대답으로 Yes/No만 간단히 답할 수 있어요."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 어제 안 한 일을 말할 때: I didn't watch TV yesterday.<br />• 지난주에 일어난 일을 물어볼 때: Did you visit your grandma last week?<br />• 과거 경험을 확인할 때: Did you try the new game?<br />• 부정 대답을 할 때: No, I didn't go to the party."
+      - type: list
+        heading: "더 많은 예문 (10개 이상)"
+        list:
+          - "I didn't do my homework last night. (나는 어젯밤 숙제를 하지 않았어.) - 학교 관련"
+          - "Did you meet your friend yesterday? (너 어제 친구 만났니?) - 친구 관련"
+          - "My mom didn't cook dinner. (엄마가 저녁을 요리하지 않았어.) - 가족 관련"
+          - "Did he practice the piano? (그가 피아노를 연습했니?) - 취미 관련"
+          - "We didn't eat pizza for lunch. (우리는 점심으로 피자를 먹지 않았어.) - 음식 관련"
+          - "Did they play the new video game? (그들이 새 비디오 게임을 했니?) - 게임 관련"
+          - "She didn't wake up early this morning. (그녀는 오늘 아침 일찍 일어나지 않았어.) - 일상생활"
+          - "Did you feel happy about the test? (너 시험에 대해 기뻤니?) - 감정 관련"
+          - "I didn't understand the math problem. (나는 그 수학 문제를 이해하지 못했어.) - 학습 관련"
+          - "Did she bring her umbrella? (그녀가 우산을 가져왔니?) - 일상생활"
+          - "They didn't finish the project on time. (그들은 프로젝트를 제시간에 끝내지 못했어.) - 학교 관련"
+          - "Did you sleep well last night? (너 어젯밤 잘 잤니?) - 일상생활"
+      - type: note
+        content: "한국 학습자가 자주 하는 실수:<br />1. didn't/Did 뒤에 과거형 동사 사용 ❌: I didn't went → I didn't go ✅<br />2. Did 뒤에 과거형 사용 ❌: Did you ate? → Did you eat? ✅<br />3. 짧은 대답에서 동사 추가 ❌: Yes, I did eat → Yes, I did. ✅<br />4. didn't를 don't로 착각: I don't go yesterday ❌ → I didn't go yesterday ✅"
+      - type: text
+        content: "<span class='highlight'>비슷한 문법과의 차이점:</span><br />• 현재 부정 (don't/doesn't) vs 과거 부정 (didn't): I don't eat meat. (지금) vs I didn't eat meat. (어제)<br />• 현재 의문 (Do/Does) vs 과거 의문 (Did): Do you like pizza? (일반적으로) vs Did you like the pizza? (그때 그 피자)<br />• didn't는 모든 주어에 같은 형태: I/you/he/she/we/they didn't (현재형과 달리 doesn't가 없음!)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "아래 문장들을 잘 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I didn't watch the movie."
+          - "She didn't write the letter."
+          - "Did you buy a new book?"
+          - "Did he call his friend?"
+          - "We didn't play outside."
+          - "Did they finish their lunch?"
+          - "My brother didn't clean his room."
+      - type: qna
+        question: "Q1. 부정문(~하지 않았다)에서 didn't 다음에 오는 동사의 형태는 무엇인가요? (예: went, go, goes 중 어떤 것?)"
+        answer: "동사원형 (go, watch, play 등)이 옵니다. didn't가 이미 과거를 나타내기 때문에 동사는 원형을 씁니다."
+      - type: qna
+        question: "Q2. 의문문(~했니?)은 어떤 단어로 시작하나요? 그 다음에는 무엇이 오나요?"
+        answer: "Did로 시작하고, 그 다음에 주어가 오고, 그 다음에 동사원형이 옵니다. (Did + 주어 + 동사원형 + ?)"
+      - type: qna
+        question: "Q3. 주어가 he, she일 때 didn't가 달라지나요? (현재형의 doesn't처럼?)"
+        answer: "아니요, 달라지지 않습니다. 과거에서는 모든 주어에 didn't를 똑같이 씁니다. (I didn't, he didn't, she didn't 모두 같음)"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 과거 부정문을 만드는 공식을 적어보세요. (주어 + ??? + ???)"
+        answer: "주어 + didn't + 동사원형<br />평가 기준: didn't와 동사원형이 모두 포함되면 정답"
+      - type: qna
+        question: "R2. 과거 의문문을 만드는 공식을 적어보세요. (??? + 주어 + ??? + ?)"
+        answer: "Did + 주어 + 동사원형 + ?<br />평가 기준: Did가 맨 앞에 오고 동사원형이 사용되면 정답"
+      - type: qna
+        question: "R3. 'Did you go to school?'의 긍정/부정 짧은 대답을 써보세요."
+        answer: "긍정: Yes, I did. / 부정: No, I didn't.<br />평가 기준: did/didn't를 사용한 짧은 대답이면 정답"
+      - type: qna
+        question: "R4. 한국 학생들이 자주 하는 실수 한 가지를 설명해 보세요."
+        answer: "예시: didn't나 Did 뒤에 과거형 동사를 쓰는 실수 (didn't went, Did you ate 등)<br />평가 기준: 수업에서 배운 실수 중 하나를 언급하면 정답"
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 형태를 넣으세요. didn't/Did와 동사원형을 사용하세요."
+      - type: qna
+        question: "Q1. I _______ (not / eat) breakfast this morning."
+        answer: "didn't eat<br />설명: 과거 부정이므로 didn't + 동사원형(eat)"
+      - type: qna
+        question: "Q2. _______ you _______ (go) to the park yesterday?"
+        answer: "Did / go<br />설명: 과거 의문문이므로 Did + 주어 + 동사원형(go)"
+      - type: qna
+        question: "Q3. She _______ (not / finish) her homework."
+        answer: "didn't finish<br />설명: 주어가 she여도 과거에서는 didn't 사용 (doesn't 아님!)"
+      - type: qna
+        question: "Q4. _______ he _______ (bring) his bag?"
+        answer: "Did / bring<br />설명: 과거 의문문, bring은 불규칙동사지만 Did 뒤에서는 원형"
+      - type: qna
+        question: "Q5. They _______ (not / play) soccer last weekend."
+        answer: "didn't play<br />설명: last weekend는 과거 → didn't + 동사원형"
+      - type: qna
+        question: "Q6. _______ your mom _______ (make) cookies?"
+        answer: "Did / make<br />설명: 과거 의문문, make도 Did 뒤에서는 원형으로"
+      - type: qna
+        question: "Q7. We _______ (not / see) the movie together."
+        answer: "didn't see<br />설명: see의 과거는 saw지만 didn't 뒤에서는 원형 see"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. didn't 또는 Did를 사용하세요."
+      - type: qna
+        question: "T1. 나는 어제 TV를 보지 않았어."
+        answer: "I didn't watch TV yesterday.<br />평가 기준: didn't watch가 있고 yesterday가 문장 끝이나 앞에 있으면 정답"
+      - type: qna
+        question: "T2. 너 숙제 끝냈니?"
+        answer: "Did you finish your homework?<br />평가 기준: Did로 시작하고 finish(동사원형)가 사용되면 정답"
+      - type: qna
+        question: "T3. 그녀는 그 책을 읽지 않았어."
+        answer: "She didn't read the book.<br />평가 기준: didn't read가 사용되면 정답 (read는 원형도 read)"
+      - type: qna
+        question: "T4. 그들은 새로운 게임을 했니?"
+        answer: "Did they play the new game?<br />평가 기준: Did they play가 있고 의문문 형태이면 정답"
+      - type: qna
+        question: "T5. 우리는 지난주에 수영하지 않았어."
+        answer: "We didn't swim last week.<br />평가 기준: didn't swim이 있고 last week가 포함되면 정답"
+      - type: qna
+        question: "T6. 네 동생이 아침을 먹었니?"
+        answer: "Did your brother eat breakfast?<br />평가 기준: Did로 시작하고 eat(동사원형)이 사용되면 정답"
+      - type: qna
+        question: "T7. 그는 질문을 이해하지 못했어."
+        answer: "He didn't understand the question.<br />평가 기준: didn't understand가 있으면 정답"
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I played basketball yesterday. (부정문으로)"
+        answer: "I didn't play basketball yesterday.<br />설명: played → didn't play (동사원형으로 바꿈)"
+      - type: qna
+        question: "TF2. She bought a new dress. (의문문으로)"
+        answer: "Did she buy a new dress?<br />설명: bought → Did + she + buy (동사원형)"
+      - type: qna
+        question: "TF3. Did they go to the concert? (부정 대답으로)"
+        answer: "No, they didn't.<br />설명: 짧은 부정 대답은 No + 주어 + didn't"
+      - type: qna
+        question: "TF4. He didn't wash his hands. (의문문으로)"
+        answer: "Did he wash his hands?<br />설명: didn't가 있던 문장을 Did 의문문으로 바꿈"
+      - type: qna
+        question: "TF5. Did you meet your teacher? (긍정 대답으로)"
+        answer: "Yes, I did.<br />설명: 짧은 긍정 대답은 Yes + 주어 + did"
+      - type: qna
+        question: "TF6. We ate pizza for dinner. (부정문으로)"
+        answer: "We didn't eat pizza for dinner.<br />설명: ate(불규칙 과거) → didn't eat(동사원형)"
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 실제 경험을 사용해서 문장을 만들어 보세요!"
+      - type: qna
+        question: "A1. 어제 네가 하지 않은 일 2가지를 영어로 써보세요. (I didn't ... 사용)"
+        answer: "예시: I didn't play games yesterday. I didn't eat breakfast.<br />평가 기준: didn't + 동사원형 구조가 맞으면 정답. 내용은 자유"
+      - type: qna
+        question: "A2. 친구에게 물어보고 싶은 질문 2가지를 영어로 써보세요. (Did you ... ? 사용)"
+        answer: "예시: Did you watch the new movie? Did you do your homework?<br />평가 기준: Did you + 동사원형 + ? 구조가 맞으면 정답"
+      - type: qna
+        question: "A3. 지난 주말에 대한 질문과 대답을 만들어 보세요. (Q: Did ... ? A: Yes/No, ... did/didn't.)"
+        answer: "예시: Q: Did you go to the library last weekend? A: No, I didn't.<br />평가 기준: 의문문과 짧은 대답 형식이 맞으면 정답"
+      - type: qna
+        question: "A4. 가족 중 한 명이 어제 안 한 일을 영어로 써보세요."
+        answer: "예시: My sister didn't clean her room yesterday.<br />평가 기준: 주어 + didn't + 동사원형 구조가 맞으면 정답"
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 고치세요: 'Did you went to the store yesterday?'"
+        answer: "틀린 부분: went → go<br />올바른 문장: Did you go to the store yesterday?<br />설명: Did 뒤에는 항상 동사원형이 와야 합니다."
+      - type: qna
+        question: "C2. 다음 문장의 틀린 부분을 찾아 고치세요: 'She didn't watched the movie.'"
+        answer: "틀린 부분: watched → watch<br />올바른 문장: She didn't watch the movie.<br />설명: didn't 뒤에는 항상 동사원형이 와야 합니다."
+      - type: qna
+        question: "C3. 다음 대화를 완성하세요:<br />A: Did your brother finish his project?<br />B: No, ___________. He _________ have enough time."
+        answer: "B: No, he didn't. He didn't have enough time.<br />설명: 짧은 대답 + 추가 설명 문장 모두 과거 부정 형태"
+      - type: qna
+        question: "C4. 'I didn't study last night.'를 사용해서 3문장 짧은 글을 써보세요. (이유와 결과 포함)"
+        answer: "예시: I didn't study last night. I played games instead. I didn't do well on the test today.<br />평가 기준: 과거 시제를 사용하고 논리적으로 연결되면 정답. didn't를 최소 1번 더 사용하면 더 좋음"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 잘 기억하고 있는지 확인해요."
+      - type: qna
+        question: "SR1. 과거 부정문 공식: 주어 + _______ + _______"
+        answer: "didn't + 동사원형"
+      - type: qna
+        question: "SR2. 빈칸: I _______ (not / see) the bird."
+        answer: "didn't see"
+      - type: qna
+        question: "SR3. 빈칸: _______ she _______ (come) to the party?"
+        answer: "Did / come"
+      - type: qna
+        question: "SR4. 번역: 너 점심 먹었니?"
+        answer: "Did you eat lunch?"
+      - type: qna
+        question: "SR5. 번역: 그는 숙제를 하지 않았어."
+        answer: "He didn't do his homework."
+      - type: qna
+        question: "SR6. 'Did they play tennis?'의 부정 대답은?"
+        answer: "No, they didn't."
+      - type: qna
+        question: "SR7. 틀린 곳 고치기: 'I didn't went to school.'"
+        answer: "I didn't go to school. (went → go)"
+      - type: qna
+        question: "SR8. 변형: 'He cleaned his room.' (의문문으로)"
+        answer: "Did he clean his room?"
+      - type: qna
+        question: "SR9. 변형: 'They visited the museum.' (부정문으로)"
+        answer: "They didn't visit the museum."
+      - type: qna
+        question: "SR10. 자신이 어제 안 한 일 하나를 영어로 쓰세요."
+        answer: "예시: I didn't wake up early yesterday. (답은 자유, 구조만 확인)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 솔직하게 체크해 봅시다."
+      - type: qna
+        question: "SC1. didn't 뒤에 동사원형이 온다는 것을 기억하고 있나요?"
+        answer: "할 수 있다면: 정말 잘하고 있어요! didn't + 동사원형은 가장 중요한 규칙이에요.<br />어렵다면: Section 1의 부정문 부분을 다시 읽고 예문을 소리 내어 읽어보세요."
+      - type: qna
+        question: "SC2. Did + 주어 + 동사원형 + ? 순서로 의문문을 만들 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 이제 과거 질문을 자유롭게 만들 수 있어요.<br />어렵다면: Section 2의 예문들을 다시 보고 패턴을 익혀보세요."
+      - type: qna
+        question: "SC3. Yes, I did. / No, I didn't.로 짧게 대답할 수 있나요?"
+        answer: "할 수 있다면: 대화가 자연스러워지고 있어요!<br />어렵다면: TF3, TF5 문제를 다시 풀어보세요."
+      - type: qna
+        question: "SC4. 과거 부정문과 의문문에서 자주 하는 실수를 알고 있나요?"
+        answer: "할 수 있다면: 실수를 알면 피할 수 있어요. 정말 잘했어요!<br />어렵다면: Section 1의 note 부분을 다시 확인하세요."
+      - type: note
+        content: "여기까지 풀었다면 정말 대단해요! 과거 부정문과 의문문은 영어에서 매우 많이 쓰이는 중요한 문법이에요. 오늘 배운 내용을 잘 기억해두면 영어로 대화할 때 훨씬 자연스러워질 거예요."
+      - type: note
+        content: "내일 할 일: Section 9의 복습 문제를 풀어보세요. 그리고 일상생활에서 '어제 뭐 했어?', '안 했어' 같은 말을 할 때 영어로 어떻게 말할지 생각해 보세요!"
