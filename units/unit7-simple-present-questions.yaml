@@ -1,327 +1,257 @@
-title: "Unit 7 · Do you...? (simple present questions)"
+title: "Unit 7 · 일반현재 의문문 (Do you...?)"
 meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
 sections:
   - title: "1. 핵심 개념 정리"
     items:
       - type: text
-        content: "친구에게 '너는 ~해?' 라고 물어볼 때 영어로는 'Do you...?' 를 사용합니다."
+        content: "오늘은 '~하니?', '~해요?'라는 의미의 일반현재 의문문을 배워요. 상대방의 습관, 좋아하는 것, 일상에 대해 물어볼 때 사용합니다."
       - type: list
-        heading: "문장 구조"
+        heading: "형식 (Form)"
         list:
-          - "평서문: You like pizza. (너는 피자를 좋아해.)"
-          - "의문문: Do you like pizza? (너는 피자를 좋아하니?)"
+          - "<span class='highlight'>Do</span> + I/you/we/they + 동사원형? → Do you like pizza? (너 피자 좋아해?)"
+          - "<span class='highlight'>Does</span> + he/she/it + 동사원형? → Does she play tennis? (그녀는 테니스를 쳐?)"
+          - "의문문에서는 동사에 -s를 붙이지 않아요! (does 뒤는 항상 동사원형)"
+      - type: text
+        content: "<span class='highlight'>짧은 대답 (Short Answers):</span><br />• Yes, I do. / No, I don't.<br />• Yes, he does. / No, he doesn't.<br />• Yes, we do. / No, we don't.<br />• Yes, she does. / No, she doesn't."
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 일반현재 의문문은 '평소에 ~하니?', '~을 좋아하니?', '~이 사실이니?'라는 의미입니다. 지금 이 순간이 아니라 일반적인 사실이나 습관을 물어볼 때 씁니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 상대방의 취향을 물어볼 때: Do you like K-pop? (너 K-pop 좋아해?)<br />• 습관이나 일상을 물어볼 때: Does your brother play games every day? (네 남동생 매일 게임 해?)<br />• 일반적인 사실을 확인할 때: Do cats eat vegetables? (고양이가 채소를 먹어?)"
+      - type: text
+        content: "<span class='highlight'>의문사가 있는 의문문 (Question Words):</span><br />• What/Where/When/Why/How + do/does + 주어 + 동사원형?<br />• What do you eat for breakfast? (너 아침에 뭐 먹어?)<br />• Where does he live? (그는 어디에 살아?)<br />• When do they go to school? (그들은 언제 학교에 가?)<br />• Why does she study English? (그녀는 왜 영어를 공부해?)<br />• How do you go to school? (너 학교에 어떻게 가?)"
       - type: list
-        heading: "만드는 방법"
+        heading: "더 많은 예문 (다양한 주제)"
         list:
-          - "1. 문장 맨 앞에 'Do' 를 붙입니다"
-          - "2. 'you' 다음에 동사 원형을 씁니다"
-          - "3. 마지막에 물음표(?)를 붙입니다"
-      - type: list
-        heading: "대답하는 방법"
-        list:
-          - "긍정: Yes, I do. (응, 그래.)"
-          - "부정: No, I don't. (아니, 안 그래.)"
+          - "📚 학교: Do you study English every day? (너 매일 영어 공부해?) / Does your teacher give homework on Fridays? (너희 선생님 금요일에 숙제 내주셔?)"
+          - "👫 친구: Do your friends play soccer? (네 친구들 축구 해?) / Does your best friend live near your house? (네 절친 너희 집 근처에 살아?)"
+          - "👨‍👩‍👧‍👦 가족: Does your mom cook every day? (너희 엄마 매일 요리하셔?) / Do your parents speak English? (너희 부모님 영어 하셔?)"
+          - "🎮 취미: Do you play video games on weekends? (너 주말에 비디오 게임 해?) / Does she like drawing? (그녀는 그림 그리는 거 좋아해?)"
+          - "🍕 음식: Do you like spicy food? (너 매운 음식 좋아해?) / Does he eat vegetables? (그는 채소 먹어?)"
+          - "🎲 게임/오락: Does your sister know how to play chess? (네 여동생 체스 할 줄 알아?) / Do they enjoy board games? (그들은 보드게임 즐겨?)"
+          - "🏃 일상생활: Do you wake up early on weekends? (너 주말에 일찍 일어나?) / Does your dog sleep in your room? (너희 강아지 네 방에서 자?)"
+          - "😊 감정/생각: Do you feel tired today? (너 오늘 피곤해?) / Does he think English is difficult? (그는 영어가 어렵다고 생각해?)"
+          - "🎨 활동: Do you sing well? (너 노래 잘해?) / Does she dance in the music class? (그녀는 음악 시간에 춤춰?)"
+          - "🌐 일반 사실: Does it rain a lot in summer? (여름에 비 많이 와?) / Do birds fly south in winter? (새들은 겨울에 남쪽으로 날아가?)"
       - type: note
-        content: "⚠️ I don't = I do not (줄임말)"
-      - type: list
-        heading: "다양한 예시들 (10개 카테고리)"
-        list:
-          - "📱 좋아하는 것: Do you like K-pop? / Do you enjoy playing games?"
-          - "🚶 일상 습관: Do you walk to school? / Do you eat breakfast every day?"
-          - "⚽ 취미 활동: Do you play soccer after school? / Do you watch YouTube videos?"
-          - "📚 학교생활: Do you study English on Mondays? / Do you bring lunch from home?"
-          - "👨‍👩‍👧 가족 관련: Do you live with your grandparents? / Do you help your mom at home?"
-          - "🍕 음식 관련: Do you drink milk? / Do you eat spicy food?"
-          - "👫 친구 관계: Do you talk to your friends online? / Do you share your snacks with friends?"
-          - "🌙 주말 활동: Do you sleep late on weekends? / Do you visit your relatives on holidays?"
-          - "💻 미디어/기술: Do you use a smartphone? / Do you listen to music while studying?"
-          - "🏃 운동/건강: Do you exercise regularly? / Do you wear glasses?"
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />• ❌ Do she likes apples? → ✅ Does she like apples? (3인칭 단수는 Does + 동사원형!)<br />• ❌ Does you like pizza? → ✅ Do you like pizza? (You는 Do와 함께!)<br />• ❌ Do you like? (목적어 없음) → ✅ Do you like it? (목적어가 필요해요!)<br />• ❌ You like pizza? (Do 없음) → ✅ Do you like pizza? (의문문에는 Do/Does 필수!)<br />• ❌ Does he plays soccer? → ✅ Does he play soccer? (does 뒤는 동사원형!)"
+      - type: text
+        content: "<span class='highlight'>Unit 6과의 연결:</span><br />부정문과 의문문 비교해 보기!<br />• 부정문: He <strong>doesn't</strong> like apples. (그는 사과를 좋아하지 않아.)<br />• 의문문: <strong>Does</strong> he like apples? (그는 사과를 좋아해?)<br />둘 다 does 뒤에 동사원형을 쓴다는 공통점이 있어요!"
 
   - title: "2. Noticing 활동"
     items:
       - type: text
-        content: "아래 대화를 읽고, 질문 문장들의 공통점을 찾아보세요."
-      - type: text
-        content: "<strong>대화 1: 새 친구와의 대화</strong><br />Minho: Hi! I'm Minho. Do you live near the school?<br />Sara: Yes, I do. I live in the apartment behind the school.<br />Minho: Do you ride the school bus?<br />Sara: No, I don't. I walk to school every morning."
-      - type: text
-        content: "<strong>대화 2: 점심시간</strong><br />Jiwon: Do you want to sit together?<br />Emma: Sure! Do you bring lunch from home?<br />Jiwon: Yes, I do. My mom makes kimbap for me.<br />Emma: That sounds delicious! Do you eat rice every day?<br />Jiwon: Yes, I do. Do you prefer bread?<br />Emma: Yes, I do!"
-      - type: text
-        content: "<strong>대화 3: 방과 후</strong><br />Teacher: Do you have any questions about homework?<br />Students: No, we don't.<br />Teacher: Do you understand the lesson today?<br />Students: Yes, we do!<br />Teacher: Great! Do you need extra practice worksheets?<br />Some students: Yes, we do!"
+        content: "아래 문장들을 보고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "Do you like ice cream?"
+          - "Do they play basketball?"
+          - "Does he study hard?"
+          - "Does she speak Korean?"
+          - "Do we need pencils?"
+          - "Does it snow in winter?"
+          - "What do you eat for lunch?"
+          - "Where does he live?"
       - type: qna
-        question: "Q1. 모든 질문이 어떤 단어로 시작하나요?"
-        answer: "모든 질문이 'Do' 로 시작합니다."
+        question: "Q1. 위 문장에서 'I, You, We, They' 앞에 쓰인 단어는 무엇인가요? 그리고 'He, She, It' 앞에 쓰인 단어는 무엇인가요?"
+        answer: "I, You, We, They 앞에는 <span class='highlight'>Do</span>를 씁니다. He, She, It 앞에는 <span class='highlight'>Does</span>를 씁니다.<br />설명: 의문문에서 주어가 3인칭 단수(he, she, it)일 때는 Does, 나머지는 Do를 문장 맨 앞에 놓습니다."
       - type: qna
-        question: "Q2. 'Do' 다음에는 무엇이 오나요?"
-        answer: "'Do' 다음에 'you' 가 옵니다."
+        question: "Q2. 'Does' 뒤에 나오는 동사들(study, speak, snow, live)을 보세요. 동사에 -s나 -es가 붙어 있나요?"
+        answer: "아니요, 붙어 있지 않습니다. 모두 동사원형입니다.<br />설명: 일반현재 긍정문에서는 3인칭 단수 주어 뒤에 동사에 -s를 붙이지만, 의문문에서는 Does에 이미 -s 개념이 들어가 있어서 동사는 원형을 씁니다."
       - type: qna
-        question: "Q3. 동사들(live, ride, walk, want, bring...)은 어떤 형태인가요?"
-        answer: "동사는 항상 원형입니다."
+        question: "Q3. 의문사(What, Where)가 있는 문장에서 do/does의 위치는 어디인가요?"
+        answer: "의문사 바로 뒤에 do/does가 옵니다.<br />설명: 의문사 + do/does + 주어 + 동사원형 순서입니다. 예: What do you eat? / Where does he live?"
       - type: qna
-        question: "Q4. 긍정과 부정 대답은 어떤 패턴이 있나요?"
-        answer: "'Yes, I do.' 또는 'No, I don't.' 로 대답합니다."
+        question: "Q4. 부정문 'She doesn't speak Korean'과 의문문 'Does she speak Korean?'을 비교해 보세요. 공통점은 무엇인가요?"
+        answer: "둘 다 does 뒤에 동사원형 speak을 씁니다. doesn't와 Does 모두 -s 개념을 이미 포함하고 있기 때문입니다.<br />설명: 부정문의 doesn't와 의문문의 Does는 같은 원리입니다. 3인칭 단수를 나타내는 -s가 이미 들어가 있어서 동사는 원형을 사용합니다."
 
   - title: "3. 회상 연습 (Retrieval Practice)"
     items:
       - type: note
         content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
       - type: qna
-        question: "R1. 질문을 만들 때 문장 맨 앞에 ____ 를 붙입니다."
-        answer: "Do"
+        question: "R1. 일반현재 의문문을 만들 때, 주어가 'I, You, We, They'일 때와 'He, She, It'일 때 각각 문장 맨 앞에 무엇을 쓰나요?"
+        answer: "I, You, We, They일 때는 Do를 쓰고, He, She, It일 때는 Does를 씁니다.<br />평가 기준: Do와 Does를 주어에 맞게 구분할 수 있으면 정답입니다."
       - type: qna
-        question: "R2. 'Do you...?' 질문에 긍정으로 대답할 때: Yes, I ____."
-        answer: "do"
+        question: "R2. 아까 배운 예문 중 하나를 기억나는 대로 영어로 써 보세요. (학교, 가족, 음식 관련 예문 중 아무거나)"
+        answer: "예시: Do you like spicy food? / Does your mom cook every day? / Does he eat vegetables? 등<br />평가 기준: Do/Does + 주어 + 동사원형 순서가 맞으면 정답입니다."
       - type: qna
-        question: "R3. 'Do you...?' 질문에 부정으로 대답할 때: No, I ____."
-        answer: "don't (do not)"
+        question: "R3. 한국 학습자가 자주 하는 실수 중 하나를 말해 보세요. (예: Does he plays soccer?는 왜 틀렸나요?)"
+        answer: "Does 뒤에는 동사원형을 써야 하는데 plays처럼 -s를 붙이면 틀립니다. Does he play soccer?가 맞습니다.<br />평가 기준: does 뒤 동사원형 규칙을 설명할 수 있으면 정답입니다."
       - type: qna
-        question: "R4. 'Do' 다음에 오는 동사는 항상 ____ 형입니다."
-        answer: "원형"
-      - type: qna
-        question: "R5. [ basketball / you / play / do / ? ] 순서 배열"
-        answer: "Do you play basketball?"
-      - type: qna
-        question: "R6. [ homework / do / do / you / your / ? ] 순서 배열"
-        answer: "Do you do your homework?"
-      - type: qna
-        question: "R7. You speak English. → 질문으로 바꾸기"
-        answer: "Do you speak English?"
-      - type: qna
-        question: "R8. You know my sister. → 질문으로 바꾸기"
-        answer: "Do you know my sister?"
-      - type: qna
-        question: "R9. You remember my name. → 질문으로 바꾸기"
-        answer: "Do you remember my name?"
+        question: "R4. 'Do you like pizza?'에 대한 짧은 긍정/부정 대답을 써 보세요."
+        answer: "긍정: Yes, I do. / 부정: No, I don't.<br />평가 기준: 짧은 대답의 형식(Yes/No + 주어 + do/don't)을 사용하면 정답입니다."
 
   - title: "4. 기초 연습 - 빈칸 채우기"
     items:
       - type: note
-        content: "빈칸에 알맞은 말을 넣으세요."
+        content: "빈칸에 Do 또는 Does를 넣으세요."
       - type: qna
-        question: "Q1. ____ you like ice cream? - Yes, I ____."
-        answer: "Do, do"
+        question: "Q1. ______ you like chocolate?"
+        answer: "Do<br />설명: 주어가 you이므로 Do를 씁니다."
       - type: qna
-        question: "Q2. ____ you play the piano? - No, I ____."
-        answer: "Do, don't"
+        question: "Q2. ______ she play the piano?"
+        answer: "Does<br />설명: 주어가 she(3인칭 단수)이므로 Does를 씁니다."
       - type: qna
-        question: "Q3. ____ you live in Seoul? - Yes, I ____."
-        answer: "Do, do"
+        question: "Q3. ______ they speak English?"
+        answer: "Do<br />설명: 주어가 they이므로 Do를 씁니다."
       - type: qna
-        question: "Q4. ____ you watch TV every day? - No, I ____."
-        answer: "Do, don't"
+        question: "Q4. ______ your brother like sports?"
+        answer: "Does<br />설명: your brother는 he로 바꿀 수 있는 3인칭 단수이므로 Does를 씁니다."
       - type: qna
-        question: "Q5. ____ you understand this lesson? - Yes, I ____."
-        answer: "Do, do"
+        question: "Q5. ______ we need a dictionary?"
+        answer: "Do<br />설명: 주어가 we이므로 Do를 씁니다."
       - type: qna
-        question: "Q6. Do you ____ (go) to school by bus?"
-        answer: "go"
+        question: "Q6. ______ it rain a lot here?"
+        answer: "Does<br />설명: 주어가 it(3인칭 단수)이므로 Does를 씁니다."
       - type: qna
-        question: "Q7. Do you ____ (eat) lunch at school?"
-        answer: "eat"
+        question: "Q7. What ______ you eat for breakfast?"
+        answer: "do<br />설명: 주어가 you이므로 do를 씁니다. 의문사가 있어도 같은 규칙입니다."
       - type: qna
-        question: "Q8. Do you ____ (have) a pet?"
-        answer: "have"
-      - type: qna
-        question: "Q9. Do you ____ (study) math on Tuesdays?"
-        answer: "study"
-      - type: qna
-        question: "Q10. Do you ____ (want) some water?"
-        answer: "want"
-      - type: qna
-        question: "Q11. (like / swimming) → 완전한 질문 만들기"
-        answer: "Do you like swimming?"
-      - type: qna
-        question: "Q12. (need / help) → 완전한 질문 만들기"
-        answer: "Do you need help?"
-      - type: qna
-        question: "Q13. (know / the answer) → 완전한 질문 만들기"
-        answer: "Do you know the answer?"
-      - type: qna
-        question: "Q14. (have / brothers or sisters) → 완전한 질문 만들기"
-        answer: "Do you have brothers or sisters?"
-      - type: qna
-        question: "Q15. (listen / to music) → 완전한 질문 만들기"
-        answer: "Do you listen to music?"
+        question: "Q8. Where ______ he live?"
+        answer: "does<br />설명: 주어가 he(3인칭 단수)이므로 does를 씁니다."
 
   - title: "5. 문장 만들기 - 번역"
     items:
       - type: note
-        content: "한글 문장을 영어로 번역해 보세요."
+        content: "한글 문장을 영어로 번역해 보세요. (Do/Does + 주어 + 동사원형?)"
       - type: qna
-        question: "T1. 너는 축구를 좋아하니?"
-        answer: "Do you like soccer?"
+        question: "T1. 너 축구 좋아해?"
+        answer: "Do you like soccer?<br />평가 기준: Do you like 순서와 동사원형만 맞으면 정답입니다."
       - type: qna
-        question: "T2. 너는 매일 운동하니?"
-        answer: "Do you exercise every day?"
+        question: "T2. 그녀는 매일 아침을 먹어?"
+        answer: "Does she eat breakfast every day?<br />평가 기준: Does she eat 사용하고 every day 위치만 맞으면 정답입니다."
       - type: qna
-        question: "T3. 너는 영어를 공부하니?"
-        answer: "Do you study English?"
+        question: "T3. 그들은 영어를 해?"
+        answer: "Do they speak English?<br />평가 기준: Do they speak 어순과 형태만 맞으면 정답입니다."
       - type: qna
-        question: "T4. 너는 게임을 하니?"
-        answer: "Do you play games?"
+        question: "T4. 네 아빠는 커피를 마셔?"
+        answer: "Does your dad drink coffee?<br />평가 기준: Does your dad drink 어순과 형태만 맞으면 정답입니다."
       - type: qna
-        question: "T5. 너는 아침을 먹니?"
-        answer: "Do you eat breakfast?"
+        question: "T5. 너 몇 시에 학교에 가?"
+        answer: "What time do you go to school?<br />평가 기준: What time + do you go to school 어순만 맞으면 정답입니다. 또는 When do you go to school?도 가능합니다."
       - type: qna
-        question: "T6. 너는 안경을 쓰니? (질문과 자신의 대답)"
-        answer: "Q: Do you wear glasses? / A: Yes, I do. 또는 No, I don't."
-      - type: qna
-        question: "T7. 너는 김치를 먹니? (질문과 자신의 대답)"
-        answer: "Q: Do you eat kimchi? / A: Yes, I do. 또는 No, I don't."
-      - type: qna
-        question: "T8. 너는 주말에 늦게 일어나니? (질문과 자신의 대답)"
-        answer: "Q: Do you wake up late on weekends? / A: Yes, I do. 또는 No, I don't."
+        question: "T6. 그는 왜 늦게 자?"
+        answer: "Why does he go to bed late? / Why does he sleep late?<br />평가 기준: Why does he + 동사원형 구조가 맞으면 정답입니다."
 
   - title: "6. 변형 연습"
     items:
       - type: note
-        content: "문장을 변형해 보세요."
+        content: "평서문을 의문문으로, 또는 주어를 바꿔서 문장을 변형해 보세요."
       - type: qna
-        question: "TF1. You live in Busan. → 질문으로"
-        answer: "Do you live in Busan?"
+        question: "TF1. 평서문을 의문문으로 바꾸세요: You like music."
+        answer: "Do you like music?<br />설명: 문장 앞에 Do를 넣고 끝에 물음표를 붙입니다."
       - type: qna
-        question: "TF2. You play computer games. → 질문으로"
-        answer: "Do you play computer games?"
+        question: "TF2. 평서문을 의문문으로 바꾸세요: She plays tennis."
+        answer: "Does she play tennis?<br />설명: plays를 Does + play(동사원형)로 바꿉니다. Does 뒤에는 -s를 빼야 합니다."
       - type: qna
-        question: "TF3. You understand Korean. → 질문으로"
-        answer: "Do you understand Korean?"
+        question: "TF3. 주어를 'He'로 바꾸세요: Do you study hard?"
+        answer: "Does he study hard?<br />설명: Do를 Does로 바꿉니다. 동사는 그대로 원형 study입니다."
       - type: qna
-        question: "TF4. You have a smartphone. → 질문으로"
-        answer: "Do you have a smartphone?"
+        question: "TF4. 주어를 'They'로 바꾸세요: Does your sister like cats?"
+        answer: "Do they like cats?<br />설명: Does를 Do로 바꿉니다. 동사는 그대로 원형 like입니다."
       - type: qna
-        question: "TF5. You watch anime. → 질문으로"
-        answer: "Do you watch anime?"
+        question: "TF5. 의문문을 평서문으로 바꾸세요: Do they live in Busan?"
+        answer: "They live in Busan.<br />설명: Do를 빼고 끝에 마침표를 붙이면 평서문이 됩니다."
       - type: qna
-        question: "TF6. Do you read books? → 평서문으로"
-        answer: "You read books."
+        question: "TF6. 의문문을 부정문으로 바꾸세요: Does he like math?"
+        answer: "He doesn't like math.<br />설명: Does를 문장 중간으로 옮기고 doesn't로 바꿉니다. 동사는 그대로 원형 like를 씁니다."
       - type: qna
-        question: "TF7. Do you drink coffee? → 평서문으로"
-        answer: "You drink coffee."
-      - type: qna
-        question: "TF8. Do you speak Chinese? → 평서문으로"
-        answer: "You speak Chinese."
-      - type: qna
-        question: "TF9. Do you eat vegetables? → 부정 대답과 부정문"
-        answer: "No, I don't. I don't eat vegetables."
-      - type: qna
-        question: "TF10. Do you wake up early? → 부정 대답과 부정문"
-        answer: "No, I don't. I don't wake up early."
-      - type: qna
-        question: "TF11. Do you play the violin? → 부정 대답과 부정문"
-        answer: "No, I don't. I don't play the violin."
+        question: "TF7. 부정문을 의문문으로 바꾸세요: I don't eat meat."
+        answer: "Do you eat meat?<br />설명: 부정문의 주어 I를 상대방 you로 바꾸고, don't를 문장 앞으로 보내 Do로 바꿉니다."
 
   - title: "7. 실생활 적용"
     items:
       - type: note
-        content: "진짜 상황에서 사용하기"
+        content: "실제로 물어볼 수 있는 질문을 Do/Does를 사용해서 만들어 보세요!"
       - type: qna
-        question: "A1. 전학 온 친구 Alex에게 좋아하는 과목을 물어볼 때"
-        answer: "예시: Do you like math? / Do you like science?"
+        question: "A1. 새로운 친구에게 물어보고 싶은 질문 2개를 만들어 보세요. (예: Do you like...?)"
+        answer: "예시: Do you like video games? Do you play any sports?<br />평가 기준: Do you + 동사원형 형태로 2문장 작성하면 정답입니다. 질문의 내용은 자유입니다."
       - type: qna
-        question: "A2. 전학 온 친구에게 방과 후 활동을 물어볼 때"
-        answer: "예시: Do you join any clubs? / Do you play sports?"
+        question: "A2. 친구의 가족에 대해 물어보는 질문 2개를 만들어 보세요. (예: Does your mom...?)"
+        answer: "예시: Does your mom work? Does your brother go to the same school?<br />평가 기준: Does + 3인칭 단수 주어 + 동사원형 구조로 2문장 쓰면 정답입니다."
       - type: qna
-        question: "A3. 전학 온 친구에게 점심 관련 묻기"
-        answer: "예시: Do you eat school lunch? / Do you bring lunch?"
+        question: "A3. 상대방의 일상에 대해 의문사로 질문을 2개 만들어 보세요. (예: What time do you...?)"
+        answer: "예시: What time do you wake up? Where do you eat lunch?<br />평가 기준: 의문사 + do/does + 주어 + 동사원형 형태로 2문장 작성하면 정답입니다."
       - type: qna
-        question: "A4. 친구와 주말 계획 세우기: 영화 좋아하는지 묻기"
-        answer: "Do you like movies?"
+        question: "A4. 반려동물이나 좋아하는 동물에 대해 물어보는 질문을 써 보세요. (예: Does your dog...?)"
+        answer: "예시: Does your cat like fish? / Do dogs eat vegetables?<br />평가 기준: 단수 동물(your dog/the cat)은 Does, 복수(Dogs/Cats)는 Do 사용하면 정답입니다."
       - type: qna
-        question: "A5. 친구와 주말 계획: 자전거 타는지 묻기"
-        answer: "Do you ride a bike? / Do you have a bike?"
-      - type: qna
-        question: "A6. 친구와 주말 계획: 공원 아는지 묻기"
-        answer: "Do you know a good park?"
-      - type: qna
-        question: "A7. Sports and Activities 설문조사 질문 5개 만들기"
-        answer: "예시: 1. Do you play soccer? 2. Do you swim? 3. Do you dance? 4. Do you do taekwondo? 5. Do you ride a skateboard?"
+        question: "A5. 선생님이나 학교에 대해 물어보는 질문을 2개 만들어 보세요."
+        answer: "예시: Does your teacher give a lot of homework? Do you like your school?<br />평가 기준: Do/Does + 주어 + 동사원형 형태로 2문장 작성하면 정답입니다."
 
   - title: "8. 종합 문제"
     items:
       - type: note
-        content: "실력 확인 문제"
+        content: "조금 더 깊이 생각해 봅시다!"
       - type: qna
-        question: "C1. 오류 수정: You do like pizza?"
-        answer: "Do you like pizza?"
+        question: "C1. 틀린 부분을 찾아 바르게 고치세요:<br />a) Does you like sports?<br />b) Do she plays the piano?<br />c) What does they eat?<br />d) Does he likes pizza?"
+        answer: "a) Do you like sports? (You는 Do와 함께)<br />b) Does she play the piano? (She는 Does와 함께, 동사는 원형)<br />c) What do they eat? (They는 do와 함께)<br />d) Does he like pizza? (Does 뒤는 동사원형 like)<br />설명: 주어에 따라 Do/Does를 구분하고, Does 뒤에는 항상 동사원형을 씁니다."
       - type: qna
-        question: "C2. 오류 수정: Do you likes chocolate?"
-        answer: "Do you like chocolate?"
+        question: "C2. 다음 대화를 완성하세요:<br />A: ______ you like English?<br />B: Yes, I ______. I study every day.<br />A: ______ your sister like English too?<br />B: No, she ______. She likes math."
+        answer: "A: Do you like English?<br />B: Yes, I do. I study every day.<br />A: Does your sister like English too?<br />B: No, she doesn't. She likes math.<br />평가 기준: Do/Does와 do/doesn't를 주어에 맞게 사용하면 정답입니다.<br />설명: 짧은 대답에서도 주어에 맞는 do/does를 사용합니다."
       - type: qna
-        question: "C3. 오류 수정: Are you play games?"
-        answer: "Do you play games?"
+        question: "C3. 다음 상황에 맞는 질문을 영어로 만들어 보세요:<br />a) 친구가 아침을 먹는지 알고 싶을 때<br />b) 친구의 엄마가 요리를 하시는지 알고 싶을 때<br />c) 친구가 보통 몇 시에 자는지 알고 싶을 때"
+        answer: "a) Do you eat breakfast?<br />b) Does your mom cook?<br />c) What time do you go to bed?<br />평가 기준: 각 상황에 맞는 Do/Does 의문문을 만들면 정답입니다. 다양한 표현이 가능합니다."
       - type: qna
-        question: "C4. 오류 수정: Do you sleeping late?"
-        answer: "Do you sleep late?"
-      - type: qna
-        question: "C5. 오류 수정: Do you has a dog?"
-        answer: "Do you have a dog?"
-      - type: qna
-        question: "C6. 대화 완성: A: ____ (you / eat / breakfast) B: Yes, I do. I eat toast every morning."
-        answer: "Do you eat breakfast?"
-      - type: qna
-        question: "C7. 대화 완성: A: ____ (you / drink / milk) B: No, I don't. I drink orange juice."
-        answer: "Do you drink milk?"
-      - type: qna
-        question: "C8. 대화 읽기 후: Mike가 다니는 학교는? (Sarah: Do you go to Sunflower Elementary School? Mike: Yes, I do.)"
-        answer: "Sunflower Elementary School"
-      - type: qna
-        question: "C9. 대화 읽기 후: Mike가 좋아하는 과목은? (Mike: No, I don't. I prefer art.)"
-        answer: "Art"
+        question: "C4. 당신의 친구에 대해 질문 3개와 대답을 만들어 짧은 인터뷰를 완성해 보세요."
+        answer: "예시:<br />Q: Do you like sports?<br />A: Yes, I do. I like basketball.<br />Q: Does your brother play with you?<br />A: No, he doesn't. He likes video games.<br />Q: What do you do after school?<br />A: I do my homework and play basketball.<br />평가 기준: 질문 3개(Do/Does + 주어 + 동사원형 형태)와 적절한 대답을 만들면 정답입니다."
 
   - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
     items:
       - type: note
-        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용이 얼마나 기억나는지 확인할 수 있습니다!"
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 잊지 않도록 도와줄 거예요."
       - type: qna
-        question: "SR1. ____ you like swimming?"
+        question: "SR1. 빈칸 채우기: ______ your teacher speak Korean?"
+        answer: "Does"
+      - type: qna
+        question: "SR2. 번역: 너 매일 운동해?"
+        answer: "Do you exercise every day?"
+      - type: qna
+        question: "SR3. 빈칸 채우기: ______ they like pizza?"
         answer: "Do"
       - type: qna
-        question: "SR2. ____ you have a bicycle?"
-        answer: "Do"
+        question: "SR4. 틀린 문장 고치기: Does she likes music?"
+        answer: "Does she like music?"
       - type: qna
-        question: "SR3. Do you ____ (speak) English?"
-        answer: "speak"
+        question: "SR5. 번역: 그는 어디에 살아?"
+        answer: "Where does he live?"
       - type: qna
-        question: "SR4. Do you ____ (play) tennis?"
-        answer: "play"
+        question: "SR6. 변형: 평서문을 의문문으로 바꾸기 - He plays soccer."
+        answer: "Does he play soccer?"
       - type: qna
-        question: "SR5. [ soccer / play / you / do / ? ] 순서 배열"
-        answer: "Do you play soccer?"
+        question: "SR7. 빈칸 채우기: What ______ you eat for lunch?"
+        answer: "do"
       - type: qna
-        question: "SR6. [ homework / your / you / do / do / ? ] 순서 배열"
-        answer: "Do you do your homework?"
+        question: "SR8. 번역: 네 엄마는 영어를 하셔?"
+        answer: "Does your mom speak English?"
       - type: qna
-        question: "SR7. 번역: 너는 매일 우유를 마시니?"
-        answer: "Do you drink milk every day?"
+        question: "SR9. 짧은 대답: Does he like math? (부정으로)"
+        answer: "No, he doesn't."
       - type: qna
-        question: "SR8. 번역: 너는 고양이를 좋아하니?"
-        answer: "Do you like cats?"
+        question: "SR10. 자유 작문: 친구에게 물어보고 싶은 질문 1개를 영어로 쓰세요."
+        answer: "예시: Do you have any pets? / Do you like reading books? / What do you do on weekends?"
       - type: qna
-        question: "SR9. 번역: 너는 방과 후에 게임을 하니?"
-        answer: "Do you play games after school?"
+        question: "SR11. 틀린 문장 고치기: Do your brother play games?"
+        answer: "Does your brother play games?"
       - type: qna
-        question: "SR10. 새 이웃에게 할 수 있는 질문 3개 만들기"
-        answer: "예시: 1. Do you like this neighborhood? 2. Do you have children? 3. Do you need any help?"
+        question: "SR12. 번역: 그들은 왜 일찍 일어나?"
+        answer: "Why do they wake up early?"
 
   - title: "10. 자기 점검 & 격려"
     items:
       - type: note
         content: "스스로에게 물어보세요!"
       - type: qna
-        question: "SC1. 'Do you...?' 질문의 구조를 이해했나요?"
-        answer: "할 수 있다면: 훌륭해요! 이제 친구들에게 영어로 질문할 수 있어요.<br />어렵다면: 'Do + you + 동사원형 + ?' 구조를 다시 한번 복습해보세요."
+        question: "SC1. Do와 Does의 차이를 친구에게 설명할 수 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! 주어에 따라 구분하는 것은 영어 문법의 기초입니다. 이제 질문도 자신있게 할 수 있어요!<br />어렵다면: 괜찮아요. 간단하게 기억하세요! 'I, You, We, They'는 Do / 'He, She, It'는 Does입니다. Unit 6에서 배운 don't/doesn't와 같은 원리예요!"
       - type: qna
-        question: "SC2. 'Do you...?' 질문을 5개 이상 만들 수 있나요?"
-        answer: "할 수 있다면: 대단해요! 다양한 상황에서 질문을 만들어 보세요.<br />어렵다면: Section 1의 예시들을 참고해서 연습해보세요."
+        question: "SC2. Does 뒤에 동사원형을 쓴다는 규칙을 기억하고 실수 없이 쓸 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 이 규칙은 정말 중요한데 이미 마스터했네요. 부정문(doesn't)과 의문문(Does) 모두 같은 규칙이라는 것도 기억하세요!<br />어렵다면: 이렇게 기억하세요! Does는 이미 -s를 가지고 있어서 동사는 원래 모습(원형)으로 쓴다고 생각하면 돼요. 예: Does he play (O), Does he plays (X)"
       - type: qna
-        question: "SC3. 질문에 'Yes, I do.' 또는 'No, I don't.' 로 대답할 수 있나요?"
-        answer: "할 수 있다면: 완벽해요! 실제 대화에서 사용해보세요.<br />어렵다면: 대답 패턴을 소리내어 여러 번 연습해보세요."
+        question: "SC3. 짧은 대답(Yes, I do. / No, he doesn't.)을 자신있게 말할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 짧은 대답은 실제 대화에서 정말 많이 써요. 이제 원어민처럼 자연스럽게 대답할 수 있어요!<br />어렵다면: 패턴을 기억하세요! 질문에 Do가 있으면 do/don't로, Does가 있으면 does/doesn't로 대답해요. 예: Do you like it? - Yes, I do. / Does she know? - No, she doesn't."
       - type: note
-        content: "🎉 축하합니다! Unit 7을 완료했습니다! 'Do you...?' 질문은 영어에서 가장 많이 사용하는 질문 형태 중 하나예요."
+        content: "여기까지 완성했다면 정말 잘하고 있어요! 일반현재 의문문은 영어로 대화할 때 가장 많이 쓰는 표현 중 하나예요. 오늘 배운 Do/Does 규칙만 기억하면 상대방에게 무엇이든 물어볼 수 있어요. 실수해도 괜찮아요. 연습할수록 자연스러워질 거예요!"
       - type: note
-        content: "💪 당신의 발전:<br />✅ 이제 친구들에게 영어로 질문할 수 있어요<br />✅ 일상생활에 대한 대화를 시작할 수 있어요<br />✅ 영어 문장 구조에 대한 이해가 깊어졌어요"
-      - type: note
-        content: "🌟 계속 성장하는 방법:<br />1. 매일 연습: 하루에 3개씩 'Do you...?' 질문을 만들어보세요<br />2. 실제 사용: 영어 선생님이나 친구에게 실제로 질문해보세요<br />3. 관찰하기: 영어 영상이나 노래에서 'Do you...?' 질문을 찾아보세요"
-      - type: note
-        content: "🎯 도전 과제: 이번 주 동안 'Do you...?' 질문을 실제로 10번 사용해보세요!<br />□ □ □ □ □ □ □ □ □ □"
-      - type: note
-        content: "💬 명심하세요: 실수는 배움의 과정입니다. 틀려도 괜찮아요! 중요한 건 계속 시도하는 거예요. 영어는 매일 조금씩 사용할 때 실력이 늘어요. 여러분은 정말 잘하고 있어요! 파이팅! 💪"
+        content: "내일 할 일:<br />1. Section 9의 복습 문제 12개를 다시 풀어 보세요 (답을 보지 말고!)<br />2. 오늘 하루 동안 가족이나 친구에게 영어로 3가지 이상 질문해 보세요 (Do you...? / Does...?)<br />3. 좋아하는 유튜버나 연예인에 대해 궁금한 것 5가지를 영어로 질문 형식으로 써 보세요"
