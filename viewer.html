@@ -204,6 +204,31 @@
       h2 {
         page-break-after: avoid;
       }
+
+      /* Add spacing between questions for writing answers */
+      .item {
+        margin-bottom: 40px !important;
+      }
+
+      /* Extra spacing after questions (qna type) for answer writing */
+      .question {
+        margin-bottom: 30px !important;
+      }
+
+      /* Add padding at bottom of each item for writing space */
+      .item::after {
+        content: "";
+        display: block;
+        height: 20px;
+        border-bottom: 1px dotted #ccc;
+        margin-top: 15px;
+      }
+
+      /* Hide the writing line for non-question items like notes and text */
+      .note + .item::after,
+      .item:has(.note)::after {
+        display: none;
+      }
     }
   </style>
   <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
