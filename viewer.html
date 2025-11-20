@@ -55,6 +55,105 @@
       margin-bottom: 18px;
     }
 
+    .markdown-content h1 {
+      color: #3a7bd5;
+      font-size: 1.4em;
+      margin: 20px 0 15px 0;
+      text-align: left;
+    }
+
+    .markdown-content h2 {
+      color: #3a7bd5;
+      font-size: 1.2em;
+      margin: 18px 0 12px 0;
+      border-left: none;
+      padding-left: 0;
+    }
+
+    .markdown-content h3 {
+      color: #555;
+      font-size: 1.1em;
+      margin: 15px 0 10px 0;
+    }
+
+    .markdown-content p {
+      margin: 10px 0;
+      line-height: 1.8;
+    }
+
+    .markdown-content ul, .markdown-content ol {
+      padding-left: 25px;
+      margin: 10px 0;
+    }
+
+    .markdown-content li {
+      margin-bottom: 8px;
+      line-height: 1.6;
+    }
+
+    .markdown-content code {
+      background: #f5f5f5;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: 'Consolas', monospace;
+      font-size: 0.9em;
+    }
+
+    .markdown-content pre {
+      background: #f8f8f8;
+      padding: 15px;
+      border-radius: 8px;
+      overflow-x: auto;
+      border-left: 4px solid #ffd86b;
+      margin: 15px 0;
+    }
+
+    .markdown-content pre code {
+      background: none;
+      padding: 0;
+    }
+
+    .markdown-content table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 15px 0;
+    }
+
+    .markdown-content th, .markdown-content td {
+      border: 1px solid #ddd;
+      padding: 10px;
+      text-align: left;
+    }
+
+    .markdown-content th {
+      background: #fff3c4;
+      font-weight: bold;
+    }
+
+    .markdown-content tr:nth-child(even) {
+      background: #fafafa;
+    }
+
+    .markdown-content strong {
+      color: #333;
+    }
+
+    .markdown-content hr {
+      border: none;
+      border-top: 2px solid #f5d5a3;
+      margin: 20px 0;
+    }
+
+    .markdown-content blockquote {
+      border-left: 4px solid #6fcf97;
+      padding-left: 15px;
+      margin: 15px 0;
+      color: #555;
+      background: #f9f9f9;
+      padding: 10px 15px;
+      border-radius: 0 8px 8px 0;
+    }
+
     .subheading {
       font-weight: bold;
       color: #3a7bd5;
@@ -232,6 +331,7 @@
     }
   </style>
   <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
   <div class="file-selector">
@@ -250,6 +350,11 @@
       btn.textContent = ans.classList.contains('visible') ? '정답 숨기기' : '정답 보기';
     }
 
+    function renderMarkdown(content) {
+      // Use marked library to convert markdown to HTML
+      return marked.parse(content);
+    }
+
     function renderContent(data) {
       const container = document.getElementById('content');
 
@@ -263,35 +368,44 @@
       data.sections.forEach(section => {
         html += `<div class="section"><h2>${section.title}</h2>`;
 
-        section.items.forEach(item => {
-          html += '<div class="item">';
+        // Check if section has items array (old format) or content string (new format)
+        if (section.items && Array.isArray(section.items)) {
+          // Old format: items array with type/content
+          section.items.forEach(item => {
+            html += '<div class="item">';
 
-          if (item.type === 'text') {
-            html += `<p>${item.content}</p>`;
-          }
-          else if (item.type === 'list') {
-            if (item.heading) {
-              html += `<p class="subheading">${item.heading}</p>`;
+            if (item.type === 'text') {
+              html += `<p>${item.content}</p>`;
             }
-            html += '<ul>';
-            item.list.forEach(li => {
-              html += `<li>${li}</li>`;
-            });
-            html += '</ul>';
-          }
-          else if (item.type === 'note') {
-            html += `<div class="note">${item.content}</div>`;
-          }
-          else if (item.type === 'qna') {
-            html += `
-              <p class="question">${item.question}</p>
-              <button class="answer-toggle" onclick="toggleAnswer(this)">정답 보기</button>
-              <div class="answer">${item.answer}</div>
-            `;
-          }
+            else if (item.type === 'list') {
+              if (item.heading) {
+                html += `<p class="subheading">${item.heading}</p>`;
+              }
+              html += '<ul>';
+              item.list.forEach(li => {
+                html += `<li>${li}</li>`;
+              });
+              html += '</ul>';
+            }
+            else if (item.type === 'note') {
+              html += `<div class="note">${item.content}</div>`;
+            }
+            else if (item.type === 'qna') {
+              html += `
+                <p class="question">${item.question}</p>
+                <button class="answer-toggle" onclick="toggleAnswer(this)">정답 보기</button>
+                <div class="answer">${item.answer}</div>
+              `;
+            }
 
+            html += '</div>';
+          });
+        } else if (section.content) {
+          // New format: content string (markdown)
+          html += '<div class="item markdown-content">';
+          html += renderMarkdown(section.content);
           html += '</div>';
-        });
+        }
 
         html += '</div>';
       });

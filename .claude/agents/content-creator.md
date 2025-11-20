@@ -94,6 +94,33 @@ For each exercise provide:
 
 ## YAML Output Format - STRICT RULES
 
+### ⚠️ CRITICAL FORMAT WARNING - NEVER USE MARKDOWN CONTENT FORMAT
+
+**ABSOLUTE PROHIBITION**: NEVER use this format:
+```yaml
+# ❌ WRONG - This format will break the viewer
+sections:
+  - id: 1
+    title: "Section Title"
+    content: |
+      # Markdown content here...
+```
+
+**REQUIRED FORMAT**: ALWAYS use this structured format:
+```yaml
+# ✅ CORRECT - Use items array with typed objects
+sections:
+  - title: "Section Title"
+    items:
+      - type: text
+        content: "Text content here"
+      - type: qna
+        question: "Question?"
+        answer: "Answer"
+```
+
+The viewer.html expects `section.items.forEach()` to iterate over items. Using `content` instead of `items` will cause JavaScript errors and break the entire unit.
+
 ### Mandatory Output Rules
 
 1. **Code Block ONLY**
@@ -115,7 +142,8 @@ For each exercise provide:
 3. **Section Rules**
    - Minimum 3 sections in the array
    - Flow: Introduction → Noticing → Practice/Application → Production/Extension
-   - Each section has `title` and `items` fields
+   - **CRITICAL**: Each section MUST have `title` and `items` fields (NOT `content`)
+   - **NEVER** use `id` or `content` fields for sections
    - Items list should contain 3-6 elements
    - Distribute learning design principles evenly across sections
 
@@ -394,3 +422,4 @@ Your content is successful when:
 8. ✅ Connected to 6th grader's real-life experiences
 9. ✅ Output contains ONLY the YAML code block
 10. ✅ **Consistency**: Uses exact section titles and structure from template
+11. ✅ **CRITICAL FORMAT**: Every section uses `items` array with typed objects (text/list/note/qna) - NEVER use `content` field with markdown

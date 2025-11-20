@@ -194,6 +194,51 @@ Verify ALL 8 required elements are present and well-implemented:
 - ✅ Items have correct `type` and required fields?
 - ✅ Section 1 has comprehensive examples (8-10+)?
 
+### ⚠️ CRITICAL FORMAT CHECK - Items Array vs Content String
+
+**MUST CHECK FOR THIS COMMON ERROR:**
+
+The viewer.html expects sections to have an `items` array with typed objects. Using `content` with markdown instead will cause JavaScript errors and break the unit.
+
+```yaml
+# ❌ WRONG FORMAT - Will cause "section.items.forEach is not a function" error
+sections:
+  - id: 1
+    title: "Section Title"
+    content: |
+      # Markdown content here...
+
+# ✅ CORRECT FORMAT - Uses items array with typed objects
+sections:
+  - title: "Section Title"
+    items:
+      - type: text
+        content: "Explanation text"
+      - type: qna
+        question: "Question?"
+        answer: "Answer with explanation"
+```
+
+**Verification Checklist:**
+- ❌ Does ANY section have a `content` field instead of `items`?
+- ❌ Does ANY section have an `id` field? (Not part of the spec)
+- ❌ Is markdown being used directly in section content instead of structured items?
+
+**If wrong format detected:**
+```
+🚨 CRITICAL FORMAT ERROR - Section Structure
+   Issue: Section [X] uses 'content' field with markdown instead of 'items' array
+   Impact: This WILL cause JavaScript error "section.items.forEach is not a function" and break the entire unit in viewer.html
+   Required Fix: Convert markdown content to structured items array using text/list/note/qna types
+   Example:
+   Before: content: | "# Title\n- item 1\n- item 2"
+   After: items:
+            - type: text
+              content: "Title"
+            - type: list
+              list: ["item 1", "item 2"]
+```
+
 **Item Type Validation**
 - `text`: has `type` and `content`
 - `list`: has `type`, optional `heading`, and `list` array
@@ -305,6 +350,8 @@ Organize your review using this template:
 ---
 
 ## ✓ Technical Checklist
+- [ ] **CRITICAL FORMAT**: All sections use `items` array (NOT `content` with markdown)
+- [ ] **CRITICAL FORMAT**: No sections have `id` field
 - [ ] **STRUCTURE**: Exactly 10 sections in correct order
 - [ ] **STRUCTURE**: Section titles match template exactly
 - [ ] **SECTION 1**: Contains 8-10+ diverse examples
@@ -360,6 +407,7 @@ Organize your review using this template:
 - ❌ Grammar explanations are factually incorrect
 - ❌ Contains plagiarized/derivative content from textbooks
 - ❌ YAML structure is invalid or malformed
+- ❌ **Sections use `content` field instead of `items` array** (causes viewer.html to crash)
 - ❌ Missing answers for exercises
 - ❌ Inappropriate content for age group
 
