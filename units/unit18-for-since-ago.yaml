@@ -1,0 +1,254 @@
+title: "Unit 18 · for / since / ago (기간과 시점 표현)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "'for', 'since', 'ago'는 시간을 표현할 때 쓰는 중요한 단어예요. 비슷해 보이지만 각각 다른 상황에서 사용해요. 이 세 가지를 잘 구분하면 영어로 시간을 정확하게 표현할 수 있어요!"
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "<span class='highlight'>for + 기간:</span> 얼마나 오래인지 → for three days (3일 동안), for two hours (2시간 동안)"
+          - "<span class='highlight'>since + 시작 시점:</span> 언제부터인지 → since Monday (월요일부터), since 2020 (2020년부터)"
+          - "<span class='highlight'>숫자 + 시간 + ago:</span> 과거의 시점 → three days ago (3일 전에), two hours ago (2시간 전에)"
+          - "<span class='highlight'>for/since:</span> 현재완료와 주로 사용 → I have lived here for/since..."
+          - "<span class='highlight'>ago:</span> 단순과거와 사용 → I moved here three years ago."
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• <span class='highlight'>for:</span> '~동안'이라는 기간의 길이를 나타내요<br />• <span class='highlight'>since:</span> '~부터 (지금까지)'라는 시작점을 나타내요<br />• <span class='highlight'>ago:</span> '~전에'라는 과거의 한 시점을 나타내요"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• for: I have waited for 30 minutes. (30분 동안 기다렸어.)<br />• since: I have known her since elementary school. (초등학교 때부터 그녀를 알았어.)<br />• ago: I met him two weeks ago. (2주 전에 그를 만났어.)<br />• for + since 비교: for three years = since 2021 (둘 다 같은 기간을 다르게 표현)"
+      - type: list
+        heading: "더 많은 예문 (10개 이상)"
+        list:
+          - "I have studied English for six years. (6년 동안 영어를 공부했어.) - for + 기간"
+          - "She has lived here since 2019. (2019년부터 여기 살았어.) - since + 연도"
+          - "I called you ten minutes ago. (10분 전에 너에게 전화했어.) - ago + 단순과거"
+          - "We have been friends for a long time. (오랫동안 친구였어.) - for + 기간"
+          - "He has played soccer since he was five. (그는 5살 때부터 축구를 했어.) - since + 절"
+          - "I finished my homework an hour ago. (1시간 전에 숙제를 끝냈어.) - ago + 단순과거"
+          - "They have waited for hours. (그들은 몇 시간 동안 기다렸어.) - for + 기간"
+          - "My family has lived in Seoul since last year. (우리 가족은 작년부터 서울에 살았어.) - since + 시점"
+          - "I ate lunch thirty minutes ago. (30분 전에 점심 먹었어.) - ago + 단순과거"
+          - "She has had that bag for three months. (그녀는 3달 동안 그 가방을 가지고 있었어.) - for + 기간"
+          - "I have known him since middle school. (중학교 때부터 그를 알았어.) - since + 시점"
+          - "The movie started twenty minutes ago. (영화가 20분 전에 시작했어.) - ago + 단순과거"
+      - type: note
+        content: "한국 학습자가 자주 하는 실수:<br />1. 'since three years'처럼 since 뒤에 기간을 쓰면 안 돼요! since + 시점, for + 기간!<br />2. 'three years ago'를 현재완료와 쓰면 안 돼요! ago는 단순과거와만 사용해요!<br />3. 'for'를 '~를 위해'로만 알고 있으면 안 돼요! 시간에서는 '~동안'이에요!<br />4. 'since I was young'처럼 since 뒤에 절(주어+동사)도 올 수 있어요!"
+      - type: text
+        content: "<span class='highlight'>for vs. since vs. ago 비교표:</span><br />• <span class='highlight'>for two years</span> = 2년 동안 (기간) → 현재완료와 사용<br />• <span class='highlight'>since 2022</span> = 2022년부터 (시작점) → 현재완료와 사용<br />• <span class='highlight'>two years ago</span> = 2년 전에 (과거 시점) → 단순과거와 사용<br /><br />핵심: for/since는 '지금까지 계속'을 나타내고, ago는 '끝난 과거'를 나타내요!"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "아래 문장들을 자세히 관찰하고, 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I have lived here for five years."
+          - "She has worked here since 2020."
+          - "He moved to Seoul three years ago."
+          - "We have been friends for ten years."
+          - "I have known her since elementary school."
+          - "They arrived two hours ago."
+          - "My dad has had this car for six months."
+          - "I started learning piano five years ago."
+      - type: qna
+        question: "Q1. 'for' 다음에 오는 것과 'since' 다음에 오는 것의 차이점은 무엇인가요?"
+        answer: "for 다음에는 기간(five years, ten years, six months)이, since 다음에는 시점(2020, elementary school)이 와요!"
+      - type: qna
+        question: "Q2. 'ago'가 있는 문장과 없는 문장의 동사 형태가 어떻게 다른가요?"
+        answer: "ago가 있는 문장은 단순과거(moved, arrived, started)를, for/since가 있는 문장은 현재완료(have lived, has worked, have known)를 써요!"
+      - type: qna
+        question: "Q3. 'ago'는 문장에서 어디에 위치하나요?"
+        answer: "시간 표현(three years, two hours, five years) 뒤에 와요! '숫자 + 시간 + ago' 순서예요."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요! 기억해내려고 노력하는 것이 진짜 공부예요!"
+      - type: qna
+        question: "R1. for, since, ago의 뜻을 각각 써보세요."
+        answer: "for: ~동안 (기간)<br />since: ~부터 (시작점)<br />ago: ~전에 (과거 시점)<br />평가 기준: 세 가지 의미를 모두 맞게 쓰면 정답!"
+      - type: qna
+        question: "R2. for 다음에는 무엇이 오고, since 다음에는 무엇이 오나요?"
+        answer: "for + 기간 (숫자 + 시간): for three years, for two hours<br />since + 시점: since 2020, since Monday<br />평가 기준: 기간 vs 시점을 구분하면 정답!"
+      - type: qna
+        question: "R3. ago는 어떤 시제와 함께 쓰나요?"
+        answer: "단순과거와 함께 써요! (moved, arrived, started 등)<br />평가 기준: '단순과거'라고 답하면 정답!"
+      - type: qna
+        question: "R4. for/since는 어떤 시제와 함께 쓰나요?"
+        answer: "현재완료와 함께 써요! (have lived, has worked 등)<br />평가 기준: '현재완료'라고 답하면 정답!"
+      - type: qna
+        question: "R5. 한국 학습자가 자주 하는 실수 한 가지를 적어보세요."
+        answer: "예: since + 기간을 쓰거나, ago를 현재완료와 쓰는 실수<br />평가 기준: 어떤 실수든 맞게 기억하면 정답!"
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 for, since, ago 중 알맞은 것을 넣으세요."
+      - type: qna
+        question: "Q1. I have lived in this city _____ 2018."
+        answer: "since<br />설명: 2018은 시점이므로 since!"
+      - type: qna
+        question: "Q2. She has studied Korean _____ three years."
+        answer: "for<br />설명: three years는 기간이므로 for!"
+      - type: qna
+        question: "Q3. I finished my lunch thirty minutes _____."
+        answer: "ago<br />설명: 과거의 시점을 나타내므로 ago! 단순과거(finished)와 함께 사용."
+      - type: qna
+        question: "Q4. We have been best friends _____ elementary school."
+        answer: "since<br />설명: elementary school은 시점이므로 since!"
+      - type: qna
+        question: "Q5. He has had this phone _____ six months."
+        answer: "for<br />설명: six months는 기간이므로 for!"
+      - type: qna
+        question: "Q6. I met her two weeks _____."
+        answer: "ago<br />설명: 과거 시점! 단순과거(met)와 함께 사용."
+      - type: qna
+        question: "Q7. They have waited _____ the morning."
+        answer: "since<br />설명: the morning은 시점이므로 since! '아침부터'라는 뜻."
+      - type: qna
+        question: "Q8. My brother started learning guitar five years _____."
+        answer: "ago<br />설명: 과거 시점! 단순과거(started)와 함께 사용."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. for, since, ago를 올바르게 사용하세요!"
+      - type: qna
+        question: "T1. 나는 3년 동안 피아노를 배웠어."
+        answer: "I have learned/played piano for three years.<br />평가 기준: 'for three years'가 맞고 현재완료를 사용하면 정답!"
+      - type: qna
+        question: "T2. 그녀는 2020년부터 여기서 일했어."
+        answer: "She has worked here since 2020.<br />평가 기준: 'since 2020'이 맞고 현재완료를 사용하면 정답!"
+      - type: qna
+        question: "T3. 나는 2주 전에 그를 만났어."
+        answer: "I met him two weeks ago.<br />평가 기준: 'two weeks ago'가 맞고 단순과거(met)를 사용하면 정답!"
+      - type: qna
+        question: "T4. 우리는 오랫동안 친구였어."
+        answer: "We have been friends for a long time.<br />평가 기준: 'for a long time'이 맞고 현재완료를 사용하면 정답!"
+      - type: qna
+        question: "T5. 영화가 30분 전에 시작했어."
+        answer: "The movie started thirty minutes ago.<br />평가 기준: '30 minutes ago'가 맞고 단순과거(started)를 사용하면 정답!"
+      - type: qna
+        question: "T6. 나는 초등학교 때부터 그녀를 알았어."
+        answer: "I have known her since elementary school.<br />평가 기준: 'since elementary school'이 맞고 현재완료를 사용하면 정답!"
+      - type: qna
+        question: "T7. 그들은 2시간 동안 기다렸어."
+        answer: "They have waited for two hours.<br />평가 기준: 'for two hours'가 맞고 현재완료를 사용하면 정답!"
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 다른 표현으로 바꿔보세요."
+      - type: qna
+        question: "TF1. I have lived here for three years. (since를 사용해서 같은 의미로)"
+        answer: "I have lived here since three years ago. / I have lived here since I started middle school.<br />설명: for + 기간 = since + 시작 시점!"
+      - type: qna
+        question: "TF2. She has worked here since January. (for를 사용해서 비슷한 의미로)"
+        answer: "She has worked here for several months.<br />설명: since + 시점을 for + 기간으로 바꿔요! (January부터 현재까지의 기간을 계산)"
+      - type: qna
+        question: "TF3. I met him three days ago. (3 days를 'last Friday'로 바꿔서)"
+        answer: "I met him last Friday.<br />설명: 'three days ago'나 'last Friday'나 둘 다 과거 시점! 단순과거와 사용."
+      - type: qna
+        question: "TF4. We have been friends for five years. (ago를 사용해서 언제 친구가 됐는지)"
+        answer: "We became friends five years ago.<br />설명: 현재완료(have been) → 단순과거(became) + ago!"
+      - type: qna
+        question: "TF5. I started this game two months ago. (현재완료로 바꿔서 for 사용)"
+        answer: "I have played this game for two months.<br />설명: 단순과거 + ago → 현재완료 + for!"
+      - type: qna
+        question: "TF6. He has had this dog since he was ten. (for를 사용해서)"
+        answer: "He has had this dog for several years. (현재 나이에서 10을 빼면 됨)<br />설명: since + 과거 시점을 for + 기간으로 계산해서 바꿔요!"
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요! for, since, ago를 사용해서 자신의 경험을 표현해봐요."
+      - type: qna
+        question: "A1. 'for'를 사용해서 자신이 얼마나 오래 무언가를 했는지 써보세요."
+        answer: "예시: I have played soccer for four years. / I have studied at this school for two years.<br />평가 기준: 'have + 과거분사 + for + 기간'이 맞으면 정답!"
+      - type: qna
+        question: "A2. 'since'를 사용해서 언제부터 무언가를 했는지 써보세요."
+        answer: "예시: I have lived in this city since 2019. / I have liked this singer since last year.<br />평가 기준: 'have + 과거분사 + since + 시점'이 맞으면 정답!"
+      - type: qna
+        question: "A3. 'ago'를 사용해서 과거에 했던 일을 써보세요."
+        answer: "예시: I visited my grandparents two weeks ago. / I bought this book three days ago.<br />평가 기준: '단순과거 + 기간 + ago'가 맞으면 정답!"
+      - type: qna
+        question: "A4. 같은 사실을 for와 since를 각각 사용해서 두 문장으로 써보세요."
+        answer: "예시:<br />for: I have known my best friend for five years.<br />since: I have known my best friend since 2019.<br />평가 기준: 같은 의미를 for/since로 각각 올바르게 표현하면 정답!"
+      - type: qna
+        question: "A5. 친구가 됐던 때를 ago로, 친구였던 기간을 for로 각각 써보세요."
+        answer: "예시:<br />ago: I met my best friend three years ago.<br />for: I have been friends with him/her for three years.<br />평가 기준: ago는 단순과거, for는 현재완료와 올바르게 사용하면 정답!"
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 종합해서 풀어보세요."
+      - type: qna
+        question: "C1. 다음 문장에서 틀린 부분을 찾아 고치세요: 'I have met him two days ago.'"
+        answer: "I met him two days ago.<br />설명: ago는 단순과거와 함께 써요! have met → met"
+      - type: qna
+        question: "C2. 다음 문장에서 틀린 부분을 찾아 고치세요: 'She has lived here since three years.'"
+        answer: "She has lived here for three years. 또는 She has lived here since 2021.<br />설명: since + 기간은 틀려요! since + 시점 또는 for + 기간으로 써야 해요."
+      - type: qna
+        question: "C3. 다음 빈칸을 채우고, 왜 그렇게 선택했는지 설명하세요:<br />a) I have known him _____ 2018.<br />b) I have known him _____ six years.<br />c) I met him six years _____."
+        answer: "a) since (2018은 시점)<br />b) for (six years는 기간)<br />c) ago (단순과거 met과 함께 쓰는 과거 시점 표현)<br />설명: 시점/기간/과거 시점을 정확히 구분해야 해요!"
+      - type: qna
+        question: "C4. 다음 정보를 세 가지 방식(for, since, ago)으로 표현해보세요: '2020년에 축구를 시작해서 지금까지 하고 있다'"
+        answer: "for: I have played soccer for about five years.<br />since: I have played soccer since 2020.<br />ago: I started playing soccer five years ago.<br />평가 기준: 세 가지를 모두 올바른 시제와 함께 쓰면 정답!"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 기억이 사라지기 전에 복습하면 오래 남아요!"
+      - type: qna
+        question: "SR1. for, since, ago의 뜻은?"
+        answer: "for: ~동안 / since: ~부터 / ago: ~전에"
+      - type: qna
+        question: "SR2. for 다음에는 무엇이, since 다음에는 무엇이 오나요?"
+        answer: "for + 기간 / since + 시점"
+      - type: qna
+        question: "SR3. ago는 어떤 시제와 함께 쓰나요?"
+        answer: "단순과거"
+      - type: qna
+        question: "SR4. I have lived here _____ 2019."
+        answer: "since"
+      - type: qna
+        question: "SR5. She has worked here _____ three months."
+        answer: "for"
+      - type: qna
+        question: "SR6. I met him two weeks _____."
+        answer: "ago"
+      - type: qna
+        question: "SR7. 틀린 부분을 고치세요: 'I have started this game two days ago.'"
+        answer: "I started this game two days ago. (have started → started)"
+      - type: qna
+        question: "SR8. 나는 5년 동안 영어를 공부했어. (영작)"
+        answer: "I have studied English for five years."
+      - type: qna
+        question: "SR9. 나는 3일 전에 그를 만났어. (영작)"
+        answer: "I met him three days ago."
+      - type: qna
+        question: "SR10. for, since, ago 중 하나를 사용해서 자유롭게 한 문장 쓰기"
+        answer: "예: I have played this game for a month. (내용은 달라도 형식이 맞으면 OK!)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 솔직하게 체크하면 더 잘 배울 수 있어요."
+      - type: qna
+        question: "SC1. for, since, ago의 차이를 명확히 설명할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 시간 표현의 핵심을 잘 이해했어요!<br />어렵다면: Section 1을 다시 읽고, 각각의 예문을 3개씩 써보세요."
+      - type: qna
+        question: "SC2. for와 since 뒤에 올 수 있는 것을 구분할 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 많은 학습자가 헷갈리는 부분인데 잘 알고 있네요!<br />어렵다면: 'for + 숫자, since + 날짜/시점'을 10번 말해보세요."
+      - type: qna
+        question: "SC3. ago를 단순과거와만 사용해야 한다는 것을 알고 있나요?"
+        answer: "할 수 있다면: 대단해요! 이건 정말 중요한 규칙이에요!<br />어렵다면: 'ago = 단순과거'를 기억하고, C1 문제를 다시 풀어보세요."
+      - type: qna
+        question: "SC4. 같은 내용을 for, since, ago로 각각 표현할 수 있나요?"
+        answer: "할 수 있다면: 최고예요! 영어 표현의 유연성을 이해한 거예요!<br />어렵다면: C4 문제처럼 하나의 사실을 세 가지로 써보는 연습을 하세요."
+      - type: note
+        content: "오늘 for, since, ago를 배웠어요! 이제 시간을 정확하게 영어로 표현할 수 있어요. '얼마나 오래', '언제부터', '언제'를 구분해서 말할 수 있다는 건 정말 대단한 실력이에요!"
+      - type: note
+        content: "내일 할 일: Section 9의 복습 문제를 풀어보세요. 그리고 오늘 있었던 일을 ago로, 최근 시작한 취미를 for나 since로 각각 표현해보세요. 직접 써봐야 진짜 내 것이 돼요!"

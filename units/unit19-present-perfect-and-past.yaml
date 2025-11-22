@@ -1,0 +1,255 @@
+title: "Unit 19 · I have done (present perfect) and I did (past) - 현재완료 vs 단순과거"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "현재완료(have done)와 단순과거(did)는 둘 다 과거에 일어난 일을 말하지만, 느낌과 용법이 달라요. 이 차이를 이해하면 영어를 훨씬 자연스럽게 말할 수 있어요!"
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "<span class='highlight'>현재완료:</span> have/has + 과거분사 → I have finished. / She has eaten."
+          - "<span class='highlight'>단순과거:</span> 동사의 과거형 → I finished. / She ate."
+          - "<span class='highlight'>현재완료 부정:</span> have not (haven't) + 과거분사 → I haven't seen it."
+          - "<span class='highlight'>단순과거 부정:</span> did not (didn't) + 동사원형 → I didn't see it."
+          - "<span class='highlight'>현재완료 의문:</span> Have/Has + 주어 + 과거분사? → Have you finished?"
+          - "<span class='highlight'>단순과거 의문:</span> Did + 주어 + 동사원형? → Did you finish?"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• <span class='highlight'>현재완료:</span> 과거에서 지금까지 연결, 지금과 관련 있음, '경험/완료/결과'<br />• <span class='highlight'>단순과거:</span> 특정 과거 시점, 지금과 분리됨, '그때 그 일'"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• <span class='highlight'>현재완료</span> - 경험: I have been to Paris. (파리에 가본 적 있어.)<br />• <span class='highlight'>현재완료</span> - 완료/결과: I have lost my key. (열쇠를 잃어버렸어. → 지금 없음)<br />• <span class='highlight'>단순과거</span> - 특정 시점: I went to Paris last year. (작년에 파리에 갔어.)<br />• <span class='highlight'>단순과거</span> - 완전히 끝난 일: I lost my key yesterday. (어제 열쇠를 잃어버렸어.)"
+      - type: list
+        heading: "더 많은 예문 (10개 이상)"
+        list:
+          - "I have finished my homework. (숙제를 끝냈어. → 지금 끝난 상태) - 현재완료"
+          - "I finished my homework an hour ago. (1시간 전에 숙제를 끝냈어.) - 단순과거"
+          - "Have you ever eaten sushi? (초밥 먹어본 적 있니?) - 현재완료 (경험)"
+          - "I ate sushi yesterday. (어제 초밥 먹었어.) - 단순과거 (특정 시점)"
+          - "She has lost her phone. (그녀는 폰을 잃어버렸어. → 지금 없음) - 현재완료 (결과)"
+          - "She lost her phone last week. (그녀는 지난주에 폰을 잃어버렸어.) - 단순과거"
+          - "I have seen that movie three times. (그 영화 세 번 봤어.) - 현재완료 (경험)"
+          - "I saw that movie last weekend. (지난 주말에 그 영화 봤어.) - 단순과거"
+          - "He has just arrived. (그가 방금 도착했어.) - 현재완료 (방금)"
+          - "He arrived at 3 o'clock. (그는 3시에 도착했어.) - 단순과거 (특정 시간)"
+          - "They have lived here for ten years. (그들은 10년 동안 여기 살았어. → 지금도 삼) - 현재완료"
+          - "They lived there for ten years. (그들은 10년 동안 거기 살았어. → 지금은 거기 살지 않음) - 단순과거"
+      - type: note
+        content: "한국 학습자가 자주 하는 실수:<br />1. yesterday, last week, ago 등 특정 과거 시점이 있으면 단순과거를 써야 해요! 'I have seen it yesterday'는 틀려요!<br />2. just, already, yet, ever, never 등은 주로 현재완료와 함께 써요!<br />3. 한국어는 둘 다 '~했다'로 번역되어서 구분하기 어려워요. 영어에서는 '지금과 연결되는지'가 핵심!<br />4. 'I have been to'(~에 가본 적 있다)와 'I went to'(~에 갔다)를 구분하세요!"
+      - type: text
+        content: "<span class='highlight'>핵심 구분 기준:</span><br />• <span class='highlight'>특정 시간 표현이 있으면 → 단순과거:</span> yesterday, last week, in 2020, two days ago, when I was young<br />• <span class='highlight'>특정 시간 없이 경험/결과를 말하면 → 현재완료:</span> ever, never, just, already, yet, before, so far, recently<br /><br />쉽게 기억하기: <span class='highlight'>when?(언제?) 질문에 답이 있으면 단순과거!</span>"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "아래 문장들을 자세히 관찰하고, 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I have visited Jeju Island. / I visited Jeju Island last summer."
+          - "She has eaten lunch. / She ate lunch at noon."
+          - "They have moved to Seoul. / They moved to Seoul in 2020."
+          - "I have lost my pen. / I lost my pen yesterday."
+          - "He has seen this movie. / He saw this movie last week."
+          - "We have finished the project. / We finished the project two days ago."
+          - "Have you ever tried kimchi? / Did you try kimchi yesterday?"
+          - "I have just woken up. / I woke up at 7 AM."
+      - type: qna
+        question: "Q1. 각 쌍에서 왼쪽 문장(현재완료)과 오른쪽 문장(단순과거)의 차이점은 무엇인가요?"
+        answer: "왼쪽(현재완료)은 시간 표현이 없거나 just, ever 같은 단어가 있고, 오른쪽(단순과거)은 last summer, at noon, in 2020 같은 특정 시간 표현이 있어요!"
+      - type: qna
+        question: "Q2. 현재완료 문장들의 공통된 동사 형태는 무엇인가요?"
+        answer: "have/has + 과거분사 (visited, eaten, moved, lost, seen, finished, tried, woken)예요!"
+      - type: qna
+        question: "Q3. 단순과거 문장들의 공통된 특징은 무엇인가요?"
+        answer: "동사의 과거형(visited, ate, moved, lost, saw, finished, tried, woke)을 쓰고, 특정 시간 표현(last summer, at noon, yesterday 등)이 있어요!"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요! 기억해내려고 노력하는 것이 진짜 공부예요!"
+      - type: qna
+        question: "R1. 현재완료와 단순과거의 핵심 차이를 한 문장으로 설명해보세요."
+        answer: "현재완료는 지금과 연결되는 과거, 단순과거는 특정 과거 시점에 끝난 일<br />평가 기준: '지금과의 연결' 또는 '특정 시점'을 언급하면 정답!"
+      - type: qna
+        question: "R2. 현재완료의 형태를 써보세요."
+        answer: "have/has + 과거분사 (p.p.)<br />평가 기준: have/has와 과거분사를 모두 언급하면 정답!"
+      - type: qna
+        question: "R3. 단순과거를 써야 하는 시간 표현을 3개 이상 써보세요."
+        answer: "yesterday, last week/month/year, ago, in 2020, when I was young 등<br />평가 기준: 특정 과거 시점 표현을 3개 이상 쓰면 정답!"
+      - type: qna
+        question: "R4. 현재완료와 자주 쓰이는 부사를 3개 이상 써보세요."
+        answer: "ever, never, just, already, yet, before, recently 등<br />평가 기준: 3개 이상 맞게 쓰면 정답!"
+      - type: qna
+        question: "R5. 'I have lost my key'와 'I lost my key yesterday'의 뉘앙스 차이는?"
+        answer: "have lost: 잃어버려서 지금 열쇠가 없음 (결과가 지금에 영향)<br />lost yesterday: 어제 그 일이 있었음 (지금 어떤지는 모름)<br />평가 기준: '지금 상태'와 '과거 사건'의 차이를 설명하면 정답!"
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 형태(현재완료 또는 단순과거)를 넣으세요. 시간 표현에 주목하세요!"
+      - type: qna
+        question: "Q1. I _____ (see) that movie last weekend."
+        answer: "saw<br />설명: 'last weekend'는 특정 과거 시점이므로 단순과거!"
+      - type: qna
+        question: "Q2. She _____ (already / finish) her homework."
+        answer: "has already finished<br />설명: 'already'는 현재완료와 함께 써요! 특정 시점 없이 완료 상태를 나타냄."
+      - type: qna
+        question: "Q3. They _____ (move) to this city in 2019."
+        answer: "moved<br />설명: 'in 2019'는 특정 과거 시점이므로 단순과거!"
+      - type: qna
+        question: "Q4. _____ you ever _____ (be) to Japan?"
+        answer: "Have, been<br />설명: 'ever'는 현재완료와 함께 경험을 물어요!"
+      - type: qna
+        question: "Q5. I _____ (not / eat) breakfast yet."
+        answer: "have not (haven't) eaten<br />설명: 'yet'은 현재완료와 함께 써요! 아직 안 했다는 뜻."
+      - type: qna
+        question: "Q6. He _____ (buy) a new phone two days ago."
+        answer: "bought<br />설명: 'two days ago'는 특정 과거 시점이므로 단순과거!"
+      - type: qna
+        question: "Q7. I _____ (just / arrive) home."
+        answer: "have just arrived<br />설명: 'just'는 현재완료와 함께 '방금'을 나타내요!"
+      - type: qna
+        question: "Q8. We _____ (visit) our grandparents last Sunday."
+        answer: "visited<br />설명: 'last Sunday'는 특정 과거 시점이므로 단순과거!"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. 현재완료와 단순과거를 올바르게 구분해서 사용하세요!"
+      - type: qna
+        question: "T1. 나는 그 영화를 본 적 있어."
+        answer: "I have seen that movie.<br />평가 기준: 특정 시점 없이 경험을 말하므로 현재완료!"
+      - type: qna
+        question: "T2. 나는 어제 그 영화를 봤어."
+        answer: "I saw that movie yesterday.<br />평가 기준: '어제'라는 특정 시점이 있으므로 단순과거!"
+      - type: qna
+        question: "T3. 그녀는 방금 도착했어."
+        answer: "She has just arrived.<br />평가 기준: '방금(just)'이 있으므로 현재완료!"
+      - type: qna
+        question: "T4. 그는 지난주에 그녀를 만났어."
+        answer: "He met her last week.<br />평가 기준: '지난주'라는 특정 시점이 있으므로 단순과거!"
+      - type: qna
+        question: "T5. 너 한국 음식 먹어본 적 있니?"
+        answer: "Have you ever eaten Korean food?<br />평가 기준: 경험을 묻는 'ever'가 있으므로 현재완료!"
+      - type: qna
+        question: "T6. 나는 이미 숙제를 끝냈어."
+        answer: "I have already finished my homework.<br />평가 기준: 'already'가 있으므로 현재완료!"
+      - type: qna
+        question: "T7. 그들은 2시간 전에 떠났어."
+        answer: "They left two hours ago.<br />평가 기준: 'ago'는 단순과거와 함께!"
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요. 시제 변화에 주의하세요!"
+      - type: qna
+        question: "TF1. I have eaten breakfast. (yesterday를 추가해서 단순과거로)"
+        answer: "I ate breakfast yesterday.<br />설명: 특정 시점(yesterday)이 추가되면 단순과거로 바꿔요!"
+      - type: qna
+        question: "TF2. She visited Paris last year. (시간 표현을 빼고 현재완료로)"
+        answer: "She has visited Paris.<br />설명: 특정 시점을 빼면 경험을 나타내는 현재완료!"
+      - type: qna
+        question: "TF3. I have lost my bag. (yesterday를 추가해서)"
+        answer: "I lost my bag yesterday.<br />설명: 특정 시점이 추가되면 단순과거!"
+      - type: qna
+        question: "TF4. He bought a new game two days ago. (현재완료로 바꿔서)"
+        answer: "He has bought a new game.<br />설명: 시간 표현을 빼고 현재완료로! 지금 가지고 있다는 뉘앙스."
+      - type: qna
+        question: "TF5. Have you seen this movie? (last night를 추가해서)"
+        answer: "Did you see this movie last night?<br />설명: 특정 시점이 추가되면 Have → Did로 바뀌고 동사는 원형!"
+      - type: qna
+        question: "TF6. They moved here in 2020. (for 4 years를 사용해서 현재완료로)"
+        answer: "They have lived here for four years.<br />설명: 지금도 살고 있다면 현재완료 + for!"
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요! 현재완료와 단순과거를 구분해서 사용해봐요."
+      - type: qna
+        question: "A1. 현재완료를 사용해서 해본 적 있는 경험을 써보세요."
+        answer: "예시: I have been to Busan. / I have tried bungee jumping.<br />평가 기준: 'have + 과거분사'로 경험을 표현하면 정답!"
+      - type: qna
+        question: "A2. 단순과거를 사용해서 특정 날짜에 했던 일을 써보세요."
+        answer: "예시: I went to the movies last Saturday. / I played soccer yesterday.<br />평가 기준: '특정 시점 + 과거형'으로 표현하면 정답!"
+      - type: qna
+        question: "A3. 같은 내용을 현재완료와 단순과거로 각각 써보세요."
+        answer: "예시:<br />현재완료: I have read Harry Potter.<br />단순과거: I read Harry Potter last year.<br />평가 기준: 같은 내용을 두 시제로 올바르게 표현하면 정답!"
+      - type: qna
+        question: "A4. 'already'나 'just'를 사용해서 방금 끝낸 일을 써보세요."
+        answer: "예시: I have just finished my dinner. / I have already done my homework.<br />평가 기준: 'have + just/already + 과거분사'가 맞으면 정답!"
+      - type: qna
+        question: "A5. 'Have you ever...?'로 친구에게 경험을 묻는 질문을 써보세요."
+        answer: "예시: Have you ever been to a concert? / Have you ever eaten Indian food?<br />평가 기준: 'Have you ever + 과거분사?'가 맞으면 정답!"
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 종합해서 풀어보세요."
+      - type: qna
+        question: "C1. 다음 문장에서 틀린 부분을 찾아 고치세요: 'I have seen him yesterday.'"
+        answer: "I saw him yesterday.<br />설명: 'yesterday'가 있으면 단순과거! have seen → saw"
+      - type: qna
+        question: "C2. 다음 두 문장의 뉘앙스 차이를 설명하세요:<br />a) I have lost my phone.<br />b) I lost my phone."
+        answer: "a) have lost: 잃어버려서 지금 폰이 없음, 지금 상황에 영향<br />b) lost: 과거에 잃어버린 사실만 말함, 지금 어떤지는 모름<br />설명: 현재완료는 '결과가 지금에 영향', 단순과거는 '과거 사실'!"
+      - type: qna
+        question: "C3. 다음 대화를 완성하세요 (알맞은 시제 선택):<br />A: _____ you ever _____ (try) Mexican food?<br />B: Yes, I _____. I _____ (eat) tacos last month."
+        answer: "A: Have you ever tried Mexican food?<br />B: Yes, I have. I ate tacos last month.<br />설명: 경험을 묻는 질문은 현재완료, 특정 시점(last month)은 단순과거!"
+      - type: qna
+        question: "C4. 다음 상황을 현재완료와 단순과거로 각각 표현해보세요: '제주도에 가봤다'"
+        answer: "현재완료: I have been to Jeju Island. (경험 - 언제인지 중요X)<br />단순과거: I went to Jeju Island last summer. (특정 시점)<br />평가 기준: 두 시제를 적절한 상황에 맞게 쓰면 정답!"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 기억이 사라지기 전에 복습하면 오래 남아요!"
+      - type: qna
+        question: "SR1. 현재완료와 단순과거의 핵심 차이는?"
+        answer: "현재완료: 지금과 연결 / 단순과거: 특정 과거 시점"
+      - type: qna
+        question: "SR2. I _____ (see) that movie last week."
+        answer: "saw (특정 시점 → 단순과거)"
+      - type: qna
+        question: "SR3. She _____ (just / arrive)."
+        answer: "has just arrived (just → 현재완료)"
+      - type: qna
+        question: "SR4. 단순과거와 함께 쓰는 시간 표현 3개는?"
+        answer: "yesterday, ago, last week/month/year 등"
+      - type: qna
+        question: "SR5. 현재완료와 함께 쓰는 부사 3개는?"
+        answer: "ever, never, just, already, yet 등"
+      - type: qna
+        question: "SR6. 나는 그 책을 읽은 적 있어. (영작)"
+        answer: "I have read that book."
+      - type: qna
+        question: "SR7. 나는 어제 그 책을 읽었어. (영작)"
+        answer: "I read that book yesterday."
+      - type: qna
+        question: "SR8. 틀린 부분을 고치세요: 'I have met him two days ago.'"
+        answer: "I met him two days ago. (have met → met)"
+      - type: qna
+        question: "SR9. 'I have lost my key'와 'I lost my key'의 차이는?"
+        answer: "have lost: 지금 열쇠가 없음 / lost: 과거에 잃어버림"
+      - type: qna
+        question: "SR10. 현재완료 또는 단순과거를 사용해서 자유롭게 한 문장 쓰기"
+        answer: "예: I have never been to America. / I went to the zoo last Sunday. (형식이 맞으면 OK!)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 솔직하게 체크하면 더 잘 배울 수 있어요."
+      - type: qna
+        question: "SC1. 현재완료와 단순과거의 핵심 차이를 설명할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 영어 시제의 가장 중요한 개념을 이해했어요!<br />어렵다면: Section 1을 다시 읽고, '지금과 연결' vs '특정 과거'를 기억하세요."
+      - type: qna
+        question: "SC2. yesterday, ago 같은 표현이 있으면 단순과거를 써야 한다는 것을 알고 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 이 규칙만 알아도 많은 실수를 피할 수 있어요!<br />어렵다면: '특정 시점 = 단순과거'를 10번 써보세요."
+      - type: qna
+        question: "SC3. ever, just, already 같은 부사가 현재완료와 함께 쓰인다는 것을 알고 있나요?"
+        answer: "할 수 있다면: 대단해요! 자연스러운 영어를 위한 중요한 지식이에요!<br />어렵다면: 각 부사를 사용한 예문을 3개씩 만들어보세요."
+      - type: qna
+        question: "SC4. 같은 동작을 현재완료와 단순과거로 각각 표현할 수 있나요?"
+        answer: "할 수 있다면: 최고예요! 상황에 맞는 시제를 선택할 수 있다는 뜻이에요!<br />어렵다면: A3 문제처럼 같은 내용을 두 시제로 써보는 연습을 하세요."
+      - type: note
+        content: "오늘 현재완료와 단순과거의 차이를 배웠어요! 이제 '해본 적 있다'와 '어제 했다'를 영어로 구분해서 말할 수 있어요. 이건 영어 시제에서 가장 중요한 구분 중 하나예요!"
+      - type: note
+        content: "내일 할 일: Section 9의 복습 문제를 풀어보세요. 그리고 오늘 있었던 일은 단순과거로, 지금까지의 경험은 현재완료로 각각 3문장씩 써보세요. 직접 써봐야 진짜 내 것이 돼요!"
