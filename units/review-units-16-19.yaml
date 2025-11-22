@@ -1,0 +1,425 @@
+title: "Units 16-19 종합 복습 · Present Perfect 완전 정복"
+meta: "대상: 6학년 · 난이도: 중~중상 · 권장 35-50분 (A4 3p)"
+scope:
+  units: "Units 16-19"
+  topics: "현재완료 의문문, How long 질문, for/since/ago 시간표현, 현재완료 vs 단순과거"
+  prerequisite: "Present Perfect 파트의 Units 16-19 학습 완료"
+
+sections:
+  - title: "1. 자기 진단 (Self-Diagnosis)"
+    items:
+      - type: text
+        content: "Units 16-19에서 배운 현재완료 관련 내용을 얼마나 기억하고 있는지 체크해 보세요! 솔직하게 평가하는 것이 중요합니다."
+      - type: list
+        heading: "나는 할 수 있다..."
+        list:
+          - "[ ] Have you...? 형태로 경험/완료를 물을 수 있다 (Unit 16)"
+          - "[ ] Have/Has를 주어에 맞게 구분할 수 있다 (Unit 16)"
+          - "[ ] How long have you...?로 기간을 물을 수 있다 (Unit 17)"
+          - "[ ] for + 기간, since + 시점을 구분해서 사용할 수 있다 (Unit 18)"
+          - "[ ] ago는 단순과거와 함께 쓴다는 것을 안다 (Unit 18)"
+          - "[ ] 현재완료와 단순과거의 차이를 설명할 수 있다 (Unit 19)"
+          - "[ ] yesterday, last week 등이 있으면 단순과거를 쓴다는 것을 안다 (Unit 19)"
+          - "[ ] just, already, ever, never를 현재완료와 함께 사용할 수 있다 (Unit 19)"
+      - type: note
+        content: "7개 이상 체크: 아주 잘 준비되었어요! 이 복습으로 완벽하게 마무리하세요!<br />5-6개 체크: 복습이 꼭 필요해요! 특히 헷갈리는 부분을 집중하세요!<br />4개 이하 체크: 각 Unit을 다시 천천히 읽어보세요. 이 복습이 정리에 도움이 될 거예요!"
+      - type: note
+        content: "시간이 부족하다면? Section 3 (진단 테스트), Section 4 (인터리빙 연습), Section 8 (종합 자기 평가)만 풀어도 충분히 효과적인 복습이 됩니다! (약 30분)"
+
+  - title: "2. 핵심 개념 비교 (Contrastive Analysis)"
+    items:
+      - type: text
+        content: "Units 16-19에서 가장 많이 헷갈리는 개념들을 비교해 봅시다. 차이점을 명확히 알면 실수가 줄어들어요!"
+      - type: text
+        content: "<span class='highlight'>Have you...? vs. Did you...? 비교</span><br /><br /><b>구분 기준:</b><br />- Have you...? → 경험/결과를 물음 (언제인지 중요하지 않음)<br />- Did you...? → 특정 과거 시점을 물음 (언제인지 중요함)<br /><br /><b>예문 비교:</b><br />- Have you seen this movie? (이 영화 본 적 있니?) → 경험<br />- Did you see this movie yesterday? (어제 이 영화 봤니?) → 특정 시점<br /><br /><b>흔한 실수:</b><br />- X: Have you seen it yesterday? (yesterday가 있으면 단순과거!)<br />- O: Did you see it yesterday?<br /><br /><b>판별 팁:</b> yesterday, last week, ago 같은 시간 표현이 있으면 -> Did you...?"
+      - type: text
+        content: "<span class='highlight'>for vs. since vs. ago 비교</span><br /><br /><b>구분 기준:</b><br />- for + 기간 (숫자 + 시간): 얼마나 오래<br />- since + 시점 (특정 날짜/때): 언제부터<br />- ago: 과거 시점 (단순과거와 함께)<br /><br /><b>예문 비교:</b><br />- for three years (3년 동안) - 현재완료와 사용<br />- since 2021 (2021년부터) - 현재완료와 사용<br />- three years ago (3년 전에) - 단순과거와 사용<br /><br /><b>흔한 실수:</b><br />- X: I have lived here since three years. (since 뒤에 기간 불가)<br />- O: I have lived here for three years.<br />- X: I have met him two days ago. (ago는 단순과거와!)<br />- O: I met him two days ago.<br /><br /><b>판별 팁:</b> 숫자가 있으면 for, 날짜/요일/연도가 있으면 since, ago는 단순과거!"
+      - type: text
+        content: "<span class='highlight'>현재완료 vs. 단순과거 핵심 비교</span><br /><br /><b>구분 기준:</b><br />- 현재완료 (have done): 과거~지금 연결, 결과가 지금에 영향<br />- 단순과거 (did): 특정 과거에 끝난 일, 지금과 분리<br /><br /><b>예문 비교:</b><br />- I have lost my key. (열쇠를 잃어버렸어 -> 지금 없음)<br />- I lost my key yesterday. (어제 열쇠를 잃어버렸어 -> 지금은 모름)<br /><br /><b>흔한 실수:</b><br />- X: I have seen him yesterday. (yesterday -> 단순과거)<br />- O: I saw him yesterday.<br />- X: I have just ate lunch. (ate -> eaten)<br />- O: I have just eaten lunch.<br /><br /><b>판별 팁:</b> '언제?'라는 질문에 답이 있으면 단순과거, 없으면 현재완료!"
+      - type: text
+        content: "<span class='highlight'>How long have you...? 질문과 대답</span><br /><br /><b>구분 기준:</b><br />- 질문: How long have you + 과거분사? (얼마나 오래?)<br />- 대답 1: I have ... for + 기간 (3년 동안)<br />- 대답 2: I have ... since + 시점 (2021년부터)<br /><br /><b>예문 비교:</b><br />- Q: How long have you lived here?<br />- A1: I have lived here for five years.<br />- A2: I have lived here since 2019.<br /><br /><b>흔한 실수:</b><br />- X: How long time have you waited? (time 불필요)<br />- O: How long have you waited?<br />- X: How long have she studied? (she -> has)<br />- O: How long has she studied?<br /><br /><b>판별 팁:</b> How long 다음에는 time 쓰지 않기! 3인칭 단수는 has!"
+
+  - title: "3. 통합 진단 (Diagnostic Assessment)"
+    items:
+      - type: note
+        content: "이 진단 테스트로 어떤 Unit이 약한지 파악하세요! 틀린 문제의 Unit을 Section 7에서 집중 복습하세요."
+      - type: qna
+        question: "D1. [Unit 16] _____ you _____ (finish) your homework?"
+        answer: "Have, finished (Unit 16)<br />설명: 현재완료 의문문 - Have + 주어 + 과거분사"
+      - type: qna
+        question: "D2. [Unit 16] _____ she _____ (see) the new movie?"
+        answer: "Has, seen (Unit 16)<br />설명: she는 3인칭 단수이므로 Has! see-saw-seen"
+      - type: qna
+        question: "D3. [Unit 16] Have you eaten lunch? - Yes, I _____."
+        answer: "have (Unit 16)<br />설명: Have로 물으면 have로 대답!"
+      - type: qna
+        question: "D4. [Unit 17] How long _____ you _____ (study) English?"
+        answer: "have, studied (Unit 17)<br />설명: How long + have + 주어 + 과거분사"
+      - type: qna
+        question: "D5. [Unit 17] How long _____ he _____ (live) in Seoul?"
+        answer: "has, lived (Unit 17)<br />설명: he는 3인칭 단수이므로 has!"
+      - type: qna
+        question: "D6. [Unit 18] I have lived here _____ 2020."
+        answer: "since (Unit 18)<br />설명: 2020은 시점이므로 since!"
+      - type: qna
+        question: "D7. [Unit 18] She has studied Korean _____ three years."
+        answer: "for (Unit 18)<br />설명: three years는 기간이므로 for!"
+      - type: qna
+        question: "D8. [Unit 18] I met him two weeks _____."
+        answer: "ago (Unit 18)<br />설명: ago는 단순과거(met)와 함께!"
+      - type: qna
+        question: "D9. [Unit 19] I _____ (see) that movie last weekend."
+        answer: "saw (Unit 19)<br />설명: last weekend는 특정 과거 시점 -> 단순과거!"
+      - type: qna
+        question: "D10. [Unit 19] She _____ (already / finish) her homework."
+        answer: "has already finished (Unit 19)<br />설명: already는 현재완료와 함께!"
+      - type: qna
+        question: "D11. [Unit 19] _____ you ever _____ (be) to Japan?"
+        answer: "Have, been (Unit 19)<br />설명: ever는 현재완료와 함께 경험을 물음!"
+      - type: qna
+        question: "D12. [Unit 19] He _____ (buy) a new phone two days ago."
+        answer: "bought (Unit 19)<br />설명: ago는 단순과거와 함께!"
+      - type: qna
+        question: "D13. [Unit 16] 틀린 부분을 고치세요: 'Have she seen the movie?'"
+        answer: "Has she seen the movie? (Unit 16)<br />설명: she는 3인칭 단수 -> Has"
+      - type: qna
+        question: "D14. [Unit 17] 틀린 부분을 고치세요: 'How long time have you waited?'"
+        answer: "How long have you waited? (Unit 17)<br />설명: How long 뒤에 time 불필요!"
+      - type: qna
+        question: "D15. [Unit 18] 틀린 부분을 고치세요: 'I have lived here since three years.'"
+        answer: "I have lived here for three years. (Unit 18)<br />설명: since + 시점, for + 기간!"
+      - type: qna
+        question: "D16. [Unit 18] 틀린 부분을 고치세요: 'I have met him two days ago.'"
+        answer: "I met him two days ago. (Unit 18)<br />설명: ago는 단순과거와 함께! have met -> met"
+      - type: qna
+        question: "D17. [Unit 19] 틀린 부분을 고치세요: 'I have seen him yesterday.'"
+        answer: "I saw him yesterday. (Unit 19)<br />설명: yesterday -> 단순과거! have seen -> saw"
+      - type: qna
+        question: "D18. [Unit 19] 틀린 부분을 고치세요: 'She has just ate lunch.'"
+        answer: "She has just eaten lunch. (Unit 19)<br />설명: have/has + 과거분사! ate -> eaten"
+      - type: note
+        content: "<span class='highlight'>채점 가이드:</span><br />Unit 16 (D1-D3, D13): __/4점<br />Unit 17 (D4-D5, D14): __/3점<br />Unit 18 (D6-D8, D15-D16): __/5점<br />Unit 19 (D9-D12, D17-D18): __/6점<br /><br />총점: __/18점<br /><br />각 Unit 점수 해석:<br />- 만점: 완벽! 잘 알고 있어요!<br />- 1-2개 틀림: 복습하면 금방 완벽해져요!<br />- 절반 이하: Section 7에서 이 Unit을 집중 복습하세요!"
+
+  - title: "4. 인터리빙 연습 (Interleaved Practice)"
+    items:
+      - type: note
+        content: "모든 Unit의 개념을 랜덤하게 섞어서 연습합니다! 이렇게 하면 각 개념을 더 명확하게 구분할 수 있어요. 순서 없이 무작위로 나오니 긴장하고 풀어보세요!"
+      - type: qna
+        question: "I1. How long _____ she _____ (work) at this company?"
+        answer: "has, worked (Unit 17)<br />설명: How long + has(3인칭 단수) + 과거분사"
+      - type: qna
+        question: "I2. I _____ (see) that movie three times."
+        answer: "have seen (Unit 19)<br />설명: 경험(세 번)을 말할 때 현재완료, 특정 시점 없음"
+      - type: qna
+        question: "I3. _____ you _____ (ever / try) Korean BBQ?"
+        answer: "Have, ever tried (Unit 16/19)<br />설명: ever는 현재완료와 함께 경험을 물음"
+      - type: qna
+        question: "I4. They have been friends _____ elementary school."
+        answer: "since (Unit 18)<br />설명: elementary school은 시점!"
+      - type: qna
+        question: "I5. I _____ (finish) my homework an hour ago."
+        answer: "finished (Unit 18/19)<br />설명: ago -> 단순과거!"
+      - type: qna
+        question: "I6. _____ the bus _____ (arrive) yet?"
+        answer: "Has, arrived (Unit 16)<br />설명: the bus는 3인칭 단수, yet은 현재완료와 함께"
+      - type: qna
+        question: "I7. How long _____ you _____ (know) him?"
+        answer: "have, known (Unit 17)<br />설명: know-knew-known"
+      - type: qna
+        question: "I8. She _____ (go) to the library yesterday."
+        answer: "went (Unit 19)<br />설명: yesterday -> 단순과거!"
+      - type: qna
+        question: "I9. I have studied English _____ six years."
+        answer: "for (Unit 18)<br />설명: six years는 기간!"
+      - type: qna
+        question: "I10. _____ you _____ (do) your homework?"
+        answer: "Have, done (Unit 16)<br />설명: do-did-done"
+      - type: qna
+        question: "I11. He _____ (just / arrive) home."
+        answer: "has just arrived (Unit 19)<br />설명: just는 현재완료와 함께"
+      - type: qna
+        question: "I12. How long _____ it _____ (rain)?"
+        answer: "has, rained (Unit 17)<br />설명: it은 3인칭 단수!"
+      - type: qna
+        question: "I13. I _____ (meet) her three days ago."
+        answer: "met (Unit 18)<br />설명: ago -> 단순과거!"
+      - type: qna
+        question: "I14. _____ he _____ (eat) lunch?"
+        answer: "Has, eaten (Unit 16)<br />설명: he는 3인칭 단수! eat-ate-eaten"
+      - type: qna
+        question: "I15. They have lived here _____ 2019."
+        answer: "since (Unit 18)<br />설명: 2019는 연도(시점)!"
+      - type: qna
+        question: "I16. I _____ (not / eat) breakfast yet."
+        answer: "have not (haven't) eaten (Unit 19)<br />설명: yet은 현재완료와 함께"
+      - type: qna
+        question: "I17. How long _____ your family _____ (live) in Seoul?"
+        answer: "has, lived (Unit 17)<br />설명: your family는 단수 취급!"
+      - type: qna
+        question: "I18. She _____ (already / finish) the project."
+        answer: "has already finished (Unit 19)<br />설명: already는 현재완료와 함께"
+      - type: qna
+        question: "I19. _____ they _____ (arrive) at the station?"
+        answer: "Have, arrived (Unit 16)<br />설명: they -> Have"
+      - type: qna
+        question: "I20. I have had this phone _____ two years."
+        answer: "for (Unit 18)<br />설명: two years는 기간!"
+      - type: qna
+        question: "I21. We _____ (visit) our grandparents last Sunday."
+        answer: "visited (Unit 19)<br />설명: last Sunday -> 단순과거!"
+      - type: qna
+        question: "I22. How long _____ you _____ (wait) for the bus?"
+        answer: "have, waited (Unit 17)<br />설명: How long + have + 주어 + 과거분사"
+      - type: qna
+        question: "I23. _____ your mom _____ (make) dinner?"
+        answer: "Has, made (Unit 16)<br />설명: your mom은 3인칭 단수! make-made-made"
+      - type: qna
+        question: "I24. The movie _____ (start) thirty minutes ago."
+        answer: "started (Unit 18)<br />설명: ago -> 단순과거!"
+      - type: qna
+        question: "I25. I _____ (never / be) to America."
+        answer: "have never been (Unit 19)<br />설명: never는 현재완료와 함께"
+      - type: qna
+        question: "I26. How long _____ she _____ (study) piano?"
+        answer: "has, studied (Unit 17)<br />설명: she -> has"
+      - type: qna
+        question: "I27. We have known each other _____ middle school."
+        answer: "since (Unit 18)<br />설명: middle school은 시점!"
+      - type: qna
+        question: "I28. _____ you _____ (see) my keys?"
+        answer: "Have, seen (Unit 16)<br />설명: see-saw-seen"
+      - type: qna
+        question: "I29. He _____ (buy) that book last week."
+        answer: "bought (Unit 19)<br />설명: last week -> 단순과거!"
+      - type: qna
+        question: "I30. She has worked here _____ January."
+        answer: "since (Unit 18)<br />설명: January는 월(시점)!"
+
+  - title: "5. 오류 탐지 & 수정 (Error Detection & Correction)"
+    items:
+      - type: note
+        content: "한국 학습자들이 자주 하는 실수들을 모았어요. 각 문장에서 틀린 부분을 찾고, 어떤 Unit의 규칙을 위반했는지 확인하세요!"
+      - type: qna
+        question: "E1. 틀린 부분을 찾아 고치세요: 'Have he finished the homework?'"
+        answer: "틀린 부분: Have -> Has<br />문제: 3인칭 단수 주어(he)에 Have 사용<br />위반 규칙: Unit 16 - 3인칭 단수는 Has<br />수정: Has he finished the homework?<br />설명: he, she, it, 단수명사 -> Has 사용"
+      - type: qna
+        question: "E2. 틀린 부분을 찾아 고치세요: 'Did you finished your homework?'"
+        answer: "틀린 부분: finished -> finish<br />문제: Did 뒤에 과거형 사용<br />위반 규칙: Unit 19 - Did + 동사원형<br />수정: Did you finish your homework?<br />설명: Did 뒤에는 항상 동사원형!"
+      - type: qna
+        question: "E3. 틀린 부분을 찾아 고치세요: 'How long time have you waited?'"
+        answer: "틀린 부분: time 삭제<br />문제: How long 뒤에 불필요한 time<br />위반 규칙: Unit 17 - How long만 사용<br />수정: How long have you waited?<br />설명: How long 자체가 '얼마나 오래'를 의미함"
+      - type: qna
+        question: "E4. 틀린 부분을 찾아 고치세요: 'I have lived here since three years.'"
+        answer: "틀린 부분: since -> for<br />문제: since 뒤에 기간 사용<br />위반 규칙: Unit 18 - since + 시점, for + 기간<br />수정: I have lived here for three years.<br />설명: three years는 기간이므로 for!"
+      - type: qna
+        question: "E5. 틀린 부분을 찾아 고치세요: 'I have met him two days ago.'"
+        answer: "틀린 부분: have met -> met<br />문제: ago와 현재완료 함께 사용<br />위반 규칙: Unit 18 - ago는 단순과거와만 사용<br />수정: I met him two days ago.<br />설명: ago가 있으면 무조건 단순과거!"
+      - type: qna
+        question: "E6. 틀린 부분을 찾아 고치세요: 'I have seen him yesterday.'"
+        answer: "틀린 부분: have seen -> saw<br />문제: yesterday와 현재완료 함께 사용<br />위반 규칙: Unit 19 - 특정 시점 표현 -> 단순과거<br />수정: I saw him yesterday.<br />설명: yesterday, last week, ago 등 -> 단순과거"
+      - type: qna
+        question: "E7. 틀린 부분을 찾아 고치세요: 'She has just ate lunch.'"
+        answer: "틀린 부분: ate -> eaten<br />문제: has 뒤에 과거형 사용<br />위반 규칙: Unit 19 - have/has + 과거분사<br />수정: She has just eaten lunch.<br />설명: eat-ate-eaten, 현재완료는 과거분사 사용!"
+      - type: qna
+        question: "E8. 틀린 부분을 찾아 고치세요: 'How long have she studied English?'"
+        answer: "틀린 부분: have -> has<br />문제: 3인칭 단수에 have 사용<br />위반 규칙: Unit 17 - 3인칭 단수는 has<br />수정: How long has she studied English?<br />설명: she는 3인칭 단수 -> has"
+      - type: qna
+        question: "E9. 틀린 부분을 찾아 고치세요: 'Have you finished? - Yes, I have finished.'"
+        answer: "틀린 부분: I have finished -> I have (짧게 대답 가능)<br />문제: 짧은 대답을 너무 길게 함<br />위반 규칙: Unit 16 - 짧은 대답은 Yes, I have.<br />더 나은 수정: Yes, I have.<br />설명: 짧은 대답은 have/has만! (길게 해도 틀린 건 아니지만 자연스럽지 않음)"
+      - type: qna
+        question: "E10. 틀린 부분을 찾아 고치세요: 'I have lived here for since 2020.'"
+        answer: "틀린 부분: for since -> since<br />문제: for와 since를 같이 사용<br />위반 규칙: Unit 18 - for 또는 since 중 하나만<br />수정: I have lived here since 2020.<br />설명: for + 기간 OR since + 시점 (둘 중 하나만!)"
+      - type: qna
+        question: "E11. 틀린 부분을 찾아 고치세요: 'I have went to school.'"
+        answer: "틀린 부분: went -> gone 또는 been<br />문제: have 뒤에 과거형 사용<br />위반 규칙: Unit 16/19 - have/has + 과거분사<br />수정: I have gone to school. / I have been to school.<br />설명: go-went-gone, 현재완료는 과거분사!"
+      - type: qna
+        question: "E12. 틀린 부분을 찾아 고치세요: 'How long did you live here?' (지금도 살고 있는 상황)"
+        answer: "틀린 부분: did you live -> have you lived<br />문제: 지금도 계속되는 상황에 단순과거 사용<br />위반 규칙: Unit 17 - 지금도 계속 -> 현재완료<br />수정: How long have you lived here?<br />설명: did you live는 '더 이상 살지 않음'을 의미함"
+      - type: qna
+        question: "E13. 틀린 부분을 찾아 고치세요: 'I have know him for five years.'"
+        answer: "틀린 부분: know -> known<br />문제: have 뒤에 동사원형 사용<br />위반 규칙: Unit 16 - have/has + 과거분사<br />수정: I have known him for five years.<br />설명: know-knew-known, 과거분사 형태 필요!"
+      - type: qna
+        question: "E14. 틀린 부분을 찾아 고치세요: 'She has seen him last Monday.'"
+        answer: "틀린 부분: has seen -> saw<br />문제: last Monday와 현재완료 함께 사용<br />위반 규칙: Unit 19 - 특정 시점 -> 단순과거<br />수정: She saw him last Monday.<br />설명: last + 요일/주/월/연도 -> 단순과거"
+      - type: qna
+        question: "E15. 틀린 부분을 찾아 고치세요: 'I study English since 2019.'"
+        answer: "틀린 부분: study -> have studied<br />문제: since와 현재시제 함께 사용<br />위반 규칙: Unit 18 - since는 현재완료와 사용<br />수정: I have studied English since 2019.<br />설명: for/since -> 현재완료 (과거부터 지금까지 계속)"
+
+  - title: "6. 통합 프로젝트 (Integrated Production)"
+    items:
+      - type: note
+        content: "여러 Unit의 문법을 함께 사용해서 실제로 글을 써보세요! 문법을 통합해서 사용하는 연습이 가장 효과적이에요."
+      - type: qna
+        question: "P1. 자기소개 + 경험 쓰기: 다음을 포함해서 5문장을 쓰세요.<br />- Have you ever...? 질문과 답변 1개<br />- How long have you...? 질문과 답변 1개<br />- for 또는 since를 사용한 문장 1개"
+        answer: "예시 답안:<br />Have you ever been to Japan? Yes, I have. I visited Tokyo last summer. How long have you studied English? I have studied English for six years since elementary school.<br /><br />평가 기준:<br />- 사용한 유닛: Unit 16 (Have you ever), Unit 17 (How long), Unit 18 (for/since), Unit 19 (visited - 단순과거)<br />- 문법 정확도: 각 형태가 올바른지 확인<br />- 창의성: 자신만의 경험을 넣으면 더 좋아요!"
+      - type: qna
+        question: "P2. 친구에게 질문하기: 다음 상황에 맞는 질문을 각각 만드세요.<br />- 친구가 숙제를 끝냈는지 (Unit 16)<br />- 친구가 그 게임을 얼마나 오래 했는지 (Unit 17)<br />- 친구가 그 영화를 봤는지 + 언제 봤는지 (Unit 16 + 19)"
+        answer: "예시 답안:<br />1. Have you finished your homework?<br />2. How long have you played that game?<br />3. Have you seen that movie? / When did you see it? (또는 Did you see it yesterday?)<br /><br />평가 기준:<br />- 사용한 유닛: Unit 16, 17, 19<br />- 문법 정확도: Have/Has 구분, How long 형태, 단순과거 의문문<br />- 상황 적절성: 질문이 상황에 맞는지"
+      - type: qna
+        question: "P3. 어제 vs 지금까지: 같은 주제로 현재완료와 단순과거 문장을 각각 2개씩 쓰세요.<br />예시 주제: 영화 보기, 책 읽기, 장소 방문 등"
+        answer: "예시 답안 (영화 보기):<br /><br />현재완료:<br />- I have seen that movie three times.<br />- Have you ever watched a Harry Potter movie?<br /><br />단순과거:<br />- I saw that movie last weekend.<br />- Did you watch the movie yesterday?<br /><br />평가 기준:<br />- 사용한 유닛: Unit 16, 19<br />- 문법 정확도: 현재완료는 시점 없이, 단순과거는 시점과 함께<br />- 차이 이해: 두 시제의 뉘앙스 차이가 드러나는지"
+      - type: qna
+        question: "P4. 나의 취미 역사: 자신의 취미에 대해 6문장으로 쓰세요. 다음을 모두 포함하세요.<br />- 언제 시작했는지 (ago + 단순과거)<br />- 얼마나 오래 했는지 (for 또는 since + 현재완료)<br />- 지금까지의 경험 (현재완료)"
+        answer: "예시 답안 (피아노):<br /><br />I started learning piano five years ago. I have played piano for five years. I have practiced almost every day since then. I have learned many songs. I played in a school concert last month. Have you ever played a musical instrument?<br /><br />평가 기준:<br />- 사용한 유닛: Unit 16, 17, 18, 19 모두<br />- 필수 요소: ago(단순과거), for/since(현재완료), 경험(현재완료)<br />- 문법 정확도: 각 시제와 시간표현이 올바르게 짝지어졌는지<br />- 내용 연결: 문장들이 자연스럽게 연결되는지"
+
+  - title: "7. 약점 집중 복습 (Targeted Review by Unit)"
+    items:
+      - type: note
+        content: "Section 3 진단 테스트에서 약했던 Unit만 선택해서 복습하세요! 모든 Unit을 다 할 필요 없어요."
+      - type: text
+        content: "<span class='highlight'>Unit 16 복습: Have you...? (현재완료 의문문)</span>"
+      - type: note
+        content: "핵심 기억: Have/Has + 주어 + 과거분사?<br />- I/you/we/they -> Have<br />- he/she/it/단수명사 -> Has<br />- 짧은 대답: Yes, I have. / No, I haven't."
+      - type: qna
+        question: "R1-1. _____ you _____ (try) this food?"
+        answer: "Have, tried<br />설명: you -> Have, try-tried-tried"
+      - type: qna
+        question: "R1-2. _____ your sister _____ (call) you?"
+        answer: "Has, called<br />설명: your sister는 3인칭 단수 -> Has"
+      - type: qna
+        question: "R1-3. Has he eaten? - No, he _____."
+        answer: "hasn't<br />설명: Has로 물으면 hasn't로 부정 대답"
+      - type: qna
+        question: "R1-4. 틀린 부분을 고치세요: 'Have the dog eaten?'"
+        answer: "Has the dog eaten?<br />설명: the dog은 단수 -> Has"
+      - type: text
+        content: "<span class='highlight'>Unit 17 복습: How long have you...? (기간 묻기)</span>"
+      - type: note
+        content: "핵심 기억: How long + have/has + 주어 + 과거분사?<br />- 대답: for + 기간 / since + 시점<br />- How long time (X) -> How long (O)"
+      - type: qna
+        question: "R2-1. How long _____ you _____ (live) here?"
+        answer: "have, lived<br />설명: you -> have"
+      - type: qna
+        question: "R2-2. How long _____ she _____ (know) him?"
+        answer: "has, known<br />설명: she -> has, know-knew-known"
+      - type: qna
+        question: "R2-3. How long have you waited? - _____ 30 minutes."
+        answer: "For<br />설명: 30 minutes는 기간 -> for"
+      - type: qna
+        question: "R2-4. How long has he worked here? - _____ 2020."
+        answer: "Since<br />설명: 2020은 시점 -> since"
+      - type: text
+        content: "<span class='highlight'>Unit 18 복습: for / since / ago</span>"
+      - type: note
+        content: "핵심 기억:<br />- for + 기간 (숫자 + 시간): for 3 years, for 2 hours<br />- since + 시점: since 2020, since Monday<br />- ago: 단순과거와만 사용! 2 years ago -> 단순과거"
+      - type: qna
+        question: "R3-1. I have lived here _____ five years."
+        answer: "for<br />설명: five years는 기간"
+      - type: qna
+        question: "R3-2. She has worked here _____ last month."
+        answer: "since<br />설명: last month는 시점"
+      - type: qna
+        question: "R3-3. I _____ (move) here three years _____."
+        answer: "moved, ago<br />설명: ago -> 단순과거!"
+      - type: qna
+        question: "R3-4. 틀린 부분을 고치세요: 'I have started this game two weeks ago.'"
+        answer: "I started this game two weeks ago.<br />설명: ago -> 단순과거! have started -> started"
+      - type: text
+        content: "<span class='highlight'>Unit 19 복습: 현재완료 vs 단순과거</span>"
+      - type: note
+        content: "핵심 기억:<br />- 현재완료: 경험/결과, just/already/ever/never/yet<br />- 단순과거: 특정 시점, yesterday/last week/ago/in 2020<br />- 핵심: '언제?'에 답이 있으면 -> 단순과거!"
+      - type: qna
+        question: "R4-1. I _____ (see) that movie last night."
+        answer: "saw<br />설명: last night -> 단순과거"
+      - type: qna
+        question: "R4-2. She _____ (already / finish) her work."
+        answer: "has already finished<br />설명: already -> 현재완료"
+      - type: qna
+        question: "R4-3. _____ you ever _____ (be) to Jeju?"
+        answer: "Have, been<br />설명: ever -> 현재완료로 경험 묻기"
+      - type: qna
+        question: "R4-4. 틀린 부분을 고치세요: 'I have bought this book yesterday.'"
+        answer: "I bought this book yesterday.<br />설명: yesterday -> 단순과거!"
+
+  - title: "8. 종합 자기 평가 & 학습 계획 (Comprehensive Self-Assessment)"
+    items:
+      - type: note
+        content: "복습을 마치며 스스로를 점검해 봅시다! 솔직하게 평가하는 것이 다음 단계를 위해 중요해요."
+      - type: qna
+        question: "SC1. Have/Has를 주어에 따라 올바르게 구분할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 3인칭 단수 규칙을 잘 알고 있어요!<br />어렵다면: 'I/you/we/they -> Have, he/she/it -> Has'를 10번 말하고, Section 7의 Unit 16 복습을 하세요."
+      - type: qna
+        question: "SC2. for와 since의 차이를 친구에게 설명할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 많은 학생들이 헷갈리는 부분인데 잘 알고 있네요!<br />어렵다면: 'for + 숫자, since + 날짜'를 기억하고, Section 7의 Unit 18 복습을 하세요."
+      - type: qna
+        question: "SC3. ago가 단순과거와만 사용된다는 것을 확실히 아나요?"
+        answer: "할 수 있다면: 훌륭해요! 이건 정말 중요한 규칙이에요!<br />어렵다면: 'ago = 단순과거'를 기억하고, E5, E16 문제를 다시 풀어보세요."
+      - type: qna
+        question: "SC4. yesterday, last week 같은 표현이 있으면 단순과거를 써야 한다는 것을 아나요?"
+        answer: "할 수 있다면: 완벽해요! 이 규칙만 알아도 많은 실수를 피할 수 있어요!<br />어렵다면: '특정 시점 = 단순과거'를 외우고, Section 7의 Unit 19 복습을 하세요."
+      - type: qna
+        question: "SC5. just, already, ever, never가 현재완료와 함께 쓰인다는 것을 아나요?"
+        answer: "할 수 있다면: 대단해요! 자연스러운 영어를 위한 중요한 지식이에요!<br />어렵다면: 각 부사로 예문을 3개씩 만들어보세요. (I have just..., She has already..., Have you ever...?)"
+      - type: qna
+        question: "SC6. 현재완료와 단순과거의 뉘앙스 차이를 설명할 수 있나요?"
+        answer: "할 수 있다면: 최고예요! 영어 시제의 핵심을 이해한 거예요!<br />어렵다면: 'I have lost my key (지금 없음) vs I lost my key yesterday (어제 일어난 일)'의 차이를 생각해보세요."
+      - type: note
+        content: "<span class='highlight'>나의 복습 결과</span><br /><br />진단 테스트 점수 (Section 3): __/18점<br /><br />가장 자신있는 Unit: ______<br /><br />더 연습이 필요한 Unit: ______<br /><br />가장 많이 틀린 유형: ______"
+      - type: note
+        content: "<span class='highlight'>다음 주 학습 계획</span><br /><br />약점 Unit 복습 계획:<br />- Unit 16이 약하다면: 매일 Have you...? 질문 3개 만들기<br />- Unit 17이 약하다면: 가족에게 How long have you...? 질문하기<br />- Unit 18이 약하다면: for/since/ago 각각 예문 5개씩 쓰기<br />- Unit 19가 약하다면: 어제 있었던 일(단순과거) + 경험(현재완료) 비교 쓰기<br /><br />복습 일정:<br />- 내일: Section 3 진단 테스트 다시 풀기<br />- 3일 후: Section 4 인터리빙 연습 다시 풀기<br />- 1주일 후: 전체 복습 자료 빠르게 훑어보기"
+      - type: note
+        content: "축하합니다! Units 16-19 Present Perfect 종합 복습을 완료했습니다!<br /><br />여러분은 이제 현재완료의 핵심을 모두 마스터했어요. Have you...?, How long...?, for/since/ago, 현재완료 vs 단순과거... 이 모든 것을 자유자재로 사용할 수 있다는 것은 정말 대단한 일입니다!<br /><br />앞으로 할 일:<br />1. 매일 영어로 경험을 3문장씩 써보세요 (Have you ever...?, I have...)<br />2. 영어를 들을 때 현재완료와 단순과거가 어떻게 다르게 쓰이는지 주의 깊게 들어보세요<br />3. 친구나 가족에게 배운 내용을 설명해 보세요 (가르치면 더 잘 기억됩니다!)<br /><br />다음 단계: 다른 문법 주제로 넘어가거나, 이 Units를 더 깊이 연습하기<br /><br />영어는 꾸준히 연습하면 반드시 늘어요. 오늘도 최선을 다한 여러분, 정말 자랑스럽습니다!"
+
+pedagogical_design:
+  spaced_repetition:
+    - "Section 1: 복습 시작 전 사전 활성화 및 자기 진단"
+    - "Section 8: 향후 복습 계획표 제공 (내일, 3일 후, 1주일 후)"
+    - "약점 기반 맞춤 복습 추천"
+
+  retrieval_practice:
+    - "Section 3: 힌트 없이 기억 인출하기 (진단 테스트)"
+    - "Section 4: 무작위 순서로 개념 인출 (인터리빙)"
+    - "Section 7: Unit별 집중 복습"
+
+  interleaving:
+    - "Section 4: 4개 Unit의 개념을 완전히 무작위로 섞어서 30문제"
+    - "Section 5: 여러 Unit의 오류를 무작위로 제시"
+    - "Section 6: 통합 프로젝트에서 여러 문법 요소 동시 사용"
+
+  diagnostic_assessment:
+    - "Section 3: 각 문제마다 해당 Unit 표시로 약점 파악"
+    - "채점 가이드로 Unit별 점수 확인 가능"
+    - "약점 Unit은 Section 7에서 집중 복습"
+
+  contrastive_analysis:
+    - "Section 2: Have you vs Did you, for vs since vs ago, 현재완료 vs 단순과거 비교"
+    - "각 비교에 구분 기준, 예문, 흔한 실수, 판별 팁 포함"
+
+  error_detection:
+    - "Section 5: 한국 L1 학습자의 실제 오류 패턴 기반"
+    - "각 오류에 위반 규칙과 설명 포함"
+
+  integrated_production:
+    - "Section 6: 여러 Unit의 문법을 통합해서 실제 글쓰기"
+    - "각 과제에 사용할 문법 요소 명시"
+
+  metacognition:
+    - "Section 1: 사전 자기 진단 체크리스트"
+    - "Section 8: 사후 자기 점검 및 학습 성찰"
+    - "약점 파악 후 맞춤 학습 계획 수립"
+
+estimated_time:
+  - "Section 1: 3분 (자기 진단)"
+  - "Section 2: 8분 (핵심 개념 비교 읽기)"
+  - "Section 3: 10분 (진단 테스트 18문제)"
+  - "Section 4: 15분 (인터리빙 연습 30문제)"
+  - "Section 5: 8분 (오류 탐지 15문제)"
+  - "Section 6: 10분 (통합 프로젝트)"
+  - "Section 7: 0-10분 (약점 Unit만 선택적으로)"
+  - "Section 8: 5분 (자기 평가)"
+  - "총 예상 시간: 약 45-60분 (깊이 있게 할 경우)"
+  - "빠른 복습: 30분 (Section 3, 4, 8만 집중)"
+
+notes: |
+  이 복습 자료는 Units 16-19의 Present Perfect 관련 핵심 개념을 통합적으로 복습하도록 설계되었습니다.
+
+  단순한 반복이 아니라:
+  - 개념을 연결하고 비교하며 (contrastive analysis)
+  - 무작위로 섞어서 연습하고 (interleaving)
+  - 실생활에 적용하며 (integrated production)
+  - 학습자가 스스로 약점을 진단하고 계획적으로 복습할 수 있도록 (diagnostic + metacognition) 구성했습니다.
+
+  현재완료 의문문(Have you...?), 기간 묻기(How long...?), 시간표현(for/since/ago),
+  현재완료 vs 단순과거의 구분을 통합하여 연습합니다.
+
+  특히 한국 학습자가 자주 하는 실수 패턴을 집중적으로 다루어 실질적인 오류 감소를 목표로 합니다.
