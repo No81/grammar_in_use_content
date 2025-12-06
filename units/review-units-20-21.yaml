@@ -1,0 +1,436 @@
+title: "Units 20-21 종합 복습 · Passive 완전 정복"
+meta: "대상: 6학년 · 난이도: 중상~상 · 권장 45-60분 (A4 3p)"
+scope:
+  units: "Units 20-21"
+  topics: "수동태 기본형 (is done/was done), 진행형 수동태 (is being done), 현재완료 수동태 (has been done)"
+  prerequisite: "Passive 파트의 Units 20-21 학습 완료"
+
+sections:
+  - title: "1. Passive 문법 맵 (Grammar Map Overview)"
+    items:
+      - type: text
+        content: "Units 20-21에서 배운 수동태 관련 내용을 한눈에 정리해 봅시다! 수동태는 '누가 했는지'보다 '무엇이 어떻게 되었는지'를 강조할 때 사용하는 중요한 문법이에요."
+      - type: list
+        heading: "이 복습에서 다루는 유닛들"
+        list:
+          - "Unit 20: is done / was done (수동태 1) - 현재/과거 수동태 기본형"
+          - "Unit 21: is being done / has been done (수동태 2) - 진행형/현재완료 수동태"
+      - type: note
+        content: "<span class='highlight'>핵심 구분점:</span><br />• 기본 수동태 vs. 진행형 수동태 vs. 현재완료 수동태<br />• be동사 선택 (am/is/are vs. was/were)<br />• being vs. been 구분<br />• 수동태와 능동태의 차이"
+      - type: text
+        content: "<span class='highlight'>📊 수동태 형태 비교표</span><br /><br /><table style='width:100%; border-collapse:collapse; text-align:center;'><tr style='background:#f0f0f0;'><th style='border:1px solid #ddd; padding:8px;'>형태</th><th style='border:1px solid #ddd; padding:8px;'>구조</th><th style='border:1px solid #ddd; padding:8px;'>예문</th><th style='border:1px solid #ddd; padding:8px;'>의미</th></tr><tr><td style='border:1px solid #ddd; padding:8px;'>현재 단순</td><td style='border:1px solid #ddd; padding:8px;'>am/is/are + p.p.</td><td style='border:1px solid #ddd; padding:8px;'>The door is locked.</td><td style='border:1px solid #ddd; padding:8px;'>사실/습관</td></tr><tr><td style='border:1px solid #ddd; padding:8px;'>과거 단순</td><td style='border:1px solid #ddd; padding:8px;'>was/were + p.p.</td><td style='border:1px solid #ddd; padding:8px;'>The letter was sent.</td><td style='border:1px solid #ddd; padding:8px;'>과거 사실</td></tr><tr><td style='border:1px solid #ddd; padding:8px;'>현재진행</td><td style='border:1px solid #ddd; padding:8px;'>am/is/are + <b>being</b> + p.p.</td><td style='border:1px solid #ddd; padding:8px;'>The house is being painted.</td><td style='border:1px solid #ddd; padding:8px;'>지금 진행 중</td></tr><tr><td style='border:1px solid #ddd; padding:8px;'>과거진행</td><td style='border:1px solid #ddd; padding:8px;'>was/were + <b>being</b> + p.p.</td><td style='border:1px solid #ddd; padding:8px;'>The car was being washed.</td><td style='border:1px solid #ddd; padding:8px;'>과거 진행 중</td></tr><tr><td style='border:1px solid #ddd; padding:8px;'>현재완료</td><td style='border:1px solid #ddd; padding:8px;'>have/has + <b>been</b> + p.p.</td><td style='border:1px solid #ddd; padding:8px;'>The work has been finished.</td><td style='border:1px solid #ddd; padding:8px;'>완료/결과</td></tr></table><br /><span class='highlight'>💡 핵심 구분:</span> 진행형 = <b>being</b> / 현재완료 = <b>been</b>"
+      - type: list
+        heading: "수동태 형태 총정리"
+        list:
+          - "<span class='highlight'>현재 단순:</span> am/is/are + 과거분사 (The door is locked.)"
+          - "<span class='highlight'>과거 단순:</span> was/were + 과거분사 (The letter was sent.)"
+          - "<span class='highlight'>현재진행:</span> am/is/are + being + 과거분사 (The house is being painted.)"
+          - "<span class='highlight'>과거진행:</span> was/were + being + 과거분사 (The car was being washed.)"
+          - "<span class='highlight'>현재완료:</span> have/has + been + 과거분사 (The work has been finished.)"
+
+  - title: "2. 핵심 개념 비교 (Contrastive Analysis)"
+    items:
+      - type: text
+        content: "Units 20-21에서 가장 많이 헷갈리는 개념들을 비교해 봅시다. 차이점을 명확히 알면 실수가 줄어들어요!"
+      - type: text
+        content: "<span class='highlight'>능동태 vs. 수동태 비교</span><br /><br /><b>구분 기준:</b><br />- 능동태: 행위자가 주어 ('누가 무엇을 한다')<br />- 수동태: 대상이 주어 ('무엇이 ~되다')<br /><br /><b>예문 비교:</b><br />- 능동태: Someone cleans the room every day. (누군가가 방을 매일 청소한다)<br />- 수동태: The room is cleaned every day. (방은 매일 청소된다)<br /><br /><b>흔한 실수:</b><br />- X: The door locked. (be동사 빠뜨림)<br />- O: The door is locked.<br />- X: The room cleaned every day. (be동사 필수!)<br />- O: The room is cleaned every day.<br /><br /><b>판별 팁:</b> 한국어로 '~되다', '~받다', '~지다'로 번역되면 수동태! be동사 + 과거분사 형태 필수!"
+      - type: text
+        content: "<span class='highlight'>단순 수동태 vs. 진행형 수동태 vs. 현재완료 수동태</span><br /><br /><b>구분 기준:</b><br />- 단순 수동태 (is done): 사실/습관 (방은 청소된다)<br />- 진행형 수동태 (is being done): 지금 진행 중 (방이 청소되고 있다)<br />- 현재완료 수동태 (has been done): 완료/결과 (방이 청소되었다)<br /><br /><b>예문 비교:</b><br />- The room is cleaned. (방은 청소된다) - 사실/습관<br />- The room is being cleaned. (방이 청소되고 있다) - 지금 진행<br />- The room has been cleaned. (방이 청소되었다) - 완료/결과<br /><br /><b>흔한 실수:</b><br />- X: The house is painted now. (지금 진행 중인데 단순형 사용)<br />- O: The house is being painted now.<br />- X: The work has being finished. (being과 been 혼동)<br />- O: The work has been finished.<br /><br /><b>판별 팁:</b> 'now', 'right now' → 진행형 (is being done) / 'already', 'just' → 현재완료 (has been done)"
+      - type: text
+        content: "<span class='highlight'>being vs. been 헷갈리지 않기</span><br /><br /><b>구분 기준:</b><br />- being: 진행형 수동태에 사용 (is/are/was/were being + 과거분사)<br />- been: 현재완료 수동태에 사용 (have/has been + 과거분사)<br /><br /><b>예문 비교:</b><br />- The bridge is being built. (다리가 건설되고 있다) - 진행형<br />- The bridge has been built. (다리가 건설되었다) - 현재완료<br /><br /><b>흔한 실수:</b><br />- X: The car has being washed. (현재완료인데 being 사용)<br />- O: The car has been washed.<br />- X: The door is been opened. (진행형인데 been 사용)<br />- O: The door is being opened.<br /><br /><b>판별 팁:</b> have/has 뒤에는 항상 been! am/is/are/was/were + 진행 중이면 being!"
+      - type: text
+        content: "<span class='highlight'>현재 수동태 vs. 과거 수동태</span><br /><br /><b>구분 기준:</b><br />- 현재 수동태: am/is/are + 과거분사 (지금 상태/습관)<br />- 과거 수동태: was/were + 과거분사 (과거 사실)<br /><br /><b>예문 비교:</b><br />- The door is locked. (문이 잠겨 있다) - 현재<br />- The door was locked. (문이 잠겨 있었다) - 과거<br /><br /><b>흔한 실수:</b><br />- X: The window is broken yesterday. (yesterday인데 현재형)<br />- O: The window was broken yesterday.<br />- X: English are spoken here. (English는 단수)<br />- O: English is spoken here.<br /><br /><b>판별 팁:</b> yesterday, ago, last week → was/were / every day, usually, now → am/is/are"
+
+  - title: "3. 통합 진단 (Diagnostic Assessment)"
+    items:
+      - type: note
+        content: "이 진단 테스트로 어떤 Unit이 약한지 파악하세요! 틀린 문제의 Unit을 Section 7에서 집중 복습하세요."
+      - type: qna
+        question: "D1. [Unit 20] The room _____ _____ (clean) every day."
+        answer: "is, cleaned (Unit 20)<br />설명: 현재 습관 - is + 과거분사"
+      - type: qna
+        question: "D2. [Unit 20] The letter _____ _____ (send) yesterday."
+        answer: "was, sent (Unit 20)<br />설명: 과거 시점 - was + 과거분사"
+      - type: qna
+        question: "D3. [Unit 20] English _____ _____ (speak) in many countries."
+        answer: "is, spoken (Unit 20)<br />설명: 현재 사실 - is + 과거분사 (speak-spoke-spoken)"
+      - type: qna
+        question: "D4. [Unit 20] The windows _____ _____ (break) last night."
+        answer: "were, broken (Unit 20)<br />설명: 복수 과거 - were + 과거분사"
+      - type: qna
+        question: "D5. [Unit 20] 틀린 부분 고치기: 'The door locked at night.'"
+        answer: "The door is locked at night. (Unit 20)<br />설명: 수동태에는 be동사 필수! is locked"
+      - type: qna
+        question: "D6. [Unit 21] The bridge _____ _____ _____ (build) right now."
+        answer: "is, being, built (Unit 21)<br />설명: 지금 진행 - is being + 과거분사"
+      - type: qna
+        question: "D7. [Unit 21] The car _____ _____ _____ (wash) when I arrived."
+        answer: "was, being, washed (Unit 21)<br />설명: 과거 진행 - was being + 과거분사"
+      - type: qna
+        question: "D8. [Unit 21] The homework _____ _____ _____ (finish) already."
+        answer: "has, been, finished (Unit 21)<br />설명: 완료 - has been + 과거분사"
+      - type: qna
+        question: "D9. [Unit 21] This song _____ _____ _____ (sing) for many years."
+        answer: "has, been, sung (Unit 21)<br />설명: 경험/지속 - has been + 과거분사 (sing-sang-sung)"
+      - type: qna
+        question: "D10. [Unit 21] 틀린 부분 고치기: 'The house has being painted.'"
+        answer: "The house has been painted. (Unit 21)<br />설명: 현재완료는 has been (being 아님!)"
+      - type: qna
+        question: "D11. [Unit 20] Someone broke the window. (수동태로 변환)"
+        answer: "The window was broken (by someone). (Unit 20)<br />설명: 능동태 → 수동태 변환"
+      - type: qna
+        question: "D12. [Unit 20] The book _____ _____ (write) by J.K. Rowling."
+        answer: "was, written (Unit 20)<br />설명: 과거 수동태 - was + 과거분사 (write-wrote-written)"
+      - type: qna
+        question: "D13. [Unit 21] They are repairing the road. (진행형 수동태로)"
+        answer: "The road is being repaired (by them). (Unit 21)<br />설명: 능동 진행형 → 수동 진행형"
+      - type: qna
+        question: "D14. [Unit 21] The letters _____ _____ _____ (send) out now."
+        answer: "are, being, sent (Unit 21)<br />설명: 복수 현재진행 - are being + 과거분사"
+      - type: qna
+        question: "D15. [Unit 20] The movie _____ _____ (love) by many people."
+        answer: "is, loved (Unit 20)<br />설명: 현재 사실 - is + 과거분사"
+      - type: qna
+        question: "D16. [Unit 21] Someone has stolen my bike. (현재완료 수동태로)"
+        answer: "My bike has been stolen (by someone). (Unit 21)<br />설명: 능동 현재완료 → 수동 현재완료"
+      - type: qna
+        question: "D17. [Unit 20] 'The room is cleaned.'은 어떤 상황을 표현하나요?"
+        answer: "습관/사실 (방은 (매일) 청소된다) (Unit 20)<br />설명: 단순 현재 수동태 - 반복적인 습관이나 일반적 사실"
+      - type: qna
+        question: "D18. [Unit 21] 'The room is being cleaned.'은 어떤 상황을 표현하나요?"
+        answer: "지금 진행 중 (방이 청소되고 있다) (Unit 21)<br />설명: 현재진행 수동태 - 지금 이 순간 진행 중인 일"
+      - type: qna
+        question: "D19. [Unit 21] 'The room has been cleaned.'은 어떤 상황을 표현하나요?"
+        answer: "완료/결과 (방이 청소되었다) (Unit 21)<br />설명: 현재완료 수동태 - 이미 완료된 상태나 결과"
+      - type: qna
+        question: "D20. [Unit 20] 틀린 부분 고치기: 'The house built in 2010.'"
+        answer: "The house was built in 2010. (Unit 20)<br />설명: be동사 빠짐! was built"
+      - type: note
+        content: "<span class='highlight'>채점 가이드:</span><br />Unit 20 (기본 수동태 D1-D5, D11-D12, D15, D17, D20): __/10점<br />Unit 21 (진행형/현재완료 수동태 D6-D10, D13-D14, D16, D18-D19): __/10점<br /><br />총점: __/20점<br /><br />각 Unit 점수 해석:<br />- 8점 이상: 완벽! 잘 알고 있어요!<br />- 6-7점: 복습하면 금방 완벽해져요!<br />- 5점 이하: Section 7에서 이 Unit을 집중 복습하세요!"
+
+  - title: "4. 인터리빙 연습 (Interleaved Practice)"
+    items:
+      - type: note
+        content: "모든 Unit의 개념을 랜덤하게 섞어서 연습합니다! 이렇게 하면 각 개념을 더 명확하게 구분할 수 있어요. 순서 없이 무작위로 나오니 긴장하고 풀어보세요!"
+      - type: qna
+        question: "I1. The door _____ _____ (lock) at night."
+        answer: "is, locked (Unit 20)<br />설명: 현재 습관 - is + 과거분사"
+      - type: qna
+        question: "I2. The road _____ _____ _____ (repair) right now."
+        answer: "is, being, repaired (Unit 21)<br />설명: 지금 진행 - is being + 과거분사"
+      - type: qna
+        question: "I3. The cake _____ _____ (make) by my mom yesterday."
+        answer: "was, made (Unit 20)<br />설명: 과거 - was + 과거분사 (make-made-made)"
+      - type: qna
+        question: "I4. This book _____ _____ _____ (read) by many students."
+        answer: "has, been, read (Unit 21)<br />설명: 경험 - has been + 과거분사 (read-read-read)"
+      - type: qna
+        question: "I5. Korean _____ _____ (speak) in Korea."
+        answer: "is, spoken (Unit 20)<br />설명: 현재 사실 - is + 과거분사"
+      - type: qna
+        question: "I6. The windows _____ _____ _____ (clean) when I arrived."
+        answer: "were, being, cleaned (Unit 21)<br />설명: 과거 진행 - were being + 과거분사"
+      - type: qna
+        question: "I7. The letters _____ _____ (send) last week."
+        answer: "were, sent (Unit 20)<br />설명: 복수 과거 - were + 과거분사"
+      - type: qna
+        question: "I8. The homework _____ _____ _____ (check) by the teacher now."
+        answer: "is, being, checked (Unit 21)<br />설명: 현재 진행 - is being + 과거분사"
+      - type: qna
+        question: "I9. The window _____ _____ (break) by the ball."
+        answer: "was, broken (Unit 20)<br />설명: 과거 - was + 과거분사"
+      - type: qna
+        question: "I10. The dishes _____ _____ _____ (wash) already."
+        answer: "have, been, washed (Unit 21)<br />설명: 완료 - have been + 과거분사"
+      - type: qna
+        question: "I11. Pizza _____ _____ (deliver) to our house every Friday."
+        answer: "is, delivered (Unit 20)<br />설명: 현재 습관 - is + 과거분사"
+      - type: qna
+        question: "I12. The building _____ _____ _____ (demolish) this month."
+        answer: "is, being, demolished (Unit 21)<br />설명: 현재 진행 - is being + 과거분사"
+      - type: qna
+        question: "I13. The movie _____ _____ (watch) by millions last year."
+        answer: "was, watched (Unit 20)<br />설명: 과거 - was + 과거분사"
+      - type: qna
+        question: "I14. This game _____ _____ _____ (play) for years."
+        answer: "has, been, played (Unit 21)<br />설명: 지속 - has been + 과거분사"
+      - type: qna
+        question: "I15. The classroom _____ _____ (clean) every day."
+        answer: "is, cleaned (Unit 20)<br />설명: 현재 습관 - is + 과거분사"
+      - type: qna
+        question: "I16. The car _____ _____ _____ (repair) at the garage now."
+        answer: "is, being, repaired (Unit 21)<br />설명: 현재 진행 - is being + 과거분사"
+      - type: qna
+        question: "I17. The book _____ _____ (write) in 2015."
+        answer: "was, written (Unit 20)<br />설명: 과거 - was + 과거분사 (write-wrote-written)"
+      - type: qna
+        question: "I18. The test _____ _____ _____ (finish) on time."
+        answer: "has, been, finished (Unit 21)<br />설명: 완료 - has been + 과거분사"
+      - type: qna
+        question: "I19. English _____ _____ (teach) in our school."
+        answer: "is, taught (Unit 20)<br />설명: 현재 사실 - is + 과거분사 (teach-taught-taught)"
+      - type: qna
+        question: "I20. The students _____ _____ _____ (test) right now."
+        answer: "are, being, tested (Unit 21)<br />설명: 현재 진행 복수 - are being + 과거분사"
+      - type: qna
+        question: "I21. The house _____ _____ (build) in 2010."
+        answer: "was, built (Unit 20)<br />설명: 과거 - was + 과거분사 (build-built-built)"
+      - type: qna
+        question: "I22. The email _____ _____ _____ (send) already."
+        answer: "has, been, sent (Unit 21)<br />설명: 완료 - has been + 과거분사"
+      - type: qna
+        question: "I23. The doors _____ _____ (lock) at 10 PM."
+        answer: "are, locked (Unit 20)<br />설명: 현재 습관 복수 - are + 과거분사"
+      - type: qna
+        question: "I24. My phone _____ _____ _____ (charge) right now."
+        answer: "is, being, charged (Unit 21)<br />설명: 현재 진행 - is being + 과거분사"
+      - type: qna
+        question: "I25. The prize _____ _____ (win) by our team last month."
+        answer: "was, won (Unit 20)<br />설명: 과거 - was + 과거분사 (win-won-won)"
+      - type: qna
+        question: "I26. The work _____ _____ _____ (complete) successfully."
+        answer: "has, been, completed (Unit 21)<br />설명: 완료 - has been + 과거분사"
+      - type: qna
+        question: "I27. Kimchi _____ _____ (love) by Koreans."
+        answer: "is, loved (Unit 20)<br />설명: 현재 사실 - is + 과거분사"
+      - type: qna
+        question: "I28. The packages _____ _____ _____ (deliver) this afternoon."
+        answer: "are, being, delivered (Unit 21)<br />설명: 현재 진행 복수 - are being + 과거분사"
+      - type: qna
+        question: "I29. The song _____ _____ (sing) at the concert."
+        answer: "was, sung (Unit 20)<br />설명: 과거 - was + 과거분사 (sing-sang-sung)"
+      - type: qna
+        question: "I30. The project _____ _____ _____ (submit) on time."
+        answer: "has, been, submitted (Unit 21)<br />설명: 완료 - has been + 과거분사"
+
+  - title: "5. 오류 탐지 & 수정 (Error Detection & Correction)"
+    items:
+      - type: note
+        content: "한국 학습자들이 자주 하는 실수들을 모았어요. 각 문장에서 틀린 부분을 찾고, 어떤 Unit의 규칙을 위반했는지 확인하세요!"
+      - type: qna
+        question: "E1. 틀린 부분을 찾아 고치세요: 'The door locked every night.'"
+        answer: "틀린 부분: locked → is locked<br />문제: be동사 빠뜨림<br />위반 규칙: Unit 20 - 수동태는 be동사 + 과거분사<br />✅ 수정: The door is locked every night.<br />설명: 수동태에는 be동사가 반드시 필요해요!"
+      - type: qna
+        question: "E2. 틀린 부분을 찾아 고치세요: 'The room is clean every day.'"
+        answer: "틀린 부분: clean → cleaned<br />문제: 과거분사 대신 원형 사용<br />위반 규칙: Unit 20 - be동사 + 과거분사<br />✅ 수정: The room is cleaned every day.<br />설명: 수동태는 과거분사(cleaned)를 써야 해요!"
+      - type: qna
+        question: "E3. 틀린 부분을 찾아 고치세요: 'The window are broken.'"
+        answer: "틀린 부분: are → is<br />문제: the window는 단수인데 복수 동사 사용<br />위반 규칙: Unit 20 - 주어와 be동사 일치<br />✅ 수정: The window is broken.<br />설명: the window는 단수이므로 is를 써요!"
+      - type: qna
+        question: "E4. 틀린 부분을 찾아 고치세요: 'English are spoke in many countries.'"
+        answer: "틀린 부분: are → is, spoke → spoken<br />문제: English는 단수, spoke는 과거형<br />위반 규칙: Unit 20 - 단수 주어 + 과거분사<br />✅ 수정: English is spoken in many countries.<br />설명: English는 단수이고, speak의 과거분사는 spoken이에요!"
+      - type: qna
+        question: "E5. 틀린 부분을 찾아 고치세요: 'The house is painted right now.'"
+        answer: "틀린 부분: is painted → is being painted<br />문제: 지금 진행 중인데 단순형 사용<br />위반 규칙: Unit 21 - 진행형 수동태 필요<br />✅ 수정: The house is being painted right now.<br />설명: 'right now'가 있으면 진행형 수동태! is being + 과거분사"
+      - type: qna
+        question: "E6. 틀린 부분을 찾아 고치세요: 'The car has being washed.'"
+        answer: "틀린 부분: being → been<br />문제: 현재완료인데 being 사용<br />위반 규칙: Unit 21 - has + been + 과거분사<br />✅ 수정: The car has been washed.<br />설명: 현재완료 수동태는 has been! being은 진행형에만 써요."
+      - type: qna
+        question: "E7. 틀린 부분을 찾아 고치세요: 'The work has being done.'"
+        answer: "틀린 부분: being → been<br />문제: being과 been 혼동<br />위반 규칙: Unit 21 - 현재완료는 been<br />✅ 수정: The work has been done.<br />설명: have/has 뒤에는 항상 been!"
+      - type: qna
+        question: "E8. 틀린 부분을 찾아 고치세요: 'The bridge is been built.'"
+        answer: "틀린 부분: is been → is being<br />문제: 진행형인데 been 사용<br />위반 규칙: Unit 21 - 진행형은 being<br />✅ 수정: The bridge is being built.<br />설명: am/is/are + being이 진행형 수동태예요!"
+      - type: qna
+        question: "E9. 틀린 부분을 찾아 고치세요: 'The letters was sent yesterday.'"
+        answer: "틀린 부분: was → were<br />문제: 복수 주어에 단수 동사<br />위반 규칙: Unit 20 - 복수는 were<br />✅ 수정: The letters were sent yesterday.<br />설명: the letters는 복수이므로 were를 써요!"
+      - type: qna
+        question: "E10. 틀린 부분을 찾아 고치세요: 'The book was wrote by J.K. Rowling.'"
+        answer: "틀린 부분: wrote → written<br />문제: 과거형 사용 (과거분사 필요)<br />위반 규칙: Unit 20 - was + 과거분사<br />✅ 수정: The book was written by J.K. Rowling.<br />설명: write의 과거분사는 written이에요! wrote는 과거형."
+      - type: qna
+        question: "E11. 틀린 부분을 찾아 고치세요: 'The room is being clean now.'"
+        answer: "틀린 부분: clean → cleaned<br />문제: 과거분사 대신 원형 사용<br />위반 규칙: Unit 21 - is being + 과거분사<br />✅ 수정: The room is being cleaned now.<br />설명: being 뒤에도 과거분사가 와야 해요!"
+      - type: qna
+        question: "E12. 틀린 부분을 찾아 고치세요: 'The homework have been finished.'"
+        answer: "틀린 부분: have → has<br />문제: 단수 주어에 복수 동사<br />위반 규칙: Unit 21 - 단수는 has<br />✅ 수정: The homework has been finished.<br />설명: the homework는 단수이므로 has를 써요!"
+      - type: qna
+        question: "E13. 틀린 부분을 찾아 고치세요: 'The dishes is being washed.'"
+        answer: "틀린 부분: is → are<br />문제: 복수 주어에 단수 동사<br />위반 규칙: Unit 21 - 복수는 are<br />✅ 수정: The dishes are being washed.<br />설명: the dishes는 복수이므로 are를 써요!"
+      - type: qna
+        question: "E14. 틀린 부분을 찾아 고치세요: 'The test is been finished.'"
+        answer: "틀린 부분: is been → has been<br />문제: 완료인데 is 사용<br />위반 규칙: Unit 21 - 현재완료는 has been<br />✅ 수정: The test has been finished.<br />설명: 완료를 나타낼 때는 has been을 써요!"
+      - type: qna
+        question: "E15. 틀린 부분을 찾아 고치세요: 'The house built in 2010.'"
+        answer: "틀린 부분: built → was built<br />문제: be동사 완전히 빠뜨림<br />위반 규칙: Unit 20 - 수동태 필수 형식<br />✅ 수정: The house was built in 2010.<br />설명: 수동태에는 be동사가 반드시 있어야 해요!"
+
+  - title: "6. 통합 프로젝트 (Integrated Production)"
+    items:
+      - type: note
+        content: "여러 Unit의 문법을 함께 사용해서 실제로 글을 써보세요! 문법을 통합해서 사용하는 연습이 가장 효과적이에요."
+      - type: qna
+        question: "P1. 우리 학교 소개하기: 다음을 포함해서 6문장을 쓰세요.<br />- 학교에서 일어나는 습관적인 일 (현재 수동태 2개)<br />- 지금 진행 중인 일 (진행형 수동태 1개)<br />- 과거에 일어난 일 (과거 수동태 1개)<br />- 완료된 일 (현재완료 수동태 1개)"
+        answer: "예시 답안:<br />My school is called Dongdaemun Elementary School. The classrooms are cleaned every day. English is taught by Ms. Kim. Right now, a new building is being built next to our playground. Last year, the library was renovated. Many books have been added this year.<br /><br />평가 기준:<br />- 사용한 유닛: Unit 20 (is called, are cleaned, is taught, was renovated), Unit 21 (is being built, have been added)<br />- 문법 정확도: 각 수동태 형태가 올바른지 확인<br />- 창의성: 자신의 학교 상황을 넣으면 더 좋아요!"
+      - type: qna
+        question: "P2. 능동태를 수동태로 바꾸기: 다음 능동태 문장들을 적절한 수동태로 바꾸세요.<br />1) Someone cleans the room every day.<br />2) They are building a new bridge.<br />3) My mom made this cake yesterday.<br />4) People have used this app for years."
+        answer: "예시 답안:<br />1) The room is cleaned every day. (현재 단순 수동태)<br />2) A new bridge is being built. (현재진행 수동태)<br />3) This cake was made by my mom yesterday. (과거 단순 수동태)<br />4) This app has been used for years. (현재완료 수동태)<br /><br />평가 기준:<br />- 사용한 유닛: Unit 20, Unit 21 통합<br />- 문법 정확도: 능동태 → 수동태 변환 정확성<br />- 시제 판별: 각 문장의 시간 표현에 맞는 형태 사용"
+      - type: qna
+        question: "P3. 한 가지 물건의 역사 쓰기: 당신이 가진 물건 하나를 골라서 그것의 '역사'를 6문장으로 쓰세요.<br />- 언제/어디서 만들어졌는지 (과거 수동태) [필수]<br />- 누가 사용해왔는지 (현재완료 수동태) [필수]<br />- 지금 어떤 상태인지 (현재 수동태) [필수]<br />- 지금 무슨 일이 일어나고 있는지 (진행형 수동태) [필수]"
+        answer: "예시 답안 (스마트폰):<br />My smartphone was made in Korea in 2022. It was bought by my parents last year. It has been used by me every day since then. Many apps have been downloaded. All my photos are stored in it. Right now, it is being charged on my desk.<br /><br />평가 기준:<br />- 사용한 유닛: Unit 20 (was made, was bought, are stored), Unit 21 (has been used, have been downloaded, is being charged)<br />- 필수 요소: 과거/현재완료/현재/진행형 수동태 모두 포함 (4가지 필수!)<br />- 문법 정확도: 각 시제와 수동태 형태가 올바른지<br />- 내용 연결: 문장들이 자연스럽게 연결되는지"
+      - type: qna
+        question: "P4. 학교 공사 현장 묘사하기: 당신의 학교나 동네에서 진행 중인 공사/변화를 수동태로 묘사하세요 (실제 또는 상상). 6문장 이상.<br />- 무엇이 건설/수리되고 있는지 (진행형 수동태)<br />- 언제 시작되었는지 (과거 수동태)<br />- 완료된 부분 (현재완료 수동태)<br />- 일반적인 사실 (현재 수동태)"
+        answer: "예시 답안:<br />A new library is being built near my school. The construction was started three months ago. The foundation has been completed already. Right now, the walls are being constructed. Many workers are being employed for this project. The old library was demolished last year. This project is expected to finish next year.<br /><br />평가 기준:<br />- 사용한 유닛: Unit 20과 Unit 21 통합 사용<br />- 필수 요소: 진행형/과거/현재완료/현재 수동태 모두 사용<br />- 문법 정확도: 각 수동태 형태 정확성<br />- 묘사력: 상황을 생생하게 표현했는지"
+
+  - title: "7. 약점 집중 복습 (Targeted Review by Unit)"
+    items:
+      - type: note
+        content: "Section 3 진단 테스트에서 약했던 Unit만 선택해서 복습하세요! 모든 Unit을 다 할 필요 없어요."
+      - type: text
+        content: "<span class='highlight'>Unit 20 복습: is done / was done (기본 수동태)</span>"
+      - type: note
+        content: "핵심 기억:<br />- 현재 수동태: am/is/are + 과거분사<br />- 과거 수동태: was/were + 과거분사<br />- be동사는 반드시 필요!<br />- 과거분사 형태 정확히 (cleaned, spoken, written 등)"
+      - type: qna
+        question: "R1-1. The door _____ _____ (open) at 9 AM every day."
+        answer: "is, opened<br />설명: 현재 습관 - is + 과거분사"
+      - type: qna
+        question: "R1-2. The letters _____ _____ (send) yesterday."
+        answer: "were, sent<br />설명: 복수 과거 - were + 과거분사"
+      - type: qna
+        question: "R1-3. Korean _____ _____ (speak) by 50 million people."
+        answer: "is, spoken<br />설명: 현재 사실 - is + 과거분사 (speak-spoke-spoken)"
+      - type: qna
+        question: "R1-4. The movie _____ _____ (watch) by many people last year."
+        answer: "was, watched<br />설명: 과거 - was + 과거분사"
+      - type: qna
+        question: "R1-5. 틀린 부분 고치기: 'The window broke by the ball.'"
+        answer: "The window was broken by the ball.<br />설명: be동사 필요! was broken"
+      - type: qna
+        question: "R1-6. 능동태를 수동태로: They clean the park every week."
+        answer: "The park is cleaned every week (by them).<br />설명: 대상(the park)이 주어, 현재 습관 is cleaned"
+      - type: text
+        content: "<span class='highlight'>Unit 21 복습: is being done / has been done (진행형/현재완료 수동태)</span>"
+      - type: note
+        content: "핵심 기억:<br />- 현재진행 수동태: am/is/are + being + 과거분사<br />- 과거진행 수동태: was/were + being + 과거분사<br />- 현재완료 수동태: have/has + been + 과거분사<br />- being vs. been 구분 중요!"
+      - type: qna
+        question: "R2-1. The road _____ _____ _____ (repair) now."
+        answer: "is, being, repaired<br />설명: 현재진행 - is being + 과거분사"
+      - type: qna
+        question: "R2-2. The cake _____ _____ _____ (make) when I arrived."
+        answer: "was, being, made<br />설명: 과거진행 - was being + 과거분사"
+      - type: qna
+        question: "R2-3. The homework _____ _____ _____ (finish) already."
+        answer: "has, been, finished<br />설명: 현재완료 - has been + 과거분사"
+      - type: qna
+        question: "R2-4. This song _____ _____ _____ (sing) for decades."
+        answer: "has, been, sung<br />설명: 지속 - has been + 과거분사 (sing-sang-sung)"
+      - type: qna
+        question: "R2-5. 틀린 부분 고치기: 'The car has being washed.'"
+        answer: "The car has been washed.<br />설명: 현재완료는 has been! (being 아님)"
+      - type: qna
+        question: "R2-6. 능동태를 진행형 수동태로: They are building a new school."
+        answer: "A new school is being built (by them).<br />설명: 진행형 능동 → 진행형 수동"
+      - type: text
+        content: "<span class='highlight'>혼합 복습: 수동태 형태 구분하기</span>"
+      - type: note
+        content: "다음 힌트를 보고 어떤 수동태 형태를 써야 할지 판단하세요!"
+      - type: qna
+        question: "R3-1. [힌트: 매일, 습관] The room _____ every day."
+        answer: "is cleaned<br />설명: 습관 → 현재 단순 수동태"
+      - type: qna
+        question: "R3-2. [힌트: right now] The bridge _____ right now."
+        answer: "is being built<br />설명: 지금 진행 → 현재진행 수동태"
+      - type: qna
+        question: "R3-3. [힌트: yesterday] The letter _____ yesterday."
+        answer: "was sent<br />설명: 과거 시점 → 과거 단순 수동태"
+      - type: qna
+        question: "R3-4. [힌트: already, 완료] The work _____ already."
+        answer: "has been finished<br />설명: 완료 → 현재완료 수동태"
+
+  - title: "8. 종합 자기 평가 & 학습 계획 (Comprehensive Self-Assessment)"
+    items:
+      - type: note
+        content: "복습을 마치며 스스로를 점검해 봅시다! 솔직하게 평가하는 것이 다음 단계를 위해 중요해요."
+      - type: qna
+        question: "SC1. 수동태의 기본 형태 (be동사 + 과거분사)를 정확히 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 수동태의 기본을 확실히 마스터했어요!<br />어렵다면: 'be동사 + 과거분사'를 10번 써보고, Section 7의 Unit 20 복습을 하세요."
+      - type: qna
+        question: "SC2. being과 been의 차이를 친구에게 설명할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 많은 학생들이 헷갈리는 부분인데 잘 구분하고 있네요!<br />어렵다면: 'being = 진행형, been = 현재완료'를 기억하고, Section 2의 비교 부분을 다시 읽어보세요."
+      - type: qna
+        question: "SC3. 단순/진행형/현재완료 수동태의 의미 차이를 구분할 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 세 가지 형태의 뉘앙스를 정확히 알고 있어요!<br />어렵다면: 'is cleaned (습관) / is being cleaned (지금) / has been cleaned (완료)'를 비교하며 각각 예문 3개씩 만들어보세요."
+      - type: qna
+        question: "SC4. 능동태를 수동태로 자유롭게 바꿀 수 있나요?"
+        answer: "할 수 있다면: 최고예요! 문장 변형 능력이 뛰어나요!<br />어렵다면: Section 6의 P2 문제를 다시 풀고, 능동태 문장 5개를 골라 수동태로 바꿔보세요."
+      - type: qna
+        question: "SC5. 과거분사 형태를 정확하게 알고 있나요? (특히 불규칙 동사)"
+        answer: "할 수 있다면: 대단해요! 불규칙 과거분사는 암기가 필요한데 잘 외웠네요!<br />어렵다면: speak-spoken, write-written, break-broken, make-made 등 자주 쓰는 불규칙 과거분사 10개를 외우세요."
+      - type: qna
+        question: "SC6. 일상생활에서 수동태를 사용해서 5개 이상 문장을 만들 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 문법을 실생활에 적용할 수 있어요!<br />어렵다면: 주변에서 '~되다', '~받다'로 표현할 수 있는 것들을 찾아 수동태로 써보세요."
+      - type: note
+        content: "<span class='highlight'>나의 복습 결과</span><br /><br />진단 테스트 점수 (Section 3): __/20점<br /><br />가장 자신있는 Unit: ______<br /><br />더 연습이 필요한 Unit: ______<br /><br />가장 많이 틀린 유형: ______<br />(예: being/been 혼동, be동사 빠뜨림, 과거분사 형태 오류 등)"
+      - type: note
+        content: "<span class='highlight'>다음 주 학습 계획</span><br /><br />약점 Unit 복습 계획:<br />- Unit 20이 약하다면: 매일 기본 수동태 문장 5개씩 만들기, 과거분사 10개씩 외우기<br />- Unit 21이 약하다면: being/been 구분 연습, 진행형과 현재완료 수동태 각 5문장씩 쓰기<br /><br />복습 일정:<br />- 내일: Section 3 진단 테스트 다시 풀기<br />- 3일 후: Section 4 인터리빙 연습 다시 풀기 (틀린 문제 중심)<br />- 1주일 후: Section 6 통합 프로젝트 다시 쓰기 (더 복잡한 문장으로)<br /><br />실생활 적용:<br />- 영어 뉴스나 기사에서 수동태 문장 찾기 (하루 3개 목표)<br />- 주변 상황을 수동태로 설명하는 연습 (예: 학교 공지, 집안일 등)"
+      - type: note
+        content: "축하합니다! Units 20-21 Passive 종합 복습을 완료했습니다!<br /><br />여러분은 이제 수동태의 핵심을 모두 마스터했어요. 기본 수동태(is done/was done), 진행형 수동태(is being done), 현재완료 수동태(has been done)... 이 모든 것을 자유자재로 사용할 수 있다는 것은 정말 대단한 일입니다!<br /><br />수동태는 영어에서 매우 자주 쓰이는 중요한 문법이에요. 특히 뉴스, 과학 기사, 설명문에서 많이 볼 수 있죠. 이제 여러분은 이런 글들을 더 잘 이해할 수 있을 거예요!<br /><br />앞으로 할 일:<br />1. 영어 뉴스나 기사를 읽을 때 수동태 문장에 주목하세요<br />2. 능동태와 수동태 중 어떤 것이 더 자연스러운지 생각해보세요<br />3. 주변 상황을 수동태로 설명하는 연습을 계속하세요<br /><br />다음 단계: 다른 문법 주제로 넘어가거나, 수동태를 더 깊이 연습하기<br /><br />영어는 꾸준히 연습하면 반드시 늘어요. 오늘도 최선을 다한 여러분, 정말 자랑스럽습니다!"
+
+pedagogical_design:
+  spaced_repetition:
+    - "Section 1: 복습 시작 전 개념 맵으로 사전 활성화"
+    - "Section 8: 향후 복습 계획표 제공 (내일, 3일 후, 1주일 후)"
+    - "약점 기반 맞춤 복습 추천"
+    - "실생활 적용 과제로 장기 기억 강화"
+
+  retrieval_practice:
+    - "Section 3: 힌트 없이 기억 인출하기 (진단 테스트 18문제)"
+    - "Section 4: 무작위 순서로 개념 인출 (인터리빙 30문제)"
+    - "Section 7: Unit별 집중 인출 연습"
+
+  interleaving:
+    - "Section 4: 2개 Unit의 개념을 완전히 무작위로 섞어서 30문제"
+    - "Unit 20과 Unit 21이 연속되지 않도록 배치"
+    - "Section 5: 여러 오류 유형을 무작위로 제시"
+    - "Section 6: 통합 프로젝트에서 여러 수동태 형태 동시 사용"
+
+  diagnostic_assessment:
+    - "Section 3: 각 문제마다 해당 Unit 표시로 약점 파악"
+    - "채점 가이드로 Unit별 점수 확인 가능"
+    - "약점 Unit은 Section 7에서 집중 복습"
+
+  contrastive_analysis:
+    - "Section 2: 능동태 vs 수동태, 단순 vs 진행형 vs 현재완료, being vs been, 현재 vs 과거 수동태 비교"
+    - "각 비교에 구분 기준, 예문, 흔한 실수, 판별 팁 포함"
+    - "한국어 번역과 연결하여 이해 촉진"
+
+  error_detection:
+    - "Section 5: 한국 L1 학습자의 실제 오류 패턴 기반 15문제"
+    - "be동사 빠뜨림, 과거분사 오류, being/been 혼동 등"
+    - "각 오류에 위반 규칙과 상세 설명 포함"
+
+  integrated_production:
+    - "Section 6: 여러 수동태 형태를 통합해서 실제 글쓰기 4과제"
+    - "학교 소개, 능동태→수동태 변환, 물건 역사, 공사 현장 묘사"
+    - "각 과제에 사용할 문법 요소 명시"
+
+  metacognition:
+    - "Section 1: 사전 개념 맵 제공"
+    - "Section 8: 사후 자기 점검 6문항"
+    - "약점 파악 후 맞춤 학습 계획 수립"
+    - "실생활 적용 계획 포함"
+
+estimated_time:
+  - "Section 1: 3분 (문법 맵 읽기)"
+  - "Section 2: 10분 (핵심 개념 비교 읽기)"
+  - "Section 3: 10분 (진단 테스트 18문제)"
+  - "Section 4: 15분 (인터리빙 연습 30문제)"
+  - "Section 5: 8분 (오류 탐지 15문제)"
+  - "Section 6: 12분 (통합 프로젝트 4과제)"
+  - "Section 7: 0-10분 (약점 Unit만 선택적으로)"
+  - "Section 8: 5분 (자기 평가)"
+  - "총 예상 시간: 약 45-60분"
+  - "빠른 복습: 30분 (Section 3, 4, 8만 집중)"
+
+notes: |
+  이 복습 자료는 Units 20-21의 Passive 관련 핵심 개념을 통합적으로 복습하도록 설계되었습니다.
+
+  단순한 반복이 아니라:
+  - 개념을 연결하고 비교하며 (contrastive analysis)
+  - 무작위로 섞어서 연습하고 (interleaving)
+  - 실생활에 적용하며 (integrated production)
+  - 학습자가 스스로 약점을 진단하고 계획적으로 복습할 수 있도록 (diagnostic + metacognition) 구성했습니다.
+
+  기본 수동태(is done/was done), 진행형 수동태(is being done), 현재완료 수동태(has been done)의
+  구분과 적절한 사용을 통합하여 연습합니다.
+
+  특히 한국 학습자가 자주 하는 실수 패턴 (be동사 빠뜨림, being/been 혼동, 과거분사 형태 오류 등)을
+  집중적으로 다루어 실질적인 오류 감소를 목표로 합니다.
