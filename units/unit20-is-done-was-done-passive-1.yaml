@@ -1,0 +1,254 @@
+title: "Unit 20 · is done / was done (수동태 1)"
+meta: "대상: 6학년 · 난이도: 중상 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "수동태는 '~되다', '~받다'의 의미로, 행동의 대상이 주어가 되는 표현이에요. 능동태는 '누가 무엇을 한다'이지만, 수동태는 '무엇이 (누군가에 의해) ~되다'를 나타내요."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "<span class='highlight'>현재 수동태:</span> am/is/are + 과거분사(p.p.) → The room is cleaned every day. (방은 매일 청소된다)"
+          - "<span class='highlight'>과거 수동태:</span> was/were + 과거분사(p.p.) → The window was broken yesterday. (창문은 어제 깨졌다)"
+          - "<span class='highlight'>부정문:</span> am/is/are/was/were + not + 과거분사 → The door isn't locked. (문이 잠기지 않았다)"
+          - "<span class='highlight'>의문문:</span> Am/Is/Are/Was/Were + 주어 + 과거분사? → Is the homework finished? (숙제가 끝났니?)"
+          - "<span class='highlight'>행위자 표시:</span> by + 사람/사물 → The book was written by J.K. Rowling. (그 책은 J.K. 롤링에 의해 쓰였다)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 수동태는 <span class='highlight'>행위의 대상</span>을 강조할 때 써요. 누가 했는지보다 '무엇이 어떻게 되었는지'가 중요할 때 사용합니다. 한국어 '~되다', '~받다', '~지다'로 번역돼요."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 행위자가 불분명하거나 중요하지 않을 때: My bike was stolen. (내 자전거가 도난당했다)<br />• 결과나 상태에 집중할 때: The test is finished. (시험이 끝났다)<br />• 공식적이거나 객관적인 설명: English is spoken in many countries. (영어는 많은 나라에서 사용된다)<br />• 행위의 대상을 강조할 때: The prize was won by our team. (상은 우리 팀에 의해 수상되었다)"
+      - type: list
+        heading: "더 많은 예문 (12개 이상)"
+        list:
+          - "The door is locked at night. (문은 밤에 잠긴다) - 일상"
+          - "Korean is spoken by many people. (한국어는 많은 사람들에 의해 사용된다) - 언어"
+          - "The cake was made by my mom. (케이크는 엄마가 만드셨다) - 가족"
+          - "This book is loved by students. (이 책은 학생들에게 사랑받는다) - 학교"
+          - "The letters were sent yesterday. (편지들은 어제 보내졌다) - 일상"
+          - "English is taught in our school. (영어는 우리 학교에서 가르쳐진다) - 교육"
+          - "The window was broken by the ball. (창문은 공에 의해 깨졌다) - 사고"
+          - "Pizza is delivered to our house. (피자는 우리 집으로 배달된다) - 음식"
+          - "The movie was watched by millions. (그 영화는 수백만 명이 봤다) - 엔터테인먼트"
+          - "My phone is charged every night. (내 휴대폰은 매일 밤 충전된다) - 기술"
+          - "The game was played by children. (게임은 아이들에 의해 플레이됐다) - 놀이"
+          - "The homework is checked by the teacher. (숙제는 선생님에 의해 점검된다) - 학교"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. be동사 빠뜨리기: The door locked (X) → The door is locked (O)<br />2. 과거분사 대신 원형 사용: is clean (X) → is cleaned (O)<br />3. 능동태와 수동태 혼동: I am break the window (X) → The window is broken (O)<br />4. 불규칙 과거분사 형태: is wrote (X) → is written (O)"
+      - type: text
+        content: "<span class='highlight'>능동태 vs 수동태 비교:</span><br />• <span class='highlight'>능동태:</span> Someone cleans the room every day. (누군가가 방을 매일 청소한다) → 행위자 중심<br />• <span class='highlight'>수동태:</span> The room is cleaned every day. (방은 매일 청소된다) → 대상 중심<br /><br />능동태는 '누가 한다'를, 수동태는 '무엇이 되다'를 강조해요!"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "아래 문장들을 자세히 관찰하고, 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "The museum is opened at 9 AM."
+          - "Lunch is served at noon."
+          - "The house was built in 2010."
+          - "The packages were delivered this morning."
+          - "The song is sung by many people."
+          - "The car was washed yesterday."
+          - "The classroom is cleaned every day."
+          - "The email was sent an hour ago."
+      - type: qna
+        question: "Q1. 위 문장들에서 공통적으로 보이는 동사 패턴은 무엇인가요?"
+        answer: "be동사(is/are/was/were) + 과거분사(p.p.) 패턴이에요! opened, served, built, delivered 등이 모두 과거분사예요."
+      - type: qna
+        question: "Q2. 현재 시제와 과거 시제 수동태는 어떻게 구분하나요?"
+        answer: "현재: is/are + 과거분사 (is opened, is served)<br />과거: was/were + 과거분사 (was built, were delivered)"
+      - type: qna
+        question: "Q3. 'by + 사람/사물'은 어떤 의미인가요?"
+        answer: "'~에 의해'라는 뜻으로, 행위자를 나타내요. 누가 그 행동을 했는지 알려줘요!"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 현재 수동태와 과거 수동태의 기본 형태를 써보세요."
+        answer: "현재: am/is/are + 과거분사<br />과거: was/were + 과거분사<br />평가 기준: be동사 + 과거분사를 맞게 쓰면 정답!"
+      - type: qna
+        question: "R2. 수동태는 어떤 상황에서 쓰나요? 두 가지만 써보세요."
+        answer: "예: 행위자가 불분명할 때, 결과/상태에 집중할 때, 대상을 강조할 때 등<br />평가 기준: 두 가지를 맞게 쓰면 정답!"
+      - type: qna
+        question: "R3. 능동태와 수동태의 차이점을 간단히 설명해보세요."
+        answer: "능동태: 누가 한다 (행위자 중심)<br />수동태: 무엇이 되다 (대상 중심)<br />평가 기준: 초점의 차이를 구분하면 정답!"
+      - type: qna
+        question: "R4. 수동태 예문을 하나 기억해서 써보세요."
+        answer: "예시: The door is locked. / The cake was made by my mom.<br />평가 기준: 'be동사 + 과거분사' 구조가 맞으면 정답!"
+      - type: qna
+        question: "R5. 'by'는 수동태에서 어떤 역할을 하나요?"
+        answer: "행위자(누가 그 행동을 했는지)를 나타내요. '~에 의해'라는 뜻이에요.<br />평가 기준: 행위자를 나타낸다고 말하면 정답!"
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 be동사와 과거분사를 넣으세요."
+      - type: qna
+        question: "Q1. The letter _____ _____ (send) yesterday."
+        answer: "was, sent<br />설명: 과거 시제이므로 was! send의 과거분사는 sent (불규칙)."
+      - type: qna
+        question: "Q2. English _____ _____ (speak) in many countries."
+        answer: "is, spoken<br />설명: 현재 시제이므로 is! speak의 과거분사는 spoken (불규칙)."
+      - type: qna
+        question: "Q3. The windows _____ _____ (clean) every week."
+        answer: "are, cleaned<br />설명: windows는 복수이므로 are! clean의 과거분사는 cleaned."
+      - type: qna
+        question: "Q4. The book _____ _____ (write) by a famous author."
+        answer: "was, written<br />설명: 과거이므로 was! write의 과거분사는 written (불규칙)."
+      - type: qna
+        question: "Q5. The cookies _____ _____ (make) by my grandmother."
+        answer: "were, made<br />설명: cookies는 복수이고 과거이므로 were! make의 과거분사는 made (불규칙)."
+      - type: qna
+        question: "Q6. This song _____ _____ (love) by everyone."
+        answer: "is, loved<br />설명: 현재 시제이므로 is! love의 과거분사는 loved."
+      - type: qna
+        question: "Q7. The homework _____ _____ (finish) an hour ago."
+        answer: "was, finished<br />설명: 과거(an hour ago)이므로 was! finish의 과거분사는 finished."
+      - type: qna
+        question: "Q8. The doors _____ _____ (lock) at night."
+        answer: "are, locked<br />설명: doors는 복수, 현재 습관이므로 are! lock의 과거분사는 locked."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. 수동태 형태를 사용하세요!"
+      - type: qna
+        question: "T1. 그 문은 매일 잠긴다."
+        answer: "The door is locked every day.<br />평가 기준: 'is locked'가 맞으면 정답!"
+      - type: qna
+        question: "T2. 영어는 우리 학교에서 가르쳐진다."
+        answer: "English is taught in our school.<br />평가 기준: 'is taught'가 맞으면 정답! taught는 teach의 과거분사."
+      - type: qna
+        question: "T3. 그 편지는 어제 보내졌다."
+        answer: "The letter was sent yesterday.<br />평가 기준: 'was sent'가 맞으면 정답!"
+      - type: qna
+        question: "T4. 이 케이크는 엄마에 의해 만들어졌다."
+        answer: "This cake was made by my mom.<br />평가 기준: 'was made by'가 맞으면 정답!"
+      - type: qna
+        question: "T5. 그 영화는 많은 사람들에 의해 사랑받는다."
+        answer: "The movie is loved by many people.<br />평가 기준: 'is loved by'가 맞으면 정답!"
+      - type: qna
+        question: "T6. 창문이 공에 의해 깨졌다."
+        answer: "The window was broken by the ball.<br />평가 기준: 'was broken by'가 맞으면 정답! broken은 break의 과거분사."
+      - type: qna
+        question: "T7. 그 집은 2015년에 지어졌다."
+        answer: "The house was built in 2015.<br />평가 기준: 'was built'가 맞으면 정답! built는 build의 과거분사."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "능동태를 수동태로, 또는 수동태를 부정문/의문문으로 바꿔 보세요."
+      - type: qna
+        question: "TF1. Someone cleans the room every day. (수동태로)"
+        answer: "The room is cleaned every day.<br />설명: 대상(the room)이 주어가 되고, 'is + 과거분사' 형태로!"
+      - type: qna
+        question: "TF2. My mom made this cake. (수동태로)"
+        answer: "This cake was made by my mom.<br />설명: 대상(this cake)이 주어, 'was made by'로 행위자 표시!"
+      - type: qna
+        question: "TF3. The door is locked. (부정문으로)"
+        answer: "The door isn't locked. / The door is not locked.<br />설명: be동사 뒤에 not을 넣어요!"
+      - type: qna
+        question: "TF4. The window was broken. (의문문으로)"
+        answer: "Was the window broken?<br />설명: be동사를 주어 앞으로 보내요!"
+      - type: qna
+        question: "TF5. They speak Spanish here. (수동태로)"
+        answer: "Spanish is spoken here.<br />설명: Spanish가 주어가 되고, 'is spoken'으로! 행위자가 불분명하면 by 생략 가능."
+      - type: qna
+        question: "TF6. The letters were sent. (의문문으로)"
+        answer: "Were the letters sent?<br />설명: were를 주어 앞으로!"
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 주변 상황을 수동태로 표현해 보세요!"
+      - type: qna
+        question: "A1. 당신의 학교나 교실에서 일어나는 일을 수동태로 2문장 써보세요."
+        answer: "예시: The classroom is cleaned every day. / Homework is checked by our teacher.<br />평가 기준: 수동태 형태가 맞고 학교 관련이면 정답!"
+      - type: qna
+        question: "A2. 당신의 집에서 일어나는 일을 수동태로 2문장 써보세요."
+        answer: "예시: Dinner is cooked by my mom. / The dishes are washed after meals.<br />평가 기준: 수동태 형태가 맞고 집 관련이면 정답!"
+      - type: qna
+        question: "A3. 어제 일어난 일을 과거 수동태로 2문장 써보세요."
+        answer: "예시: My homework was finished at 8 PM. / Pizza was delivered to our house.<br />평가 기준: 'was/were + 과거분사'가 맞으면 정답!"
+      - type: qna
+        question: "A4. 좋아하는 책이나 영화에 대해 수동태로 2문장 써보세요."
+        answer: "예시: Harry Potter was written by J.K. Rowling. / The movie is loved by many people.<br />평가 기준: 수동태 형태가 맞고 내용이 관련있으면 정답!"
+      - type: qna
+        question: "A5. 한국이나 한국어에 대해 수동태로 1문장 써보세요."
+        answer: "예시: Korean is spoken in Korea. / Kimchi is loved by Koreans.<br />평가 기준: 수동태가 맞고 한국 관련이면 정답!"
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 종합해서 풀어보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 고치세요: 'The door locked at night.'"
+        answer: "The door is locked at night.<br />설명: 수동태에는 be동사가 필요해요! 'is locked'로 써야 해요."
+      - type: qna
+        question: "C2. 다음 능동태 문장을 수동태로 바꾸고, 어떤 부분이 강조되는지 설명하세요: 'The teacher checks the homework.'"
+        answer: "The homework is checked by the teacher.<br />설명: 능동태는 선생님(행위자)을, 수동태는 숙제(대상)를 강조해요."
+      - type: qna
+        question: "C3. 다음 대화를 완성하세요:<br />A: _____ the package _____ (deliver)?<br />B: Yes, it _____. It arrived this morning."
+        answer: "A: Was the package delivered?<br />B: Yes, it was. It arrived this morning.<br />설명: 과거 수동태 의문문과 짧은 대답!"
+      - type: qna
+        question: "C4. 다음 3개의 능동태 문장을 수동태로 바꾸세요:<br />1) People speak English worldwide.<br />2) My sister wrote this letter.<br />3) They clean the park every week."
+        answer: "1) English is spoken worldwide (by people).<br />2) This letter was written by my sister.<br />3) The park is cleaned every week (by them).<br />평가 기준: be동사 + 과거분사 형태가 맞으면 정답! by는 생략 가능."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 기억이 사라지기 전에 복습하면 오래 남아요!"
+      - type: qna
+        question: "SR1. 현재 수동태의 기본 형태는?"
+        answer: "am/is/are + 과거분사"
+      - type: qna
+        question: "SR2. 과거 수동태의 기본 형태는?"
+        answer: "was/were + 과거분사"
+      - type: qna
+        question: "SR3. The letter _____ _____ (send) yesterday."
+        answer: "was, sent"
+      - type: qna
+        question: "SR4. English _____ _____ (speak) here."
+        answer: "is, spoken"
+      - type: qna
+        question: "SR5. 능동태를 수동태로: Someone broke the window."
+        answer: "The window was broken (by someone)."
+      - type: qna
+        question: "SR6. 그 문은 잠겨 있다. (영작)"
+        answer: "The door is locked."
+      - type: qna
+        question: "SR7. The cake was made. (의문문으로)"
+        answer: "Was the cake made?"
+      - type: qna
+        question: "SR8. 수동태에서 'by'의 의미는?"
+        answer: "~에 의해 (행위자를 나타냄)"
+      - type: qna
+        question: "SR9. 틀린 부분을 고치세요: 'The house built in 2010.'"
+        answer: "The house was built in 2010. (be동사 추가)"
+      - type: qna
+        question: "SR10. 수동태 문장을 자유롭게 한 문장 쓰기"
+        answer: "예: The room is cleaned every day. (형식이 맞으면 OK!)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 솔직하게 체크하면 더 잘 배울 수 있어요."
+      - type: qna
+        question: "SC1. 수동태의 형태(be동사 + 과거분사)를 정확히 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 수동태의 기본을 잘 이해했어요!<br />어렵다면: Section 1의 형식 부분을 다시 읽고, 예문을 3번씩 써보세요."
+      - type: qna
+        question: "SC2. 능동태와 수동태의 차이를 설명할 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 두 문법의 차이를 이해했어요!<br />어렵다면: '누가 한다' vs '무엇이 되다'를 기억하고, C2 문제를 다시 보세요."
+      - type: qna
+        question: "SC3. 능동태를 수동태로 바꿀 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 문장 변형 능력이 생겼어요!<br />어렵다면: Section 6의 변형 연습을 다시 풀어보세요. 천천히 연습하면 돼요."
+      - type: qna
+        question: "SC4. 일상생활에서 수동태를 사용해서 3개 이상 문장을 만들 수 있나요?"
+        answer: "할 수 있다면: 최고예요! 문법을 실생활에 적용할 수 있어요!<br />어렵다면: 주변에서 '~되다', '~받다'로 표현할 수 있는 것들을 찾아보세요."
+      - type: note
+        content: "오늘 수동태를 배웠어요! 수동태는 대상을 강조하고 객관적으로 표현할 때 유용해요. 영어 뉴스나 설명문에서 자주 보이는 중요한 문법이에요!"
+      - type: note
+        content: "내일 할 일: Section 9의 복습 문제를 풀어보세요. 그리고 영어 책이나 뉴스에서 수동태 문장을 3개 찾아보세요. 실제로 어떻게 쓰이는지 보면 더 잘 이해돼요!"

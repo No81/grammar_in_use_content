@@ -1,0 +1,254 @@
+title: "Unit 21 · is being done / has been done (수동태 2)"
+meta: "대상: 6학년 · 난이도: 상 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "이번 유닛에서는 진행형 수동태와 현재완료 수동태를 배워요. 진행형 수동태는 '지금 ~되고 있다', 현재완료 수동태는 '~되어왔다/~된 적 있다'를 나타내요!"
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "<span class='highlight'>현재진행 수동태:</span> am/is/are + being + 과거분사 → The house is being painted. (집이 페인트칠되고 있다)"
+          - "<span class='highlight'>과거진행 수동태:</span> was/were + being + 과거분사 → The car was being washed. (차가 세차되고 있었다)"
+          - "<span class='highlight'>현재완료 수동태:</span> have/has + been + 과거분사 → The homework has been finished. (숙제가 끝났다/끝난 적 있다)"
+          - "<span class='highlight'>부정문:</span> am/is/are/have/has + not + being/been + 과거분사 → The room isn't being cleaned. (방이 청소되고 있지 않다)"
+          - "<span class='highlight'>의문문:</span> Am/Is/Are/Have/Has + 주어 + being/been + 과거분사? → Is the door being repaired? (문이 수리되고 있니?)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• <span class='highlight'>진행형 수동태:</span> 지금/그때 진행 중인 동작을 수동으로 표현. '~되고 있다'<br />• <span class='highlight'>현재완료 수동태:</span> 과거부터 지금까지의 경험이나 완료를 수동으로 표현. '~되어왔다', '~된 적 있다'"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 진행 중인 일을 수동으로 표현: The bridge is being built. (다리가 건설되고 있다)<br />• 과거 진행을 수동으로: The test was being checked. (시험이 점검되고 있었다)<br />• 지금까지의 경험/결과를 수동으로: This book has been read by many people. (이 책은 많은 사람들에게 읽혀왔다)<br />• 최근 완료를 수동으로: The work has been finished. (일이 완료되었다)"
+      - type: list
+        heading: "더 많은 예문 (12개 이상)"
+        list:
+          - "The road is being repaired now. (도로가 지금 수리되고 있다) - 현재진행"
+          - "The letters are being sent out. (편지들이 발송되고 있다) - 현재진행"
+          - "The cake was being made when I arrived. (내가 도착했을 때 케이크가 만들어지고 있었다) - 과거진행"
+          - "The students were being taught by a new teacher. (학생들이 새 선생님에게 가르침을 받고 있었다) - 과거진행"
+          - "This game has been played for years. (이 게임은 수년간 플레이되어왔다) - 현재완료"
+          - "The room has been cleaned already. (방은 이미 청소되었다) - 현재완료"
+          - "The movie has been watched by millions. (그 영화는 수백만 명이 봤다) - 현재완료"
+          - "My phone is being charged right now. (내 휴대폰이 지금 충전되고 있다) - 현재진행"
+          - "The windows were being washed yesterday. (창문들이 어제 닦이고 있었다) - 과거진행"
+          - "The homework has been submitted on time. (숙제가 제시간에 제출되었다) - 현재완료"
+          - "The building is being demolished. (건물이 철거되고 있다) - 현재진행"
+          - "English has been taught here for 10 years. (영어가 여기서 10년간 가르쳐져왔다) - 현재완료"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. being 빠뜨리기: The house is painted now (X) → The house is being painted now (O)<br />2. been과 being 혼동: The car has being washed (X) → The car has been washed (O)<br />3. 진행형에 have 사용: The door has being opened (X) → The door is being opened (O)<br />4. 현재완료에 being 사용: The work has being finished (X) → The work has been finished (O)"
+      - type: text
+        content: "<span class='highlight'>수동태 형태 비교:</span><br />• <span class='highlight'>단순 현재:</span> The room is cleaned. (방은 청소된다) - 습관/사실<br />• <span class='highlight'>현재진행:</span> The room is being cleaned. (방이 청소되고 있다) - 지금 진행 중<br />• <span class='highlight'>현재완료:</span> The room has been cleaned. (방이 청소되었다) - 완료/결과<br /><br />상황에 따라 적절한 형태를 선택해야 해요!"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "아래 문장들을 자세히 관찰하고, 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "The bridge is being built right now."
+          - "The dishes are being washed by my brother."
+          - "The car was being repaired yesterday."
+          - "The students were being tested at that time."
+          - "The book has been read by many students."
+          - "The letters have been sent already."
+          - "This song has been sung for decades."
+          - "The homework has been finished."
+      - type: qna
+        question: "Q1. 처음 4개 문장과 나중 4개 문장의 패턴 차이가 보이나요?"
+        answer: "처음 4개: is/are/was/were + being + 과거분사 (진행형 수동태)<br />나중 4개: have/has + been + 과거분사 (현재완료 수동태)"
+      - type: qna
+        question: "Q2. 'being'과 'been'의 차이는 무엇일까요?"
+        answer: "being: 진행형 수동태에 사용 (지금/그때 ~되고 있다)<br />been: 현재완료 수동태에 사용 (~되어왔다/~되었다)"
+      - type: qna
+        question: "Q3. 현재진행과 과거진행 수동태의 차이점은 무엇인가요?"
+        answer: "현재진행: is/are being (지금 ~되고 있다)<br />과거진행: was/were being (그때 ~되고 있었다)"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 현재진행 수동태의 기본 형태를 써보세요."
+        answer: "am/is/are + being + 과거분사<br />평가 기준: being이 들어가고 구조가 맞으면 정답!"
+      - type: qna
+        question: "R2. 현재완료 수동태의 기본 형태를 써보세요."
+        answer: "have/has + been + 과거분사<br />평가 기준: been이 들어가고 구조가 맞으면 정답!"
+      - type: qna
+        question: "R3. 진행형 수동태와 현재완료 수동태는 각각 어떤 의미를 나타내나요?"
+        answer: "진행형: 지금/그때 ~되고 있다 (진행 중)<br />현재완료: ~되어왔다/~되었다 (경험/완료)<br />평가 기준: 두 가지 의미 차이를 구분하면 정답!"
+      - type: qna
+        question: "R4. being과 been의 차이를 간단히 설명해보세요."
+        answer: "being: 진행형에 사용 (is being done)<br />been: 현재완료에 사용 (has been done)<br />평가 기준: 두 가지를 구분할 수 있으면 정답!"
+      - type: qna
+        question: "R5. 예문을 하나 기억해서 써보세요. (진행형이나 현재완료 수동태)"
+        answer: "예시: The house is being painted. / The work has been finished.<br />평가 기준: 형태가 맞으면 정답!"
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 형태를 넣으세요. being/been에 주의하세요!"
+      - type: qna
+        question: "Q1. The road _____ _____ _____ (repair) right now."
+        answer: "is, being, repaired<br />설명: 지금 진행 중이므로 is being repaired!"
+      - type: qna
+        question: "Q2. The letter _____ _____ _____ (send) already."
+        answer: "has, been, sent<br />설명: 완료를 나타내므로 has been sent!"
+      - type: qna
+        question: "Q3. The windows _____ _____ _____ (clean) when I arrived."
+        answer: "were, being, cleaned<br />설명: 과거 진행이므로 were being cleaned!"
+      - type: qna
+        question: "Q4. This song _____ _____ _____ (sing) for many years."
+        answer: "has, been, sung<br />설명: 경험/지속이므로 has been sung! sung은 sing의 과거분사."
+      - type: qna
+        question: "Q5. The homework _____ _____ _____ (check) by the teacher now."
+        answer: "is, being, checked<br />설명: 지금 진행 중이므로 is being checked!"
+      - type: qna
+        question: "Q6. The dishes _____ _____ _____ (wash) already."
+        answer: "have, been, washed<br />설명: 완료이므로 have been washed!"
+      - type: qna
+        question: "Q7. The building _____ _____ _____ (build) last year."
+        answer: "was, being, built<br />설명: 과거 진행이므로 was being built!"
+      - type: qna
+        question: "Q8. The test _____ _____ _____ (finish) on time."
+        answer: "has, been, finished<br />설명: 완료를 나타내므로 has been finished!"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. 진행형/현재완료 수동태를 사용하세요!"
+      - type: qna
+        question: "T1. 다리가 지금 건설되고 있다."
+        answer: "The bridge is being built now.<br />평가 기준: 'is being built'가 맞으면 정답!"
+      - type: qna
+        question: "T2. 그 편지는 이미 보내졌다."
+        answer: "The letter has been sent already.<br />평가 기준: 'has been sent'가 맞으면 정답!"
+      - type: qna
+        question: "T3. 차가 세차되고 있었다. (과거)"
+        answer: "The car was being washed.<br />평가 기준: 'was being washed'가 맞으면 정답!"
+      - type: qna
+        question: "T4. 이 책은 많은 사람들에게 읽혀왔다."
+        answer: "This book has been read by many people.<br />평가 기준: 'has been read'가 맞으면 정답!"
+      - type: qna
+        question: "T5. 방이 청소되고 있다."
+        answer: "The room is being cleaned.<br />평가 기준: 'is being cleaned'가 맞으면 정답!"
+      - type: qna
+        question: "T6. 숙제가 제출되었다."
+        answer: "The homework has been submitted.<br />평가 기준: 'has been submitted'가 맞으면 정답!"
+      - type: qna
+        question: "T7. 학생들이 시험을 보고 있었다. (수동태로)"
+        answer: "The students were being tested.<br />평가 기준: 'were being tested'가 맞으면 정답!"
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. They are building the bridge. (진행형 수동태로)"
+        answer: "The bridge is being built (by them).<br />설명: 대상(the bridge)이 주어, 'is being built'로!"
+      - type: qna
+        question: "TF2. Someone has finished the work. (현재완료 수동태로)"
+        answer: "The work has been finished (by someone).<br />설명: 대상(the work)이 주어, 'has been finished'로!"
+      - type: qna
+        question: "TF3. The room is being cleaned. (부정문으로)"
+        answer: "The room isn't being cleaned. / The room is not being cleaned.<br />설명: is 뒤에 not을 넣어요!"
+      - type: qna
+        question: "TF4. The letters have been sent. (의문문으로)"
+        answer: "Have the letters been sent?<br />설명: Have를 주어 앞으로 보내요!"
+      - type: qna
+        question: "TF5. They were repairing the car. (과거진행 수동태로)"
+        answer: "The car was being repaired (by them).<br />설명: 'was being repaired'로 변환!"
+      - type: qna
+        question: "TF6. The door is being opened. (의문문으로)"
+        answer: "Is the door being opened?<br />설명: Is를 주어 앞으로!"
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 주변 상황을 진행형/현재완료 수동태로 표현해 보세요!"
+      - type: qna
+        question: "A1. 지금 당신 주변에서 일어나고 있는 일을 진행형 수동태로 2문장 써보세요."
+        answer: "예시: My phone is being charged. / The dishes are being washed.<br />평가 기준: 'is/are being + 과거분사'가 맞으면 정답!"
+      - type: qna
+        question: "A2. 최근에 완료된 일을 현재완료 수동태로 2문장 써보세요."
+        answer: "예시: My homework has been finished. / The test has been submitted.<br />평가 기준: 'has/have been + 과거분사'가 맞으면 정답!"
+      - type: qna
+        question: "A3. 당신의 학교나 동네에서 진행 중인 공사나 변화를 진행형 수동태로 표현해보세요."
+        answer: "예시: A new building is being built near my school. / The road is being repaired.<br />평가 기준: 진행형 수동태가 맞고 실제 상황이면 정답!"
+      - type: qna
+        question: "A4. 당신이 경험한 것 또는 본 것을 현재완료 수동태로 2문장 써보세요."
+        answer: "예시: This game has been played by many people. / Korean has been taught in my school for years.<br />평가 기준: 현재완료 수동태가 맞으면 정답!"
+      - type: qna
+        question: "A5. 어제나 지난주에 진행 중이었던 일을 과거진행 수동태로 1문장 써보세요."
+        answer: "예시: The classroom was being cleaned yesterday. / The test was being prepared last week.<br />평가 기준: 'was/were being + 과거분사'가 맞으면 정답!"
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 종합해서 풀어보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 고치세요: 'The house has being painted.'"
+        answer: "The house has been painted.<br />설명: 현재완료 수동태는 'has been'이에요. being이 아니라 been!"
+      - type: qna
+        question: "C2. 다음 세 문장의 차이를 설명하세요:<br />a) The room is cleaned.<br />b) The room is being cleaned.<br />c) The room has been cleaned."
+        answer: "a) 습관/사실 (방은 청소된다)<br />b) 지금 진행 중 (방이 청소되고 있다)<br />c) 완료/결과 (방이 청소되었다)<br />설명: 시제와 상황에 따라 형태가 달라져요!"
+      - type: qna
+        question: "C3. 다음 대화를 완성하세요:<br />A: Is the bridge finished?<br />B: Not yet. It _____ _____ _____ (build) right now.<br />A: How long _____ it _____ _____ (build)?"
+        answer: "B: Not yet. It is being built right now.<br />A: How long has it been built? (또는 How long has it been being built?)<br />설명: 첫 번째는 현재진행, 두 번째는 현재완료 또는 현재완료진행!"
+      - type: qna
+        question: "C4. 다음 능동태 문장을 수동태로 바꾸세요 (진행형 또는 현재완료):<br />1) They are repairing the road.<br />2) Someone has stolen my bike.<br />3) The teacher was checking the tests."
+        answer: "1) The road is being repaired (by them).<br />2) My bike has been stolen (by someone).<br />3) The tests were being checked by the teacher.<br />평가 기준: 각각 진행형/현재완료 수동태 형태가 맞으면 정답!"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 복습은 기억을 강화해요!"
+      - type: qna
+        question: "SR1. 현재진행 수동태의 기본 형태는?"
+        answer: "am/is/are + being + 과거분사"
+      - type: qna
+        question: "SR2. 현재완료 수동태의 기본 형태는?"
+        answer: "have/has + been + 과거분사"
+      - type: qna
+        question: "SR3. The road _____ _____ _____ (repair) now."
+        answer: "is, being, repaired"
+      - type: qna
+        question: "SR4. The work _____ _____ _____ (finish) already."
+        answer: "has, been, finished"
+      - type: qna
+        question: "SR5. They are building the bridge. (진행형 수동태로)"
+        answer: "The bridge is being built (by them)."
+      - type: qna
+        question: "SR6. 방이 청소되고 있다. (영작)"
+        answer: "The room is being cleaned."
+      - type: qna
+        question: "SR7. 숙제가 제출되었다. (영작)"
+        answer: "The homework has been submitted."
+      - type: qna
+        question: "SR8. being과 been의 차이는?"
+        answer: "being: 진행형, been: 현재완료"
+      - type: qna
+        question: "SR9. 틀린 부분을 고치세요: 'The car has being washed.'"
+        answer: "The car has been washed. (being → been)"
+      - type: qna
+        question: "SR10. 진행형 또는 현재완료 수동태 문장을 자유롭게 한 문장 쓰기"
+        answer: "예: The bridge is being built. / The test has been finished. (형식이 맞으면 OK!)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 솔직하게 체크하면 더 잘 배울 수 있어요."
+      - type: qna
+        question: "SC1. 진행형 수동태와 현재완료 수동태의 형태를 정확히 구분할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! being과 been의 차이를 잘 이해했어요!<br />어렵다면: Section 1의 형식 부분을 다시 읽고, 두 형태를 대조하며 써보세요."
+      - type: qna
+        question: "SC2. 세 가지 수동태 형태(단순/진행형/현재완료)의 의미 차이를 설명할 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 시제와 상황에 따른 뉘앙스를 잘 알아요!<br />어렵다면: C2 문제를 다시 보고, 각 형태가 언제 쓰이는지 생각해보세요."
+      - type: qna
+        question: "SC3. 능동태를 진행형/현재완료 수동태로 바꿀 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 복잡한 문장 변형도 할 수 있어요!<br />어렵다면: Section 6의 변형 연습을 반복하고, 단계별로 천천히 연습하세요."
+      - type: qna
+        question: "SC4. 일상생활에서 진행형/현재완료 수동태를 사용해서 3개 이상 문장을 만들 수 있나요?"
+        answer: "할 수 있다면: 최고예요! 고급 문법을 실생활에 적용할 수 있어요!<br />어렵다면: 주변에서 '~되고 있다', '~되었다'로 표현할 수 있는 것들을 찾아보세요."
+      - type: note
+        content: "오늘 진행형 수동태와 현재완료 수동태를 배웠어요! 이제 더 다양한 상황을 수동태로 표현할 수 있어요. 수동태는 영어에서 정말 많이 쓰이는 고급 문법이에요!"
+      - type: note
+        content: "내일 할 일: Section 9의 복습 문제를 풀어보세요. 그리고 영어 뉴스나 기사에서 진행형/현재완료 수동태 문장을 찾아보세요. 실제 사용례를 보면 더 잘 이해돼요!"
