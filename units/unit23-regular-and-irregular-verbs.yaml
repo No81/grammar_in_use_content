@@ -1,0 +1,266 @@
+title: "Unit 23 · Regular and irregular verbs (규칙동사와 불규칙동사)"
+meta: "대상: 6학년 · 난이도: 중상 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어 동사의 과거형을 만드는 방법은 두 가지입니다. 규칙동사는 -ed를 붙이고, 불규칙동사는 각각 다른 형태로 변합니다. 암기가 필요하지만 패턴을 찾으면 더 쉽게 배울 수 있어요."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "<span class='highlight'>규칙동사:</span> 동사원형 + -ed → play → played, walk → walked"
+          - "<span class='highlight'>-e로 끝나면:</span> -d만 추가 → like → liked, live → lived"
+          - "<span class='highlight'>자음+y로 끝나면:</span> y를 i로 바꾸고 -ed → study → studied, try → tried"
+          - "<span class='highlight'>단모음+단자음:</span> 자음을 한 번 더 쓰고 -ed → stop → stopped, plan → planned"
+          - "<span class='highlight'>불규칙동사:</span> 각각 다른 형태 → go → went, eat → ate, see → saw"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 규칙동사든 불규칙동사든 의미는 같습니다. 단지 과거형을 만드는 방법이 다를 뿐이에요. 불규칙동사는 자주 쓰이는 기본 동사들이 많습니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 과거에 일어난 일을 말할 때: I played soccer yesterday. (나는 어제 축구를 했다)<br />• 과거의 습관을 말할 때: I went to school by bus. (나는 버스로 학교에 다녔다)<br />• 과거의 상태를 설명할 때: She liked ice cream. (그녀는 아이스크림을 좋아했다)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "<strong>규칙동사:</strong> I <span class='highlight'>played</span> games. (나는 게임을 했다)"
+          - "<strong>규칙동사:</strong> She <span class='highlight'>watched</span> TV. (그녀는 TV를 봤다)"
+          - "<strong>규칙동사:</strong> We <span class='highlight'>studied</span> English. (우리는 영어를 공부했다)"
+          - "<strong>규칙동사:</strong> They <span class='highlight'>stopped</span> running. (그들은 뛰는 것을 멈췄다)"
+          - "<strong>불규칙동사:</strong> I <span class='highlight'>went</span> to school. (나는 학교에 갔다)"
+          - "<strong>불규칙동사:</strong> He <span class='highlight'>ate</span> lunch. (그는 점심을 먹었다)"
+          - "<strong>불규칙동사:</strong> We <span class='highlight'>saw</span> a movie. (우리는 영화를 봤다)"
+          - "<strong>불규칙동사:</strong> She <span class='highlight'>made</span> a cake. (그녀는 케이크를 만들었다)"
+          - "<strong>불규칙동사:</strong> They <span class='highlight'>bought</span> books. (그들은 책을 샀다)"
+          - "<strong>불규칙동사:</strong> I <span class='highlight'>came</span> home late. (나는 집에 늦게 왔다)"
+          - "<strong>혼합:</strong> I played games and <span class='highlight'>ate</span> snacks. (나는 게임하고 간식 먹었다)"
+          - "<strong>부정문:</strong> I didn't <span class='highlight'>go</span> there. (나는 거기 안 갔다) - 부정문에선 원형 사용"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 불규칙동사를 규칙처럼: goed (X) → went (O), eated (X) → ate (O)<br />2. 부정문에서 과거형 사용: I didn't went (X) → I didn't go (O)<br />3. 철자 규칙 무시: stoped (X) → stopped (O), studyed (X) → studied (O)"
+      - type: text
+        content: "<span class='highlight'>자주 쓰이는 불규칙동사 패턴:</span><br />• <strong>A-A-A형:</strong> cut - cut - cut, put - put - put (현재=과거=과거분사)<br />• <strong>A-B-A형:</strong> come - came - come, run - ran - run<br />• <strong>A-B-B형:</strong> make - made - made, buy - bought - bought<br />• <strong>A-B-C형:</strong> go - went - gone, eat - ate - eaten<br />※ 지금은 과거형만 집중하면 됩니다!"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I played basketball yesterday."
+          - "She watched a movie last night."
+          - "We studied math together."
+          - "He stopped at the store."
+          - "I went to the park."
+          - "They ate pizza for dinner."
+          - "She made a card for me."
+          - "We saw our teacher."
+      - type: qna
+        question: "Q1. 위 문장에서 -ed로 끝나는 동사와 그렇지 않은 동사를 분류해 보세요."
+        answer: "-ed로 끝남 (규칙): played, watched, studied, stopped<br />-ed 아님 (불규칙): went, ate, made, saw<br />규칙동사는 -ed를 붙이고, 불규칙동사는 다양하게 변합니다."
+      - type: qna
+        question: "Q2. play → played, watch → watched는 어떻게 만들어졌나요?"
+        answer: "동사 끝에 -ed를 붙였습니다. 이것이 가장 기본적인 규칙입니다."
+      - type: qna
+        question: "Q3. study → studied, stop → stopped는 왜 다르게 변했나요?"
+        answer: "study는 자음+y로 끝나서 y를 i로 바꾸고 -ed를 붙였습니다.<br />stop은 단모음+단자음이라 p를 한 번 더 쓰고 -ed를 붙였습니다."
+      - type: qna
+        question: "Q4. go, eat, make, see의 과거형은 무엇인가요? 패턴이 있나요?"
+        answer: "went, ate, made, saw입니다. 각각 다른 형태로 변해서 암기가 필요합니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 규칙동사의 과거형을 만드는 기본 방법은 무엇인가요?"
+        answer: "동사 끝에 -ed를 붙입니다.<br />평가 기준: -ed를 붙인다고 답하면 정답."
+      - type: qna
+        question: "R2. 자주 쓰는 불규칙동사 5개의 과거형을 써 보세요. (go, eat, see, make, come)"
+        answer: "went, ate, saw, made, came<br />평가 기준: 5개 중 3개 이상 맞으면 정답."
+      - type: qna
+        question: "R3. study의 과거형은 무엇이고, 왜 그렇게 변하나요?"
+        answer: "studied. 자음+y로 끝나서 y를 i로 바꾸고 -ed를 붙입니다.<br />평가 기준: studied를 쓰면 정답. 이유를 설명하면 더 좋음."
+      - type: qna
+        question: "R4. stop의 과거형은 무엇이고, 왜 p가 두 개인가요?"
+        answer: "stopped. 단모음+단자음으로 끝나서 자음을 한 번 더 씁니다.<br />평가 기준: stopped를 쓰면 정답."
+      - type: qna
+        question: "R5. 부정문에서 동사는 어떤 형태를 쓰나요?"
+        answer: "원형을 씁니다. didn't 뒤에는 과거형이 아니라 원형이 옵니다.<br />평가 기준: 원형이라고 답하면 정답."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "괄호 안의 동사를 과거형으로 바꾸세요."
+      - type: qna
+        question: "Q1. I _______ (play) soccer yesterday."
+        answer: "played<br />설명: play는 규칙동사이므로 -ed를 붙입니다."
+      - type: qna
+        question: "Q2. She _______ (go) to the library."
+        answer: "went<br />설명: go는 불규칙동사이므로 went로 변합니다."
+      - type: qna
+        question: "Q3. We _______ (watch) a movie last night."
+        answer: "watched<br />설명: watch는 규칙동사이므로 -ed를 붙입니다."
+      - type: qna
+        question: "Q4. They _______ (eat) pizza for dinner."
+        answer: "ate<br />설명: eat은 불규칙동사이므로 ate로 변합니다."
+      - type: qna
+        question: "Q5. He _______ (study) English hard."
+        answer: "studied<br />설명: study는 자음+y이므로 y를 i로 바꾸고 -ed를 붙입니다."
+      - type: qna
+        question: "Q6. I _______ (see) my friend at the park."
+        answer: "saw<br />설명: see는 불규칙동사이므로 saw로 변합니다."
+      - type: qna
+        question: "Q7. She _______ (stop) at the red light."
+        answer: "stopped<br />설명: stop은 단모음+단자음이므로 p를 두 번 쓰고 -ed를 붙입니다."
+      - type: qna
+        question: "Q8. We _______ (make) cookies together."
+        answer: "made<br />설명: make는 불규칙동사이므로 made로 변합니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 어제 축구를 했다."
+        answer: "I played soccer yesterday.<br />평가 기준: played를 올바르게 사용하면 정답."
+      - type: qna
+        question: "T2. 그녀는 학교에 갔다."
+        answer: "She went to school.<br />평가 기준: went를 사용하면 정답."
+      - type: qna
+        question: "T3. 우리는 영어를 공부했다."
+        answer: "We studied English.<br />평가 기준: studied를 올바르게 사용하면 정답."
+      - type: qna
+        question: "T4. 그들은 점심을 먹었다."
+        answer: "They ate lunch.<br />평가 기준: ate를 사용하면 정답. had lunch도 가능."
+      - type: qna
+        question: "T5. 나는 영화를 봤다."
+        answer: "I saw a movie. / I watched a movie.<br />평가 기준: saw 또는 watched를 올바르게 사용하면 정답."
+      - type: qna
+        question: "T6. 그는 케이크를 만들었다."
+        answer: "He made a cake.<br />평가 기준: made를 사용하면 정답."
+      - type: qna
+        question: "T7. 그녀는 버스에서 내렸다. (get off)"
+        answer: "She got off the bus.<br />평가 기준: got off를 사용하면 정답."
+      - type: qna
+        question: "T8. 우리는 재미있게 놀았다. (have fun)"
+        answer: "We had fun.<br />평가 기준: had fun을 사용하면 정답."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I play games. → 과거형으로"
+        answer: "I played games.<br />설명: play + -ed = played"
+      - type: qna
+        question: "TF2. She goes to school. → 과거형으로"
+        answer: "She went to school.<br />설명: go는 불규칙동사, goes → went"
+      - type: qna
+        question: "TF3. They studied math. → 부정문으로"
+        answer: "They didn't study math.<br />설명: didn't 뒤에는 원형 study를 씁니다."
+      - type: qna
+        question: "TF4. He ate pizza. → 의문문으로"
+        answer: "Did he eat pizza?<br />설명: Did 뒤에는 원형 eat을 씁니다."
+      - type: qna
+        question: "TF5. We watch TV. → 과거형으로"
+        answer: "We watched TV.<br />설명: watch + -ed = watched"
+      - type: qna
+        question: "TF6. I made a mistake. → 부정문으로"
+        answer: "I didn't make a mistake.<br />설명: didn't 뒤에는 원형 make를 씁니다."
+      - type: qna
+        question: "TF7. She likes ice cream. → 과거형으로"
+        answer: "She liked ice cream.<br />설명: like는 -e로 끝나므로 -d만 붙입니다."
+      - type: qna
+        question: "TF8. They came home. → 의문문으로"
+        answer: "Did they come home?<br />설명: Did 뒤에는 원형 come을 씁니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 영어로 만들어 보세요! 창의적으로 표현해도 좋습니다."
+      - type: qna
+        question: "A1. 어제 한 일 3가지를 규칙동사로 써 보세요."
+        answer: "예시 답안: I played games. I watched YouTube. I studied math.<br />평가 기준: -ed 형태를 올바르게 사용한 문장 3개를 쓰면 정답."
+      - type: qna
+        question: "A2. 지난 주말에 한 일 3가지를 불규칙동사로 써 보세요."
+        answer: "예시 답안: I went to the park. I ate pizza. I saw my friends.<br />평가 기준: 불규칙동사 과거형을 올바르게 사용한 문장 3개를 쓰면 정답."
+      - type: qna
+        question: "A3. 규칙동사와 불규칙동사를 섞어서 어제의 하루를 5문장 이상으로 써 보세요."
+        answer: "예시 답안: I woke up at 7. I ate breakfast. I went to school. I studied English. I played soccer. I came home at 5.<br />평가 기준: 규칙동사와 불규칙동사를 각각 2개 이상 사용하고, 문법적으로 맞으면 정답."
+      - type: qna
+        question: "A4. 친구에게 '너 어제 뭐 했니?'라고 물어보고, 대답도 만들어 보세요."
+        answer: "예시 답안:<br />A: What did you do yesterday?<br />B: I played games and watched TV.<br />평가 기준: Did you...? 형태와 과거형 답변이 있으면 정답."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 올바르게 고치세요:<br />a) I goed to school.<br />b) She studyed English.<br />c) I didn't went there."
+        answer: "a) I <span class='highlight'>went</span> to school. (go는 불규칙동사)<br />b) She <span class='highlight'>studied</span> English. (자음+y는 y→i로 바꾸고 -ed)<br />c) I didn't <span class='highlight'>go</span> there. (didn't 뒤에는 원형)"
+      - type: qna
+        question: "C2. 다음 동사들을 규칙동사와 불규칙동사로 분류하고, 과거형을 써 보세요:<br />like, eat, stop, see, play, make"
+        answer: "규칙: like → liked, stop → stopped, play → played<br />불규칙: eat → ate, see → saw, make → made"
+      - type: qna
+        question: "C3. 빈칸을 채워서 대화를 완성하세요.<br />A: What _______ (do) you _______ (do) yesterday?<br />B: I _______ (go) to the park and _______ (play) basketball.<br />A: _______ (do) you _______ (have) fun?<br />B: Yes! I also _______ (meet) my friends there."
+        answer: "A: What <span class='highlight'>did</span> you <span class='highlight'>do</span> yesterday?<br />B: I <span class='highlight'>went</span> to the park and <span class='highlight'>played</span> basketball.<br />A: <span class='highlight'>Did</span> you <span class='highlight'>have</span> fun?<br />B: Yes! I also <span class='highlight'>met</span> my friends there."
+      - type: qna
+        question: "C4. 다음 상황을 영어로 써 보세요: 작년 생일에 무엇을 했는지 5문장 이상으로 (장소, 음식, 사람, 활동 포함)"
+        answer: "예시 답안: Last year, I had a birthday party at home. My friends came to my house. We ate cake and pizza. We played games together. I got many presents. We had a great time.<br />평가 기준: 규칙/불규칙 동사를 섞어서 사용하고, 5문장 이상, 문법적으로 맞으면 정답."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. play의 과거형은?"
+        answer: "played"
+      - type: qna
+        question: "SR2. go의 과거형은?"
+        answer: "went"
+      - type: qna
+        question: "SR3. study의 과거형은?"
+        answer: "studied"
+      - type: qna
+        question: "SR4. eat의 과거형은?"
+        answer: "ate"
+      - type: qna
+        question: "SR5. stop의 과거형은?"
+        answer: "stopped"
+      - type: qna
+        question: "SR6. see의 과거형은?"
+        answer: "saw"
+      - type: qna
+        question: "SR7. make의 과거형은?"
+        answer: "made"
+      - type: qna
+        question: "SR8. 번역: 나는 어제 축구를 했다."
+        answer: "I played soccer yesterday."
+      - type: qna
+        question: "SR9. 번역: 그녀는 학교에 갔다."
+        answer: "She went to school."
+      - type: qna
+        question: "SR10. I didn't went (틀린 곳 찾아 고치기)"
+        answer: "I didn't go (didn't 뒤에는 원형)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. 규칙동사의 과거형 만드는 방법을 설명할 수 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! 기본 규칙과 철자 변화 규칙을 이해했습니다.<br />어렵다면: -ed를 붙이되, -e로 끝나면 -d만, 자음+y는 y→i, 단모음+단자음은 자음 반복을 기억하세요!"
+      - type: qna
+        question: "SC2. 자주 쓰는 불규칙동사 10개 이상의 과거형을 말할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 계속 사용하면서 더 많이 익혀 가세요.<br />어렵다면: go-went, eat-ate, see-saw, make-made처럼 자주 쓰는 것부터 외워 보세요. 매일 5개씩!"
+      - type: qna
+        question: "SC3. 부정문과 의문문에서 원형을 쓴다는 것을 이해하고 적용할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 이것은 정말 중요한 규칙입니다.<br />어렵다면: didn't와 Did 뒤에는 항상 원형이라는 것만 기억하세요!"
+      - type: qna
+        question: "SC4. 과거형을 사용해서 어제 한 일을 5문장 이상 말할 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 이제 과거 이야기를 자유롭게 할 수 있어요.<br />어렵다면: 간단한 문장부터 시작하세요. I played... I went... I ate... 하나씩 만들어 보세요."
+      - type: qna
+        question: "SC5. 오늘 배운 내용 중 가장 어려웠던 부분은 무엇이고, 어떻게 연습할 건가요?"
+        answer: "자유롭게 답변해 보세요. 어려운 부분을 인식하고 계획을 세우는 것이 중요합니다!"
+      - type: note
+        content: "여기까지 완료했다면 정말 잘하고 있어요! 규칙동사와 불규칙동사는 처음엔 어렵게 느껴질 수 있지만, 매일 사용하다 보면 자연스럽게 익숙해집니다. 특히 불규칙동사는 암기가 필요하지만, 자주 쓰는 것들부터 차근차근 익혀 가면 됩니다. 파이팅!"
+      - type: note
+        content: "내일 할 일:<br />1. 복습용 문제 (Section 9)를 다시 풀어 보세요<br />2. 어제 일기를 영어로 3문장 이상 써 보세요<br />3. 불규칙동사 10개를 3번씩 써 보세요"

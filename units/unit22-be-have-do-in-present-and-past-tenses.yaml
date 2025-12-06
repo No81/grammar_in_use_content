@@ -1,0 +1,264 @@
+title: "Unit 22 · be/have/do in present and past tenses (be/have/do 동사의 현재형과 과거형)"
+meta: "대상: 6학년 · 난이도: 중상 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "be, have, do는 영어에서 가장 중요한 세 가지 동사입니다. 이 동사들은 조동사로도 쓰이고, 일반동사로도 쓰이며, 현재형과 과거형이 불규칙하게 변합니다."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "<span class='highlight'>be동사 현재형:</span> am, is, are → I am, He is, We are"
+          - "<span class='highlight'>be동사 과거형:</span> was, were → I was, He was, We were"
+          - "<span class='highlight'>have 현재형:</span> have, has → I have, He has"
+          - "<span class='highlight'>have 과거형:</span> had → I had, He had, We had (모든 주어에 같음)"
+          - "<span class='highlight'>do 현재형:</span> do, does → I do, He does"
+          - "<span class='highlight'>do 과거형:</span> did → I did, He did, We did (모든 주어에 같음)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• <strong>be:</strong> '~이다', '~에 있다' (상태, 존재, 신분)<br />• <strong>have:</strong> '가지다', '먹다' (소유, 관계, 식사)<br />• <strong>do:</strong> '하다' (동작, 행동)"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br /><strong>📌 일반동사로 쓰일 때:</strong> 혼자서 의미를 가짐<br />• I am happy. / I have a cat. / I do homework.<br /><strong>📌 조동사로 쓰일 때:</strong> 다른 동사를 도와줌<br />• I am studying. (진행형 - be + -ing) / Do you like it? (의문문 만들기) / I don't know. (부정문 만들기)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "<strong>be 현재:</strong> I <span class='highlight'>am</span> a student. (나는 학생이다) - 신분"
+          - "<strong>be 과거:</strong> I <span class='highlight'>was</span> tired yesterday. (나는 어제 피곤했다) - 과거 상태"
+          - "<strong>have 현재:</strong> She <span class='highlight'>has</span> a bike. (그녀는 자전거를 가지고 있다) - 소유"
+          - "<strong>have 과거:</strong> We <span class='highlight'>had</span> lunch at 12. (우리는 12시에 점심을 먹었다) - 과거 식사"
+          - "<strong>do 현재:</strong> They <span class='highlight'>do</span> their homework. (그들은 숙제를 한다) - 습관"
+          - "<strong>do 과거:</strong> He <span class='highlight'>did</span> his best. (그는 최선을 다했다) - 과거 동작"
+          - "<strong>be 조동사:</strong> I <span class='highlight'>am</span> reading. (나는 읽고 있다) - 진행형"
+          - "<strong>do 조동사 (의문):</strong> <span class='highlight'>Do</span> you like pizza? (너 피자 좋아하니?) - 의문문"
+          - "<strong>do 조동사 (부정):</strong> I <span class='highlight'>don't</span> like it. (나는 그것을 좋아하지 않는다) - 부정문"
+          - "<strong>be 부정:</strong> He <span class='highlight'>is not</span> here. (그는 여기 없다)"
+          - "<strong>have 현재:</strong> I <span class='highlight'>have</span> two brothers. (나는 남동생이 둘 있다) - 관계"
+          - "<strong>did 강조:</strong> I <span class='highlight'>did</span> finish it! (나 정말 끝냈어!) - 강조"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 3인칭 단수 s 빠뜨리기: He have (X) → He has (O)<br />2. 과거형 혼동: He doed (X) → He did (O)<br />3. 일반동사와 조동사 혼동: I am have (X) → I have (O)"
+      - type: text
+        content: "<span class='highlight'>비슷한 문법과의 차이점:</span><br />• <strong>일반동사 vs 조동사:</strong> I have a pen. (일반동사) vs I have done it. (조동사)<br />• <strong>현재 vs 과거:</strong> is/are → was/were, have/has → had, do/does → did<br />• <strong>규칙 vs 불규칙:</strong> be, have, do는 모두 불규칙 동사입니다."
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I am 12 years old. I was 11 last year."
+          - "She has a dog. She had a cat before."
+          - "We do exercise. We did it yesterday too."
+          - "He is happy now. He was sad this morning."
+          - "They have breakfast at 7. They had it late today."
+          - "You do your best. You did well last time."
+          - "I am studying now. I was studying then too."
+          - "Do you like it? Did you like it before?"
+      - type: qna
+        question: "Q1. be, have, do의 현재형과 과거형을 각각 찾아보세요. 어떻게 변하나요?"
+        answer: "be: am/is/are → was/were<br />have: have/has → had<br />do: do/does → did<br />각 동사마다 불규칙하게 변합니다."
+      - type: qna
+        question: "Q2. 3인칭 단수(he, she) 주어일 때 현재형은 어떻게 변하나요?"
+        answer: "be: is, have: has, do: does로 변합니다. 과거형은 모두 같습니다 (was, had, did)."
+      - type: qna
+        question: "Q3. 조동사로 쓰일 때와 일반동사로 쓰일 때의 차이를 찾아보세요."
+        answer: "일반동사: I am happy. / I have a dog. / I do homework.<br />조동사: I am studying. / Do you like it? / I don't know.<br />조동사일 때는 다른 동사와 함께 씁니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. be, have, do의 과거형을 각각 써 보세요."
+        answer: "be → was/were<br />have → had<br />do → did<br />평가 기준: 세 개 모두 맞으면 정답."
+      - type: qna
+        question: "R2. 3인칭 단수 현재형을 써 보세요. (He ___)"
+        answer: "He is, He has, He does<br />평가 기준: 세 개 중 2개 이상 맞으면 정답."
+      - type: qna
+        question: "R3. 기억나는 예문을 be, have, do를 사용해서 각각 하나씩 써 보세요."
+        answer: "예시 답안: I am a student. / She has a bike. / We do homework.<br />평가 기준: 문법적으로 맞고 의미가 통하면 정답."
+      - type: qna
+        question: "R4. be, have, do가 일반동사로 쓰일 때의 뜻을 각각 써 보세요."
+        answer: "be: ~이다, ~에 있다<br />have: 가지다, 먹다<br />do: 하다<br />평가 기준: 기본 뜻을 하나씩 맞게 쓰면 정답."
+      - type: qna
+        question: "R5. 한국 학습자가 자주 하는 실수 하나를 말해 보세요."
+        answer: "예시 답안: He have처럼 3인칭 단수 s를 빠뜨리는 것 / He doed처럼 과거형을 잘못 만드는 것<br />평가 기준: 하나만 제대로 말하면 정답."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 형태를 넣으세요."
+      - type: qna
+        question: "Q1. I _______ (be) happy now."
+        answer: "am<br />설명: I의 현재형은 am입니다."
+      - type: qna
+        question: "Q2. She _______ (have) a cat."
+        answer: "has<br />설명: She는 3인칭 단수이므로 has를 씁니다."
+      - type: qna
+        question: "Q3. They _______ (do) their homework yesterday."
+        answer: "did<br />설명: yesterday는 과거이므로 did를 씁니다."
+      - type: qna
+        question: "Q4. He _______ (be) at school now."
+        answer: "is<br />설명: He의 현재형은 is입니다."
+      - type: qna
+        question: "Q5. We _______ (have) dinner at 6 o'clock last night."
+        answer: "had<br />설명: last night은 과거이므로 had를 씁니다."
+      - type: qna
+        question: "Q6. _______ (do) you like pizza? (현재)"
+        answer: "Do<br />설명: 현재형 의문문에서 do를 문장 앞에 씁니다."
+      - type: qna
+        question: "Q7. I _______ (be) tired yesterday."
+        answer: "was<br />설명: I의 과거형은 was입니다."
+      - type: qna
+        question: "Q8. She _______ (do) her best every day."
+        answer: "does<br />설명: She는 3인칭 단수이므로 does를 씁니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 학생이다."
+        answer: "I am a student.<br />평가 기준: I am이 올바르게 사용되면 정답."
+      - type: qna
+        question: "T2. 그녀는 자전거를 가지고 있다."
+        answer: "She has a bike.<br />평가 기준: She has가 맞으면 정답. bicycle도 가능."
+      - type: qna
+        question: "T3. 그들은 어제 숙제를 했다."
+        answer: "They did homework yesterday. / They did their homework yesterday.<br />평가 기준: did를 사용하면 정답."
+      - type: qna
+        question: "T4. 나는 작년에 11살이었다."
+        answer: "I was 11 years old last year. / I was eleven last year.<br />평가 기준: I was를 올바르게 사용하면 정답."
+      - type: qna
+        question: "T5. 우리는 강아지를 가지고 있었다."
+        answer: "We had a dog.<br />평가 기준: had를 사용하면 정답. puppy도 가능."
+      - type: qna
+        question: "T6. 그는 매일 운동을 한다."
+        answer: "He does exercise every day.<br />평가 기준: He does가 맞으면 정답. exercises도 가능."
+      - type: qna
+        question: "T7. 너는 행복하니?"
+        answer: "Are you happy?<br />평가 기준: Are you로 시작하는 의문문이면 정답."
+      - type: qna
+        question: "T8. 그녀는 아침을 먹었니?"
+        answer: "Did she have breakfast?<br />평가 기준: Did she have 순서가 맞으면 정답."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I am happy. → 과거형으로"
+        answer: "I was happy.<br />설명: am의 과거형은 was입니다."
+      - type: qna
+        question: "TF2. She has a bike. → 과거형으로"
+        answer: "She had a bike.<br />설명: has의 과거형은 had입니다."
+      - type: qna
+        question: "TF3. They do homework. → 과거형으로"
+        answer: "They did homework.<br />설명: do의 과거형은 did입니다."
+      - type: qna
+        question: "TF4. I was tired. → 현재형으로"
+        answer: "I am tired.<br />설명: was의 현재형은 am입니다."
+      - type: qna
+        question: "TF5. We had lunch. → 현재형으로"
+        answer: "We have lunch.<br />설명: had의 현재형은 have입니다."
+      - type: qna
+        question: "TF6. He did his best. → 주어를 I로 바꾸세요."
+        answer: "I did my best.<br />설명: 과거형은 주어가 바뀌어도 같습니다."
+      - type: qna
+        question: "TF7. I have a pen. → 주어를 She로 바꾸세요."
+        answer: "She has a pen.<br />설명: 3인칭 단수는 has를 씁니다."
+      - type: qna
+        question: "TF8. You are busy. → 의문문으로"
+        answer: "Are you busy?<br />설명: be동사를 앞으로 보냅니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 영어로 만들어 보세요! 창의적으로 표현해도 좋습니다."
+      - type: qna
+        question: "A1. be동사를 사용해서 자신에 대해 2문장을 써 보세요. (현재 1개, 과거 1개)"
+        answer: "예시 답안: I am 12 years old. I was 11 last year.<br />평가 기준: am/is/are와 was/were를 각각 한 번씩 올바르게 사용하면 정답."
+      - type: qna
+        question: "A2. have를 사용해서 가지고 있는 것을 2문장으로 써 보세요. (현재 1개, 과거 1개)"
+        answer: "예시 답안: I have a smartphone. I had a flip phone before.<br />평가 기준: have/has와 had를 각각 올바르게 사용하면 정답."
+      - type: qna
+        question: "A3. do를 사용해서 하는 일을 2문장으로 써 보세요. (현재 1개, 과거 1개)"
+        answer: "예시 답안: I do homework every day. I did it yesterday too.<br />평가 기준: do/does와 did를 각각 올바르게 사용하면 정답."
+      - type: qna
+        question: "A4. 가족 구성원 한 명에 대해 be, have, do를 각각 사용해서 3문장을 써 보세요."
+        answer: "예시 답안: My brother is 15 years old. He has a guitar. He does his homework at night.<br />평가 기준: 세 동사를 모두 올바르게 사용하면 정답."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 올바르게 고치세요:<br />a) He have a bike.<br />b) We was happy.<br />c) She doed her homework."
+        answer: "a) He <span class='highlight'>has</span> a bike. (3인칭 단수는 has)<br />b) We <span class='highlight'>were</span> happy. (We는 were)<br />c) She <span class='highlight'>did</span> her homework. (do의 과거형은 did)"
+      - type: qna
+        question: "C2. 다음 빈칸을 채워서 대화를 완성하세요.<br />A: _______ (be) you a student?<br />B: Yes, I _______. I _______ (be) in 6th grade.<br />A: _______ (do) you _______ (have) any pets?<br />B: Yes, I _______. I _______ (have) a cat."
+        answer: "A: <span class='highlight'>Are</span> you a student?<br />B: Yes, I <span class='highlight'>am</span>. I <span class='highlight'>am</span> in 6th grade.<br />A: <span class='highlight'>Do</span> you <span class='highlight'>have</span> any pets?<br />B: Yes, I <span class='highlight'>do</span>. I <span class='highlight'>have</span> a cat."
+      - type: qna
+        question: "C3. 다음을 영어로 써 보세요: 나는 어제 피곤했지만, 지금은 괜찮다."
+        answer: "I was tired yesterday, but I am okay now.<br />평가 기준: was와 am을 올바르게 사용하고, but으로 연결하면 정답. fine/alright도 가능."
+      - type: qna
+        question: "C4. be와 do를 각각 일반동사와 조동사로 사용한 문장을 하나씩 만들어 보세요."
+        answer: "예시 답안:<br />be 일반동사: I am happy. (나는 행복하다)<br />be 조동사: I am studying. (나는 공부하고 있다 - 진행형)<br />do 일반동사: I do homework. (나는 숙제를 한다)<br />do 조동사: Do you like it? / I don't know. (의문문/부정문)<br />평가 기준: 구분해서 사용할 수 있으면 정답."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. be의 과거형 2개를 쓰세요."
+        answer: "was, were"
+      - type: qna
+        question: "SR2. have의 과거형을 쓰세요."
+        answer: "had"
+      - type: qna
+        question: "SR3. do의 과거형을 쓰세요."
+        answer: "did"
+      - type: qna
+        question: "SR4. I _______ (be) happy. (현재)"
+        answer: "am"
+      - type: qna
+        question: "SR5. She _______ (have) a dog. (현재)"
+        answer: "has"
+      - type: qna
+        question: "SR6. They _______ (do) homework yesterday."
+        answer: "did"
+      - type: qna
+        question: "SR7. 번역: 나는 어제 피곤했다."
+        answer: "I was tired yesterday."
+      - type: qna
+        question: "SR8. 번역: 그는 자전거를 가지고 있다."
+        answer: "He has a bike."
+      - type: qna
+        question: "SR9. 번역: 우리는 숙제를 했다."
+        answer: "We did homework. / We did our homework."
+      - type: qna
+        question: "SR10. He have (틀린 곳 찾아 고치기)"
+        answer: "He has (3인칭 단수는 has)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. be, have, do의 현재형과 과거형을 모두 말할 수 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! 가장 중요한 세 동사를 완벽히 이해했습니다.<br />어렵다면: 괜찮아요. 표를 만들어서 비교하며 외워 보세요. 반복이 핵심입니다!"
+      - type: qna
+        question: "SC2. 3인칭 단수 현재형(has, does, is)을 정확히 쓸 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 주어에 따른 변화를 마스터했네요.<br />어렵다면: He/She로 시작하는 문장을 많이 만들어 보세요. 연습하면 자연스러워집니다."
+      - type: qna
+        question: "SC3. 일반동사와 조동사로 쓰이는 것을 구분할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 이제 다양한 문장을 만들 수 있습니다.<br />어렵다면: 일반동사는 단독으로, 조동사는 다른 동사와 함께 쓰인다는 것을 기억하세요."
+      - type: qna
+        question: "SC4. 과거형을 정확하게 만들 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 과거 이야기를 할 수 있게 됐어요.<br />어렵다면: had와 did는 모든 주어에 같다는 점을 기억하세요. was/were만 주어에 따라 달라집니다."
+      - type: qna
+        question: "SC5. 오늘 배운 내용 중 가장 유용했던 부분은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 자신만의 학습 포인트를 찾는 것이 중요합니다!"
+      - type: note
+        content: "여기까지 완료했다면 정말 잘하고 있어요! be, have, do는 영어에서 가장 자주 쓰이는 동사들입니다. 이 세 동사를 완벽하게 익히면 영어 실력이 크게 향상될 거예요. 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 책을 보지 않고 풀 수 있다면 완벽하게 이해한 것입니다!"
