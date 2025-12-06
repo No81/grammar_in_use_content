@@ -1,0 +1,460 @@
+title: "Units 22-23 종합 복습 (Comprehensive Review)"
+meta: "대상: 6학년 · 난이도: 중상 · 권장 30-40분 (A4 3p)"
+review_scope: "Verb Forms Grammar (Units 22-23)"
+units_covered:
+  - "Unit 22: be/have/do in present and past tenses"
+  - "Unit 23: Regular and irregular verbs"
+
+sections:
+  - title: "1. 복습 시작 전 자기 진단"
+    items:
+      - type: text
+        content: "Units 22-23에서 배운 내용을 얼마나 기억하고 있는지 체크해 보세요! 솔직하게 평가하는 것이 중요합니다."
+      - type: list
+        heading: "나는 할 수 있다..."
+        list:
+          - "☐ be, have, do의 현재형과 과거형을 구분할 수 있다 (Unit 22)"
+          - "☐ 3인칭 단수 현재형(is, has, does)을 정확히 사용할 수 있다 (Unit 22)"
+          - "☐ be, have, do를 일반동사와 조동사로 구분해서 사용할 수 있다 (Unit 22)"
+          - "☐ 규칙동사의 과거형을 올바르게 만들 수 있다 (Unit 23)"
+          - "☐ 자주 쓰는 불규칙동사의 과거형을 알고 있다 (Unit 23)"
+          - "☐ 부정문과 의문문에서 동사 원형을 사용할 수 있다 (Unit 23)"
+      - type: note
+        content: "💡 5-6개 체크: 아주 잘 준비되었어요!<br />3-4개 체크: 복습이 꼭 필요해요!<br />2개 이하 체크: 각 Unit을 다시 천천히 읽어보세요!"
+      - type: note
+        content: "⏱️ 시간이 부족하다면? Section 3, 4, 9만 풀어도 충분히 효과적인 복습이 됩니다! (약 20분)"
+
+  - title: "2. 핵심 개념 빠른 정리 (Quick Summary)"
+    items:
+      - type: text
+        content: "지금까지 배운 2개 Unit의 핵심 내용을 한눈에 정리했어요!"
+      - type: list
+        heading: "Unit 22: be/have/do 동사"
+        list:
+          - "be 현재형: am, is, are → 과거형: was, were"
+          - "have 현재형: have, has → 과거형: had (모든 주어에 같음)"
+          - "do 현재형: do, does → 과거형: did (모든 주어에 같음)"
+          - "일반동사: I am happy. / I have a dog. / I do homework."
+          - "조동사: I am studying. / Do you like it? / I don't know."
+          - "3인칭 단수 현재형: is, has, does"
+      - type: list
+        heading: "Unit 23: 규칙동사와 불규칙동사"
+        list:
+          - "규칙동사: 동사 + -ed (play → played, watch → watched)"
+          - "-e로 끝남: -d만 추가 (like → liked, live → lived)"
+          - "자음+y: y를 i로 바꾸고 -ed (study → studied, try → tried)"
+          - "단모음+단자음: 자음 반복 + -ed (stop → stopped, plan → planned)"
+          - "불규칙동사: 암기 필요 (go → went, eat → ate, see → saw)"
+          - "부정문/의문문: didn't/Did + 동사 원형"
+      - type: note
+        content: "⚠️ 핵심 포인트: be, have, do는 모두 불규칙동사입니다! 규칙동사처럼 -ed를 붙이면 안 됩니다."
+
+  - title: "3. 통합 회상 연습 (Mixed Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 보지 말고 기억을 떠올려 답해 보세요! 이것이 가장 효과적인 학습법입니다."
+      - type: qna
+        question: "R1. be동사의 과거형 2개를 쓰세요."
+        answer: "was, were<br />평가: 두 개 모두 맞으면 정답"
+      - type: qna
+        question: "R2. have와 do의 과거형은 무엇이며, 주어가 바뀌어도 같은 형태인가요?"
+        answer: "have → had, do → did<br />네, 모든 주어에 같습니다. (I had, He had, They had / I did, She did, We did)<br />평가: 과거형을 맞히고 주어 변화 없음을 언급하면 정답"
+      - type: qna
+        question: "R3. 3인칭 단수 현재형을 써 보세요. (She ___)"
+        answer: "She is, She has, She does<br />평가: 3개 중 2개 이상 맞으면 정답"
+      - type: qna
+        question: "R4. 규칙동사의 과거형을 만드는 기본 방법은?"
+        answer: "동사 끝에 -ed를 붙입니다.<br />평가: -ed를 붙인다고 답하면 정답"
+      - type: qna
+        question: "R5. study의 과거형은 무엇이고, 왜 그렇게 변하나요?"
+        answer: "studied. 자음+y로 끝나서 y를 i로 바꾸고 -ed를 붙입니다.<br />평가: studied를 쓰면 정답. 이유 설명하면 더 좋음."
+      - type: qna
+        question: "R6. 자주 쓰는 불규칙동사 5개의 과거형을 써 보세요. (go, eat, see, make, come)"
+        answer: "went, ate, saw, made, came<br />평가: 5개 중 3개 이상 맞으면 정답"
+      - type: qna
+        question: "R7. 부정문에서 동사는 어떤 형태를 쓰나요? 예를 들어 'I didn't ___' 뒤에는?"
+        answer: "원형을 씁니다. didn't 뒤에는 과거형이 아니라 원형이 옵니다.<br />평가: 원형이라고 답하면 정답"
+      - type: qna
+        question: "R8. be, have, do가 일반동사로 쓰일 때와 조동사로 쓰일 때의 차이는?"
+        answer: "일반동사: 혼자서 의미를 가짐 (I am happy. / I have a dog. / I do homework.)<br />조동사: 다른 동사를 도와줌 (I am studying. / Do you like it? / I don't know.)<br />평가: 차이를 구분할 수 있으면 정답"
+
+  - title: "4. 진단 문제 - 약점 찾기 (Diagnostic Test)"
+    items:
+      - type: note
+        content: "각 문제는 특정 Unit의 핵심 개념을 테스트합니다. 틀린 문제가 속한 Unit을 집중 복습하세요!"
+      - type: qna
+        question: "D1. [Unit 22] 빈칸 채우기: I ___ (be) tired yesterday."
+        answer: "was<br />설명: I의 과거형은 was입니다.<br />틀렸다면 → Unit 22, be동사 과거형 복습"
+      - type: qna
+        question: "D2. [Unit 22] 빈칸 채우기: She ___ (have) a bike now."
+        answer: "has<br />설명: She는 3인칭 단수이므로 has를 씁니다.<br />틀렸다면 → Unit 22, have 현재형 복습"
+      - type: qna
+        question: "D3. [Unit 22] 빈칸 채우기: They ___ (do) their homework yesterday."
+        answer: "did<br />설명: yesterday는 과거이므로 did를 씁니다.<br />틀렸다면 → Unit 22, do 과거형 복습"
+      - type: qna
+        question: "D4. [Unit 22] 의문문 만들기: You like pizza. → ___ you ___ pizza?"
+        answer: "Do, like<br />설명: 현재형 의문문은 Do + 주어 + 동사 원형<br />틀렸다면 → Unit 22, do 조동사 용법 복습"
+      - type: qna
+        question: "D5. [Unit 23] 과거형 만들기: I ___ (play) soccer yesterday."
+        answer: "played<br />설명: play는 규칙동사이므로 -ed를 붙입니다.<br />틀렸다면 → Unit 23, 규칙동사 복습"
+      - type: qna
+        question: "D6. [Unit 23] 과거형 만들기: She ___ (go) to school."
+        answer: "went<br />설명: go는 불규칙동사이므로 went로 변합니다.<br />틀렸다면 → Unit 23, 불규칙동사 복습"
+      - type: qna
+        question: "D7. [Unit 23] 과거형 만들기: He ___ (study) English hard."
+        answer: "studied<br />설명: study는 자음+y이므로 y를 i로 바꾸고 -ed를 붙입니다.<br />틀렸다면 → Unit 23, 철자 규칙 복습"
+      - type: qna
+        question: "D8. [Unit 23] 부정문 만들기: They studied math. → They ___ ___ math."
+        answer: "didn't study<br />설명: didn't 뒤에는 원형 study를 씁니다.<br />틀렸다면 → Unit 23, 부정문 복습"
+      - type: qna
+        question: "D9. [통합] 오류 찾기: He doed his homework."
+        answer: "He did his homework.<br />설명: do는 불규칙동사이므로 did입니다. doed는 틀린 형태입니다.<br />틀렸다면 → Unit 22-23, 불규칙동사 복습"
+
+  - title: "5. 개념 연결하기 - 인터리빙 연습 (Interleaving Practice)"
+    items:
+      - type: note
+        content: "두 Unit의 개념을 섞어서 연습합니다. 이렇게 하면 각 개념을 더 명확하게 구분할 수 있어요!"
+      - type: qna
+        question: "I1. be, have, do를 사용해서 문장 완성하기: I ___ (be) happy. I ___ (have) a dog. I ___ (do) homework every day."
+        answer: "am, have, do<br />설명: 현재형을 모두 사용 (be → am, have → have, do → do)<br />개념: Unit 22 통합"
+      - type: qna
+        question: "I2. 과거형으로 바꾸기: 위 문장(I1)을 과거형으로 바꾸세요."
+        answer: "I was happy. I had a dog. I did homework every day.<br />설명: 모두 과거형으로 변환 (am→was, have→had, do→did)<br />개념: Unit 22 현재↔과거 변환"
+      - type: qna
+        question: "I3. 규칙동사와 불규칙동사 혼합: Yesterday, I ___ (play) games, ___ (eat) pizza, and ___ (watch) a movie."
+        answer: "played, ate, watched<br />설명: played(규칙), ate(불규칙), watched(규칙)<br />개념: Unit 23 규칙/불규칙 구분"
+      - type: qna
+        question: "I4. be동사 + 일반동사 혼합: She ___ (be) at school. She ___ (study) English. She ___ (have) many friends."
+        answer: "is, studies, has<br />설명: 3인칭 단수 현재형 (is, studies, has)<br />개념: Unit 22 3인칭 단수"
+      - type: qna
+        question: "I5. 과거형 대화 완성: A: What ___ you ___ (do) yesterday? B: I ___ (go) to the park and ___ (play) soccer."
+        answer: "did, do, went, played<br />설명: did do(의문문, 원형 사용) + went(불규칙) + played(규칙)<br />개념: Unit 22-23 통합"
+      - type: qna
+        question: "I6. 틀린 부분 찾기: He goed to school and studyed English. He have lunch at 12."
+        answer: "He went to school and studied English. He had lunch at 12.<br />설명: ① goed → went (불규칙), ② studyed → studied (y→i), ③ have → had (과거)<br />개념: Unit 23 불규칙동사 + 철자 규칙, Unit 22 have 과거형"
+      - type: qna
+        question: "I7. 일반동사 vs 조동사: I ___ (have) a pen. I ___ (do) homework. ___ you ___ (have) a pen? I ___ (not/know)."
+        answer: "have, do, Do, have, don't know<br />설명: have(일반동사), do(일반동사), Do you have(조동사), don't know(조동사)<br />개념: Unit 22 일반동사와 조동사 구분"
+      - type: qna
+        question: "I8. 주어 변화에 따른 동사 변화: I am/have/do → She ___/___/___"
+        answer: "She is/has/does<br />설명: 3인칭 단수는 is, has, does로 변합니다.<br />개념: Unit 22 주어에 따른 동사 변화"
+
+  - title: "6. 레벨별 종합 연습 (Progressive Practice)"
+    items:
+      - type: note
+        content: "난이도가 점점 올라갑니다. 자신의 수준에 맞게 도전해 보세요!"
+      - type: text
+        content: "<span class='highlight'>Level 1: 기초 - 빈칸 채우기</span>"
+      - type: qna
+        question: "L1-1. I ___ (be) happy now, but I ___ (be) sad yesterday."
+        answer: "am, was<br />설명: 현재(am) vs 과거(was)"
+      - type: qna
+        question: "L1-2. She ___ (have) a cat now, and she ___ (have) a dog before."
+        answer: "has, had<br />설명: 3인칭 단수 현재(has) vs 과거(had)"
+      - type: qna
+        question: "L1-3. I ___ (play) games yesterday and I ___ (watch) TV too."
+        answer: "played, watched<br />설명: 규칙동사 과거형 (played, watched)"
+      - type: qna
+        question: "L1-4. We ___ (go) to the park and ___ (eat) lunch there."
+        answer: "went, ate<br />설명: 불규칙동사 과거형 (went, ate)"
+      - type: text
+        content: "<span class='highlight'>Level 2: 중급 - 문장 변형</span>"
+      - type: qna
+        question: "L2-1. I am tired. → 과거형으로 바꾸세요."
+        answer: "I was tired.<br />설명: am의 과거형은 was"
+      - type: qna
+        question: "L2-2. She has a bike. → 주어를 They로 바꾸세요."
+        answer: "They have a bike.<br />설명: 복수 주어는 have 사용"
+      - type: qna
+        question: "L2-3. They studied math. → 부정문으로 바꾸세요."
+        answer: "They didn't study math.<br />설명: didn't + 동사 원형"
+      - type: qna
+        question: "L2-4. He went to school. → 의문문으로 바꾸세요."
+        answer: "Did he go to school?<br />설명: Did + 주어 + 동사 원형"
+      - type: text
+        content: "<span class='highlight'>Level 3: 고급 - 종합 응용</span>"
+      - type: qna
+        question: "L3-1. 한영 번역: 나는 어제 피곤했지만 숙제를 했다. 그리고 친구를 만났다."
+        answer: "I was tired yesterday, but I did my homework. And I met my friend.<br />평가: was, did, met를 올바르게 사용하면 정답"
+      - type: qna
+        question: "L3-2. 오류 찾기와 설명: He have a dog. He goed to the park yesterday. He plaied with his dog."
+        answer: "올바른 문장: He has a dog. He went to the park yesterday. He played with his dog.<br />설명: ① have → has (3인칭 단수), ② goed → went (불규칙), ③ plaied → played (철자)"
+      - type: qna
+        question: "L3-3. 어제 한 일 5문장 쓰기: be, have, do와 다른 동사들을 섞어서 사용하세요."
+        answer: "예시 답안: Yesterday was Sunday. I was happy. I had breakfast at 8. I went to the park. I played soccer with my friends. I did my homework in the evening.<br />평가: be/have/do의 과거형 + 다른 동사 과거형 사용, 문법적으로 올바름"
+      - type: qna
+        question: "L3-4. 대화 만들기: 친구에게 어제 뭐 했는지 물어보고 대답하는 대화 (6줄 이상)"
+        answer: "예시 답안:<br />A: What did you do yesterday?<br />B: I went to the library. Did you go anywhere?<br />A: No, I didn't go out. I was at home.<br />B: What did you do at home?<br />A: I watched TV and did my homework.<br />B: Did you have fun?<br />A: Yes, I had a great time!<br />평가: 과거형 의문문과 답변이 자연스럽고 문법적으로 올바름"
+
+  - title: "7. 실생활 통합 적용 (Real-Life Integration)"
+    items:
+      - type: note
+        content: "실제 상황에서 Units 22-23의 문법을 모두 사용해 봅시다!"
+      - type: qna
+        question: "R1. 어제의 하루 일과: be, have, do를 각각 1번 이상 사용하고, 규칙/불규칙 동사를 섞어서 7문장 이상으로 쓰세요."
+        answer: "예시 답안: Yesterday was Saturday. I was very happy. I woke up at 9. I had breakfast with my family. I went to the park with my friends. We played soccer and basketball. I came home at 5. I did my homework. I watched TV in the evening.<br />평가 기준: be/have/do 과거형 사용, 규칙/불규칙 동사 혼합, 7문장 이상, 문법적으로 올바름"
+      - type: qna
+        question: "R2. 지난 주말 이야기: 장소, 사람, 활동을 포함해서 6문장 이상으로 쓰세요."
+        answer: "예시 답안: Last weekend, I went to my grandparents' house. My cousins were there too. We had a big lunch together. After lunch, we played games in the garden. I helped my grandmother. We watched a movie in the evening. It was a great weekend.<br />평가 기준: 과거형 올바르게 사용, 장소/사람/활동 포함, 6문장 이상"
+      - type: qna
+        question: "R3. 작년과 지금 비교하기: 작년의 나와 지금의 나를 비교하는 4문장을 쓰세요."
+        answer: "예시 답안: Last year, I was 11 years old. Now I am 12. Last year, I had short hair. Now I have long hair. Last year, I didn't like math. Now I do like it.<br />평가 기준: 과거와 현재 비교, be/have/do 사용, 4문장 이상"
+      - type: qna
+        question: "R4. 친구 인터뷰 만들기: 친구에게 어제 한 일을 물어보는 질문 5개와 예상 답변을 만드세요."
+        answer: "예시 답안:<br />Q1: What did you do yesterday? A: I went to the library.<br />Q2: Did you study there? A: Yes, I studied math.<br />Q3: Were you alone? A: No, I was with my friend.<br />Q4: Did you have lunch there? A: No, I had lunch at home.<br />Q5: What did you do after that? A: I played games at home.<br />평가 기준: 과거형 의문문 5개, 적절한 답변, 문법적으로 올바름"
+
+  - title: "8. 흔한 실수 바로잡기 (Common Mistakes Correction)"
+    items:
+      - type: note
+        content: "한국 학습자들이 자주 하는 실수들을 모았어요. 각 실수를 고치고 왜 틀렸는지 설명해 보세요!"
+      - type: qna
+        question: "E1. He have a bike. → ___"
+        answer: "He has a bike.<br />설명: He는 3인칭 단수이므로 has를 써야 합니다."
+      - type: qna
+        question: "E2. She doed her homework. → ___"
+        answer: "She did her homework.<br />설명: do는 불규칙동사이므로 did입니다. doed는 틀린 형태입니다."
+      - type: qna
+        question: "E3. I goed to school. → ___"
+        answer: "I went to school.<br />설명: go는 불규칙동사이므로 went입니다. goed는 틀린 형태입니다."
+      - type: qna
+        question: "E4. She studyed English. → ___"
+        answer: "She studied English.<br />설명: 자음+y로 끝나면 y를 i로 바꾸고 -ed를 붙입니다."
+      - type: qna
+        question: "E5. I didn't went there. → ___"
+        answer: "I didn't go there.<br />설명: didn't 뒤에는 동사 원형(go)이 와야 합니다."
+      - type: qna
+        question: "E6. Did he ate lunch? → ___"
+        answer: "Did he eat lunch?<br />설명: Did 뒤에는 동사 원형(eat)이 와야 합니다."
+      - type: qna
+        question: "E7. We was happy. → ___"
+        answer: "We were happy.<br />설명: We는 복수이므로 were를 써야 합니다."
+      - type: qna
+        question: "E8. He stoped running. → ___"
+        answer: "He stopped running.<br />설명: stop은 단모음+단자음이므로 p를 두 번 쓰고 -ed를 붙입니다."
+      - type: qna
+        question: "E9. I am have a dog. → ___"
+        answer: "I have a dog.<br />설명: have는 일반동사이므로 be동사(am)와 함께 쓸 수 없습니다."
+      - type: qna
+        question: "E10. She eated breakfast. → ___"
+        answer: "She ate breakfast.<br />설명: eat은 불규칙동사이므로 ate입니다. eated는 틀린 형태입니다."
+
+  - title: "9. 최종 종합 평가 (Final Comprehensive Test)"
+    items:
+      - type: note
+        content: "지금까지 복습한 내용을 모두 활용하는 최종 테스트입니다! 시간을 재면서 풀어보세요. (권장 시간: 15분)"
+      - type: text
+        content: "<span class='highlight'>Part A: be/have/do 변형 (각 1점, 총 10점)</span>"
+      - type: qna
+        question: "1. I ___ (be) happy now. I ___ (be) sad yesterday."
+        answer: "am, was"
+      - type: qna
+        question: "2. She ___ (have) a cat. She ___ (have) a dog before."
+        answer: "has, had"
+      - type: qna
+        question: "3. They ___ (do) homework now. They ___ (do) it yesterday too."
+        answer: "do, did"
+      - type: qna
+        question: "4. We ___ (be) at school. We ___ (be) at home yesterday."
+        answer: "are, were"
+      - type: qna
+        question: "5. He ___ (not/have) a bike. He ___ (not/have) one before either."
+        answer: "doesn't have, didn't have"
+      - type: text
+        content: "<span class='highlight'>Part B: 규칙/불규칙 동사 과거형 (각 1점, 총 10점)</span>"
+      - type: qna
+        question: "6. play → ___"
+        answer: "played"
+      - type: qna
+        question: "7. go → ___"
+        answer: "went"
+      - type: qna
+        question: "8. study → ___"
+        answer: "studied"
+      - type: qna
+        question: "9. eat → ___"
+        answer: "ate"
+      - type: qna
+        question: "10. stop → ___"
+        answer: "stopped"
+      - type: qna
+        question: "11. see → ___"
+        answer: "saw"
+      - type: qna
+        question: "12. watch → ___"
+        answer: "watched"
+      - type: qna
+        question: "13. make → ___"
+        answer: "made"
+      - type: qna
+        question: "14. like → ___"
+        answer: "liked"
+      - type: qna
+        question: "15. come → ___"
+        answer: "came"
+      - type: text
+        content: "<span class='highlight'>Part C: 문장 완성 (각 2점, 총 10점)</span>"
+      - type: qna
+        question: "16. Yesterday, I ___ (go) to the park and ___ (play) soccer."
+        answer: "went, played<br />설명: went(불규칙) + played(규칙)"
+      - type: qna
+        question: "17. She ___ (be) at home. She ___ (watch) TV."
+        answer: "was, watched<br />설명: was(과거) + watched(규칙동사 과거)"
+      - type: qna
+        question: "18. We ___ (have) lunch at 12. We ___ (eat) pizza."
+        answer: "had, ate<br />설명: had(불규칙) + ate(불규칙)"
+      - type: qna
+        question: "19. ___ you ___ (do) your homework? Yes, I ___ it."
+        answer: "Did, do, did<br />설명: Did you do(의문문) + did(짧은 답)"
+      - type: qna
+        question: "20. They ___ (not/go) to school. They ___ (be) sick."
+        answer: "didn't go, were<br />설명: didn't go(부정문) + were(과거)"
+      - type: text
+        content: "<span class='highlight'>Part D: 오류 수정 (각 2점, 총 10점)</span>"
+      - type: qna
+        question: "21. He goed to the library."
+        answer: "He went to the library.<br />설명: go는 불규칙동사"
+      - type: qna
+        question: "22. She studyed math yesterday."
+        answer: "She studied math yesterday.<br />설명: 자음+y는 y→i로 바꾸고 -ed"
+      - type: qna
+        question: "23. I didn't went there."
+        answer: "I didn't go there.<br />설명: didn't 뒤에는 원형"
+      - type: qna
+        question: "24. Did she ate breakfast?"
+        answer: "Did she eat breakfast?<br />설명: Did 뒤에는 원형"
+      - type: qna
+        question: "25. We was at home."
+        answer: "We were at home.<br />설명: We는 were 사용"
+      - type: text
+        content: "<span class='highlight'>Part E: 영작 (각 3점, 총 15점)</span>"
+      - type: qna
+        question: "26. 나는 어제 피곤했다."
+        answer: "I was tired yesterday.<br />평가: was 사용, 문법 올바름"
+      - type: qna
+        question: "27. 그녀는 자전거를 가지고 있다."
+        answer: "She has a bike.<br />평가: has 사용, 문법 올바름"
+      - type: qna
+        question: "28. 우리는 어제 숙제를 했다."
+        answer: "We did homework yesterday. / We did our homework yesterday.<br />평가: did 사용, 문법 올바름"
+      - type: qna
+        question: "29. 그는 학교에 가지 않았다. (과거)"
+        answer: "He didn't go to school.<br />평가: didn't go 사용, 문법 올바름"
+      - type: qna
+        question: "30. 너는 어제 뭐 했니? (의문문)"
+        answer: "What did you do yesterday?<br />평가: did you do 사용, 문법 올바름"
+      - type: text
+        content: "<span class='highlight'>Part F: 서술형 (총 15점)</span>"
+      - type: qna
+        question: "31. be, have, do의 현재형과 과거형을 표로 정리하세요. (5점)"
+        answer: "예시 답안:<br />be: am/is/are → was/were<br />have: have/has → had<br />do: do/does → did<br />평가 기준: 현재형과 과거형을 올바르게 정리하면 정답"
+      - type: qna
+        question: "32. 어제 한 일을 7문장 이상으로 쓰세요. be/have/do와 규칙/불규칙 동사를 모두 사용하세요. (10점)"
+        answer: "예시 답안: Yesterday was Monday. I was at school. I had five classes. I studied math and English. I ate lunch with my friends. After school, I went to the library. I did my homework there. I came home at 5. I watched TV in the evening.<br />평가 기준: 7문장 이상, be/have/do 사용, 규칙/불규칙 동사 혼합, 문법적으로 올바름, 의미 연결성"
+      - type: note
+        content: "💯 채점하기:<br />총 70점 만점<br />63-70점: 완벽! 모든 개념을 마스터했습니다! 🌟🌟🌟<br />56-62점: 아주 잘했어요! 작은 실수만 보완하면 완벽합니다! 🌟🌟<br />42-55점: 잘하고 있어요! 틀린 부분을 다시 복습하세요! 🌟<br />41점 이하: 기초를 다시 다져봅시다! Unit 22-23을 천천히 복습하세요!"
+
+  - title: "10. 복습 계획표 & 자기 점검 (Review Schedule & Self-Assessment)"
+    items:
+      - type: text
+        content: "<span class='highlight'>복습 계획 (Spaced Repetition Schedule)</span>"
+      - type: list
+        heading: "효과적인 장기 기억을 위한 복습 일정"
+        list:
+          - "📅 오늘: 이 복습 자료 완료 ✓"
+          - "📅 내일 (1일 후): Section 3 회상 연습 다시 풀기"
+          - "📅 3일 후: Section 4 진단 문제 다시 풀기"
+          - "📅 1주일 후: Section 9 최종 종합 평가 다시 풀기"
+          - "📅 2주일 후: 불규칙동사 30개 암기 테스트"
+          - "📅 1개월 후: 전체 Units 22-23 빠르게 훑어보기"
+      - type: note
+        content: "💡 복습 팁: 불규칙동사는 매일 5개씩 써보며 외우세요. 반복이 핵심입니다!"
+      - type: text
+        content: "<span class='highlight'>자기 점검 체크리스트</span>"
+      - type: list
+        heading: "이제 나는 할 수 있다..."
+        list:
+          - "☑ be, have, do의 현재형과 과거형을 완벽하게 구분할 수 있다"
+          - "☑ 3인칭 단수 현재형(is, has, does)을 실수 없이 사용할 수 있다"
+          - "☑ be, have, do를 일반동사와 조동사로 구분해서 사용할 수 있다"
+          - "☑ 규칙동사의 과거형을 철자 규칙에 맞게 만들 수 있다"
+          - "☑ 자주 쓰는 불규칙동사 20개 이상의 과거형을 알고 있다"
+          - "☑ 부정문과 의문문에서 동사 원형을 정확하게 사용할 수 있다"
+          - "☑ 과거 이야기를 자연스럽게 영어로 말할 수 있다"
+      - type: qna
+        question: "SC1. 위 체크리스트에서 몇 개를 체크했나요?"
+        answer: "7개: 완벽합니다! 자신감을 가지세요! 🌟🌟🌟<br />5-6개: 아주 잘했어요! 조금만 더 연습하면 완벽해요! 🌟🌟<br />3-4개: 잘하고 있어요! 약한 부분을 집중 복습하세요! 🌟<br />2개 이하: 괜찮아요! 천천히 각 Unit을 다시 복습해 봅시다!"
+      - type: qna
+        question: "SC2. be, have, do 중 가장 어려운 것은 무엇이었나요? 그 이유는?"
+        answer: "자유 답변. 어려웠던 동사를 파악하고 집중적으로 복습하세요."
+      - type: qna
+        question: "SC3. 규칙동사와 불규칙동사 중 어느 것이 더 어려웠나요?"
+        answer: "자유 답변. 많은 학습자들이 불규칙동사를 어려워합니다. 매일 조금씩 암기하는 것이 중요합니다."
+      - type: qna
+        question: "SC4. 과거형을 사용해서 어제 한 일을 5문장 이상 자연스럽게 말할 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 실생활에서 계속 사용해 보세요!<br />어렵다면: 매일 3문장씩 일기를 영어로 써 보세요. 연습이 실력을 만듭니다!"
+      - type: note
+        content: "🎉 축하합니다! Units 22-23 종합 복습을 완료했습니다!<br /><br />여러분은 이제 영어 동사의 핵심을 마스터했어요. be, have, do의 현재형과 과거형, 규칙동사와 불규칙동사... 이 모든 것을 자유자재로 사용할 수 있다는 것은 정말 대단한 일입니다!<br /><br />💪 앞으로 할 일:<br />1. 매일 영어로 3문장씩 일기를 과거형으로 써 보세요<br />2. 불규칙동사 카드를 만들어서 매일 5개씩 외워 보세요<br />3. 영어 이야기를 들을 때 동사의 과거형을 주의 깊게 들어보세요<br /><br />동사는 문장의 중심입니다. 동사를 완벽히 익히면 영어 실력이 크게 향상될 거예요!<br /><br />See you in the next units! 계속 파이팅! 🚀"
+
+pedagogical_design:
+  spaced_repetition:
+    - "Section 1: 복습 시작 전 사전 활성화"
+    - "Section 3: 즉각적인 회상 연습"
+    - "Section 10: 향후 복습 계획표 제공 (1일, 3일, 1주, 2주, 1개월)"
+
+  retrieval_practice:
+    - "Section 3: 힌트 없이 기억 인출하기"
+    - "Section 4: 진단 테스트로 약점 파악"
+    - "Section 9: 최종 종합 평가"
+
+  interleaving:
+    - "Section 5: 두 Unit의 개념을 섞어서 연습"
+    - "Section 6: 레벨별 연습에서 다양한 문법 요소 혼합"
+    - "Section 8: 흔한 실수를 무작위로 섞어 제시"
+
+  diagnostic_assessment:
+    - "Section 4: 각 문제마다 해당 Unit 표시로 약점 파악"
+    - "Section 9: 최종 평가 후 점수별 맞춤 피드백"
+
+  progressive_difficulty:
+    - "Section 6: Level 1 (기초) → Level 2 (중급) → Level 3 (고급)"
+    - "전체 구조: 개념 정리 → 진단 → 연습 → 통합 → 평가"
+
+  concrete_examples:
+    - "모든 예문이 6학년 학생의 실생활과 연결 (학교, 친구, 가족, 숙제, 주말)"
+    - "Section 7: 실생활 통합 적용 (어제의 일과, 주말 이야기, 인터뷰)"
+
+  metacognition:
+    - "Section 1: 사전 자기 진단"
+    - "Section 10: 사후 자기 점검 및 학습 성찰"
+    - "각 섹션 후: 스스로 평가하고 약점 파악하기"
+
+  dual_coding:
+    - "이모지와 시각적 구조 활용 (☐, ✓, 🌟, 💡, 📅)"
+    - "표와 리스트로 개념 시각화"
+    - "색상 구분 (<span class='highlight'>)"
+
+differentiation:
+  - "진단 테스트로 개인별 약점 파악 → 맞춤 복습 가능"
+  - "레벨별 연습으로 학습자 수준에 맞는 도전 제공"
+  - "선택적 섹션: 자신 있는 부분은 건너뛰고 어려운 부분 집중 가능"
+
+estimated_time:
+  - "Section 1-2: 4분 (진단 및 개념 정리)"
+  - "Section 3-4: 7분 (회상 및 진단)"
+  - "Section 5-6: 9분 (통합 연습)"
+  - "Section 7-8: 7분 (실생활 적용 및 오류 수정)"
+  - "Section 9: 13분 (최종 평가)"
+  - "Section 10: 3분 (자기 점검)"
+  - "총 예상 시간: 약 35-45분 (깊이 있게 할 경우)"
+  - "빠른 복습: 20분 (Section 3, 4, 9만 집중)"
+
+notes: |
+  이 복습 자료는 Units 22-23의 핵심 개념을 통합적으로 복습하도록 설계되었습니다.
+  be/have/do 동사와 규칙/불규칙 동사를 연결하여(interleaving) 학습하고,
+  실생활에 적용하며, 학습자가 스스로 약점을 진단하고 계획적으로 복습할 수 있도록 구성했습니다.
+
+  특히 '회상 연습'과 '간격 반복'에 중점을 두어 장기 기억에 효과적이며,
+  진단 테스트와 최종 평가를 통해 학습 성취도를 객관적으로 확인할 수 있습니다.
+
+  한국 학습자들이 자주 하는 실수(불규칙동사를 규칙처럼 만들기, 부정문/의문문에서 과거형 사용 등)에
+  특별히 주의를 기울여 설계되었습니다.
