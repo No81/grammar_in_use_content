@@ -1,0 +1,490 @@
+title: "Units 24-26 종합 복습 (Comprehensive Review)"
+meta: "대상: 6학년 · 난이도: 중상 · 권장 45-60분 (A4 3-4p)"
+review_scope: "Future Tense Grammar (Units 24-26)"
+units_covered:
+  - "Unit 24: What are you doing tomorrow? (Present continuous for future)"
+  - "Unit 25: I'm going to... (be going to for future)"
+  - "Unit 26: will (will for future)"
+
+sections:
+  - title: "1. 복습 시작 전 자기 진단 (Self-Diagnosis Checklist)"
+    items:
+      - type: text
+        content: "Units 24-26에서 배운 미래 표현들을 얼마나 기억하고 있는지 체크해 보세요! 솔직하게 평가하는 것이 중요합니다."
+      - type: list
+        heading: "나는 할 수 있다..."
+        list:
+          - "☐ 현재진행형으로 확정된 미래 계획을 표현할 수 있다 (Unit 24)"
+          - "☐ be going to로 미래 계획과 의도를 표현할 수 있다 (Unit 25)"
+          - "☐ will로 즉석 결정, 약속, 예측을 표현할 수 있다 (Unit 26)"
+          - "☐ 세 가지 미래 표현의 차이를 설명할 수 있다"
+          - "☐ 상황에 맞는 미래 표현을 선택해서 사용할 수 있다"
+          - "☐ 미래 표현의 부정문과 의문문을 만들 수 있다"
+      - type: note
+        content: "💡 5-6개 체크: 완벽하게 준비되었어요!<br />3-4개 체크: 복습이 꼭 필요해요!<br />2개 이하 체크: 각 Unit을 다시 천천히 읽어보세요!"
+      - type: note
+        content: "⏱️ 시간이 부족하다면? Section 3, 5, 9만 풀어도 충분히 효과적인 복습이 됩니다! (약 25분)"
+
+  - title: "2. 핵심 개념 빠른 정리 (Quick Summary)"
+    items:
+      - type: text
+        content: "세 가지 미래 표현의 핵심 내용을 한눈에 정리했어요!"
+      - type: list
+        heading: "Unit 24: 현재진행형으로 미래 표현 (Present Continuous for Future)"
+        list:
+          - "형태: am/is/are + 동사-ing + 미래 시간 표현"
+          - "용도: 이미 확정된 약속이나 일정"
+          - "뉘앙스: 거의 확실한 계획, 준비된 일정"
+          - "예: I'm meeting my friend tomorrow. (약속 잡음)"
+          - "시간 표현: tomorrow, tonight, next week, this evening"
+      - type: list
+        heading: "Unit 25: be going to (미래 계획과 의도)"
+        list:
+          - "형태: am/is/are + going to + 동사원형"
+          - "용도1: 미리 세운 계획이나 의도"
+          - "용도2: 증거를 바탕으로 한 예측"
+          - "예1: I'm going to study abroad. (이미 계획)"
+          - "예2: It's going to rain. (구름 보고 예측)"
+      - type: list
+        heading: "Unit 26: will (즉석 결정과 예측)"
+        list:
+          - "형태: will + 동사원형 (모든 주어에 동일)"
+          - "용도1: 지금 막 결정한 일"
+          - "용도2: 일반적인 예측"
+          - "용도3: 약속, 제안, 의지"
+          - "예1: I'll help you. (지금 결정/약속)"
+          - "예2: It will rain tomorrow. (일기예보)"
+          - "부정형: won't (will not)"
+      - type: note
+        content: "⚠️ 핵심 차이점:<br />• <strong>현재진행형:</strong> 확정된 약속 (준비 완료)<br />• <strong>be going to:</strong> 미리 계획한 의도 (마음먹음)<br />• <strong>will:</strong> 지금 결정/일반 예측 (즉석)"
+
+  - title: "3. 통합 회상 연습 (Mixed Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 보지 말고 기억을 떠올려 답해 보세요! 이것이 가장 효과적인 학습법입니다."
+      - type: qna
+        question: "R1. 현재진행형으로 미래를 표현할 때 어떤 의미를 나타내나요?"
+        answer: "이미 확정된 계획이나 약속을 나타냅니다.<br />평가: '확정된', '약속', '일정' 중 하나 언급하면 정답"
+      - type: qna
+        question: "R2. be going to의 기본 형태를 쓰고, 어떤 의미를 나타내는지 말해 보세요."
+        answer: "am/is/are + going to + 동사원형<br />미래의 계획, 의도, 증거 기반 예측을 나타냅니다.<br />평가: 형태와 의미 중 하나라도 맞으면 정답"
+      - type: qna
+        question: "R3. will의 기본 형태를 쓰고, 주어가 바뀌면 will도 변하나요?"
+        answer: "will + 동사원형<br />아니요, will은 모든 주어에 같은 형태입니다.<br />평가: will 뒤에 원형이 온다는 것과 변화 없음을 언급하면 정답"
+      - type: qna
+        question: "R4. 'I'll do it'과 'I'm going to do it'의 차이는 무엇인가요?"
+        answer: "I'll do it: 지금 막 결정한 것<br />I'm going to do it: 이미 계획해 둔 것<br />평가: 즉석 결정 vs 미리 계획의 차이를 언급하면 정답"
+      - type: qna
+        question: "R5. '전화벨이 울린다. 내가 받을게.'를 영어로 하면?"
+        answer: "I'll answer it.<br />설명: 지금 막 결정한 것이므로 will 사용<br />평가: will을 사용하면 정답"
+      - type: qna
+        question: "R6. '나는 내일 친구를 만날 거야 (약속 잡음)'를 영어로 하면?"
+        answer: "I'm meeting my friend tomorrow.<br />설명: 확정된 약속이므로 현재진행형 사용<br />평가: 현재진행형을 사용하면 정답"
+      - type: qna
+        question: "R7. 현재진행형 미래 표현에는 보통 어떤 시간 표현이 함께 오나요? 3개만 말해 보세요."
+        answer: "tomorrow, tonight, next week, this evening 등<br />평가: 미래 시간 표현 3개 맞으면 정답"
+      - type: qna
+        question: "R8. going to 뒤에는 어떤 형태의 동사가 오나요?"
+        answer: "동사원형<br />평가: 원형이라고 답하면 정답"
+
+  - title: "4. 진단 문제 - 약점 찾기 (Diagnostic Test)"
+    items:
+      - type: note
+        content: "각 문제는 특정 Unit의 핵심 개념을 테스트합니다. 틀린 문제가 속한 Unit을 집중 복습하세요!"
+      - type: qna
+        question: "D1. [Unit 24] 빈칸 채우기: I ___ (meet) my friend tomorrow."
+        answer: "am meeting<br />설명: 확정된 약속이므로 현재진행형으로 미래 표현<br />틀렸다면 → Unit 24 복습"
+      - type: qna
+        question: "D2. [Unit 24] 의문문 만들기: You are going to Seoul tomorrow. → ___"
+        answer: "Are you going to Seoul tomorrow?<br />설명: be동사를 앞으로 보냅니다.<br />틀렸다면 → Unit 24 복습"
+      - type: qna
+        question: "D3. [Unit 25] 빈칸 채우기: She ___ ___ ___ (visit) her grandma."
+        answer: "is going to visit<br />설명: be going to + 동사원형<br />틀렸다면 → Unit 25 복습"
+      - type: qna
+        question: "D4. [Unit 25] 부정문 만들기: I'm going to eat that. → ___"
+        answer: "I'm not going to eat that.<br />설명: be동사 뒤에 not<br />틀렸다면 → Unit 25 복습"
+      - type: qna
+        question: "D5. [Unit 26] 빈칸 채우기: I ___ (help) you."
+        answer: "will help / 'll help<br />설명: will + 동사원형<br />틀렸다면 → Unit 26 복습"
+      - type: qna
+        question: "D6. [Unit 26] 부정문 만들기: He will come. → ___"
+        answer: "He won't come. / He will not come.<br />설명: will not = won't<br />틀렸다면 → Unit 26 복습"
+      - type: qna
+        question: "D7. [통합] 상황에 맞는 표현 선택: 전화벨이 울린다. '내가 받을게'<br />a) I answer it.  b) I'm answering it.  c) I'll answer it."
+        answer: "c) I'll answer it.<br />설명: 지금 막 결정한 것이므로 will<br />틀렸다면 → Unit 26 복습"
+      - type: qna
+        question: "D8. [통합] 상황에 맞는 표현 선택: 이미 기차표를 샀다. '나는 부산에 갈 거야'<br />a) I go to Busan.  b) I'm going to Busan.  c) I'll go to Busan."
+        answer: "b) I'm going to Busan.<br />설명: 이미 표를 샀으므로 확정된 일정 (현재진행형도 가능)<br />틀렸다면 → Unit 24, 25 복습"
+      - type: qna
+        question: "D9. [통합] 상황에 맞는 표현 선택: 구름을 보고 '비 올 것 같아'<br />a) It rains.  b) It's going to rain.  c) It'll rain."
+        answer: "b) It's going to rain.<br />설명: 증거(구름)를 보고 예측하므로 be going to<br />틀렸다면 → Unit 25 복습"
+
+  - title: "5. 개념 연결하기 - 인터리빙 연습 (Interleaving Practice)"
+    items:
+      - type: note
+        content: "세 가지 미래 표현을 섞어서 연습합니다. 이렇게 하면 각 개념을 더 명확하게 구분할 수 있어요!"
+      - type: qna
+        question: "I1. 상황에 맞는 미래 표현 선택하기:<br />① 지금 막 도와주기로 결정: I ___ help you.<br />② 이미 계획해 둔 여행: I ___ ___ ___ visit Jeju.<br />③ 내일 확정된 약속: I ___ meeting him tomorrow."
+        answer: "① will (지금 결정)<br />② am going to (미리 계획)<br />③ am (확정 약속)<br />개념: 세 가지 미래 표현 구분"
+      - type: qna
+        question: "I2. 같은 문장, 다른 의미 구분하기:<br />① I'm meeting Sarah tomorrow.<br />② I'm going to meet Sarah tomorrow.<br />③ I'll meet Sarah tomorrow.<br />각각의 뉘앙스 차이를 설명하세요."
+        answer: "① 이미 Sarah와 약속을 잡았음 (확정)<br />② Sarah를 만날 계획이 있음 (의도)<br />③ 지금 막 만나기로 결정했음 (즉석)<br />평가: 확정, 계획, 즉석 결정의 차이를 구분하면 정답"
+      - type: qna
+        question: "I3. 대화에서 올바른 미래 표현 선택:<br />A: We need milk.<br />B: OK, I ___ (buy) some. [지금 결정]<br />A: Thanks! What ___ you ___ (do) tomorrow?<br />B: I ___ (visit) my grandparents. I visit them every Saturday."
+        answer: "B: I'll buy some.<br />A: What are you doing tomorrow?<br />B: I'm visiting / I'm going to visit my grandparents.<br />설명: 즉석 결정(will), 질문(현재진행형), 정기 일정(현재진행형 또는 going to)"
+      - type: qna
+        question: "I4. 현재진행형 vs be going to 구분하기:<br />① I'm going to the movies tonight. (표 예매함)<br />② I'm going to go to the movies. (계획만 있음)<br />어느 것이 더 확정적인가요? 왜 그런가요?"
+        answer: "① I'm going to the movies tonight.가 더 확정적입니다.<br />이유: 표를 예매했다고 했으므로 준비가 완료된 상태. 현재진행형은 확정된 일정에 사용.<br />평가: ①이 더 확정적이라고 답하면 정답"
+      - type: qna
+        question: "I5. 예측 표현 구분하기:<br />① Look at those clouds! It ___ (rain).<br />② The weather forecast says it ___ (rain) tomorrow.<br />어떤 미래 표현을 사용해야 하나요?"
+        answer: "① It's going to rain. (구름을 보고 예측 - 증거 있음)<br />② It will rain tomorrow. (일기예보 - 일반 예측)<br />설명: 증거 기반 예측은 going to, 일반 예측은 will"
+      - type: qna
+        question: "I6. 부정문 만들기 - 세 가지 미래 표현:<br />① I'm meeting him tomorrow. → 부정문<br />② I'm going to eat that. → 부정문<br />③ I will go there. → 부정문"
+        answer: "① I'm not meeting him tomorrow.<br />② I'm not going to eat that.<br />③ I won't go there. / I will not go there.<br />개념: 각 미래 표현의 부정문 형태"
+      - type: qna
+        question: "I7. 의문문 만들기 - 세 가지 미래 표현:<br />① You are leaving tomorrow. → 의문문<br />② You are going to study. → 의문문<br />③ You will help me. → 의문문"
+        answer: "① Are you leaving tomorrow?<br />② Are you going to study?<br />③ Will you help me?<br />개념: 각 미래 표현의 의문문 형태"
+      - type: qna
+        question: "I8. 틀린 부분 찾아 고치기:<br />a) I going to meet him tomorrow.<br />b) She's going to studying English.<br />c) He will goes there.<br />d) Are you will come?"
+        answer: "a) I am going to meet him tomorrow. (be동사 필요)<br />b) She's going to study English. (to 뒤 원형)<br />c) He will go there. (will 뒤 원형)<br />d) Will you come? (조동사 의문문 형태)"
+
+  - title: "6. 레벨별 종합 연습 (Progressive Practice)"
+    items:
+      - type: note
+        content: "난이도가 점점 올라갑니다. 자신의 수준에 맞게 도전해 보세요!"
+      - type: text
+        content: "<span class='highlight'>Level 1: 기초 - 빈칸 채우기</span>"
+      - type: qna
+        question: "L1-1. I ___ (meet) Sarah tomorrow at 3. (확정된 약속)"
+        answer: "am meeting<br />설명: 확정된 약속이므로 현재진행형"
+      - type: qna
+        question: "L1-2. She ___ ___ ___ (study) harder. (결심)"
+        answer: "is going to study<br />설명: 결심/의도이므로 be going to"
+      - type: qna
+        question: "L1-3. A: The phone is ringing. B: I ___ (answer) it."
+        answer: "will answer / 'll answer<br />설명: 지금 막 결정하므로 will"
+      - type: qna
+        question: "L1-4. Look at the sky! It ___ ___ ___ (rain)."
+        answer: "is going to rain<br />설명: 하늘을 보고 예측 - 증거 있음"
+      - type: text
+        content: "<span class='highlight'>Level 2: 중급 - 상황별 표현 선택</span>"
+      - type: qna
+        question: "L2-1. 상황: 친구가 무거운 짐을 들고 있다. 도와주겠다고 말하기.<br />올바른 표현은? a) I help you.  b) I'm helping you.  c) I'll help you."
+        answer: "c) I'll help you.<br />설명: 지금 보고 즉석에서 결정한 것이므로 will<br />평가: will 사용하면 정답"
+      - type: qna
+        question: "L2-2. 상황: 이미 비행기표를 예약했다. 다음 달에 제주도 간다고 말하기.<br />가장 적절한 표현은? a) I go to Jeju.  b) I'm going to Jeju.  c) I'll go to Jeju."
+        answer: "b) I'm going to Jeju. 또는 I'm going to Jeju next month.<br />설명: 표를 예약했으므로 확정된 계획. 현재진행형도 가능하지만 going to가 더 자연스러움<br />평가: going to 또는 현재진행형 사용하면 정답"
+      - type: qna
+        question: "L2-3. 대화 완성: A: Why are you buying all this food?<br />B: I ___ ___ ___ (have) a party this weekend."
+        answer: "am going to have / 'm going to have<br />설명: 음식을 사는 것이 증거. 파티 계획이 이미 있음<br />평가: be going to 사용하면 정답"
+      - type: qna
+        question: "L2-4. 다음 문장을 부정문과 의문문으로 바꾸세요: She's going to visit Paris."
+        answer: "부정문: She's not going to visit Paris. / She isn't going to visit Paris.<br />의문문: Is she going to visit Paris?<br />평가: 두 문장 모두 올바르면 정답"
+      - type: text
+        content: "<span class='highlight'>Level 3: 고급 - 종합 응용</span>"
+      - type: qna
+        question: "L3-1. 다음 대화에서 올바른 미래 표현을 선택하고 그 이유를 설명하세요:<br />A: I don't have any plans for tonight.<br />B: Really? I (a. see / b. am seeing / c. will see) a movie. Do you want to come?<br />A: Sure! What time?<br />B: The movie (a. starts / b. is starting / c. will start) at 7."
+        answer: "B: I am seeing a movie. (확정된 계획)<br />B: The movie starts at 7. (정해진 일정은 현재형 또는 is starting 가능)<br />설명: 이미 영화 보기로 계획했으므로 현재진행형. 영화 시작 시간은 정해진 스케줄이므로 현재형 또는 현재진행형<br />평가: am seeing과 starts(또는 is starting) 선택하면 정답"
+      - type: qna
+        question: "L3-2. 한영 번역 및 설명: '나는 내일 할머니를 방문할 거야'를 세 가지 미래 표현으로 쓰고, 각각의 뉘앙스 차이를 설명하세요."
+        answer: "① I'm visiting my grandma tomorrow. (이미 약속 잡음/확정)<br />② I'm going to visit my grandma tomorrow. (방문 계획이 있음)<br />③ I'll visit my grandma tomorrow. (지금 막 결정함)<br />평가: 세 문장을 쓰고 뉘앙스 차이를 설명하면 정답"
+      - type: qna
+        question: "L3-3. 오류 찾기와 설명: 'A: What you going to do tomorrow? B: I meet my friend at 3 and I'll going to study after that.'"
+        answer: "올바른 대화:<br />A: What are you going to do tomorrow?<br />B: I'm meeting my friend at 3 and I'm going to study after that.<br />설명: ① are 빠짐, ② meet → am meeting (확정 약속), ③ I'll going to → I'm going to (will과 going to 혼동)"
+      - type: qna
+        question: "L3-4. 창의적 작문: 내일 하루 계획을 6문장 이상으로 쓰세요. 현재진행형, be going to, will을 각각 최소 1번씩 사용하세요."
+        answer: "예시 답안: Tomorrow is Saturday. I'm meeting my friend at 10. We're going to the movies. I think the movie will be great. After the movie, I'm going to have lunch with her. If we have time, we'll go shopping. I'll be home by 5.<br />평가 기준: 6문장 이상, 세 가지 미래 표현 모두 사용, 문법적으로 올바름, 의미 연결성"
+
+  - title: "7. 실생활 통합 적용 (Real-Life Integration)"
+    items:
+      - type: note
+        content: "실제 상황에서 Units 24-26의 미래 표현을 모두 사용해 봅시다!"
+      - type: qna
+        question: "R1. 내일 계획 세우기: 내일 하루 일과를 7문장 이상으로 쓰세요. 확정된 약속, 계획, 즉석 결정을 모두 포함하세요."
+        answer: "예시 답안: Tomorrow I'm having a piano lesson at 9. (확정 약속) After that, I'm going to study math for the test. (계획) I think I'll finish by lunch time. (예측) In the afternoon, I'm meeting my friends at the park. (확정 약속) We're going to play soccer. (계획) If it rains, we'll go to my house instead. (조건부 결정) I'll call you when I get home. (약속)<br />평가 기준: 7문장 이상, 세 가지 미래 표현 사용, 실제 계획 내용, 문법적으로 올바름"
+      - type: qna
+        question: "R2. 주말 계획 대화 만들기: 친구와 주말 계획에 대해 묻고 답하는 대화를 8줄 이상 만드세요."
+        answer: "예시 답안:<br />A: What are you doing this weekend?<br />B: I'm going to my cousin's house on Saturday. We're having a family gathering.<br />A: That sounds fun! What are you going to do there?<br />B: We're going to have a barbecue and play games. What about you?<br />A: I don't have any plans yet. Maybe I'll stay home and relax.<br />B: Why don't you come with me? I'm sure my family will love to meet you.<br />A: Really? That's so nice! I'll ask my parents.<br />B: Great! I'll text you the details tonight.<br />평가 기준: 대화가 자연스러움, 세 가지 미래 표현 혼합 사용, 8줄 이상"
+      - type: qna
+        question: "R3. 방학 계획 발표하기: 다가오는 방학 동안 할 일들을 6문장 이상으로 쓰세요."
+        answer: "예시 답안: During the winter vacation, I'm going to visit my grandparents in Busan. I'm taking the train on December 20th. I'm going to stay there for a week. I think I'll have a great time with my cousins. We're planning to go skiing if the weather is good. I'm also going to read three books. It will be a wonderful vacation!<br />평가 기준: 방학 계획 내용, 6문장 이상, 다양한 미래 표현 사용"
+      - type: qna
+        question: "R4. 약속 잡기: 친구와 이번 주에 만나기로 약속하는 대화를 6줄 이상 만드세요. (시간, 장소 포함)"
+        answer: "예시 답안:<br />A: Are you free this Wednesday?<br />B: Let me check... Yes, I'm free in the afternoon. What are you going to do?<br />A: I'm going to the bookstore. Do you want to come?<br />B: Sure! What time are we meeting?<br />A: How about 3 o'clock?<br />B: Perfect! I'll meet you at the bookstore at 3.<br />A: Great! I'll text you if anything changes.<br />평가 기준: 대화 자연스러움, 시간/장소 포함, 약속 확정 과정"
+
+  - title: "8. 흔한 실수 바로잡기 (Common Mistakes Correction)"
+    items:
+      - type: note
+        content: "한국 학습자들이 자주 하는 실수들을 모았어요. 각 실수를 고치고 왜 틀렸는지 설명해 보세요!"
+      - type: qna
+        question: "E1. I going to meet him tomorrow. → ___"
+        answer: "I am going to meet him tomorrow.<br />설명: be동사(am)가 필요합니다."
+      - type: qna
+        question: "E2. She's going to studying English. → ___"
+        answer: "She's going to study English.<br />설명: going to 뒤에는 동사원형이 와야 합니다."
+      - type: qna
+        question: "E3. He will goes there. → ___"
+        answer: "He will go there.<br />설명: will 뒤에는 동사원형이 와야 합니다."
+      - type: qna
+        question: "E4. I meet my friend tomorrow. → ___ (미래 표현으로 고치기)"
+        answer: "I'm meeting my friend tomorrow. / I'm going to meet my friend tomorrow.<br />설명: 미래를 나타낼 때는 적절한 미래 표현을 사용해야 합니다."
+      - type: qna
+        question: "E5. Are you will come? → ___"
+        answer: "Will you come?<br />설명: will 의문문은 'Will + 주어 + 동사원형' 형태입니다."
+      - type: qna
+        question: "E6. I'm going to to study. → ___"
+        answer: "I'm going to study.<br />설명: to가 중복되었습니다. going to 뒤에 바로 동사원형이 옵니다."
+      - type: qna
+        question: "E7. She will to help you. → ___"
+        answer: "She will help you.<br />설명: will 뒤에는 to 없이 바로 동사원형이 옵니다."
+      - type: qna
+        question: "E8. I'm meet him at 3. → ___"
+        answer: "I'm meeting him at 3.<br />설명: 현재진행형은 be동사 + 동사-ing 형태입니다."
+      - type: qna
+        question: "E9. What you are doing tomorrow? → ___"
+        answer: "What are you doing tomorrow?<br />설명: 의문사 의문문은 '의문사 + be동사 + 주어' 순서입니다."
+      - type: qna
+        question: "E10. I will going to study. → ___"
+        answer: "I'm going to study. / I will study.<br />설명: will과 going to를 함께 쓸 수 없습니다. 하나만 선택하세요."
+
+  - title: "9. 최종 종합 평가 (Final Comprehensive Test)"
+    items:
+      - type: note
+        content: "지금까지 복습한 내용을 모두 활용하는 최종 테스트입니다! 시간을 재면서 풀어보세요. (권장 시간: 20분)"
+      - type: text
+        content: "<span class='highlight'>Part A: 빈칸 채우기 - 올바른 미래 표현 선택 (각 1점, 총 10점)</span>"
+      - type: qna
+        question: "1. I ___ (meet) Sarah tomorrow at 5. (약속 잡았음)"
+        answer: "am meeting / 'm meeting"
+      - type: qna
+        question: "2. She ___ ___ ___ (study) abroad next year. (계획)"
+        answer: "is going to study / 's going to study"
+      - type: qna
+        question: "3. A: We need bread. B: I ___ (buy) some. (지금 결정)"
+        answer: "will buy / 'll buy"
+      - type: qna
+        question: "4. Look at the clouds! It ___ ___ ___ (rain)."
+        answer: "is going to rain / 's going to rain"
+      - type: qna
+        question: "5. We ___ (have) a test tomorrow. (정해진 일정)"
+        answer: "are having / 're having"
+      - type: qna
+        question: "6. I think it ___ (be) sunny tomorrow. (일반 예측)"
+        answer: "will be / 'll be"
+      - type: qna
+        question: "7. They ___ (not/come) to the party tonight. (확정)"
+        answer: "aren't coming / 're not coming"
+      - type: qna
+        question: "8. I promise I ___ (help) you. (약속)"
+        answer: "will help / 'll help"
+      - type: qna
+        question: "9. What ___ you ___ (do) this weekend? (질문)"
+        answer: "are, doing"
+      - type: qna
+        question: "10. She ___ (not/go) anywhere next week. (계획 없음)"
+        answer: "isn't going / 's not going"
+      - type: text
+        content: "<span class='highlight'>Part B: 상황별 표현 선택 (각 2점, 총 10점)</span>"
+      - type: qna
+        question: "11. 전화벨이 울린다. '내가 받을게'<br />a) I answer it.  b) I'm answering it.  c) I'll answer it."
+        answer: "c) I'll answer it.<br />설명: 지금 막 결정한 것이므로 will"
+      - type: qna
+        question: "12. 이미 비행기표를 샀다. '나는 제주도에 갈 거야'<br />a) I go to Jeju.  b) I'm going to Jeju.  c) I go to Jeju."
+        answer: "b) I'm going to Jeju. (또는 I'm going to Jeju.)<br />설명: 표를 샀으므로 확정된 계획"
+      - type: qna
+        question: "13. 친구가 무거운 짐을 든다. '도와줄게'<br />a) I help you.  b) I'm helping you.  c) I'll help you."
+        answer: "c) I'll help you.<br />설명: 지금 보고 즉석에서 결정"
+      - type: qna
+        question: "14. 구름을 보고 '비가 올 것 같아'<br />a) It rains.  b) It's going to rain.  c) It'll rain."
+        answer: "b) It's going to rain.<br />설명: 증거(구름)를 보고 예측"
+      - type: qna
+        question: "15. 내일 3시에 친구와 만나기로 했다. '나는 3시에 친구를 만날 거야'<br />a) I meet my friend at 3.  b) I'm meeting my friend at 3.  c) I'll meet my friend at 3."
+        answer: "b) I'm meeting my friend at 3.<br />설명: 확정된 약속이므로 현재진행형"
+      - type: text
+        content: "<span class='highlight'>Part C: 문장 변형 (각 2점, 총 10점)</span>"
+      - type: qna
+        question: "16. I'm meeting him tomorrow. (부정문으로)"
+        answer: "I'm not meeting him tomorrow."
+      - type: qna
+        question: "17. She's going to study English. (의문문으로)"
+        answer: "Is she going to study English?"
+      - type: qna
+        question: "18. They will come. (부정문으로)"
+        answer: "They won't come. / They will not come."
+      - type: qna
+        question: "19. You are leaving tomorrow. (의문문으로)"
+        answer: "Are you leaving tomorrow?"
+      - type: qna
+        question: "20. He will help you. (의문문으로)"
+        answer: "Will he help you?"
+      - type: text
+        content: "<span class='highlight'>Part D: 오류 수정 (각 2점, 총 10점)</span>"
+      - type: qna
+        question: "21. I going to meet him."
+        answer: "I am going to meet him.<br />설명: be동사 필요"
+      - type: qna
+        question: "22. She's going to studying."
+        answer: "She's going to study.<br />설명: to 뒤에는 동사원형"
+      - type: qna
+        question: "23. He will goes there."
+        answer: "He will go there.<br />설명: will 뒤에는 동사원형"
+      - type: qna
+        question: "24. Are you will come?"
+        answer: "Will you come?<br />설명: will 의문문 형태"
+      - type: qna
+        question: "25. I'm meet him tomorrow."
+        answer: "I'm meeting him tomorrow.<br />설명: 현재진행형은 -ing 형태"
+      - type: text
+        content: "<span class='highlight'>Part E: 영작 (각 3점, 총 15점)</span>"
+      - type: qna
+        question: "26. 나는 내일 친구를 만날 거야. (확정된 약속)"
+        answer: "I'm meeting my friend tomorrow.<br />평가: 현재진행형 사용, 문법 올바름"
+      - type: qna
+        question: "27. 그녀는 해외로 유학 갈 거야. (계획)"
+        answer: "She's going to study abroad.<br />평가: be going to 사용, 문법 올바름"
+      - type: qna
+        question: "28. 내가 도와줄게. (지금 결정)"
+        answer: "I'll help you. / I will help you.<br />평가: will 사용, 문법 올바름"
+      - type: qna
+        question: "29. 비가 올 것 같아. (구름을 보고)"
+        answer: "It's going to rain.<br />평가: be going to 사용 (증거 기반 예측)"
+      - type: qna
+        question: "30. 너 이번 주말에 뭐 할 거야? (질문)"
+        answer: "What are you doing this weekend? / What are you going to do this weekend?<br />평가: 현재진행형 또는 be going to 사용"
+      - type: text
+        content: "<span class='highlight'>Part F: 대화 완성 (총 15점)</span>"
+      - type: qna
+        question: "31. 다음 대화를 완성하세요. (10점)<br />A: What ___ you ___ (do) tomorrow?<br />B: I ___ (meet) my friend at 2. We ___ ___ ___ (watch) a movie.<br />A: Sounds fun! What movie ___ you ___ (see)?<br />B: We don't know yet. We ___ (decide) when we get there.<br />A: ___ you ___ (have) dinner together too?<br />B: Yes, I think we ___."
+        answer: "A: What are you doing tomorrow?<br />B: I'm meeting my friend at 2. We're going to watch a movie.<br />A: Sounds fun! What movie are you going to see?<br />B: We don't know yet. We'll decide when we get there.<br />A: Are you going to have dinner together too?<br />B: Yes, I think we will.<br />평가 기준: 모든 빈칸이 문법적으로 올바름, 상황에 맞는 미래 표현 선택"
+      - type: qna
+        question: "32. 세 가지 미래 표현의 차이를 예문과 함께 설명하세요. (5점)"
+        answer: "예시 답안:<br />• 현재진행형: I'm meeting him at 3. (이미 약속을 잡았음, 확정)<br />• be going to: I'm going to meet him. (만날 계획이 있음, 의도)<br />• will: I'll meet him. (지금 막 만나기로 결정함, 즉석)<br />차이: 확정 정도와 결정 시점이 다릅니다.<br />평가 기준: 세 가지 표현의 차이를 예문과 함께 설명하면 정답"
+      - type: text
+        content: "<span class='highlight'>Part G: 서술형 (총 15점)</span>"
+      - type: qna
+        question: "33. 내일 하루 계획을 8문장 이상으로 쓰세요. 현재진행형, be going to, will을 모두 사용하고, 확정된 약속, 계획, 즉석 결정을 구분하여 표현하세요. (15점)"
+        answer: "예시 답안: Tomorrow I'm having a math test at school. (확정 일정) I'm going to study tonight for the test. (계획) I think I'll do well. (예측) After school, I'm meeting my friend at the library. (확정 약속) We're going to do homework together. (계획) If we finish early, we'll go to the cafe. (조건부 결정) I'll call my mom when I'm done. (약속) I'm going to be home by 6. (계획/의도)<br />평가 기준: 8문장 이상, 세 가지 미래 표현 모두 사용, 각 표현의 용도에 맞게 사용, 문법적으로 올바름, 의미 연결성"
+      - type: note
+        content: "💯 채점하기:<br />총 85점 만점<br />77-85점: 완벽! 세 가지 미래 표현을 완벽하게 마스터했습니다! 🌟🌟🌟<br />68-76점: 아주 잘했어요! 조금만 더 연습하면 완벽합니다! 🌟🌟<br />51-67점: 잘하고 있어요! 틀린 부분을 복습하세요! 🌟<br />50점 이하: 기초를 다시 다져봅시다! Units 24-26을 천천히 복습하세요!"
+
+  - title: "10. 복습 계획표 & 자기 점검 (Review Schedule & Self-Assessment)"
+    items:
+      - type: text
+        content: "<span class='highlight'>복습 계획 (Spaced Repetition Schedule)</span>"
+      - type: list
+        heading: "효과적인 장기 기억을 위한 복습 일정"
+        list:
+          - "📅 오늘: 이 복습 자료 완료 ✓"
+          - "📅 내일 (1일 후): Section 3 회상 연습 다시 풀기"
+          - "📅 3일 후: Section 5 인터리빙 연습 다시 풀기"
+          - "📅 1주일 후: Section 9 최종 종합 평가 다시 풀기"
+          - "📅 2주일 후: 세 가지 미래 표현 비교 정리하기"
+          - "📅 1개월 후: 전체 Units 24-26 빠르게 훑어보기"
+      - type: note
+        content: "💡 복습 팁: 매일 실생활에서 미래 표현을 의식적으로 사용해 보세요. '내일 뭐 할 거야?'를 영어로 생각하는 습관을 들이세요!"
+      - type: text
+        content: "<span class='highlight'>자기 점검 체크리스트</span>"
+      - type: list
+        heading: "이제 나는 할 수 있다..."
+        list:
+          - "☑ 현재진행형으로 확정된 미래 일정을 표현할 수 있다"
+          - "☑ be going to로 미래 계획과 의도를 표현할 수 있다"
+          - "☑ will로 즉석 결정, 약속, 예측을 표현할 수 있다"
+          - "☑ 세 가지 미래 표현의 차이를 명확하게 설명할 수 있다"
+          - "☑ 상황에 맞는 미래 표현을 자연스럽게 선택할 수 있다"
+          - "☑ 미래 표현의 부정문과 의문문을 정확하게 만들 수 있다"
+          - "☑ 실생활에서 미래 표현을 자신 있게 사용할 수 있다"
+      - type: qna
+        question: "SC1. 위 체크리스트에서 몇 개를 체크했나요?"
+        answer: "7개: 완벽합니다! 자신감을 가지세요! 🌟🌟🌟<br />5-6개: 아주 잘했어요! 조금만 더 연습하면 완벽해요! 🌟🌟<br />3-4개: 잘하고 있어요! 약한 부분을 집중 복습하세요! 🌟<br />2개 이하: 괜찮아요! 천천히 각 Unit을 다시 복습해 봅시다!"
+      - type: qna
+        question: "SC2. 세 가지 미래 표현 중 가장 어려운 것은 무엇이었나요? 그 이유는?"
+        answer: "자유 답변. 많은 학습자들이 세 가지 표현의 차이를 구분하는 것을 어려워합니다. 각 표현의 '상황'을 기억하는 것이 중요합니다."
+      - type: qna
+        question: "SC3. 현재진행형 미래와 be going to의 차이를 이해하나요?"
+        answer: "할 수 있다면: 훌륭합니다! 미묘한 차이를 이해했어요!<br />어렵다면: 현재진행형은 '준비 완료', be going to는 '계획/의도'라고 기억하세요!"
+      - type: qna
+        question: "SC4. be going to와 will의 차이를 이해하나요?"
+        answer: "할 수 있다면: 완벽합니다! 가장 중요한 차이를 이해했어요!<br />어렵다면: be going to는 '미리 계획', will은 '지금 결정'이라고 기억하세요!"
+      - type: qna
+        question: "SC5. 실생활에서 미래 표현을 사용해 본 적이 있나요? 또는 언제 사용할 수 있을까요?"
+        answer: "자유 답변. 실생활 적용 계획을 세우는 것이 중요합니다. 예: 친구와 약속 잡기, 주말 계획 말하기, 방학 계획 쓰기 등"
+      - type: note
+        content: "🎉 축하합니다! Units 24-26 종합 복습을 완료했습니다!<br /><br />여러분은 이제 영어 미래 표현의 핵심을 모두 마스터했어요. 현재진행형 미래, be going to, will... 이 세 가지를 자유자재로 구분해서 사용할 수 있다는 것은 정말 대단한 일입니다!<br /><br />💪 앞으로 할 일:<br />1. 매일 내일 계획을 영어로 3문장씩 말해 보세요<br />2. 친구와 약속 잡을 때 영어로 생각해 보세요<br />3. 영어 대화를 들을 때 어떤 미래 표현을 쓰는지 주의 깊게 들어보세요<br /><br />미래 표현은 일상 대화에서 정말 자주 쓰입니다. 이제 여러분은 원어민처럼 상황에 맞는 미래 표현을 선택할 수 있어요!<br /><br />Remember: <br />• 확정 약속 = 현재진행형 (I'm meeting him at 3.)<br />• 미리 계획 = be going to (I'm going to study abroad.)<br />• 지금 결정 = will (I'll help you!)<br /><br />Keep practicing and you'll be perfect! 계속 파이팅! 🚀"
+
+pedagogical_design:
+  spaced_repetition:
+    - "Section 1: 복습 시작 전 사전 활성화"
+    - "Section 3: 즉각적인 회상 연습"
+    - "Section 10: 향후 복습 계획표 제공 (1일, 3일, 1주, 2주, 1개월)"
+
+  retrieval_practice:
+    - "Section 3: 힌트 없이 기억 인출하기"
+    - "Section 4: 진단 테스트로 약점 파악"
+    - "Section 9: 최종 종합 평가"
+
+  interleaving:
+    - "Section 5: 세 가지 미래 표현을 섞어서 연습"
+    - "Section 6: 레벨별 연습에서 다양한 상황 혼합"
+    - "Section 8: 흔한 실수를 무작위로 섞어 제시"
+
+  diagnostic_assessment:
+    - "Section 4: 각 문제마다 해당 Unit 표시로 약점 파악"
+    - "Section 9: 최종 평가 후 점수별 맞춤 피드백"
+
+  progressive_difficulty:
+    - "Section 6: Level 1 (기초) → Level 2 (중급) → Level 3 (고급)"
+    - "전체 구조: 개념 정리 → 진단 → 연습 → 통합 → 평가"
+
+  concrete_examples:
+    - "모든 예문이 6학년 학생의 실생활과 연결 (학교, 친구, 약속, 계획, 방학)"
+    - "Section 7: 실생활 통합 적용 (내일 계획, 주말 대화, 방학 계획)"
+
+  metacognition:
+    - "Section 1: 사전 자기 진단"
+    - "Section 10: 사후 자기 점검 및 학습 성찰"
+    - "각 섹션 후: 스스로 평가하고 약점 파악하기"
+
+  dual_coding:
+    - "이모지와 시각적 구조 활용 (☐, ☑, 🌟, 💡, 📅)"
+    - "표와 리스트로 개념 시각화"
+    - "색상 구분 (<span class='highlight'>)"
+
+  comparison_focus:
+    - "세 가지 미래 표현의 차이점에 특별히 집중"
+    - "같은 상황, 다른 표현의 뉘앙스 차이 설명"
+    - "상황별 적절한 표현 선택 연습"
+
+differentiation:
+  - "진단 테스트로 개인별 약점 파악 → 맞춤 복습 가능"
+  - "레벨별 연습으로 학습자 수준에 맞는 도전 제공"
+  - "선택적 섹션: 자신 있는 부분은 건너뛰고 어려운 부분 집중 가능"
+
+estimated_time:
+  - "Section 1-2: 5분 (진단 및 개념 정리)"
+  - "Section 3-4: 10분 (회상 및 진단)"
+  - "Section 5-6: 12분 (통합 연습)"
+  - "Section 7-8: 10분 (실생활 적용 및 오류 수정)"
+  - "Section 9: 20분 (최종 평가)"
+  - "Section 10: 3분 (자기 점검)"
+  - "총 예상 시간: 약 50-60분 (깊이 있게 할 경우)"
+  - "빠른 복습: 25분 (Section 3, 5, 9만 집중)"
+
+notes: |
+  이 복습 자료는 Units 24-26의 세 가지 미래 표현을 통합적으로 복습하도록 설계되었습니다.
+  단순히 각 표현을 개별적으로 연습하는 것이 아니라, 세 가지를 비교하고 대조하며(interleaving),
+  상황에 맞는 표현을 선택하는 능력을 기르는 데 중점을 두었습니다.
+
+  특히 다음 사항에 주의를 기울여 설계했습니다:
+  1. 세 가지 미래 표현의 미묘한 차이를 명확히 이해하기
+  2. 상황에 따라 적절한 표현을 선택하는 능력 기르기
+  3. 확정 정도의 차이 이해하기 (확정 > 계획 > 즉석)
+  4. 실생활 상황에서 자연스럽게 사용하기
+
+  한국 학습자들이 특히 어려워하는 부분:
+  - 현재진행형으로 미래를 표현할 수 있다는 개념
+  - be going to와 will의 차이 (미리 계획 vs 즉석 결정)
+  - going to 뒤에 동사원형 사용 (studying이 아닌 study)
+  - will과 going to를 함께 쓰는 오류
+
+  이러한 약점을 집중적으로 다루는 연습 문제들을 포함했습니다.

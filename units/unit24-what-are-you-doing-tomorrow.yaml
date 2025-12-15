@@ -1,0 +1,266 @@
+title: "Unit 24 · What are you doing tomorrow? (미래를 나타내는 현재진행형)"
+meta: "대상: 6학년 · 난이도: 중상 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "현재진행형(am/is/are + -ing)은 '지금 하고 있는 일'뿐만 아니라 '이미 계획된 미래의 일'도 표현할 수 있습니다. 특히 확정된 약속이나 일정을 말할 때 자주 사용합니다."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "<span class='highlight'>현재 진행 중:</span> I am studying now. (나는 지금 공부하고 있다)"
+          - "<span class='highlight'>확정된 미래:</span> I am studying tomorrow. (나는 내일 공부할 거다 - 이미 계획됨)"
+          - "<span class='highlight'>형태:</span> am/is/are + 동사-ing"
+          - "<span class='highlight'>미래 표현:</span> I am meeting him tomorrow. (내일 그를 만날 예정이다)"
+          - "<span class='highlight'>시간 표현과 함께:</span> tomorrow, tonight, next week, this evening 등"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• <strong>이미 확정된 계획:</strong> 약속을 잡았거나 일정이 정해진 경우<br />• <strong>가까운 미래:</strong> 주로 가까운 미래(내일, 이번 주 등)를 말할 때<br />• <strong>개인적 계획:</strong> 개인의 계획이나 약속을 강조<br />• <strong>확실성:</strong> '거의 확실한' 미래를 나타냄"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br /><strong>📌 확정된 약속:</strong> I'm meeting my friend at 3. (3시에 친구 만나기로 했어)<br /><strong>📌 정해진 일정:</strong> We're having a test tomorrow. (내일 시험 있어)<br /><strong>📌 이동/여행:</strong> I'm going to Seoul next week. (다음 주에 서울 가)<br /><strong>📌 행사/이벤트:</strong> They're coming to my party tonight. (그들이 오늘 밤 내 파티에 와)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "<strong>약속:</strong> I'm <span class='highlight'>meeting</span> Sarah at 5. (나는 5시에 Sarah를 만날 거야)"
+          - "<strong>이동:</strong> We're <span class='highlight'>going</span> to Busan tomorrow. (우리는 내일 부산에 갈 거야)"
+          - "<strong>방문:</strong> My grandparents are <span class='highlight'>coming</span> this weekend. (조부모님이 이번 주말에 오실 거야)"
+          - "<strong>참석:</strong> She's <span class='highlight'>attending</span> a concert tonight. (그녀는 오늘 밤 콘서트에 갈 거야)"
+          - "<strong>식사:</strong> We're <span class='highlight'>having</span> dinner with friends tomorrow. (우리는 내일 친구들과 저녁 먹을 거야)"
+          - "<strong>귀가:</strong> I'm <span class='highlight'>leaving</span> early today. (나는 오늘 일찍 떠날 거야)"
+          - "<strong>출발:</strong> The train is <span class='highlight'>departing</span> at 9. (기차가 9시에 출발해)"
+          - "<strong>도착:</strong> They're <span class='highlight'>arriving</span> tomorrow morning. (그들은 내일 아침에 도착할 거야)"
+          - "<strong>숙박:</strong> We're <span class='highlight'>staying</span> at a hotel next week. (우리는 다음 주에 호텔에 머물 거야)"
+          - "<strong>의문문:</strong> What are you <span class='highlight'>doing</span> tomorrow? (내일 뭐 할 거야?)"
+          - "<strong>부정문:</strong> I'm not <span class='highlight'>going</span> anywhere this weekend. (나는 이번 주말에 아무 데도 안 가)"
+          - "<strong>시간 명시:</strong> She's <span class='highlight'>coming</span> at 7 pm. (그녀는 오후 7시에 올 거야)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. be동사 빠뜨리기: I going tomorrow (X) → I am going tomorrow (O)<br />2. -ing 없이 사용: I am go tomorrow (X) → I am going tomorrow (O)<br />3. 시간 표현 없이 사용: I'm meeting him (불분명) → I'm meeting him tomorrow (O)<br />4. 불확실한 계획에 사용: Maybe I'm going (어색) → Maybe I will go (O)"
+      - type: text
+        content: "<span class='highlight'>비슷한 문법과의 차이점:</span><br />• <strong>현재진행 vs 미래진행:</strong> I'm studying. (지금) vs I'm studying tomorrow. (미래 계획)<br />• <strong>진행형 vs will:</strong> I'm meeting him. (확정된 약속) vs I'll meet him. (막 결정/약속)<br />• <strong>진행형 vs be going to:</strong> I'm going there. (일정 잡음) vs I'm going to go there. (의도/계획)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I'm meeting my friend tomorrow."
+          - "We're going to the movies tonight."
+          - "She's coming to my house this evening."
+          - "They're leaving next Monday."
+          - "He's having a party this weekend."
+          - "I'm not doing anything tomorrow."
+          - "Are you going anywhere next week?"
+          - "What are you doing tonight?"
+      - type: qna
+        question: "Q1. 위 문장들은 현재를 말하나요, 미래를 말하나요? 어떻게 알 수 있나요?"
+        answer: "미래를 말합니다. tomorrow, tonight, this evening, next Monday 같은 미래 시간 표현이 있기 때문입니다."
+      - type: qna
+        question: "Q2. 문장의 기본 형태는 무엇인가요?"
+        answer: "주어 + am/is/are + 동사-ing + 시간 표현<br />예: I am meeting my friend tomorrow."
+      - type: qna
+        question: "Q3. 부정문은 어떻게 만드나요?"
+        answer: "am/is/are 뒤에 not을 넣습니다.<br />예: I'm not doing anything tomorrow."
+      - type: qna
+        question: "Q4. 의문문은 어떻게 만드나요?"
+        answer: "am/is/are를 문장 앞으로 보냅니다.<br />예: Are you going anywhere next week?"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 현재진행형으로 미래를 표현할 때 어떤 의미를 나타내나요?"
+        answer: "이미 확정된 계획이나 약속을 나타냅니다.<br />평가 기준: '확정된', '계획된', '약속' 중 하나만 언급해도 정답."
+      - type: qna
+        question: "R2. 현재진행형 미래 표현의 기본 형태를 쓰세요."
+        answer: "am/is/are + 동사-ing + 미래 시간 표현<br />평가 기준: be동사 + -ing 형태를 언급하면 정답."
+      - type: qna
+        question: "R3. 'tomorrow', 'tonight', 'next week' 같은 표현은 왜 필요한가요?"
+        answer: "미래를 나타내는 것을 분명히 하기 위해서입니다. 시간 표현이 없으면 현재 진행인지 미래인지 헷갈릴 수 있습니다.<br />평가 기준: 미래를 명확히 하기 위해서라고 답하면 정답."
+      - type: qna
+        question: "R4. 기억나는 예문을 2개 써 보세요."
+        answer: "예시 답안: I'm meeting my friend tomorrow. / We're going to the movies tonight.<br />평가 기준: am/is/are + -ing + 미래시간 형태가 맞으면 정답."
+      - type: qna
+        question: "R5. 한국 학습자가 자주 하는 실수를 하나만 말해 보세요."
+        answer: "예시 답안: be동사를 빠뜨리는 것 / -ing를 안 붙이는 것<br />평가 기준: 하나만 제대로 말하면 정답."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 형태를 넣으세요."
+      - type: qna
+        question: "Q1. I _______ (meet) my friend tomorrow."
+        answer: "am meeting<br />설명: I + am + meeting 형태입니다."
+      - type: qna
+        question: "Q2. She _______ (go) to Seoul next week."
+        answer: "is going<br />설명: She + is + going 형태입니다."
+      - type: qna
+        question: "Q3. We _______ (have) a party tonight."
+        answer: "are having<br />설명: We + are + having 형태입니다."
+      - type: qna
+        question: "Q4. They _______ (come) tomorrow morning."
+        answer: "are coming<br />설명: They + are + coming 형태입니다."
+      - type: qna
+        question: "Q5. He _______ (leave) early tomorrow."
+        answer: "is leaving<br />설명: He + is + leaving 형태입니다."
+      - type: qna
+        question: "Q6. _______ you _______ (do) anything this weekend?"
+        answer: "Are, doing<br />설명: 의문문이므로 Are you doing 형태입니다."
+      - type: qna
+        question: "Q7. I _______ not _______ (go) anywhere tomorrow."
+        answer: "am, going<br />설명: 부정문이므로 am not going 형태입니다."
+      - type: qna
+        question: "Q8. What _______ she _______ (do) tonight?"
+        answer: "is, doing<br />설명: 의문문이므로 is she doing 형태입니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 내일 친구를 만날 거야."
+        answer: "I'm meeting my friend tomorrow. / I am meeting my friend tomorrow.<br />평가 기준: am meeting을 올바르게 사용하면 정답."
+      - type: qna
+        question: "T2. 그녀는 오늘 밤 파티에 갈 거야."
+        answer: "She's going to the party tonight. / She is going to the party tonight.<br />평가 기준: is going을 사용하면 정답."
+      - type: qna
+        question: "T3. 우리는 다음 주에 부산에 갈 거야."
+        answer: "We're going to Busan next week. / We are going to Busan next week.<br />평가 기준: are going을 사용하면 정답."
+      - type: qna
+        question: "T4. 그들은 내일 아침에 도착할 거야."
+        answer: "They're arriving tomorrow morning. / They are arriving tomorrow morning.<br />평가 기준: are arriving을 사용하면 정답."
+      - type: qna
+        question: "T5. 나는 이번 주말에 아무것도 안 할 거야."
+        answer: "I'm not doing anything this weekend. / I am not doing anything this weekend.<br />평가 기준: am not doing을 사용하면 정답."
+      - type: qna
+        question: "T6. 너 내일 뭐 할 거야?"
+        answer: "What are you doing tomorrow?<br />평가 기준: are you doing 순서가 맞으면 정답."
+      - type: qna
+        question: "T7. 그는 오늘 일찍 떠날 거야."
+        answer: "He's leaving early today. / He is leaving early today.<br />평가 기준: is leaving을 사용하면 정답."
+      - type: qna
+        question: "T8. 너 다음 주에 어디 가니?"
+        answer: "Are you going anywhere next week? / Where are you going next week?<br />평가 기준: are you going을 사용하면 정답."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I meet my friend. → 미래 계획으로 (tomorrow 사용)"
+        answer: "I'm meeting my friend tomorrow.<br />설명: am meeting 형태로 바꾸고 tomorrow를 추가합니다."
+      - type: qna
+        question: "TF2. She goes to Seoul. → 미래 계획으로 (next week 사용)"
+        answer: "She's going to Seoul next week.<br />설명: is going 형태로 바꾸고 next week를 추가합니다."
+      - type: qna
+        question: "TF3. I'm meeting him tomorrow. → 부정문으로"
+        answer: "I'm not meeting him tomorrow.<br />설명: am 뒤에 not을 넣습니다."
+      - type: qna
+        question: "TF4. They're coming tonight. → 의문문으로"
+        answer: "Are they coming tonight?<br />설명: Are를 문장 앞으로 보냅니다."
+      - type: qna
+        question: "TF5. We have a party. → 미래 계획으로 (tonight 사용)"
+        answer: "We're having a party tonight.<br />설명: are having 형태로 바꾸고 tonight을 추가합니다."
+      - type: qna
+        question: "TF6. She's leaving tomorrow. → 의문문으로"
+        answer: "Is she leaving tomorrow?<br />설명: Is를 문장 앞으로 보냅니다."
+      - type: qna
+        question: "TF7. You're doing something. → 부정문으로 (this weekend 사용)"
+        answer: "You're not doing anything this weekend.<br />설명: are 뒤에 not을 넣고, something을 anything으로 바꿉니다."
+      - type: qna
+        question: "TF8. He goes home. → 미래 계획으로 (early today 사용)"
+        answer: "He's going home early today.<br />설명: is going 형태로 바꾸고 early today를 추가합니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 영어로 만들어 보세요! 창의적으로 표현해도 좋습니다."
+      - type: qna
+        question: "A1. 내일의 계획 3가지를 써 보세요."
+        answer: "예시 답안: I'm meeting my friend at 3. I'm studying math in the evening. I'm going to bed early.<br />평가 기준: am/is/are + -ing + tomorrow(또는 시간) 형태를 3개 올바르게 사용하면 정답."
+      - type: qna
+        question: "A2. 이번 주말 계획을 3문장으로 써 보세요."
+        answer: "예시 답안: I'm going to the movies on Saturday. I'm visiting my grandparents on Sunday. I'm doing homework in the afternoon.<br />평가 기준: 주말 시간 표현과 함께 현재진행형을 올바르게 사용하면 정답."
+      - type: qna
+        question: "A3. 친구와 대화를 만들어 보세요. (무엇을 할 거냐고 묻고 답하기)"
+        answer: "예시 답안:<br />A: What are you doing tomorrow?<br />B: I'm meeting Sarah at the library. What about you?<br />A: I'm staying home and watching movies.<br />평가 기준: 의문문과 답변 형태가 올바르면 정답."
+      - type: qna
+        question: "A4. 다음 주 일정을 5문장 이상으로 써 보세요."
+        answer: "예시 답안: I'm going to school on Monday. I'm having a piano lesson on Tuesday. I'm meeting my friend on Wednesday. I'm playing soccer on Thursday. I'm going to my grandma's house on Friday.<br />평가 기준: 5문장 이상, 요일/시간 표현과 함께 올바르게 사용하면 정답."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 올바르게 고치세요:<br />a) I going to Seoul tomorrow.<br />b) She is go to the party tonight.<br />c) We're meeting he tomorrow."
+        answer: "a) I <span class='highlight'>am</span> going to Seoul tomorrow. (be동사 필요)<br />b) She is <span class='highlight'>going</span> to the party tonight. (-ing 필요)<br />c) We're meeting <span class='highlight'>him</span> tomorrow. (목적격 him 사용)"
+      - type: qna
+        question: "C2. 다음 빈칸을 채워서 대화를 완성하세요.<br />A: What _______ you _______ (do) this weekend?<br />B: I _______ (go) to Busan. My family _______ (visit) my uncle.<br />A: That sounds fun! How long _______ you _______ (stay)?<br />B: We _______ (stay) for two days."
+        answer: "A: What <span class='highlight'>are</span> you <span class='highlight'>doing</span> this weekend?<br />B: I <span class='highlight'>am going</span> to Busan. My family <span class='highlight'>is visiting</span> my uncle.<br />A: That sounds fun! How long <span class='highlight'>are</span> you <span class='highlight'>staying</span>?<br />B: We <span class='highlight'>are staying</span> for two days."
+      - type: qna
+        question: "C3. 다음을 영어로 써 보세요: 나는 내일 친구들을 만나고, 영화를 보고, 저녁을 함께 먹을 거야."
+        answer: "I'm meeting my friends tomorrow, watching a movie, and having dinner together. / Tomorrow I'm meeting my friends, we're watching a movie, and we're having dinner together.<br />평가 기준: 여러 활동을 현재진행형으로 연결하여 표현하면 정답."
+      - type: qna
+        question: "C4. 현재 진행 중인 일과 미래 계획을 각각 2문장씩 만들어 보세요."
+        answer: "예시 답안:<br />현재: I'm studying now. She's watching TV.<br />미래: I'm studying tomorrow. She's watching a movie tonight.<br />평가 기준: 현재와 미래를 구분해서 표현할 수 있으면 정답. 시간 표현으로 차이를 명확히 하면 더 좋음."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. 현재진행형으로 미래를 표현할 때 어떤 의미인가요?"
+        answer: "이미 확정된 계획이나 약속"
+      - type: qna
+        question: "SR2. I _______ (meet) my friend tomorrow."
+        answer: "am meeting"
+      - type: qna
+        question: "SR3. She _______ (go) to Seoul next week."
+        answer: "is going"
+      - type: qna
+        question: "SR4. We _______ (have) a party tonight."
+        answer: "are having"
+      - type: qna
+        question: "SR5. 번역: 나는 내일 친구를 만날 거야."
+        answer: "I'm meeting my friend tomorrow."
+      - type: qna
+        question: "SR6. 번역: 너 이번 주말에 뭐 할 거야?"
+        answer: "What are you doing this weekend?"
+      - type: qna
+        question: "SR7. I'm meeting him tomorrow. → 부정문으로"
+        answer: "I'm not meeting him tomorrow."
+      - type: qna
+        question: "SR8. They're coming tonight. → 의문문으로"
+        answer: "Are they coming tonight?"
+      - type: qna
+        question: "SR9. I going tomorrow (틀린 곳 찾아 고치기)"
+        answer: "I am going tomorrow (be동사 필요)"
+      - type: qna
+        question: "SR10. She is go tonight (틀린 곳 찾아 고치기)"
+        answer: "She is going tonight (-ing 필요)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. 현재진행형으로 미래를 표현하는 것과 현재를 표현하는 것을 구분할 수 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! 시간 표현으로 구분하는 것을 이해했습니다.<br />어렵다면: 괜찮아요. tomorrow, tonight 같은 미래 시간 표현이 있으면 미래라는 것을 기억하세요!"
+      - type: qna
+        question: "SC2. am/is/are + -ing 형태를 정확히 만들 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 형태를 완벽히 이해했네요.<br />어렵다면: be동사를 빠뜨리지 않도록 주의하세요. I + am, She/He + is, We/They + are를 기억하세요!"
+      - type: qna
+        question: "SC3. 의문문과 부정문을 만들 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 문장 변형을 자유자재로 할 수 있습니다.<br />어렵다면: 의문문은 be동사를 앞으로, 부정문은 be동사 뒤에 not을 넣는다는 것만 기억하세요!"
+      - type: qna
+        question: "SC4. 내일이나 주말 계획을 영어로 말할 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 이제 미래 계획을 자연스럽게 표현할 수 있어요.<br />어렵다면: 간단한 문장부터 시작하세요. I'm meeting... I'm going... 패턴으로 연습해 보세요."
+      - type: qna
+        question: "SC5. 오늘 배운 내용 중 가장 유용했던 부분은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 자신만의 학습 포인트를 찾는 것이 중요합니다!"
+      - type: note
+        content: "여기까지 완료했다면 정말 잘하고 있어요! 현재진행형으로 미래를 표현하는 것은 영어에서 아주 자주 쓰이는 방법입니다. 특히 약속이나 확정된 일정을 말할 때 원어민들이 자주 사용하죠. 계속 연습하면 자연스럽게 사용할 수 있을 거예요. 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 그리고 내일의 실제 계획을 영어로 3문장 이상 써 보세요!"
