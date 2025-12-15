@@ -1,0 +1,259 @@
+title: "Unit 29 · must (의무/강한 추측)"
+meta: "대상: 6학년 · 난이도: 중상 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "must는 '~해야 한다', '~임에 틀림없다'라는 뜻으로, 강한 의무나 확신에 찬 추측을 표현할 때 사용합니다."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "주어 + must + 동사원형 ~ (~해야 한다 / ~임에 틀림없다)"
+          - "부정문: must not (mustn't) - ~하면 안 된다 (금지)"
+          - "의문문: Must + 주어 + 동사원형~? (현대 영어에서는 잘 안 씀)"
+          - "과거형이 없음 (had to를 과거로 씀)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> must는 두 가지 주요 의미가 있습니다. (1) 의무: '반드시 ~해야 한다' (90% 확신) (2) 추측: '~임에 틀림없다' (95% 확신). must는 매우 강한 표현이므로 일상 대화에서는 have to를 더 자주 씁니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 강한 의무를 말할 때: You must do your homework. (너는 반드시 숙제를 해야 한다)<br />• 규칙이나 법을 말할 때: You must wear a seatbelt. (안전벨트를 매야 한다)<br />• 강한 추측을 할 때: She must be tired. (그녀는 틀림없이 피곤할 거야)<br />• 금지할 때 (mustn't): You mustn't smoke here. (여기서 담배 피우면 안 된다)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "I must finish this today. (나는 오늘 이것을 끝내야 한다) - 강한 의무"
+          - "Students must arrive on time. (학생들은 시간에 맞춰 도착해야 한다) - 규칙"
+          - "You mustn't use your phone in class. (수업 시간에 휴대폰을 쓰면 안 된다) - 금지"
+          - "He must be hungry. (그는 틀림없이 배고플 거야) - 강한 추측"
+          - "We must study hard. (우리는 열심히 공부해야 한다) - 의무"
+          - "You must be careful. (너는 조심해야 한다) - 경고"
+          - "It must be expensive. (그것은 틀림없이 비쌀 거야) - 추측"
+          - "You mustn't tell anyone. (아무한테도 말하면 안 돼) - 금지"
+          - "I must go now. (나는 이제 가야 해) - 필요성"
+          - "She must love music. (그녀는 틀림없이 음악을 좋아할 거야) - 추측"
+          - "You must wear a helmet. (헬멧을 써야 한다) - 안전 규칙"
+          - "They must be at home now. (그들은 지금 틀림없이 집에 있을 거야) - 추측"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. must 뒤에 to 넣기: I must to go (X) → I must go (O)<br />2. mustn't를 don't have to와 혼동: mustn't는 '하면 안 된다'(금지), don't have to는 '안 해도 된다'(불필요)<br />3. must의 과거형을 musted로: must에는 과거형이 없어요! had to를 씁니다."
+      - type: text
+        content: "<span class='highlight'>비슷한 문법과의 차이점:</span><br />• must vs have to: 둘 다 '~해야 한다'이지만, must는 화자의 강한 의지, have to는 외부 상황<br />  예) I must study. (내가 해야겠다고 느낌) vs I have to study. (시험이 있어서 해야 함)<br />• mustn't vs don't have to: 완전히 다른 의미!<br />  예) You mustn't go. (가면 안 돼 - 금지) vs You don't have to go. (안 가도 돼 - 불필요)<br />• must be vs might be: 확신의 강도 차이<br />  예) He must be sick. (틀림없이 아파 - 95%) vs He might be sick. (아플지도 - 30%)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I must do my homework."
+          - "You must be tired."
+          - "We must leave now."
+          - "She must be at school."
+          - "You mustn't run in the hallway."
+          - "They must be happy."
+          - "He must finish this."
+          - "You mustn't touch that."
+      - type: qna
+        question: "Q1. must 뒤에 오는 동사는 어떤 형태인가요?"
+        answer: "동사원형입니다. must do, must be, must leave처럼 항상 원형이 옵니다."
+      - type: qna
+        question: "Q2. must는 크게 어떤 두 가지 의미로 쓰이나요?"
+        answer: "(1) 의무: ~해야 한다 (2) 추측: ~임에 틀림없다"
+      - type: qna
+        question: "Q3. mustn't는 어떤 의미인가요?"
+        answer: "~하면 안 된다 (금지)의 의미입니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. must의 두 가지 주요 의미는 무엇인가요?"
+        answer: "(1) 강한 의무: ~해야 한다 (2) 강한 추측: ~임에 틀림없다<br />평가 기준: 두 가지를 모두 맞추면 정답입니다."
+      - type: qna
+        question: "R2. mustn't와 don't have to의 차이는 무엇인가요?"
+        answer: "mustn't: 하면 안 된다(금지), don't have to: 안 해도 된다(불필요)<br />평가 기준: 금지와 불필요의 차이를 언급하면 정답입니다."
+      - type: qna
+        question: "R3. must 뒤에는 어떤 형태의 동사가 오나요?"
+        answer: "동사원형이 옵니다.<br />평가 기준: 원형, 기본형이라고 답해도 정답입니다."
+      - type: qna
+        question: "R4. must와 have to의 차이는 무엇인가요?"
+        answer: "must: 화자의 강한 의지, have to: 외부 상황 때문<br />평가 기준: 주관적/객관적 의무의 차이를 언급하면 정답입니다."
+      - type: qna
+        question: "R5. must의 과거형은 무엇인가요?"
+        answer: "must에는 과거형이 없습니다. had to를 과거로 씁니다.<br />평가 기준: had to를 언급하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 must나 mustn't를 넣고 알맞은 문장을 완성하세요."
+      - type: qna
+        question: "Q1. I ___ finish my homework today. (오늘 숙제를 끝내야 한다)"
+        answer: "must<br />설명: 강한 의무를 나타낼 때 must를 씁니다."
+      - type: qna
+        question: "Q2. You ___ be late for school. (학교에 늦으면 안 된다)"
+        answer: "mustn't / must not<br />설명: 금지를 나타낼 때 mustn't를 씁니다."
+      - type: qna
+        question: "Q3. She ___ be very tired. (그녀는 매우 피곤할 게 틀림없다)"
+        answer: "must<br />설명: 강한 추측을 나타낼 때 must를 씁니다."
+      - type: qna
+        question: "Q4. We ___ study hard for the test. (시험을 위해 열심히 공부해야 한다)"
+        answer: "must<br />설명: 의무를 나타낼 때 must를 씁니다."
+      - type: qna
+        question: "Q5. You ___ use your phone during the exam. (시험 중에 전화기를 쓰면 안 된다)"
+        answer: "mustn't / must not<br />설명: 금지 규칙을 나타낼 때 mustn't를 씁니다."
+      - type: qna
+        question: "Q6. It ___ be expensive. (그것은 비쌀 게 틀림없다)"
+        answer: "must<br />설명: 확신에 찬 추측을 나타낼 때 must를 씁니다."
+      - type: qna
+        question: "Q7. You ___ wear a uniform at school. (학교에서 교복을 입어야 한다)"
+        answer: "must<br />설명: 규칙이나 의무를 나타낼 때 must를 씁니다."
+      - type: qna
+        question: "Q8. You ___ touch that. It's dangerous. (그것을 만지면 안 돼. 위험해)"
+        answer: "mustn't / must not<br />설명: 위험을 경고하며 금지할 때 mustn't를 씁니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 지금 가야 한다."
+        answer: "I must go now.<br />평가 기준: I must go와 now가 있으면 정답입니다."
+      - type: qna
+        question: "T2. 너는 숙제를 해야 한다."
+        answer: "You must do your homework.<br />평가 기준: You must do와 homework가 있으면 정답입니다."
+      - type: qna
+        question: "T3. 그는 틀림없이 배고플 거야."
+        answer: "He must be hungry.<br />평가 기준: He must be hungry가 정확하면 정답입니다."
+      - type: qna
+        question: "T4. 너는 여기서 뛰면 안 돼."
+        answer: "You mustn't run here.<br />평가 기준: You mustn't run과 here가 있으면 정답입니다."
+      - type: qna
+        question: "T5. 학생들은 시간에 맞춰 와야 한다."
+        answer: "Students must arrive on time. / Students must come on time.<br />평가 기준: Students must와 on time이 있으면 정답입니다."
+      - type: qna
+        question: "T6. 그녀는 틀림없이 집에 있을 거야."
+        answer: "She must be at home.<br />평가 기준: She must be at home이 정확하면 정답입니다."
+      - type: qna
+        question: "T7. 우리는 조심해야 한다."
+        answer: "We must be careful.<br />평가 기준: We must be careful이 정확하면 정답입니다."
+      - type: qna
+        question: "T8. 너는 아무한테도 말하면 안 돼."
+        answer: "You mustn't tell anyone.<br />평가 기준: You mustn't tell anyone이 있으면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I must go. → 부정문(금지)으로 바꾸세요."
+        answer: "I mustn't go.<br />설명: must 뒤에 not을 넣으면 금지의 의미가 됩니다."
+      - type: qna
+        question: "TF2. You should study. → must를 사용해서 더 강하게 바꾸세요."
+        answer: "You must study.<br />설명: should(~해야 한다)보다 must가 더 강한 의무입니다."
+      - type: qna
+        question: "TF3. He is sick. → must를 사용해서 추측으로 바꾸세요."
+        answer: "He must be sick.<br />설명: 확실한 사실을 must로 바꾸면 강한 추측이 됩니다."
+      - type: qna
+        question: "TF4. I had to go yesterday. → 현재로 바꾸세요."
+        answer: "I must go today. / I have to go today.<br />설명: had to의 현재형은 must 또는 have to입니다."
+      - type: qna
+        question: "TF5. You don't have to come. → mustn't를 사용해서 의미를 바꾸세요."
+        answer: "You mustn't come.<br />설명: don't have to(안 해도 됨)를 mustn't(하면 안 됨)로 바꾸면 의미가 완전히 달라집니다."
+      - type: qna
+        question: "TF6. She must be tired. → might를 사용해서 약하게 바꾸세요."
+        answer: "She might be tired.<br />설명: must(틀림없이)를 might(~일지도)로 바꾸면 확신이 약해집니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 영어로 만들어 보세요! 창의적으로 표현해도 좋습니다."
+      - type: qna
+        question: "A1. 오늘 반드시 해야 하는 일 2가지를 must를 사용해서 써 보세요."
+        answer: "예시 답안: I must finish my homework. I must clean my room.<br />평가 기준: I must + 동사원형을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A2. 학교에서 하면 안 되는 것 2가지를 mustn't를 사용해서 써 보세요."
+        answer: "예시 답안: We mustn't run in the hallway. We mustn't use phones in class.<br />평가 기준: mustn't + 동사원형을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A3. 지금 친구의 상황을 추측하는 문장을 must를 사용해서 2개 써 보세요."
+        answer: "예시 답안: My friend must be studying now. She must be busy.<br />평가 기준: must를 사용해서 추측을 표현하면 정답입니다."
+      - type: qna
+        question: "A4. 건강을 위해 해야 하는 것을 must를 사용해서 써 보세요."
+        answer: "예시 답안: We must exercise regularly. We must eat healthy food.<br />평가 기준: We must + 동사원형을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A5. 안전을 위해 하면 안 되는 것을 mustn't를 사용해서 써 보세요."
+        answer: "예시 답안: You mustn't cross the street without looking. You mustn't play with fire.<br />평가 기준: You mustn't + 동사원형을 올바르게 사용하면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 올바르게 고치세요: 'You must to wear a uniform.'"
+        answer: "올바른 문장: You must wear a uniform.<br />설명: must 뒤에는 to 없이 동사원형만 와야 합니다."
+      - type: qna
+        question: "C2. mustn't와 don't have to의 차이를 설명하고, 각각 예문을 만들어 보세요."
+        answer: "mustn't: 금지(하면 안 됨), don't have to: 불필요(안 해도 됨)<br />예: You mustn't smoke here. (피우면 안 돼) / You don't have to come. (안 와도 돼)<br />평가 기준: 차이를 설명하고 예문이 맞으면 정답입니다."
+      - type: qna
+        question: "C3. 다음 상황을 must를 사용해서 추측해 보세요: 밖에 사람들이 우산을 쓰고 있어요."
+        answer: "It must be raining. / It must rain outside.<br />평가 기준: must를 사용해서 비가 온다는 추측을 하면 정답입니다."
+      - type: qna
+        question: "C4. must와 have to의 차이를 설명하고, 언제 must를 더 많이 쓰는지 말해 보세요."
+        answer: "must: 화자의 주관적 의무, have to: 객관적/외부 상황<br />must는 규칙, 강한 권고, 확신 있는 추측에 더 많이 씁니다.<br />평가 기준: 주관적/객관적 차이를 언급하면 정답입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. 빈칸 채우기: I ___ go now. (가야 한다)"
+        answer: "must"
+      - type: qna
+        question: "SR2. 빈칸 채우기: You ___ be late. (늦으면 안 된다)"
+        answer: "mustn't / must not"
+      - type: qna
+        question: "SR3. 빈칸 채우기: She ___ be tired. (피곤할 게 틀림없다)"
+        answer: "must"
+      - type: qna
+        question: "SR4. 번역하기: 나는 숙제를 해야 한다."
+        answer: "I must do my homework."
+      - type: qna
+        question: "SR5. 번역하기: 너는 여기서 뛰면 안 돼."
+        answer: "You mustn't run here."
+      - type: qna
+        question: "SR6. 번역하기: 그는 틀림없이 집에 있을 거야."
+        answer: "He must be at home."
+      - type: qna
+        question: "SR7. 변형하기: You should study. → must로 바꾸기"
+        answer: "You must study."
+      - type: qna
+        question: "SR8. 틀린 곳 찾기: I must to finish this."
+        answer: "I must finish this. (to 삭제)"
+      - type: qna
+        question: "SR9. 의미 차이: mustn't vs don't have to"
+        answer: "mustn't: 하면 안 됨(금지), don't have to: 안 해도 됨(불필요)"
+      - type: qna
+        question: "SR10. 번역하기: 우리는 조심해야 한다."
+        answer: "We must be careful."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. must의 두 가지 주요 의미(의무와 추측)를 이해하고 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! must의 핵심 개념을 완벽히 이해했습니다.<br />어렵다면: must는 '해야 한다'(의무)와 '틀림없다'(추측) 두 가지 의미라고 기억하세요."
+      - type: qna
+        question: "SC2. mustn't와 don't have to의 차이를 설명할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 많은 학생들이 헷갈려하는 부분을 마스터했어요.<br />어렵다면: mustn't는 금지(X), don't have to는 선택(O)이라고 기억하세요."
+      - type: qna
+        question: "SC3. must를 사용해서 강한 의무나 추측을 표현할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 실생활에서 자신있게 사용할 수 있습니다.<br />어렵다면: 예문을 참고해서 연습해 보세요. 문맥이 의무인지 추측인지 판단하는 게 중요해요."
+      - type: qna
+        question: "SC4. must와 have to의 미묘한 차이를 이해하고 있나요?"
+        answer: "할 수 있다면: 대단합니다! 고급 영어 표현을 이해했어요.<br />어렵다면: must는 내 생각, have to는 상황 때문이라고 기억하세요."
+      - type: qna
+        question: "SC5. 오늘 배운 내용 중 가장 중요하다고 생각하는 부분은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 자신만의 학습 포인트를 찾는 것이 중요합니다!"
+      - type: note
+        content: "여기까지 완료했다면 정말 잘하고 있어요! must는 강한 의무와 확신을 표현하는 중요한 조동사입니다. 특히 mustn't와 don't have to의 차이는 많은 영어 학습자들이 어려워하는 부분인데, 이걸 이해했다면 정말 대단해요. 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 책을 보지 않고 풀 수 있다면 완벽하게 이해한 것입니다!"

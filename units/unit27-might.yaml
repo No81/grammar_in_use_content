@@ -1,0 +1,259 @@
+title: "Unit 27 · might (가능성/추측)"
+meta: "대상: 6학년 · 난이도: 중상 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "might는 '~일지도 모른다', '~할 수도 있다'라는 뜻으로, 확실하지 않은 가능성을 표현할 때 사용합니다."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "주어 + might + 동사원형 ~ (~일지도 모른다)"
+          - "부정문: 주어 + might not + 동사원형 ~ (~가 아닐지도 모른다)"
+          - "의문문은 거의 사용하지 않음 (Do you think...? 형태로 물음)"
+          - "과거: 주어 + might have + 과거분사 (과거에 ~했을지도 모른다)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> might는 약 30~50% 정도의 불확실한 가능성을 나타냅니다. 'maybe(아마도)'와 비슷한 느낌이에요. will(확실함)보다 훨씬 약하고, may와 거의 같은 의미이지만 might가 조금 더 불확실합니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 미래 계획이 확실하지 않을 때: I might go to the movies tomorrow. (내일 영화 보러 갈지도 몰라)<br />• 현재 상황을 추측할 때: She might be at home now. (그녀는 지금 집에 있을지도 몰라)<br />• 제안이나 조언을 부드럽게 할 때: You might want to bring an umbrella. (우산을 가져가는 게 좋을지도 몰라)<br />• 가능성을 말할 때: It might rain later. (나중에 비가 올지도 몰라)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "I might be late for school. (학교에 늦을지도 몰라) - 미래 가능성"
+          - "He might not come to the party. (그는 파티에 안 올지도 몰라) - 부정적 가능성"
+          - "We might visit Seoul next month. (다음 달에 서울에 갈지도 몰라) - 계획"
+          - "The test might be difficult. (시험이 어려울지도 몰라) - 추측"
+          - "She might like this gift. (그녀가 이 선물을 좋아할지도 몰라) - 가능성"
+          - "They might be playing soccer now. (그들은 지금 축구하고 있을지도 몰라) - 현재 진행 추측"
+          - "It might snow tomorrow. (내일 눈이 올지도 몰라) - 날씨 예측"
+          - "You might be right. (네가 맞을지도 몰라) - 동의"
+          - "I might change my mind. (마음을 바꿀지도 몰라) - 미래 행동"
+          - "The store might be closed. (가게가 문을 닫았을지도 몰라) - 현재 상태 추측"
+          - "He might have forgotten about it. (그가 그걸 잊었을지도 몰라) - 과거 추측"
+          - "We might need more time. (시간이 더 필요할지도 몰라) - 필요성"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. might 뒤에 to 넣기: I might to go (X) → I might go (O)<br />2. might 뒤에 동사 s 붙이기: He might goes (X) → He might go (O)<br />3. 의문문을 Might I~?로 만들기: 현대 영어에서는 거의 사용 안 함 → Do you think I might~? (O)"
+      - type: text
+        content: "<span class='highlight'>비슷한 문법과의 차이점:</span><br />• might vs may: 둘 다 '~일지도 모른다'이지만, might가 조금 더 불확실함<br />  예) It may rain. (비올 수도 있어 - 50%) vs It might rain. (비올지도 몰라 - 30-40%)<br />• might vs will: will은 확실한 미래, might는 불확실한 가능성<br />  예) I will go. (확실히 갈 거야) vs I might go. (갈지도 몰라)<br />• might vs could: could는 능력이나 가능성, might는 추측<br />  예) He could swim. (수영할 수 있다 - 능력) vs He might swim. (수영할지도 몰라 - 추측)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I might go to the library after school."
+          - "She might be sick today."
+          - "We might not have enough time."
+          - "It might rain this afternoon."
+          - "They might come to visit us."
+          - "You might like this book."
+          - "He might be at the park now."
+          - "The bus might be late."
+      - type: qna
+        question: "Q1. might 뒤에 오는 동사는 어떤 형태인가요?"
+        answer: "동사원형입니다. might go, might be, might come처럼 항상 원형이 옵니다."
+      - type: qna
+        question: "Q2. might는 주로 어떤 의미를 표현하나요?"
+        answer: "확실하지 않은 가능성, 추측, 불확실한 미래 계획 등을 표현합니다. '~일지도 모른다'는 뜻입니다."
+      - type: qna
+        question: "Q3. 부정문은 어떻게 만드나요?"
+        answer: "might not을 사용합니다. might 뒤에 not을 넣으면 됩니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. might는 몇 퍼센트 정도의 가능성을 나타내나요?"
+        answer: "약 30~50% 정도의 불확실한 가능성을 나타냅니다.<br />평가 기준: 낮은 가능성, 불확실한 가능성이라고 답해도 정답입니다."
+      - type: qna
+        question: "R2. might 뒤에는 어떤 형태의 동사가 오나요?"
+        answer: "동사원형이 옵니다.<br />평가 기준: 원형, 기본형이라고 답해도 정답입니다."
+      - type: qna
+        question: "R3. might와 will의 차이는 무엇인가요?"
+        answer: "will은 확실한 미래, might는 불확실한 가능성입니다.<br />평가 기준: 확실함과 불확실함의 차이를 언급하면 정답입니다."
+      - type: qna
+        question: "R4. 'I might to go'가 왜 틀렸나요?"
+        answer: "might 뒤에는 to 없이 동사원형만 옵니다. 올바른 문장: I might go<br />평가 기준: to를 빼야 한다고 말하면 정답입니다."
+      - type: qna
+        question: "R5. might는 주로 어떤 상황에서 사용하나요?"
+        answer: "확실하지 않은 계획, 추측, 가능성을 말할 때 사용합니다.<br />평가 기준: 하나 이상 맞으면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 might와 알맞은 동사원형을 넣으세요."
+      - type: qna
+        question: "Q1. I ___ ___ to the park later. (go)"
+        answer: "might go<br />설명: might 뒤에는 동사원형 go가 옵니다."
+      - type: qna
+        question: "Q2. She ___ ___ at home now. (be)"
+        answer: "might be<br />설명: might 뒤에는 be동사도 원형인 be가 옵니다."
+      - type: qna
+        question: "Q3. It ___ ___ tomorrow. (rain)"
+        answer: "might rain<br />설명: 날씨 예측에 might를 자주 사용합니다."
+      - type: qna
+        question: "Q4. We ___ not ___ enough time. (have)"
+        answer: "might not have<br />설명: 부정문은 might not + 동사원형입니다."
+      - type: qna
+        question: "Q5. They ___ ___ to the party. (come)"
+        answer: "might come<br />설명: 불확실한 계획을 might로 표현합니다."
+      - type: qna
+        question: "Q6. You ___ ___ this movie. (like)"
+        answer: "might like<br />설명: 가능성을 추측할 때 might를 씁니다."
+      - type: qna
+        question: "Q7. He ___ ___ late today. (be)"
+        answer: "might be<br />설명: 현재 상황을 추측할 때도 might를 씁니다."
+      - type: qna
+        question: "Q8. The store ___ ___ closed. (be)"
+        answer: "might be<br />설명: 현재 상태를 추측하는 표현입니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 내일 늦을지도 몰라."
+        answer: "I might be late tomorrow.<br />평가 기준: I might be late가 있고 tomorrow나 시간 표현이 있으면 정답입니다."
+      - type: qna
+        question: "T2. 그녀는 지금 도서관에 있을지도 몰라."
+        answer: "She might be at the library now. / She might be in the library now.<br />평가 기준: She might be와 library가 있으면 정답입니다."
+      - type: qna
+        question: "T3. 비가 올지도 몰라."
+        answer: "It might rain.<br />평가 기준: It might rain이 정확하면 정답입니다."
+      - type: qna
+        question: "T4. 우리는 그 영화를 보러 갈지도 몰라."
+        answer: "We might go to see the movie. / We might watch the movie.<br />평가 기준: We might와 동사원형, movie가 있으면 정답입니다."
+      - type: qna
+        question: "T5. 그는 파티에 안 올지도 몰라."
+        answer: "He might not come to the party.<br />평가 기준: He might not come과 party가 있으면 정답입니다."
+      - type: qna
+        question: "T6. 시험이 어려울지도 몰라."
+        answer: "The test might be difficult. / The test might be hard.<br />평가 기준: The test might be와 어렵다는 의미의 형용사가 있으면 정답입니다."
+      - type: qna
+        question: "T7. 네가 맞을지도 몰라."
+        answer: "You might be right.<br />평가 기준: You might be right가 정확하면 정답입니다."
+      - type: qna
+        question: "T8. 그들은 도움이 필요할지도 몰라."
+        answer: "They might need help.<br />평가 기준: They might need help가 있으면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I will go to the park. → might를 사용해서 불확실하게 바꾸세요."
+        answer: "I might go to the park.<br />설명: will(확실함)을 might(불확실함)로 바꾸면 됩니다."
+      - type: qna
+        question: "TF2. She is at home. → might를 사용해서 추측으로 바꾸세요."
+        answer: "She might be at home.<br />설명: 확실한 사실을 might로 바꾸면 추측이 됩니다."
+      - type: qna
+        question: "TF3. We might go to Seoul. → 부정문으로 바꾸세요."
+        answer: "We might not go to Seoul.<br />설명: might 뒤에 not을 넣으면 됩니다."
+      - type: qna
+        question: "TF4. It might rain. → 주어를 The weather로 바꾸세요."
+        answer: "The weather might be rainy. / The weather might be bad.<br />설명: 주어가 바뀌어도 might + 동사원형 구조는 같습니다."
+      - type: qna
+        question: "TF5. He might be sick. → maybe를 사용해서 같은 의미로 바꾸세요."
+        answer: "Maybe he is sick.<br />설명: might는 maybe + 일반 문장으로 바꿀 수 있습니다."
+      - type: qna
+        question: "TF6. They are coming. → might를 사용해서 불확실하게 바꾸세요."
+        answer: "They might come. / They might be coming.<br />설명: 확실한 미래를 might로 바꾸면 불확실한 가능성이 됩니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 영어로 만들어 보세요! 창의적으로 표현해도 좋습니다."
+      - type: qna
+        question: "A1. 이번 주말 계획 중 확실하지 않은 것 2가지를 might를 사용해서 써 보세요."
+        answer: "예시 답안: I might go shopping on Saturday. I might visit my grandparents.<br />평가 기준: might + 동사원형을 올바르게 사용하면 정답입니다. 내용은 자유롭게 인정해 주세요."
+      - type: qna
+        question: "A2. 지금 이 순간 친구가 뭘 하고 있을지 추측하는 문장 2개를 써 보세요."
+        answer: "예시 답안: My friend might be doing homework. He might be playing games.<br />평가 기준: might be ~ing나 might + 동사원형을 사용하고 의미가 통하면 정답입니다."
+      - type: qna
+        question: "A3. 내일 날씨가 어떨지 might를 사용해서 예측해 보세요."
+        answer: "예시 답안: It might rain tomorrow. It might be sunny.<br />평가 기준: It might와 날씨 표현이 있으면 정답입니다."
+      - type: qna
+        question: "A4. 당신이 내년에 할지도 모르는 일 2가지를 써 보세요."
+        answer: "예시 답안: I might learn to play the piano. I might join a soccer club.<br />평가 기준: might + 동사원형을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A5. 친구에게 '네가 이 책을 좋아할지도 몰라'라고 말하는 문장을 써 보세요."
+        answer: "예시 답안: You might like this book.<br />평가 기준: You might like this book이 정확하면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 올바르게 고치세요: 'He might goes to the party.'"
+        answer: "올바른 문장: He might go to the party.<br />설명: might 뒤에는 항상 동사원형이 와야 하므로 goes를 go로 바꿔야 합니다."
+      - type: qna
+        question: "C2. might와 will을 사용해서 확실함의 차이를 보여주는 두 문장을 만들어 보세요."
+        answer: "예시 답안: I will finish my homework tonight. (확실함) / I might watch TV later. (불확실함)<br />평가 기준: will과 might의 차이가 명확하게 드러나면 정답입니다."
+      - type: qna
+        question: "C3. 다음 상황에서 might를 사용한 조언을 해 보세요: 친구가 내일 소풍 가는데 날씨가 불확실해요."
+        answer: "You might want to bring an umbrella. / It might rain, so take a jacket.<br />평가 기준: might를 사용해서 적절한 조언을 하면 정답입니다."
+      - type: qna
+        question: "C4. 'I might to see a movie'가 틀린 이유를 설명하고 올바른 문장을 쓰세요."
+        answer: "올바른 문장: I might see a movie.<br />설명: might는 조동사이므로 뒤에 to 없이 동사원형만 와야 합니다. might to는 틀린 표현입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. 빈칸 채우기: I ___ go to the park. (갈지도 몰라)"
+        answer: "might"
+      - type: qna
+        question: "SR2. 빈칸 채우기: She ___ ___ at home. (be - 있을지도 몰라)"
+        answer: "might be"
+      - type: qna
+        question: "SR3. 빈칸 채우기: It ___ rain tomorrow."
+        answer: "might"
+      - type: qna
+        question: "SR4. 번역하기: 그는 늦을지도 몰라."
+        answer: "He might be late."
+      - type: qna
+        question: "SR5. 번역하기: 우리는 영화를 볼지도 몰라."
+        answer: "We might see a movie. / We might watch a movie."
+      - type: qna
+        question: "SR6. 변형하기: I will go. → might를 사용해서"
+        answer: "I might go."
+      - type: qna
+        question: "SR7. 부정문 만들기: He might come. → 부정문으로"
+        answer: "He might not come."
+      - type: qna
+        question: "SR8. 틀린 곳 찾기: She might goes there."
+        answer: "She might go there. (goes → go)"
+      - type: qna
+        question: "SR9. 번역하기: 네가 맞을지도 몰라."
+        answer: "You might be right."
+      - type: qna
+        question: "SR10. 빈칸 채우기: They ___ not come. (안 올지도 몰라)"
+        answer: "might"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. might 뒤에 어떤 형태의 동사가 오는지 알고 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! might의 기본 구조를 완벽히 이해했습니다.<br />어렵다면: 괜찮아요. 'might + 동사원형'을 종이에 5번 써 보세요. 예: might go, might be, might come"
+      - type: qna
+        question: "SC2. might와 will의 차이를 설명할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 확실함과 불확실함의 차이를 이해했네요.<br />어렵다면: will은 '확실히 ~할 거야', might는 '~할지도 몰라'라고 기억하세요."
+      - type: qna
+        question: "SC3. might를 사용해서 불확실한 계획이나 추측을 표현할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 이제 실생활에서도 사용할 준비가 됐습니다.<br />어렵다면: 예문을 참고해서 자신의 상황에 맞게 하나씩 바꿔 보세요."
+      - type: qna
+        question: "SC4. 'might to go'가 왜 틀렸는지 이해하고 있나요?"
+        answer: "할 수 있다면: 대단합니다! 조동사의 특성을 이해했어요.<br />어렵다면: 조동사 뒤에는 항상 동사원형만 온다는 걸 기억하세요. to는 필요 없어요!"
+      - type: qna
+        question: "SC5. 오늘 배운 내용 중 가장 유용했던 부분은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 자신만의 학습 포인트를 찾는 것이 중요합니다!"
+      - type: note
+        content: "여기까지 완료했다면 정말 잘하고 있어요! might는 일상 대화에서 아주 자주 쓰이는 표현입니다. 확실하지 않을 때 might를 자연스럽게 사용할 수 있다면 영어가 훨씬 더 원어민처럼 들릴 거예요. 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 책을 보지 않고 풀 수 있다면 완벽하게 이해한 것입니다!"
