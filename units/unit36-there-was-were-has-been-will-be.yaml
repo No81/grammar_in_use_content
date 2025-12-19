@@ -1,0 +1,264 @@
+title: "Unit 36 · there was/were, there has/have been, there will be (과거/현재완료/미래 존재 표현)"
+meta: "대상: 6학년 · 난이도: 중상 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "there is/are를 배웠다면, 이제 과거와 미래에도 '~이 있었다', '~이 있을 것이다'를 표현할 수 있습니다. 시제에 따라 was/were, will be를 주로 사용하고, 현재완료 has/have been도 알아 봅시다."
+      - type: list
+        heading: "형식 (Form) - 시제별 정리"
+        list:
+          - "**과거 (Past)**: There was + 단수 명사 / There were + 복수 명사"
+          - "**현재 (Present)**: There is + 단수 명사 / There are + 복수 명사"
+          - "**미래 (Future)**: There will be + 명사 (단수/복수 동일)"
+          - "**현재완료 (Present Perfect) - 심화**: There has been (단수) / There have been (복수)"
+          - "부정문: wasn't, weren't, won't be (주로 사용) / hasn't been, haven't been (심화)"
+          - "의문문: Was there~? Were there~? Will there be~? (주로 사용)"
+          - "시간 표현: yesterday/last week (과거), tomorrow/next week (미래)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• there was/were: 과거의 특정 시점에 존재했던 것 (어제, 지난주 등)<br />• there will be: 미래에 있을 것 (내일, 다음 주 등)<br />• there has/have been (심화): 과거부터 지금까지 계속 있었거나 최근에 있었던 것<br /><br /><span class='highlight'>시간 순서로 이해하기:</span><br />과거 ← → 현재 ← → 미래<br />There was/were → There is/are → There will be"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 과거: There was a festival yesterday. (어제 축제가 있었다) - 끝난 일<br />• 미래: There will be a test next week. (다음 주에 시험이 있을 것이다) - 아직 안 일어난 일<br />• 변화 비교: There were 20 students, but now there are 25. (20명이었는데 지금은 25명이다)<br />• 현재완료 (심화): There has been a problem since morning. (아침부터 문제가 있어 왔다) - 과거부터 지금까지"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "There was a big storm last night. (어젯밤에 큰 폭풍이 있었다) - 과거 단수"
+          - "There were many people at the park. (공원에 사람들이 많았다) - 과거 복수"
+          - "There has been an accident. (사고가 났다) - 현재완료"
+          - "There have been many changes. (많은 변화가 있었다) - 현재완료 복수"
+          - "There will be a party tomorrow. (내일 파티가 있을 거다) - 미래"
+          - "Was there a meeting yesterday? (어제 회의가 있었나요?) - 과거 의문문"
+          - "There wasn't any homework last week. (지난주에는 숙제가 없었다) - 과거 부정문"
+          - "There won't be school next Monday. (다음 월요일에는 학교가 없을 거다) - 미래 부정문"
+          - "There have been three tests this month. (이번 달에 시험이 세 번 있었다) - 현재완료"
+          - "There will be a new student in our class. (우리 반에 새 학생이 올 거다) - 미래"
+          - "There were 10 cookies, but now there are only 3. (쿠키가 10개였는데 이제 3개만 있다) - 변화"
+          - "Has there been any news? (무슨 소식 있었어?) - 현재완료 의문문"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 과거 단수/복수 혼동: There was people (X) → There were people (O)<br />2. will be 뒤의 단복수: There will be는 단수/복수 모두 같은 형태입니다<br />3. has/have 혼동: There have been a problem (X) → There has been a problem (O)<br />4. 시제 혼용: There was a test tomorrow (X) → There will be a test tomorrow (O)"
+      - type: text
+        content: "<span class='highlight'>비슷한 문법과의 차이점:</span><br />• there was vs there has been (심화): was는 과거의 특정 시점, has been은 과거부터 지금까지<br />  예) There was a problem yesterday. (어제 문제가 있었다 - 끝남) vs There has been a problem. (문제가 있어 왔다 - 지금도)<br />• there were vs they were: there were는 존재, they were는 이미 언급된 것들의 상태<br />  예) There were cats. (고양이들이 있었다) vs They were black. (그것들은 검은색이었다)"
+      - type: text
+        content: "<span class='highlight'>한국어와의 차이점:</span><br />• 한국어: '있었다' 하나로 과거 표현<br />• 영어: 단수(was) vs 복수(were)를 구분해야 함<br />  예) 학생이 있었다 (There was a student) vs 학생들이 있었다 (There were students)<br />• 시간 표현을 명확히: yesterday (어제), last week (지난주), tomorrow (내일), next week (다음 주)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "There was a party last Saturday."
+          - "There were 30 students in the class last year."
+          - "There has been a change in the schedule."
+          - "There have been many complaints."
+          - "There will be a field trip next month."
+          - "There will be new books in the library."
+          - "Was there a problem?"
+          - "Will there be food at the event?"
+      - type: qna
+        question: "Q1. there 뒤에 오는 동사들을 시제별로 정리해 보세요."
+        answer: "과거: was (단수), were (복수)<br />현재완료: has been (단수), have been (복수)<br />미래: will be (단수/복수 동일)"
+      - type: qna
+        question: "Q2. there will be는 단수일 때와 복수일 때 형태가 다른가요?"
+        answer: "아니요, will be는 단수와 복수 모두 같은 형태를 사용합니다."
+      - type: qna
+        question: "Q3. 과거와 현재완료의 차이는 무엇인가요?"
+        answer: "과거(was/were)는 과거의 특정 시점에 있었던 것이고, 현재완료(has/have been)는 과거부터 지금까지 계속되거나 최근에 일어난 것입니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. '어제 파티가 있었다'를 영어로 어떻게 말하나요?"
+        answer: "There was a party yesterday.<br />평가 기준: There was를 사용하면 정답입니다."
+      - type: qna
+        question: "R2. 과거에 there was와 there were 중 어떤 것을 쓸지 어떻게 결정하나요?"
+        answer: "뒤에 오는 명사가 단수면 was, 복수면 were를 씁니다.<br />평가 기준: 단수/복수로 결정한다는 점을 언급하면 정답입니다."
+      - type: qna
+        question: "R3. there will be의 부정형은 무엇인가요?"
+        answer: "there won't be / there will not be<br />평가 기준: won't be 또는 will not be를 쓰면 정답입니다."
+      - type: qna
+        question: "R4. 아까 본 예문 중 현재완료(has/have been)를 사용한 문장을 하나 떠올려 보세요."
+        answer: "예시 답안: There has been a change. / There have been many complaints. 등<br />평가 기준: has/have been을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "R5. 'There was people at the park'이 왜 틀렸는지 설명해 보세요."
+        answer: "people은 복수이므로 was가 아니라 were를 써야 합니다. 올바른 문장: There were people at the park.<br />평가 기준: 복수이므로 were를 써야 한다는 점을 언급하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 형태를 넣으세요. (was, were, has been, have been, will be)"
+      - type: qna
+        question: "Q1. There ___ a storm last night."
+        answer: "was<br />설명: last night은 과거이고 a storm은 단수이므로 was를 씁니다."
+      - type: qna
+        question: "Q2. There ___ many students yesterday."
+        answer: "were<br />설명: yesterday는 과거이고 many students는 복수이므로 were를 씁니다."
+      - type: qna
+        question: "Q3. There ___ a meeting tomorrow."
+        answer: "will be<br />설명: tomorrow는 미래이므로 will be를 씁니다."
+      - type: qna
+        question: "Q4. There ___ been a problem since morning."
+        answer: "has<br />설명: since morning은 현재완료 표현이고 a problem은 단수이므로 has been을 씁니다."
+      - type: qna
+        question: "Q5. ___ there a test last week?"
+        answer: "Was<br />설명: last week은 과거이고 의문문이므로 Was를 맨 앞에 씁니다."
+      - type: qna
+        question: "Q6. There ___ be a party next Friday."
+        answer: "will<br />설명: next Friday는 미래이므로 will be를 씁니다."
+      - type: qna
+        question: "Q7. There ___ been many changes recently."
+        answer: "have<br />설명: recently는 현재완료 표현이고 many changes는 복수이므로 have been을 씁니다."
+      - type: qna
+        question: "Q8. There ___ not any people at the park yesterday."
+        answer: "were<br />설명: yesterday는 과거이고 people은 복수이므로 were를 씁니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 어제 학교에 행사가 있었다."
+        answer: "There was an event at school yesterday. / There was a school event yesterday.<br />평가 기준: There was와 yesterday가 있으면 정답입니다."
+      - type: qna
+        question: "T2. 지난주에 학생들이 많았다."
+        answer: "There were many students last week.<br />평가 기준: There were와 last week이 있으면 정답입니다."
+      - type: qna
+        question: "T3. 내일 시험이 있을 것이다."
+        answer: "There will be a test tomorrow. / There will be an exam tomorrow.<br />평가 기준: There will be와 tomorrow가 있으면 정답입니다."
+      - type: qna
+        question: "T4. 최근에 많은 변화가 있었다."
+        answer: "There have been many changes recently.<br />평가 기준: There have been과 recently가 있으면 정답입니다."
+      - type: qna
+        question: "T5. 어제 숙제가 없었다."
+        answer: "There wasn't any homework yesterday. / There was no homework yesterday.<br />평가 기준: There wasn't/was no와 yesterday가 있으면 정답입니다."
+      - type: qna
+        question: "T6. 다음 주에 새 학생이 올 것이다."
+        answer: "There will be a new student next week.<br />평가 기준: There will be와 new student, next week이 있으면 정답입니다."
+      - type: qna
+        question: "T7. 아침부터 문제가 있어 왔다."
+        answer: "There has been a problem since morning.<br />평가 기준: There has been과 since morning이 있으면 정답입니다."
+      - type: qna
+        question: "T8. 작년에 우리 반에 학생이 25명 있었다."
+        answer: "There were 25 students in our class last year.<br />평가 기준: There were 25 students와 last year가 있으면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. There is a problem. → 과거형으로 바꾸세요."
+        answer: "There was a problem.<br />설명: is를 과거형 was로 바꿉니다."
+      - type: qna
+        question: "TF2. There are students. → 과거형으로 바꾸세요."
+        answer: "There were students.<br />설명: are를 과거형 were로 바꿉니다."
+      - type: qna
+        question: "TF3. There was a party. → 미래형으로 바꾸세요."
+        answer: "There will be a party.<br />설명: was를 미래형 will be로 바꿉니다."
+      - type: qna
+        question: "TF4. There will be a test. → 부정문으로 바꾸세요."
+        answer: "There won't be a test. / There will not be a test.<br />설명: will 뒤에 not을 넣습니다."
+      - type: qna
+        question: "TF5. There were people. → 의문문으로 바꾸세요."
+        answer: "Were there people? / Were there any people?<br />설명: were를 맨 앞으로 보냅니다."
+      - type: qna
+        question: "TF6. There is a book. → 현재완료로 바꾸세요."
+        answer: "There has been a book.<br />설명: is를 현재완료 has been으로 바꿉니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "과거, 현재, 미래의 경험을 영어로 표현해 보세요!"
+      - type: qna
+        question: "A1. 지난주에 학교에서 있었던 일을 2문장으로 설명하세요."
+        answer: "예시 답안: There was a science fair last week. There were many projects.<br />평가 기준: There was/were를 올바르게 사용하고 과거 시간 표현이 있으면 정답입니다."
+      - type: qna
+        question: "A2. 다음 주에 당신의 학교나 집에서 일어날 일을 2문장으로 설명하세요."
+        answer: "예시 답안: There will be a field trip next week. There will be no classes on Friday.<br />평가 기준: There will be를 사용하고 미래 시간 표현이 있으면 정답입니다."
+      - type: qna
+        question: "A3. 작년과 올해의 변화를 비교하는 문장 2개를 만드세요."
+        answer: "예시 답안: There were 20 students last year, but there are 25 students now. There was no computer room, but now there is one.<br />평가 기준: 과거와 현재를 비교하며 올바른 시제를 사용하면 정답입니다."
+      - type: qna
+        question: "A4. 최근에 당신 주변에서 일어난 변화를 현재완료로 2문장 만드세요."
+        answer: "예시 답안: There has been a new cafe near my house. There have been many new students this semester.<br />평가 기준: There has/have been을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A5. 어제와 오늘의 날씨를 비교해서 설명하세요."
+        answer: "예시 답안: There was a lot of rain yesterday. But today there is sunshine.<br />평가 기준: 과거와 현재 시제를 올바르게 사용하면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 시제를 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 올바르게 고치세요: 'There was many students in the gym.'"
+        answer: "올바른 문장: There were many students in the gym.<br />설명: many students는 복수이므로 was가 아니라 were를 써야 합니다."
+      - type: qna
+        question: "C2. 다음 빈칸을 채우세요:<br />Yesterday, there ___ a party. Today, there ___ a meeting. Tomorrow, there ___ a test."
+        answer: "Yesterday, there was a party. Today, there is a meeting. Tomorrow, there will be a test.<br />설명: 각각 과거(was), 현재(is), 미래(will be)를 사용합니다."
+      - type: qna
+        question: "C3. there was와 there has been의 차이를 설명하고, 각각 예문을 만드세요. (심화 문제)"
+        answer: "there was는 과거의 특정 시점 (끝난 일), there has been은 과거부터 지금까지입니다.<br />예문: There was a problem yesterday. (어제 문제가 있었다 - 이제 해결됨) / There has been a problem since morning. (아침부터 지금까지 문제가 계속됨)<br />설명: was는 '끝난 과거', has been은 '지금까지 이어지는 것'입니다. 6학년에게는 어려울 수 있으니 was/were와 will be를 먼저 확실히 익히세요!<br />평가 기준: 차이점을 이해하고 적절한 예문을 만들면 정답입니다."
+      - type: qna
+        question: "C4. 다음 대화를 완성하세요:<br />A: ___ there a test last week?<br />B: Yes, there ___. And there ___ be another test next week.<br />A: Oh no! ___ there ___ many tests this month?<br />B: Yes, there ___."
+        answer: "A: Was there a test last week?<br />B: Yes, there was. And there will be another test next week.<br />A: Oh no! Have there been many tests this month?<br />B: Yes, there have.<br />설명: 과거(was), 미래(will be), 현재완료(have been)를 적절히 사용합니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. 빈칸 채우기: There ___ a party yesterday."
+        answer: "was"
+      - type: qna
+        question: "SR2. 빈칸 채우기: There ___ many people last week."
+        answer: "were"
+      - type: qna
+        question: "SR3. 빈칸 채우기: There ___ be a test tomorrow."
+        answer: "will"
+      - type: qna
+        question: "SR4. 번역하기: 어제 문제가 있었다."
+        answer: "There was a problem yesterday."
+      - type: qna
+        question: "SR5. 번역하기: 내일 파티가 있을 것이다."
+        answer: "There will be a party tomorrow."
+      - type: qna
+        question: "SR6. 변형하기: There was a dog. → 복수로"
+        answer: "There were dogs."
+      - type: qna
+        question: "SR7. 변형하기: There will be a test. → 부정문으로"
+        answer: "There won't be a test. / There will not be a test."
+      - type: qna
+        question: "SR8. 틀린 곳 찾기: There will be a test yesterday."
+        answer: "There was a test yesterday. (will be → was)"
+      - type: qna
+        question: "SR9. 빈칸: There ___ been many changes."
+        answer: "have"
+      - type: qna
+        question: "SR10. 번역하기: 최근에 사고가 있었다."
+        answer: "There has been an accident recently."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. 과거, 현재, 미래에 따라 there 뒤의 동사를 올바르게 선택할 수 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! 시제 변화를 완벽히 이해했습니다.<br />어렵다면: 괜찮아요. 과거(was/were), 현재(is/are), 미래(will be)를 표로 정리해서 붙여 두세요!"
+      - type: qna
+        question: "SC2. 과거형에서 단수와 복수를 구분해서 was/were를 쓸 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 과거 시제를 마스터했네요.<br />어렵다면: 천천히 연습해 보세요. 명사를 보고 하나면 was, 여러 개면 were라고 기억하세요."
+      - type: qna
+        question: "SC3. there was와 there has been의 차이를 설명할 수 있나요? (심화)"
+        answer: "할 수 있다면: 완벽해요! 미묘한 시제 차이까지 이해했습니다. 정말 대단해요!<br />어렵다면: 괜찮아요! 이건 심화 내용이에요. was는 '끝난 과거', has been은 '지금까지 이어지는 것'인데, 6학년에게는 어려울 수 있어요. 먼저 was/were와 will be만 확실히 익히세요!"
+      - type: qna
+        question: "SC4. 과거, 현재, 미래를 섞어서 자연스럽게 말할 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 실제 대화에서 바로 활용할 수 있겠어요.<br />어렵다면: 시간 표현(yesterday, now, tomorrow)과 함께 연습하면 쉬워집니다."
+      - type: qna
+        question: "SC5. 오늘 배운 내용 중 가장 어려웠던 부분은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 어려운 부분을 인식하는 것이 발전의 시작입니다!"
+      - type: note
+        content: "여기까지 완료했다면 정말 잘하고 있어요! 여러 시제의 there 표현을 배웠습니다. 과거의 추억, 미래의 계획을 이야기할 때 유용하게 쓸 수 있어요. 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 시제를 헷갈리지 않고 풀 수 있다면 완벽하게 이해한 것입니다!"
