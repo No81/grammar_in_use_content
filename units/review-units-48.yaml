@@ -1,0 +1,612 @@
+title: "Unit 48 종합 복습 (Reported Speech Comprehensive Review)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 45-60분 (A4 4p)"
+review_scope: "Reported Speech Grammar (Unit 48)"
+units_covered:
+  - "Unit 48: She said that... He told me that... (간접화법)"
+
+sections:
+  - title: "1. 간접화법 문법 맵 (Grammar Map)"
+    items:
+      - type: text
+        content: "간접화법(Reported Speech)은 다른 사람의 말을 전달할 때 사용하는 표현입니다. 직접화법은 따옴표로 그 사람의 말을 그대로 전달하고, 간접화법은 전달자의 관점에서 바꿔서 말합니다. Unit 48에서 배운 간접화법의 핵심 요소를 정리해 봅시다!"
+      - type: list
+        heading: "간접화법의 4가지 핵심 변화"
+        list:
+          - "1. 동사 선택: said vs told - 목적어 유무로 결정"
+          - "2. 시제 변화: 현재 → 과거, will → would, can → could"
+          - "3. 인칭 변화: I → he/she, we → they, my → his/her"
+          - "4. 시간/장소 표현 변화: today → that day, now → then, here → there"
+      - type: list
+        heading: "직접화법 vs 간접화법 기본 구조"
+        list:
+          - "직접화법: She said, \"I am happy.\" (따옴표 사용)"
+          - "간접화법: She said (that) she was happy. (that절 사용)"
+          - "핵심: 간접화법에서는 시제, 인칭, 시간/장소 표현을 모두 바꿔야 합니다!"
+      - type: list
+        heading: "said vs told 사용법"
+        list:
+          - "said: 목적어 없이 사용 → He said (that) he was tired."
+          - "said to: 사람에게 말할 때 → He said to me (that) he was tired."
+          - "told: 반드시 목적어(사람)와 함께 → He told me (that) he was tired."
+          - "주의: said me (X), told (X 목적어 없이) 불가능!"
+      - type: list
+        heading: "시제 변화 규칙표"
+        list:
+          - "am/is → was: \"I am tired.\" → He said he was tired."
+          - "are → were: \"We are ready.\" → They said they were ready."
+          - "have/has → had: \"I have finished.\" → He said he had finished."
+          - "will → would: \"I will help.\" → She said she would help."
+          - "can → could: \"I can swim.\" → He said he could swim."
+          - "like/likes → liked: \"I like pizza.\" → She said she liked pizza."
+          - "don't/doesn't → didn't: \"I don't know.\" → He said he didn't know."
+      - type: list
+        heading: "인칭 변화 규칙표"
+        list:
+          - "I → he/she: \"I am happy.\" → He said he was happy."
+          - "my → his/her: \"It's my book.\" → She said it was her book."
+          - "we → they: \"We are going.\" → They said they were going."
+          - "our → their: \"It's our house.\" → They said it was their house."
+          - "you(대상) → I/me: \"You are smart.\" → He told me I was smart."
+      - type: list
+        heading: "시간/장소 표현 변화표"
+        list:
+          - "today → that day: \"I'm busy today.\" → He said he was busy that day."
+          - "tomorrow → the next day: \"I'll go tomorrow.\" → She said she would go the next day."
+          - "yesterday → the day before: \"I saw him yesterday.\" → She said she had seen him the day before."
+          - "now → then: \"I'm eating now.\" → He said he was eating then."
+          - "here → there: \"I'm here.\" → She said she was there."
+          - "this → that: \"I love this game.\" → He said he loved that game."
+      - type: note
+        content: "이 복습은 약 45-60분이 소요됩니다. 시간이 부족하다면 Section 3, 4, 8만 풀어도 효과적인 복습이 됩니다! (약 30분)"
+
+  - title: "2. 핵심 개념 비교 (Contrastive Analysis)"
+    items:
+      - type: text
+        content: "간접화법에서 헷갈리기 쉬운 부분들을 비교해 봅시다. 차이점을 명확히 알면 실수를 줄일 수 있어요!"
+      - type: list
+        heading: "비교 1: said vs told"
+        list:
+          - "said: 목적어가 없거나 to + 사람"
+          - "  예: He said (that) he was happy."
+          - "  예: He said to me (that) he was happy."
+          - "told: 반드시 목적어(사람)가 필요"
+          - "  예: He told me (that) he was happy."
+          - "  오류: He said me... (X) / He told that... (X)"
+      - type: qna
+        question: "C1. 다음 중 올바른 문장은? 왜 나머지는 틀렸나요?<br />a) She said me that she was tired.<br />b) She told that she was tired.<br />c) She said that she was tired.<br />d) She told me that she was tired."
+        answer: "c)와 d)가 올바른 문장입니다.<br />a) said 뒤에 바로 me를 쓸 수 없습니다. (said to me는 가능)<br />b) told 뒤에는 반드시 목적어(사람)가 필요합니다."
+      - type: list
+        heading: "비교 2: 직접화법 vs 간접화법"
+        list:
+          - "직접화법: 그 사람이 한 말을 그대로 전달"
+          - "  구조: 주어 + said, \"원래 문장.\""
+          - "  예: Tom said, \"I am hungry.\""
+          - "간접화법: 전달자의 관점에서 바꿔서 전달"
+          - "  구조: 주어 + said (that) + 바뀐 문장"
+          - "  예: Tom said (that) he was hungry."
+          - "  변화: I → he, am → was"
+      - type: qna
+        question: "C2. 다음 직접화법을 간접화법으로 바꿀 때, 무엇이 바뀌어야 하나요?<br />Lisa said, \"I will call you tomorrow.\""
+        answer: "1. I → she (인칭 변화)<br />2. will → would (시제 변화)<br />3. you → me (나에게 말한 경우)<br />4. tomorrow → the next day (시간 표현 변화)<br />결과: Lisa told me (that) she would call me the next day."
+      - type: list
+        heading: "비교 3: 시제 변화 - 왜 바뀌어야 할까?"
+        list:
+          - "원리: 과거에 한 말을 지금 전달하기 때문!"
+          - "그 사람이 말할 당시: 현재 (\"I am happy.\")"
+          - "지금 전달할 때: 이미 과거가 됨 (she was happy)"
+          - "즉, 모든 것을 한 단계 과거로 이동!"
+      - type: qna
+        question: "C3. 다음 시제 변화를 완성하세요.<br />a) am/is → ___<br />b) are → ___<br />c) will → ___<br />d) can → ___<br />e) have/has → ___"
+        answer: "a) am/is → was<br />b) are → were<br />c) will → would<br />d) can → could<br />e) have/has → had"
+      - type: list
+        heading: "비교 4: 인칭 변화 - 누구의 관점인가?"
+        list:
+          - "원리: 말한 사람의 관점 → 전달자의 관점으로 바꿈"
+          - "Tom: \"I am tired.\" (Tom의 관점에서 I = Tom)"
+          - "전달: Tom said he was tired. (전달자 관점에서 I → he)"
+          - "주의: 문맥에 따라 바뀌는 인칭이 다를 수 있음!"
+      - type: qna
+        question: "C4. 다음 인칭 변화를 완성하세요.<br />a) I → ___ (남자가 말했을 때)<br />b) I → ___ (여자가 말했을 때)<br />c) my → ___ (남자의 것)<br />d) we → ___<br />e) our → ___"
+        answer: "a) I → he<br />b) I → she<br />c) my → his<br />d) we → they<br />e) our → their"
+      - type: list
+        heading: "비교 5: 시간/장소 표현 - 관점의 이동"
+        list:
+          - "원리: 말한 시점과 전달하는 시점이 다름!"
+          - "어제 친구가 'today'라고 말한 것 → 오늘 전달할 때는 'that day'"
+          - "어제 친구가 'tomorrow'라고 말한 것 → 오늘은 이미 'today'가 됨 → 'the next day'"
+      - type: qna
+        question: "C5. 다음 시간/장소 표현 변화를 완성하세요.<br />a) today → ___<br />b) tomorrow → ___<br />c) yesterday → ___<br />d) now → ___<br />e) here → ___"
+        answer: "a) today → that day<br />b) tomorrow → the next day<br />c) yesterday → the day before<br />d) now → then<br />e) here → there"
+
+  - title: "3. 통합 진단 (Diagnostic Assessment)"
+    items:
+      - type: note
+        content: "설명을 보지 말고 풀어보세요! 각 문제는 특정 영역을 테스트합니다. 틀린 문제를 통해 약점을 파악하세요."
+      - type: text
+        content: "<span class='highlight'>Part A: said vs told 구별 (5문제)</span>"
+      - type: qna
+        question: "D1. He ___ that he was tired. (said/told)"
+        answer: "said<br />영역: said vs told - 목적어가 없으므로 said<br />틀렸다면 → Section 7의 'said vs told 복습' 참고"
+      - type: qna
+        question: "D2. She ___ me that she would come. (said/told)"
+        answer: "told<br />영역: said vs told - 목적어 me가 있으므로 told<br />틀렸다면 → Section 7의 'said vs told 복습' 참고"
+      - type: qna
+        question: "D3. 틀린 부분을 찾으세요: 'He said me that he was happy.'"
+        answer: "said me → told me 또는 said to me<br />영역: said vs told - said 뒤에 바로 목적어 불가<br />틀렸다면 → Section 7의 'said vs told 복습' 참고"
+      - type: qna
+        question: "D4. 틀린 부분을 찾으세요: 'She told that she was busy.'"
+        answer: "told → said 또는 told me/him/her/us<br />영역: said vs told - told 뒤에는 반드시 목적어 필요<br />틀렸다면 → Section 7의 'said vs told 복습' 참고"
+      - type: qna
+        question: "D5. 빈칸을 채우세요: The teacher ___ us that we had a test."
+        answer: "told<br />영역: said vs told - 목적어 us가 있으므로 told"
+      - type: text
+        content: "<span class='highlight'>Part B: 시제 변화 (5문제)</span>"
+      - type: qna
+        question: "D6. \"I am happy.\" → She said she ___ happy."
+        answer: "was<br />영역: 시제 변화 - am → was<br />틀렸다면 → Section 7의 '시제 변화 복습' 참고"
+      - type: qna
+        question: "D7. \"I will help you.\" → He told me he ___ help me."
+        answer: "would<br />영역: 시제 변화 - will → would<br />틀렸다면 → Section 7의 '시제 변화 복습' 참고"
+      - type: qna
+        question: "D8. \"I can swim.\" → She said she ___ swim."
+        answer: "could<br />영역: 시제 변화 - can → could<br />틀렸다면 → Section 7의 '시제 변화 복습' 참고"
+      - type: qna
+        question: "D9. \"I have finished my homework.\" → He said he ___ finished his homework."
+        answer: "had<br />영역: 시제 변화 - have → had<br />틀렸다면 → Section 7의 '시제 변화 복습' 참고"
+      - type: qna
+        question: "D10. \"I don't like spicy food.\" → She said she ___ like spicy food."
+        answer: "didn't<br />영역: 시제 변화 - don't → didn't<br />틀렸다면 → Section 7의 '시제 변화 복습' 참고"
+      - type: text
+        content: "<span class='highlight'>Part C: 인칭 변화 (5문제)</span>"
+      - type: qna
+        question: "D11. Tom said, \"I am tired.\" → Tom said ___ was tired."
+        answer: "he<br />영역: 인칭 변화 - I → he (Tom은 남자)<br />틀렸다면 → Section 7의 '인칭 변화 복습' 참고"
+      - type: qna
+        question: "D12. Lisa said, \"It's my book.\" → Lisa said it was ___ book."
+        answer: "her<br />영역: 인칭 변화 - my → her (Lisa는 여자)<br />틀렸다면 → Section 7의 '인칭 변화 복습' 참고"
+      - type: qna
+        question: "D13. They said, \"We are going to the park.\" → They said ___ were going to the park."
+        answer: "they<br />영역: 인칭 변화 - we → they<br />틀렸다면 → Section 7의 '인칭 변화 복습' 참고"
+      - type: qna
+        question: "D14. Mom said, \"I am cooking dinner.\" → Mom said ___ was cooking dinner."
+        answer: "she<br />영역: 인칭 변화 - I → she (Mom은 여자)<br />틀렸다면 → Section 7의 '인칭 변화 복습' 참고"
+      - type: qna
+        question: "D15. He said to me, \"You are smart.\" → He told me ___ was smart."
+        answer: "I<br />영역: 인칭 변화 - you(나에게 말함) → I<br />틀렸다면 → Section 7의 '인칭 변화 복습' 참고"
+      - type: text
+        content: "<span class='highlight'>Part D: 시간/장소 표현 변화 (5문제)</span>"
+      - type: qna
+        question: "D16. \"I'm busy today.\" → He said he was busy ___."
+        answer: "that day<br />영역: 시간/장소 변화 - today → that day<br />틀렸다면 → Section 7의 '시간/장소 표현 복습' 참고"
+      - type: qna
+        question: "D17. \"I'll come tomorrow.\" → She said she would come ___."
+        answer: "the next day<br />영역: 시간/장소 변화 - tomorrow → the next day<br />틀렸다면 → Section 7의 '시간/장소 표현 복습' 참고"
+      - type: qna
+        question: "D18. \"I'm here.\" → He said he was ___."
+        answer: "there<br />영역: 시간/장소 변화 - here → there<br />틀렸다면 → Section 7의 '시간/장소 표현 복습' 참고"
+      - type: qna
+        question: "D19. \"I'm studying now.\" → She said she was studying ___."
+        answer: "then<br />영역: 시간/장소 변화 - now → then<br />틀렸다면 → Section 7의 '시간/장소 표현 복습' 참고"
+      - type: qna
+        question: "D20. \"I saw him yesterday.\" → She said she had seen him ___."
+        answer: "the day before<br />영역: 시간/장소 변화 - yesterday → the day before<br />틀렸다면 → Section 7의 '시간/장소 표현 복습' 참고"
+      - type: note
+        content: "채점 가이드:<br />Part A (said/told): ___/5점<br />Part B (시제 변화): ___/5점<br />Part C (인칭 변화): ___/5점<br />Part D (시간/장소): ___/5점<br />총점: ___/20점<br /><br />18-20점: 완벽합니다!<br />14-17점: 잘하고 있어요! 약한 영역만 복습하세요.<br />10-13점: 복습이 필요합니다. Section 7을 꼼꼼히 공부하세요.<br />9점 이하: Unit 48 원본을 다시 학습한 후 이 복습을 다시 풀어보세요."
+
+  - title: "4. 인터리빙 연습 (Interleaved Practice)"
+    items:
+      - type: note
+        content: "모든 개념이 섞여 있습니다! 어떤 유형의 문제인지 스스로 판단하며 풀어보세요. 이렇게 하면 실제 상황에서 더 잘 적용할 수 있습니다."
+      - type: qna
+        question: "I1. 빈칸: She ___ me that she was coming. (said/told)"
+        answer: "told<br />설명: 목적어 me가 있으므로 told"
+      - type: qna
+        question: "I2. 변환: \"I am hungry.\" → Tom said..."
+        answer: "Tom said (that) he was hungry.<br />설명: I → he, am → was"
+      - type: qna
+        question: "I3. 빈칸: \"I will call you.\" → He said he ___ call me."
+        answer: "would<br />설명: will → would"
+      - type: qna
+        question: "I4. 오류 수정: He said that he is tired."
+        answer: "He said that he was tired.<br />설명: 시제 변화 - is → was"
+      - type: qna
+        question: "I5. 변환: \"I can play the piano.\" → She said..."
+        answer: "She said (that) she could play the piano.<br />설명: I → she, can → could"
+      - type: qna
+        question: "I6. 빈칸: The teacher ___ that we had homework. (said/told)"
+        answer: "said<br />설명: 목적어가 없으므로 said"
+      - type: qna
+        question: "I7. 변환: \"I'm busy today.\" → He said..."
+        answer: "He said (that) he was busy that day.<br />설명: I → he, am → was, today → that day"
+      - type: qna
+        question: "I8. 오류 수정: She told that she would help."
+        answer: "She said that she would help. 또는 She told me that she would help.<br />설명: told 뒤에는 목적어가 필요하거나 said 사용"
+      - type: qna
+        question: "I9. 빈칸: Lisa said it was ___ book. (my → ?)"
+        answer: "her<br />설명: Lisa가 자기 책이라고 한 것이므로 my → her"
+      - type: qna
+        question: "I10. 변환: \"We are going to the park.\" → They said..."
+        answer: "They said (that) they were going to the park.<br />설명: We → They, are → were"
+      - type: qna
+        question: "I11. 객관식: \"I have done my homework.\" → He said he ___ done his homework.<br />a) has  b) have  c) had"
+        answer: "c) had<br />설명: have → had"
+      - type: qna
+        question: "I12. 오류 수정: She said me that she was happy."
+        answer: "She told me that she was happy. 또는 She said to me that she was happy.<br />설명: said 뒤에 바로 목적어 불가"
+      - type: qna
+        question: "I13. 변환: \"I'll go tomorrow.\" → She said..."
+        answer: "She said (that) she would go the next day.<br />설명: I → she, will → would, tomorrow → the next day"
+      - type: qna
+        question: "I14. 빈칸: He told me ___ was smart. (you → ?)"
+        answer: "I<br />설명: 나에게 '너'라고 말한 것이므로 you → I"
+      - type: qna
+        question: "I15. 변환: \"I'm here now.\" → She said..."
+        answer: "She said (that) she was there then.<br />설명: I → she, am → was, here → there, now → then"
+      - type: qna
+        question: "I16. 객관식: He ___ the movie was boring.<br />a) said  b) told  c) said me"
+        answer: "a) said<br />설명: 목적어가 없으므로 said"
+      - type: qna
+        question: "I17. 변환: Mom said, \"I am cooking dinner.\" → 간접화법으로"
+        answer: "Mom said (that) she was cooking dinner.<br />설명: I → she, am → was"
+      - type: qna
+        question: "I18. 오류 수정: They said they would come tomorrow."
+        answer: "They said they would come the next day.<br />설명: 간접화법에서 tomorrow → the next day"
+      - type: qna
+        question: "I19. 빈칸: \"I don't like spinach.\" → He said he ___ like spinach."
+        answer: "didn't<br />설명: don't → didn't"
+      - type: qna
+        question: "I20. 변환: \"It's our house.\" → They said..."
+        answer: "They said (that) it was their house.<br />설명: our → their, is → was"
+      - type: qna
+        question: "I21. 오류 수정: He said he can help me."
+        answer: "He said he could help me.<br />설명: 시제 변화 - can → could"
+      - type: qna
+        question: "I22. 변환: \"I saw him yesterday.\" → She said..."
+        answer: "She said (that) she had seen him the day before.<br />설명: I → she, saw → had seen, yesterday → the day before"
+      - type: qna
+        question: "I23. 빈칸: My brother ___ us that he was learning to drive. (said/told)"
+        answer: "told<br />설명: 목적어 us가 있으므로 told"
+      - type: qna
+        question: "I24. 변환: \"The food is delicious.\" → He said..."
+        answer: "He said (that) the food was delicious.<br />설명: is → was"
+      - type: qna
+        question: "I25. 오류 수정: She said that I am happy."
+        answer: "She said that she was happy.<br />설명: I → she, am → was (인칭과 시제 모두 변화)"
+      - type: qna
+        question: "I26. 변환: \"I love this game.\" → He said..."
+        answer: "He said (that) he loved that game.<br />설명: I → he, love → loved, this → that"
+      - type: qna
+        question: "I27. 객관식: She ___ me that she would call me.<br />a) said  b) told  c) say"
+        answer: "b) told<br />설명: 목적어 me가 있으므로 told"
+      - type: qna
+        question: "I28. 변환: \"We will win the game.\" → They said..."
+        answer: "They said (that) they would win the game.<br />설명: We → They, will → would"
+      - type: qna
+        question: "I29. 오류 수정: Tom said Tom was tired."
+        answer: "Tom said he was tired.<br />설명: 두 번째 Tom은 he로 바꿔야 자연스러움"
+      - type: qna
+        question: "I30. 종합 변환: Tom said, \"I am studying now and I will finish tomorrow.\" → 간접화법으로"
+        answer: "Tom said (that) he was studying then and he would finish the next day.<br />설명: I → he, am → was, now → then, will → would, tomorrow → the next day"
+
+  - title: "5. 오류 탐지 & 수정 (Error Detection)"
+    items:
+      - type: note
+        content: "다음은 한국 학습자들이 자주 하는 실수입니다. 각 문장에서 틀린 부분을 찾아 고치세요!"
+      - type: qna
+        question: "E1. He said me that he was busy."
+        answer: "He told me that he was busy. 또는 He said to me that he was busy.<br />오류 유형: said + 목적어 오류<br />설명: said 뒤에 바로 목적어(me)를 쓸 수 없습니다."
+      - type: qna
+        question: "E2. She told that she would come."
+        answer: "She said that she would come. 또는 She told me/us that she would come.<br />오류 유형: told 목적어 생략<br />설명: told 뒤에는 반드시 목적어(사람)가 필요합니다."
+      - type: qna
+        question: "E3. Tom said he is tired."
+        answer: "Tom said he was tired.<br />오류 유형: 시제 변화 누락<br />설명: 간접화법에서 is → was로 바꿔야 합니다."
+      - type: qna
+        question: "E4. She said she will help me."
+        answer: "She said she would help me.<br />오류 유형: 시제 변화 누락<br />설명: 간접화법에서 will → would로 바꿔야 합니다."
+      - type: qna
+        question: "E5. He said he can swim."
+        answer: "He said he could swim.<br />오류 유형: 시제 변화 누락<br />설명: 간접화법에서 can → could로 바꿔야 합니다."
+      - type: qna
+        question: "E6. Lisa said I am happy."
+        answer: "Lisa said she was happy.<br />오류 유형: 인칭 변화 누락 + 시제 변화 누락<br />설명: I → she, am → was (Lisa가 자신에 대해 말한 것)"
+      - type: qna
+        question: "E7. Tom said it was my book."
+        answer: "Tom said it was his book.<br />오류 유형: 인칭 변화 누락<br />설명: Tom이 자기 책이라고 말한 것이므로 my → his"
+      - type: qna
+        question: "E8. She said she was busy today."
+        answer: "She said she was busy that day.<br />오류 유형: 시간 표현 변화 누락<br />설명: 간접화법에서 today → that day"
+      - type: qna
+        question: "E9. He said he would come tomorrow."
+        answer: "He said he would come the next day.<br />오류 유형: 시간 표현 변화 누락<br />설명: 간접화법에서 tomorrow → the next day"
+      - type: qna
+        question: "E10. She said she was here."
+        answer: "She said she was there.<br />오류 유형: 장소 표현 변화 누락<br />설명: 간접화법에서 here → there"
+      - type: qna
+        question: "E11. He told that me he was leaving."
+        answer: "He told me that he was leaving.<br />오류 유형: that 위치 오류<br />설명: told + 목적어(me) + that 순서입니다."
+      - type: qna
+        question: "E12. They said we are ready."
+        answer: "They said they were ready.<br />오류 유형: 인칭 변화 + 시제 변화 누락<br />설명: we → they, are → were"
+      - type: qna
+        question: "E13. Mom said she have finished cooking."
+        answer: "Mom said she had finished cooking.<br />오류 유형: 시제 변화 오류<br />설명: have → had (3인칭이므로 has가 아니라 have를 had로)"
+      - type: qna
+        question: "E14. He sayed that he was sorry."
+        answer: "He said that he was sorry.<br />오류 유형: 불규칙 과거형 오류<br />설명: say의 과거형은 said (sayed X)"
+      - type: qna
+        question: "E15. She said him that she loved him."
+        answer: "She told him that she loved him.<br />오류 유형: said + 목적어 오류<br />설명: said 뒤에 바로 목적어 불가, told him 또는 said to him"
+
+  - title: "6. 통합 프로젝트 (Integrated Production)"
+    items:
+      - type: note
+        content: "실제 상황에서 간접화법을 사용해 봅시다! 다음 과제를 완성해 보세요."
+      - type: text
+        content: "<span class='highlight'>프로젝트 1: 대화 전달하기</span>"
+      - type: qna
+        question: "P1. 다음 대화를 친구에게 간접화법으로 전해 보세요.<br /><br />민수: \"I am going to the library today.\"<br />지연: \"I will meet you there at 3 o'clock.\"<br />민수: \"I can't wait. I have a new book.\"<br /><br />(모든 문장을 간접화법으로 바꿔서 친구에게 전하세요.)"
+        answer: "예시 답안:<br />Minsu said (that) he was going to the library that day.<br />Jiyeon said (that) she would meet him there at 3 o'clock.<br />Minsu said (that) he couldn't wait. He said he had a new book.<br /><br />평가 기준:<br />- 인칭 변화 (I → he/she)<br />- 시제 변화 (am → was, will → would, can't → couldn't, have → had)<br />- 시간/장소 표현 (today → that day, there 유지)"
+      - type: text
+        content: "<span class='highlight'>프로젝트 2: 뉴스 요약하기</span>"
+      - type: qna
+        question: "P2. 다음 뉴스 내용을 가족에게 간접화법으로 전해 보세요.<br /><br />기상캐스터: \"It will rain tomorrow. The temperature is cold today.\"<br />교통 담당: \"There are many cars on the road now. I recommend taking the subway.\"<br /><br />(모든 문장을 간접화법으로 바꿔서 전하세요.)"
+        answer: "예시 답안:<br />The weather reporter said (that) it would rain the next day. She/He said (that) the temperature was cold that day.<br />The traffic reporter said (that) there were many cars on the road then. She/He said (that) she/he recommended taking the subway.<br /><br />평가 기준:<br />- 시제 변화 (will → would, is → was, are → were, recommend → recommended)<br />- 시간/장소 표현 (tomorrow → the next day, today → that day, now → then)"
+      - type: text
+        content: "<span class='highlight'>프로젝트 3: 하루 일과 이야기하기</span>"
+      - type: qna
+        question: "P3. 어제 친구와 나눈 대화를 부모님께 간접화법으로 5문장 이상 전해 보세요.<br />(힌트: 친구가 무엇을 했는지, 무엇을 할 것인지, 어떤 기분이었는지 등)"
+        answer: "예시 답안:<br />1. Jiho said (that) he was very tired yesterday. (어제 피곤했다고 함)<br />2. He told me (that) he had a lot of homework. (숙제가 많았다고 함)<br />3. He said (that) he would play soccer with me the next day. (다음 날 축구하자고 함)<br />4. He said (that) his mom was cooking his favorite food. (엄마가 좋아하는 음식 요리 중)<br />5. He told me (that) I was his best friend. (내가 가장 친한 친구라고 함)<br /><br />평가 기준: 5문장 이상, said/told 올바른 사용, 시제/인칭/시간 변화 적용"
+      - type: text
+        content: "<span class='highlight'>프로젝트 4: 창의적 글쓰기</span>"
+      - type: qna
+        question: "P4. 좋아하는 연예인이나 스포츠 선수가 인터뷰에서 다음과 같이 말했다고 상상하세요. 그 내용을 친구에게 간접화법으로 전하는 글을 써 보세요.<br /><br />예시 직접화법:<br />\"I love my fans. I will work harder. I am practicing every day now. I have a new album coming soon. It is my best work.\"<br /><br />(위 내용을 간접화법으로 바꿔서 쓰세요.)"
+        answer: "예시 답안:<br />My favorite singer said (that) she loved her fans. She said (that) she would work harder. She told us (that) she was practicing every day then. She said (that) she had a new album coming soon. She said (that) it was her best work.<br /><br />또는:<br />[가수 이름] said he loved his fans and he would work harder. He was practicing every day and had a new album coming soon. He said it was his best work.<br /><br />평가 기준: 모든 문장을 간접화법으로 정확히 변환, 시제/인칭/시간 표현 올바르게 적용"
+
+  - title: "7. 약점 집중 복습 (Targeted Review)"
+    items:
+      - type: note
+        content: "Section 3 진단 평가에서 틀린 영역을 집중적으로 복습하세요! 해당 영역만 골라서 연습해도 좋습니다."
+      - type: text
+        content: "<span class='highlight'>said vs told 복습</span>"
+      - type: list
+        heading: "핵심 규칙 다시 보기"
+        list:
+          - "said: 목적어 없이 사용 → He said (that)..."
+          - "said to: 사람에게 → He said to me (that)..."
+          - "told: 반드시 목적어와 함께 → He told me (that)..."
+          - "절대 안 되는 것: said me (X), told that (목적어 없이) (X)"
+      - type: qna
+        question: "ST1. He ___ that the movie was good."
+        answer: "said<br />목적어가 없으므로 said"
+      - type: qna
+        question: "ST2. She ___ me that she was leaving."
+        answer: "told<br />목적어 me가 있으므로 told"
+      - type: qna
+        question: "ST3. The teacher ___ us that we had an exam."
+        answer: "told<br />목적어 us가 있으므로 told"
+      - type: qna
+        question: "ST4. My friend ___ that he would help me."
+        answer: "said<br />목적어가 없으므로 said"
+      - type: qna
+        question: "ST5. 오류 수정: She said me that she was happy."
+        answer: "She told me that she was happy."
+      - type: text
+        content: "<span class='highlight'>시제 변화 복습</span>"
+      - type: list
+        heading: "시제 변화표 다시 보기"
+        list:
+          - "am/is → was"
+          - "are → were"
+          - "have/has → had"
+          - "will → would"
+          - "can → could"
+          - "do/does → did"
+          - "don't/doesn't → didn't"
+          - "동사 현재형 → 동사 과거형 (like → liked)"
+      - type: qna
+        question: "TT1. \"I am tired.\" → She said she ___ tired."
+        answer: "was"
+      - type: qna
+        question: "TT2. \"I will come.\" → He said he ___ come."
+        answer: "would"
+      - type: qna
+        question: "TT3. \"I can help.\" → She said she ___ help."
+        answer: "could"
+      - type: qna
+        question: "TT4. \"I have finished.\" → He said he ___ finished."
+        answer: "had"
+      - type: qna
+        question: "TT5. \"I don't know.\" → She said she ___ know."
+        answer: "didn't"
+      - type: text
+        content: "<span class='highlight'>인칭 변화 복습</span>"
+      - type: list
+        heading: "인칭 변화표 다시 보기"
+        list:
+          - "I → he/she (말한 사람에 따라)"
+          - "my → his/her"
+          - "we → they"
+          - "our → their"
+          - "you (대상이 나일 때) → I/me"
+          - "your (대상이 나일 때) → my"
+      - type: qna
+        question: "PT1. Tom said, \"I am happy.\" → Tom said ___ was happy."
+        answer: "he"
+      - type: qna
+        question: "PT2. Lisa said, \"It's my bag.\" → Lisa said it was ___ bag."
+        answer: "her"
+      - type: qna
+        question: "PT3. They said, \"We are coming.\" → They said ___ were coming."
+        answer: "they"
+      - type: qna
+        question: "PT4. They said, \"It's our car.\" → They said it was ___ car."
+        answer: "their"
+      - type: qna
+        question: "PT5. She said to me, \"You are nice.\" → She told me ___ was nice."
+        answer: "I"
+      - type: text
+        content: "<span class='highlight'>시간/장소 표현 복습</span>"
+      - type: list
+        heading: "시간/장소 변화표 다시 보기"
+        list:
+          - "today → that day"
+          - "tomorrow → the next day"
+          - "yesterday → the day before"
+          - "now → then"
+          - "here → there"
+          - "this → that"
+          - "these → those"
+      - type: qna
+        question: "TP1. \"I'm busy today.\" → He said he was busy ___."
+        answer: "that day"
+      - type: qna
+        question: "TP2. \"I'll go tomorrow.\" → She said she would go ___."
+        answer: "the next day"
+      - type: qna
+        question: "TP3. \"I'm here now.\" → He said he was ___ ___."
+        answer: "there then"
+      - type: qna
+        question: "TP4. \"I saw her yesterday.\" → She said she had seen her ___."
+        answer: "the day before"
+      - type: qna
+        question: "TP5. \"I love this book.\" → He said he loved ___ book."
+        answer: "that"
+
+  - title: "8. 종합 자기 평가 & 학습 계획"
+    items:
+      - type: text
+        content: "<span class='highlight'>최종 자기 평가 테스트</span>"
+      - type: note
+        content: "이 섹션은 지금까지 복습한 모든 내용을 테스트합니다. 책이나 설명을 보지 말고 풀어보세요!"
+      - type: qna
+        question: "F1. 다음 직접화법을 간접화법으로 바꾸세요.<br />Tom said, \"I am very happy today.\""
+        answer: "Tom said (that) he was very happy that day.<br />변화: I → he, am → was, today → that day"
+      - type: qna
+        question: "F2. 다음 직접화법을 간접화법으로 바꾸세요.<br />Lisa said, \"I will help you tomorrow.\""
+        answer: "Lisa told me (that) she would help me the next day.<br />변화: I → she, will → would, you → me, tomorrow → the next day"
+      - type: qna
+        question: "F3. 다음 직접화법을 간접화법으로 바꾸세요.<br />They said, \"We can't come to the party.\""
+        answer: "They said (that) they couldn't come to the party.<br />변화: We → they, can't → couldn't"
+      - type: qna
+        question: "F4. 다음 직접화법을 간접화법으로 바꾸세요.<br />Mom said, \"I have cooked dinner.\""
+        answer: "Mom said (that) she had cooked dinner.<br />변화: I → she, have → had"
+      - type: qna
+        question: "F5. 다음 직접화법을 간접화법으로 바꾸세요.<br />He said to me, \"You are my best friend.\""
+        answer: "He told me (that) I was his best friend.<br />변화: You → I, are → was, my → his"
+      - type: qna
+        question: "F6. 다음 문장들 중 틀린 것을 모두 골라 고치세요.<br />a) She said me that she was tired.<br />b) He told that he would come.<br />c) They said they were happy.<br />d) She said she is busy."
+        answer: "a) She told me that she was tired. (said me → told me)<br />b) He said that he would come. (told → said) 또는 He told me that he would come. (목적어 추가)<br />c) 올바른 문장입니다.<br />d) She said she was busy. (is → was)"
+      - type: qna
+        question: "F7. 다음 상황을 간접화법으로 쓰세요.<br />어제 친구가 '나 내일 도서관에 갈 거야. 너도 올래?'라고 말했습니다. 이것을 오늘 다른 친구에게 전하세요."
+        answer: "예시 답안:<br />Jiho said (that) he would go to the library the next day. He asked if I would come too.<br />또는: My friend told me that he would go to the library the next day and asked me to come.<br />평가: 시제(will → would), 시간(tomorrow → the next day) 변화 적용"
+      - type: qna
+        question: "F8. 간접화법에서 시제가 바뀌는 이유를 한글로 설명하세요."
+        answer: "예시 답안:<br />간접화법은 과거에 누군가가 했던 말을 지금 전달하는 것입니다. 그 사람이 말할 당시에는 '현재'였지만, 지금 전달할 때는 그것이 이미 '과거'가 되었기 때문에 시제를 바꿔야 합니다. 예를 들어, 친구가 어제 'I am happy'라고 말했는데, 오늘 그 말을 전할 때는 그 '현재(am)'가 이미 '과거(was)'가 된 것입니다."
+      - type: text
+        content: "<span class='highlight'>나의 학습 성찰</span>"
+      - type: qna
+        question: "SC1. 오늘 복습에서 가장 어려웠던 부분은 무엇인가요?"
+        answer: "자유 답변. 어려웠던 부분을 파악하는 것이 실력 향상의 첫걸음입니다!<br />예: 시제 변화, 인칭 변화, said/told 구별, 시간 표현 변화 등"
+      - type: qna
+        question: "SC2. 간접화법의 4가지 핵심 변화(said/told, 시제, 인칭, 시간표현) 중 가장 자신 있는 것은?"
+        answer: "자유 답변. 자신 있는 부분은 유지하고, 약한 부분에 더 집중하세요!"
+      - type: qna
+        question: "SC3. 실생활에서 간접화법을 언제 사용할 수 있을까요?"
+        answer: "예시 답변:<br />- 친구의 말을 부모님께 전할 때<br />- 선생님 말씀을 다른 친구에게 알릴 때<br />- TV 뉴스 내용을 가족에게 설명할 때<br />- 책이나 영화 내용을 친구에게 이야기할 때<br />- 누군가의 의견이나 생각을 전달할 때"
+      - type: list
+        heading: "나는 이제 할 수 있다... (체크리스트)"
+        list:
+          - "[ ] said와 told를 정확하게 구별해서 사용할 수 있다"
+          - "[ ] am/is → was, will → would 등 시제 변화를 적용할 수 있다"
+          - "[ ] I → he/she, we → they 등 인칭 변화를 적용할 수 있다"
+          - "[ ] today → that day, tomorrow → the next day 등 시간 표현을 바꿀 수 있다"
+          - "[ ] 직접화법 문장을 간접화법으로 완전히 변환할 수 있다"
+          - "[ ] 간접화법의 일반적인 오류를 찾아 고칠 수 있다"
+      - type: note
+        content: "5-6개 체크: 완벽합니다! 간접화법을 마스터했어요!<br />3-4개 체크: 잘하고 있어요! 약한 부분만 조금 더 연습하세요.<br />1-2개 체크: 괜찮아요! Section 7을 다시 복습하고 내일 다시 도전하세요."
+      - type: text
+        content: "<span class='highlight'>복습 일정표 (Spaced Repetition)</span>"
+      - type: list
+        heading: "효과적인 장기 기억을 위한 복습 계획"
+        list:
+          - "오늘: 이 복습 완료"
+          - "내일 (1일 후): Section 3 진단 문제 다시 풀기"
+          - "3일 후: Section 4 인터리빙 연습에서 틀린 문제 다시 풀기"
+          - "1주일 후: Section 8 최종 평가 다시 풀기"
+          - "2주일 후: 전체 복습 (틀린 문제 중심)"
+      - type: text
+        content: "<span class='highlight'>다음 단계 안내</span>"
+      - type: list
+        heading: "앞으로의 학습 방향"
+        list:
+          - "일상에서 연습: 누군가의 말을 전할 때 영어로 간접화법 사용해 보기"
+          - "듣기 연습: 영어 뉴스나 드라마에서 간접화법 표현 찾아보기"
+          - "쓰기 연습: 일기에서 오늘 있었던 대화를 간접화법으로 써보기"
+          - "패턴 암기: 'He said he was...', 'She told me she would...' 자주 소리 내어 읽기"
+      - type: note
+        content: "잘했어요! Unit 48 간접화법 복습을 완료했습니다!<br /><br />간접화법은 영어에서 정말 많이 쓰이는 표현입니다. 친구의 말을 전할 때, 뉴스를 설명할 때, 책 내용을 이야기할 때 모두 간접화법을 사용합니다.<br /><br />처음에는 시제, 인칭, 시간 표현을 모두 바꾸는 것이 복잡하게 느껴질 수 있지만, 연습하면 자연스러워집니다. 핵심은 '모든 것을 한 단계 과거로!'입니다.<br /><br />'He said he was...', 'She told me she would...' 이런 패턴을 자주 소리 내어 읽고, 일상에서 적용해 보세요!<br /><br />Keep practicing! 다음 복습도 파이팅!"
+
+pedagogical_design:
+  spaced_repetition:
+    - "Section 3: 즉각적인 회상 연습을 통한 진단"
+    - "Section 8: 향후 복습 계획표 제공 (1일, 3일, 1주, 2주)"
+
+  retrieval_practice:
+    - "Section 3: 힌트 없이 기억 인출하기"
+    - "Section 4: 섞인 문제로 기억 강화"
+    - "Section 8: 최종 종합 평가"
+
+  interleaving:
+    - "Section 4: 모든 개념을 무작위로 섞어서 연습"
+    - "Section 5: 다양한 오류 유형을 섞어 제시"
+
+  diagnostic_assessment:
+    - "Section 3: 영역별 진단으로 약점 파악"
+    - "Section 7: 약점 영역별 집중 복습"
+
+  contrastive_analysis:
+    - "Section 2: said vs told, 직접 vs 간접, 시제/인칭/시간 변화 비교"
+
+  concrete_examples:
+    - "모든 예문이 6학년 학생의 실생활과 연결 (학교, 친구, 가족, 취미)"
+    - "Section 6: 실생활 프로젝트 (대화 전달, 뉴스 요약)"
+
+  metacognition:
+    - "Section 3: 진단 후 약점 파악"
+    - "Section 8: 자기 성찰 및 학습 계획"
+
+  dual_coding:
+    - "표와 리스트로 개념 시각화"
+    - "색상 구분 (<span class='highlight'>)"
+    - "체크리스트 형식으로 진행 상황 확인"
+
+differentiation:
+  - "진단 테스트로 개인별 약점 파악 → 맞춤 복습 가능"
+  - "Section 7: 약점 영역만 선택적으로 복습 가능"
+  - "레벨별 과제: 기본 문제부터 창의적 글쓰기까지"
+
+estimated_time:
+  - "Section 1-2: 8분 (개념 정리 및 비교)"
+  - "Section 3: 10분 (진단 평가)"
+  - "Section 4: 12분 (인터리빙 연습)"
+  - "Section 5: 8분 (오류 탐지)"
+  - "Section 6: 10분 (통합 프로젝트)"
+  - "Section 7: 8분 (약점 복습 - 필요한 부분만)"
+  - "Section 8: 9분 (종합 평가 및 계획)"
+  - "총 예상 시간: 약 45-60분"
+  - "빠른 복습: 30분 (Section 3, 4, 8만 집중)"
+
+notes: |
+  이 복습 자료는 Unit 48 간접화법의 핵심 개념을 종합적으로 복습하도록 설계되었습니다.
+  단일 Unit이지만 간접화법은 4가지 핵심 변화(said/told, 시제, 인칭, 시간/장소)를
+  모두 적용해야 하므로 충분한 연습이 필요합니다.
+
+  특히 한국 학습자들이 어려워하는 부분들을 집중적으로 다룹니다:
+  - said와 told의 목적어 사용 차이
+  - 간접화법에서의 시제 변화 (한국어에는 없는 개념)
+  - 인칭 변화 (화자 관점의 이동)
+  - 시간/장소 표현 변화
+
+  회상 연습과 인터리빙에 중점을 두어 장기 기억에 효과적이며,
+  진단 테스트와 약점별 집중 복습을 통해 개인화된 학습이 가능합니다.
