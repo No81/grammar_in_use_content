@@ -1,0 +1,270 @@
+title: "Unit 51 · I want you to... I told you to... (목적어 + to부정사)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 누군가에게 무언가를 하라고 원하거나, 요청하거나, 말할 때는 특별한 구조를 사용합니다. '주어 + 동사 + 목적어(사람) + to부정사' 형태입니다. 예를 들어 'I want you to study'는 '나는 네가 공부하기를 원해'라는 뜻입니다."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "기본 패턴: 주어 + 동사 + 목적어(사람) + to + 동사원형"
+          - "긍정문: I want you to come. (나는 네가 오기를 원해.)"
+          - "부정문: I don't want you to go. (나는 네가 가기를 원하지 않아.)"
+          - "to부정사 부정: I told him not to run. (나는 그에게 뛰지 말라고 말했어.)"
+          - "의문문: Do you want me to help? (내가 도와주길 원해?)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 이 구조는 '~가 ~하기를 원하다/바라다/요청하다/말하다'의 의미입니다. 한국어의 '~에게 ~하라고'와 비슷하지만, 영어는 '목적어 + to부정사' 순서입니다. 한국어와 어순이 다르니 주의하세요!"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 누군가에게 부탁할 때: I want you to close the door. (문 닫아줘.)<br />• 지시나 명령을 전달할 때: The teacher told us to be quiet. (선생님이 조용히 하라고 했어.)<br />• 공손하게 요청할 때: Would you like me to carry that? (제가 들어드릴까요?)<br />• 기대나 바람을 표현할 때: I expect you to try your best. (네가 최선을 다하길 기대해.)"
+      - type: list
+        heading: "자주 쓰이는 동사들"
+        list:
+          - "want + 목적어 + to: I want you to listen. (나는 네가 듣기를 원해.)"
+          - "would like + 목적어 + to: I'd like you to sit down. (앉아 주시겠어요?)"
+          - "tell + 목적어 + to: She told me to wait. (그녀가 기다리라고 했어.)"
+          - "ask + 목적어 + to: He asked me to help. (그가 도와달라고 요청했어.)"
+          - "expect + 목적어 + to: Mom expects me to clean my room. (엄마가 방 청소하길 기대해.)"
+          - "advise + 목적어 + to: The doctor advised her to rest. (의사가 쉬라고 조언했어.)"
+          - "allow + 목적어 + to: Dad allowed me to play games. (아빠가 게임하도록 허락했어.)"
+          - "teach + 목적어 + to: She taught me to swim. (그녀가 수영을 가르쳐 줬어.)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "학교: The teacher wants us to finish our homework. (선생님은 우리가 숙제를 끝내길 원해.)"
+          - "친구: I asked my friend to lend me a pencil. (나는 친구에게 연필을 빌려달라고 요청했어.)"
+          - "가족: Mom told me to wake up early. (엄마가 일찍 일어나라고 했어.)"
+          - "취미: My coach wants me to practice every day. (코치가 매일 연습하길 원해.)"
+          - "음식: Dad asked me to set the table. (아빠가 상 차리라고 요청했어.)"
+          - "게임: She doesn't want me to play games all day. (그녀는 내가 하루 종일 게임하는 걸 원하지 않아.)"
+          - "일상: Would you like me to open the window? (창문 열어드릴까요?)"
+          - "감정: I need you to understand. (나는 네가 이해해 주길 필요로 해.)"
+          - "부정: I told my brother not to touch my things. (동생에게 내 물건 만지지 말라고 했어.)"
+          - "의문: Do you want me to call you later? (나중에 전화할까?)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 어순 오류: I want to you come. (X) → I want you to come. (O) - 목적어가 to 앞에 옵니다!<br />2. to 생략: I want you come. (X) → I want you to come. (O) - to를 꼭 써야 합니다!<br />3. 부정 위치: I told him to not go. (X) → I told him not to go. (O) - not은 to 앞에!<br />4. that 사용: I want that you come. (X) → I want you to come. (O) - that을 쓰지 않습니다!<br />5. say 사용: I said him to go. (X) → I told him to go. (O) - 이 구조에서는 say가 아닌 tell!"
+      - type: text
+        content: "<span class='highlight'>tell vs say 차이:</span><br />• told + 목적어 + to: He told me to wait. (O) - '~에게 ~하라고 말했다'<br />• said to + 목적어 + to: He said to me to wait. (X) - 이 구조 불가능!<br />• said that...: He said that I should wait. (O) - 간접화법으로는 가능<br /><br />즉, '~하라고 말하다'는 반드시 tell을 사용합니다."
+      - type: text
+        content: "<span class='highlight'>간접화법(Unit 48)과의 비교:</span><br />• He said, 'Wait here.' → He told me to wait there. (명령문의 간접화법)<br />• She said, 'Please help me.' → She asked me to help her. (요청문의 간접화법)<br />즉, 명령이나 요청을 간접적으로 전달할 때 이 구조를 사용합니다."
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I want you to come to my party."
+          - "Mom told me to clean my room."
+          - "She asked him to carry her bag."
+          - "The teacher wants us to read this book."
+          - "Would you like me to make some tea?"
+          - "I don't want you to be late."
+          - "Dad told me not to forget my lunch."
+          - "He expected her to call him back."
+      - type: qna
+        question: "Q1. 모든 문장에서 동사 뒤에 어떤 요소들이 공통적으로 나타나나요?"
+        answer: "동사 뒤에 '목적어(사람) + to + 동사원형'이 나타납니다. 예: want + you + to come, told + me + to clean"
+      - type: qna
+        question: "Q2. 부정의 의미를 표현할 때 not은 어디에 위치하나요? 6번, 7번 문장을 비교해 보세요."
+        answer: "6번: don't want you to (동사 자체를 부정 - 원하지 않아)<br />7번: told me not to (to부정사를 부정 - ~하지 말라고)<br />not의 위치에 따라 의미가 달라집니다!"
+      - type: qna
+        question: "Q3. 한국어와 영어의 어순 차이를 발견했나요? '나는 네가 오기를 원해'와 'I want you to come'을 비교해 보세요."
+        answer: "한국어: 나는 + 네가 + 오기를 + 원해 (주어-주어-동사-동사)<br />영어: I + want + you + to come (주어-동사-목적어-to부정사)<br />한국어는 '원해'가 마지막에 오지만, 영어는 want가 먼저 나옵니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 'want/tell/ask + 목적어 + to부정사' 구조를 한글로 설명해 보세요."
+        answer: "주어 + 동사 + 목적어(사람) + to + 동사원형 순서로, '~가 ~하기를 원하다/말하다/요청하다'라는 의미입니다.<br />평가 기준: '목적어 + to + 동사원형' 순서를 설명하면 정답입니다."
+      - type: qna
+        question: "R2. '~하지 말라고 말하다'를 영어로 표현할 때, not은 어디에 위치하나요?"
+        answer: "not은 to 앞에 위치합니다. 예: told him not to go (가지 말라고 했다)<br />평가 기준: 'not to' 순서를 쓰면 정답입니다."
+      - type: qna
+        question: "R3. 이 구조에 자주 쓰이는 동사 3개를 떠올려 보세요."
+        answer: "want, tell, ask, would like, expect, advise, allow, teach 중 3개<br />평가 기준: 위 동사 중 3개 이상 쓰면 정답입니다."
+      - type: qna
+        question: "R4. 'I want that you come'이 틀린 이유는?"
+        answer: "이 구조에서는 that을 사용하지 않습니다. 올바른 형태는 'I want you to come'입니다.<br />평가 기준: that 사용 불가를 설명하면 정답입니다."
+      - type: qna
+        question: "R5. '~하라고 말하다'에서 say를 쓸 수 없는 이유는?"
+        answer: "say + 목적어 + to 구조는 불가능합니다. 반드시 tell을 사용해야 합니다. told me to go (O), said me to go (X)<br />평가 기준: tell/told를 써야 한다고 답하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 단어를 넣으세요."
+      - type: qna
+        question: "Q1. I want you ___ help me. (to/that)"
+        answer: "to<br />설명: want + 목적어 + to 구조입니다. that은 쓰지 않습니다."
+      - type: qna
+        question: "Q2. Mom told me ___ my homework. (do/to do)"
+        answer: "to do<br />설명: tell + 목적어 + to + 동사원형 구조입니다."
+      - type: qna
+        question: "Q3. She asked him ___ the door. (close/to close)"
+        answer: "to close<br />설명: ask + 목적어 + to + 동사원형 구조입니다."
+      - type: qna
+        question: "Q4. The teacher told us ___ talk in class. (to not/not to)"
+        answer: "not to<br />설명: '~하지 말라고'는 not to 순서입니다."
+      - type: qna
+        question: "Q5. Would you like ___ to carry your bag? (me/I)"
+        answer: "me<br />설명: 목적어 자리이므로 목적격 me를 씁니다."
+      - type: qna
+        question: "Q6. I don't want you ___ late. (be/to be)"
+        answer: "to be<br />설명: want + 목적어 + to + 동사원형 구조입니다. be동사도 to be 형태로 씁니다."
+      - type: qna
+        question: "Q7. He ___ me to wait outside. (said/told)"
+        answer: "told<br />설명: '~하라고 말하다'는 tell을 사용합니다. said me to (X)"
+      - type: qna
+        question: "Q8. Dad ___ me not to spend too much money. (advised/said)"
+        answer: "advised<br />설명: advise + 목적어 + to 구조가 가능합니다. said + 목적어 + to (X)"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 네가 나를 도와주길 원해."
+        answer: "I want you to help me.<br />평가 기준: want + you + to help 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T2. 선생님이 우리에게 조용히 하라고 말했어."
+        answer: "The teacher told us to be quiet.<br />평가 기준: told + us + to be quiet 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T3. 그가 나에게 그를 도와달라고 요청했어."
+        answer: "He asked me to help him.<br />평가 기준: asked + me + to help 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T4. 엄마가 내게 늦지 말라고 했어."
+        answer: "Mom told me not to be late.<br />평가 기준: told + me + not to be late 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T5. 내가 창문 열어줄까? (공손하게)"
+        answer: "Would you like me to open the window?<br />평가 기준: Would you like + me + to open 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T6. 나는 그녀가 나를 기다리길 원하지 않아."
+        answer: "I don't want her to wait for me.<br />평가 기준: don't want + her + to wait 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T7. 코치가 우리에게 매일 연습하길 기대해."
+        answer: "The coach expects us to practice every day.<br />평가 기준: expects + us + to practice 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T8. 아빠가 나에게 게임하도록 허락했어."
+        answer: "Dad allowed me to play games.<br />평가 기준: allowed + me + to play 구조가 맞으면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I want you to stay. → 부정문으로 (원하지 않아)"
+        answer: "I don't want you to stay.<br />설명: want 앞에 don't를 넣어 '원하지 않아'를 표현합니다."
+      - type: qna
+        question: "TF2. She told me to go. → '가지 말라고 했어'로"
+        answer: "She told me not to go.<br />설명: to 앞에 not을 넣어 '~하지 말라고'를 표현합니다."
+      - type: qna
+        question: "TF3. Mom told me to clean my room. → 의문문으로 (엄마가 시켰어?)"
+        answer: "Did Mom tell you to clean your room?<br />설명: 의문문에서는 me가 you로 바뀝니다."
+      - type: qna
+        question: "TF4. He wants me to call him. → 과거형으로"
+        answer: "He wanted me to call him.<br />설명: wants를 wanted로 바꿉니다. to call은 그대로입니다."
+      - type: qna
+        question: "TF5. Clean your room! (명령문) → Mom told me..."
+        answer: "Mom told me to clean my room.<br />설명: 명령문을 간접화법으로 바꿀 때 told + 목적어 + to를 사용합니다."
+      - type: qna
+        question: "TF6. Please help me. (요청문) → He asked..."
+        answer: "He asked me to help him.<br />설명: 요청문을 간접화법으로 바꿀 때 asked + 목적어 + to를 사용합니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "실제 상황에서 이 문법을 사용해 보세요!"
+      - type: qna
+        question: "A1. 부모님이 최근에 너에게 하라고 한 것 3가지를 영어로 써 보세요. (Mom/Dad told me to...)"
+        answer: "예시 답안: 1. Mom told me to do my homework. 2. Dad told me to go to bed early. 3. Mom told me not to play games too much.<br />평가 기준: told + me + to/not to 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "A2. 친구에게 뭔가를 해달라고 부탁해 보세요. (I want you to... / Can I ask you to...?)"
+        answer: "예시 답안: I want you to come to my house. / Can I ask you to lend me your eraser?<br />평가 기준: want/ask + you + to 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "A3. 선생님이 수업 시간에 학생들에게 하라고 한 것을 영어로 써 보세요."
+        answer: "예시 답안: The teacher told us to open our textbooks. / The teacher asked us to work in pairs.<br />평가 기준: told/asked + us + to 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "A4. 친구나 가족에게 '~하지 말라고' 말한 적이 있나요? 영어로 써 보세요."
+        answer: "예시 답안: I told my brother not to touch my phone. / I asked my friend not to be late.<br />평가 기준: told/asked + 목적어 + not to 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "A5. 누군가를 공손하게 도와주겠다고 제안해 보세요. (Would you like me to...?)"
+        answer: "예시 답안: Would you like me to help you with your homework? / Would you like me to get you some water?<br />평가 기준: Would you like + me + to 구조가 맞으면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 고치세요: 'I want that you come to my party.'"
+        answer: "올바른 문장: I want you to come to my party.<br />설명: want + 목적어 + to 구조에서는 that을 사용하지 않습니다. that you come (X) → you to come (O)"
+      - type: qna
+        question: "C2. 다음 문장의 틀린 부분을 찾아 고치세요: 'She said me to wait here.'"
+        answer: "올바른 문장: She told me to wait here.<br />설명: '~하라고 말하다'는 tell을 사용합니다. said me to (X) → told me to (O)"
+      - type: qna
+        question: "C3. 다음 문장의 틀린 부분을 찾아 고치세요: 'I told him to not run in the hallway.'"
+        answer: "올바른 문장: I told him not to run in the hallway.<br />설명: 부정은 to 앞에 not을 씁니다. to not (X) → not to (O)"
+      - type: qna
+        question: "C4. 다음 두 문장의 의미 차이를 설명해 보세요:<br />a) I don't want you to go.<br />b) I want you not to go."
+        answer: "a) I don't want you to go: 내가 '원하지 않음' - 네가 가는 걸 원하지 않아 (일반적 표현)<br />b) I want you not to go: 내가 '원함' + '가지 않기를' - 네가 안 가기를 원해 (더 강조된 표현)<br />두 문장 모두 비슷한 의미지만, b가 '가지 않기'를 더 강하게 원한다는 느낌입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. I want you ___ come. (to/that)"
+        answer: "to"
+      - type: qna
+        question: "SR2. Mom told me ___ late. (to not be/not to be)"
+        answer: "not to be"
+      - type: qna
+        question: "SR3. 번역: 나는 네가 나를 도와주길 원해."
+        answer: "I want you to help me."
+      - type: qna
+        question: "SR4. 번역: 선생님이 우리에게 책을 읽으라고 했어."
+        answer: "The teacher told us to read the book."
+      - type: qna
+        question: "SR5. 틀린 곳 고치기: I want that you stay."
+        answer: "I want you to stay. (that 삭제, to 추가)"
+      - type: qna
+        question: "SR6. 틀린 곳 고치기: She said me to wait."
+        answer: "She told me to wait. (said → told)"
+      - type: qna
+        question: "SR7. He asked me ___ him. (help/to help)"
+        answer: "to help"
+      - type: qna
+        question: "SR8. Would you like ___ to carry your bag? (I/me)"
+        answer: "me"
+      - type: qna
+        question: "SR9. 번역: 아빠가 나에게 게임하지 말라고 했어."
+        answer: "Dad told me not to play games."
+      - type: qna
+        question: "SR10. 빈칸: The teacher ___ us to be quiet. (said/told)"
+        answer: "told"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. '주어 + 동사 + 목적어 + to부정사' 어순을 이해하고 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 영어의 핵심 구조를 이해했습니다.<br />어렵다면: 'want + you + to come' 이 순서를 여러 번 소리 내어 읽어보세요!"
+      - type: qna
+        question: "SC2. not to (하지 말라고)와 don't want to (원하지 않아)의 차이를 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 부정의 위치에 따른 의미 차이를 이해했습니다.<br />어렵다면: told me not to go (가지 말라고) vs. don't want you to go (가길 원치 않아) - 연습해 보세요!"
+      - type: qna
+        question: "SC3. tell과 say의 차이를 구별할 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 이 차이를 알면 많은 실수를 피할 수 있습니다.<br />어렵다면: 'told me to (O), said me to (X)' - tell만 이 구조에 쓸 수 있다는 것을 기억하세요!"
+      - type: qna
+        question: "SC4. 오늘 배운 내용 중 가장 헷갈렸던 것은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 어려운 부분을 파악하면 더 집중해서 연습할 수 있습니다!"
+      - type: note
+        content: "잘했어요! 오늘 배운 'want/tell/ask + 목적어 + to' 구조는 일상생활에서 정말 많이 쓰입니다. 부모님이 뭔가를 하라고 할 때, 친구에게 부탁할 때, 선생님의 지시를 전할 때 모두 이 구조를 사용합니다. 한국어와 어순이 다르지만, 연습하면 자연스러워집니다!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 'I want you to...' 'She told me to...' 이런 문장이 자연스럽게 나온다면 완벽하게 익힌 것입니다!"
+      - type: note
+        content: "실전 팁: 오늘부터 부모님이나 선생님이 뭔가를 하라고 할 때마다 영어로 바꿔 생각해 보세요. 'Mom told me to...' 이렇게 생각하는 습관을 들이면 정말 빨리 늘어요! 파이팅!"
