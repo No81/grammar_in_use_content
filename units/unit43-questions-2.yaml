@@ -1,0 +1,263 @@
+title: "Unit 43 · Who saw you? Who did you see? (의문문 2)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "Who, What, Which 등으로 시작하는 의문문에는 두 가지 유형이 있습니다. 의문사가 주어인 경우와 목적어인 경우에 따라 문장 구조가 달라져요."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "의문사가 주어일 때: Who/What + 동사 + ~? (조동사 do/does/did 없음)"
+          - "의문사가 목적어일 때: Who/What + do/does/did + 주어 + 동사원형 + ~?"
+          - "주어 의문문: Who saw you? (누가 너를 봤니?)"
+          - "목적어 의문문: Who did you see? (너는 누구를 봤니?)"
+      - type: text
+        content: "<span class='highlight'>핵심 차이점:</span><br />• 의문사가 주어 → do/does/did 필요 없음<br />• 의문사가 목적어 → do/does/did 필요함"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 행동의 주체를 물을 때: Who broke the window? (누가 창문을 깼니?)<br />• 행동의 대상을 물을 때: Who did you meet? (너는 누구를 만났니?)<br />• 사물이 주어일 때: What happened? (무슨 일이 있었니?)<br />• 사물이 목적어일 때: What did you buy? (너는 무엇을 샀니?)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "Who called you? (누가 너에게 전화했니?) - 주어 의문문"
+          - "Who did you call? (너는 누구에게 전화했니?) - 목적어 의문문"
+          - "What made you happy? (무엇이 너를 행복하게 했니?) - 주어 의문문"
+          - "What did you make? (너는 무엇을 만들었니?) - 목적어 의문문"
+          - "Who won the game? (누가 경기에서 이겼니?) - 주어"
+          - "Who did they choose? (그들은 누구를 선택했니?) - 목적어"
+          - "What fell from the table? (무엇이 테이블에서 떨어졌니?) - 주어"
+          - "What did she say? (그녀가 뭐라고 말했니?) - 목적어"
+          - "Who teaches you English? (누가 너에게 영어를 가르치니?) - 주어"
+          - "Who do you like? (너는 누구를 좋아하니?) - 목적어"
+          - "Which team won? (어느 팀이 이겼니?) - 주어"
+          - "Which book did you read? (너는 어느 책을 읽었니?) - 목적어"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 주어 의문문에 did 추가: Who did call you? (X) → Who called you? (O)<br />2. 목적어 의문문에 did 생략: Who you saw? (X) → Who did you see? (O)<br />3. 동사 형태 혼동: Who did saw you? (X) → Who saw you? (O) 또는 Who did you see? (O)"
+      - type: note
+        content: "🇰🇷 한국어 vs 🇺🇸 영어 비교:<br />• 한국어: 주어/목적어 의문문 구조 차이 없음<br />  예) 누가 너를 봤니? / 너는 누구를 봤니?<br />• 영어: 주어/목적어에 따라 구조가 완전히 다름!<br />  예) Who saw you? / Who did you see?<br />• 핵심 차이: 영어는 목적어를 물을 때만 did/do 필요<br />• 팁: '누가'가 행동 주체면 did 없음, '누구를'이 대상이면 did 있음!"
+      - type: text
+        content: "<span class='highlight'>구별하는 팁:</span><br />• 질문의 답이 주어 자리에 오면 → 주어 의문문 (do/did 없음)<br />  Who called you? → Tom called me. (Tom = 주어)<br />• 질문의 답이 목적어 자리에 오면 → 목적어 의문문 (do/did 필요)<br />  Who did you call? → I called Tom. (Tom = 목적어)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "A그룹 - 관찰하세요"
+        list:
+          - "Who wrote this letter?"
+          - "What happened yesterday?"
+          - "Who lives in that house?"
+          - "Which bus goes to the station?"
+      - type: list
+        heading: "B그룹 - 관찰하세요"
+        list:
+          - "Who did you write to?"
+          - "What did you do yesterday?"
+          - "Who do you live with?"
+          - "Which bus did you take?"
+      - type: qna
+        question: "Q1. A그룹과 B그룹의 문장 구조는 어떻게 다른가요?"
+        answer: "A그룹: Who/What + 동사 (do/did 없음)<br />B그룹: Who/What + did/do + 주어 + 동사원형"
+      - type: qna
+        question: "Q2. A그룹에서 Who/What은 문장에서 어떤 역할을 하나요?"
+        answer: "주어 역할을 합니다. Who wrote = 누가 썼다 (누가 = 주어)"
+      - type: qna
+        question: "Q3. B그룹에서 Who/What은 문장에서 어떤 역할을 하나요?"
+        answer: "목적어 역할을 합니다. Who did you write to = 너는 누구에게 썼니 (누구 = 목적어)"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 의문사가 주어일 때 do/did를 사용하나요?"
+        answer: "아니요, 사용하지 않습니다. 예: Who called you? (O), Who did call you? (X)"
+      - type: qna
+        question: "R2. 의문사가 목적어일 때는 어떤 구조를 사용하나요?"
+        answer: "의문사 + do/does/did + 주어 + 동사원형<br />예: Who did you see?"
+      - type: qna
+        question: "R3. 'Who saw you?'와 'Who did you see?'의 의미 차이는?"
+        answer: "Who saw you? = 누가 너를 봤니? (상대방이 누구에게 보였는지)<br />Who did you see? = 너는 누구를 봤니? (상대방이 누구를 봤는지)"
+      - type: qna
+        question: "R4. What happened?에서 What의 역할은?"
+        answer: "주어입니다. '무엇이 일어났다'에서 '무엇'이 주어입니다."
+      - type: qna
+        question: "R5. 주어 의문문과 목적어 의문문을 어떻게 구별하나요?"
+        answer: "답을 넣어보면 알 수 있습니다. 답이 주어 자리에 오면 주어 의문문, 목적어 자리에 오면 목적어 의문문입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 단어를 넣으세요."
+      - type: qna
+        question: "Q1. Who ___ the cake? (eat - 과거)"
+        answer: "ate<br />설명: Who가 주어이므로 do/did 없이 바로 동사 과거형을 씁니다."
+      - type: qna
+        question: "Q2. Who did you ___ yesterday? (meet)"
+        answer: "meet<br />설명: did 뒤에는 동사원형이 옵니다."
+      - type: qna
+        question: "Q3. What ___ in the box? (be)"
+        answer: "is<br />설명: What이 주어이고 현재 시제이므로 is를 사용합니다."
+      - type: qna
+        question: "Q4. What did she ___ for lunch? (have)"
+        answer: "have<br />설명: did 뒤에는 동사원형이 옵니다."
+      - type: qna
+        question: "Q5. Who ___ you English? (teach - 현재)"
+        answer: "teaches<br />설명: Who가 주어(3인칭 단수 취급)이므로 teaches를 씁니다."
+      - type: qna
+        question: "Q6. Who ___ you ___ ? (do/invite - 과거)"
+        answer: "did, invite<br />설명: you가 주어이므로 목적어 의문문입니다. did + 동사원형"
+      - type: qna
+        question: "Q7. Which team ___ the game? (win - 과거)"
+        answer: "won<br />설명: Which team이 주어이므로 do/did 없이 동사 과거형을 씁니다."
+      - type: qna
+        question: "Q8. What ___ you ___ about? (be/think - 과거진행)"
+        answer: "were, thinking<br />설명: you가 주어이고 과거진행이므로 were thinking입니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어 의문문으로 번역해 보세요."
+      - type: qna
+        question: "T1. 누가 이 편지를 썼니?"
+        answer: "Who wrote this letter?<br />평가 기준: Who + 동사 과거형, do/did 없이 맞으면 정답입니다."
+      - type: qna
+        question: "T2. 너는 누구에게 편지를 썼니?"
+        answer: "Who did you write to? / Who did you write a letter to?<br />평가 기준: Who did you + 동사원형 형태면 정답입니다."
+      - type: qna
+        question: "T3. 무슨 일이 있었니?"
+        answer: "What happened?<br />평가 기준: What + 동사 과거형, did 없이 맞으면 정답입니다."
+      - type: qna
+        question: "T4. 너는 어제 무엇을 했니?"
+        answer: "What did you do yesterday?<br />평가 기준: What did you + 동사원형 형태면 정답입니다."
+      - type: qna
+        question: "T5. 누가 경기에서 이겼니?"
+        answer: "Who won the game?<br />평가 기준: Who + 동사 과거형, did 없이 맞으면 정답입니다."
+      - type: qna
+        question: "T6. 너는 누구를 만났니?"
+        answer: "Who did you meet?<br />평가 기준: Who did you + 동사원형 형태면 정답입니다."
+      - type: qna
+        question: "T7. 무엇이 너를 화나게 했니?"
+        answer: "What made you angry?<br />평가 기준: What + 동사 과거형, did 없이 맞으면 정답입니다."
+      - type: qna
+        question: "T8. 너는 무엇을 샀니?"
+        answer: "What did you buy?<br />평가 기준: What did you + 동사원형 형태면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어 의문문과 목적어 의문문을 구별하며 연습해 보세요."
+      - type: qna
+        question: "TF1. Tom called me. → '누가'를 묻는 의문문으로"
+        answer: "Who called you?<br />설명: Tom이 주어이므로 주어 의문문입니다. did 없이 Who + 동사"
+      - type: qna
+        question: "TF2. I called Tom. → '누구를'을 묻는 의문문으로"
+        answer: "Who did you call?<br />설명: Tom이 목적어이므로 목적어 의문문입니다. Who did + 주어 + 동사원형"
+      - type: qna
+        question: "TF3. The cat broke the vase. → '무엇이'를 묻는 의문문으로"
+        answer: "What broke the vase?<br />설명: The cat이 주어이므로 주어 의문문입니다."
+      - type: qna
+        question: "TF4. She bought a dress. → '무엇을'을 묻는 의문문으로"
+        answer: "What did she buy?<br />설명: a dress가 목적어이므로 목적어 의문문입니다."
+      - type: qna
+        question: "TF5. My mom teaches me math. → '누가'를 묻는 의문문으로"
+        answer: "Who teaches you math?<br />설명: My mom이 주어이므로 주어 의문문입니다."
+      - type: qna
+        question: "TF6. I like pizza. → '무엇을'을 묻는 의문문으로"
+        answer: "What do you like?<br />설명: pizza가 목적어이므로 목적어 의문문입니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "실제 상황에서 사용할 수 있는 의문문을 만들어 보세요!"
+      - type: qna
+        question: "A1. 친구에게 어제 누구를 만났는지 물어보세요."
+        answer: "예시 답안: Who did you meet yesterday?<br />평가 기준: Who did you + 동사원형 형태면 정답입니다."
+      - type: qna
+        question: "A2. 방금 큰 소리가 났습니다. '무슨 일이 있었니?'라고 물어보세요."
+        answer: "예시 답안: What happened?<br />평가 기준: What + 동사 과거형 형태면 정답입니다."
+      - type: qna
+        question: "A3. 누군가가 문을 두드렸습니다. '누가 문을 두드렸니?'라고 물어보세요."
+        answer: "예시 답안: Who knocked on the door?<br />평가 기준: Who + 동사 과거형 형태면 정답입니다."
+      - type: qna
+        question: "A4. 친구가 선물을 받았습니다. '누가 너에게 그것을 줬니?'라고 물어보세요."
+        answer: "예시 답안: Who gave it to you? / Who gave you that?<br />평가 기준: Who + 동사 과거형 형태면 정답입니다."
+      - type: qna
+        question: "A5. 친구가 영화를 봤다고 합니다. '무슨 영화를 봤니?'라고 물어보세요."
+        answer: "예시 답안: What movie did you watch? / What did you watch?<br />평가 기준: What (movie) did you + 동사원형 형태면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 고치세요: 'Who did break the window?'"
+        answer: "올바른 문장: Who broke the window?<br />설명: Who가 주어이므로 did를 사용하지 않습니다."
+      - type: qna
+        question: "C2. 'Who you called?'가 틀린 이유를 설명하고 올바른 문장을 쓰세요."
+        answer: "올바른 문장: Who did you call?<br />설명: Who가 목적어일 때는 did + 주어 + 동사원형 구조가 필요합니다."
+      - type: qna
+        question: "C3. 다음 두 문장의 의미 차이를 설명하세요:<br />a) Who helped you?<br />b) Who did you help?"
+        answer: "a) 누가 너를 도왔니? (도와준 사람이 누구인지)<br />b) 너는 누구를 도왔니? (네가 도운 사람이 누구인지)<br />a에서 Who는 주어, b에서 Who는 목적어입니다."
+      - type: qna
+        question: "C4. 다음 상황에 맞는 질문을 만드세요: 케이크가 없어졌습니다. 누가 먹었는지 물어보세요."
+        answer: "Who ate the cake?<br />설명: 먹은 사람(주어)을 묻는 것이므로 주어 의문문입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. ___ called you yesterday?"
+        answer: "Who"
+      - type: qna
+        question: "SR2. Who ___ you call yesterday?"
+        answer: "did"
+      - type: qna
+        question: "SR3. What ___ last night? (happen)"
+        answer: "happened"
+      - type: qna
+        question: "SR4. What did you ___ for dinner? (eat)"
+        answer: "eat"
+      - type: qna
+        question: "SR5. 번역: 누가 이 노래를 불렀니?"
+        answer: "Who sang this song?"
+      - type: qna
+        question: "SR6. 번역: 너는 누구를 초대했니?"
+        answer: "Who did you invite?"
+      - type: qna
+        question: "SR7. 틀린 곳 찾기: Who did won the prize?"
+        answer: "Who won the prize? (did 삭제)"
+      - type: qna
+        question: "SR8. 틀린 곳 찾기: What you bought?"
+        answer: "What did you buy? (did 추가, bought → buy)"
+      - type: qna
+        question: "SR9. Tom met Mary. → '누가'를 묻는 의문문으로"
+        answer: "Who met Mary?"
+      - type: qna
+        question: "SR10. Tom met Mary. → '누구를'을 묻는 의문문으로"
+        answer: "Who did Tom meet?"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. 주어 의문문과 목적어 의문문의 차이를 설명할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 이 개념은 많은 학생들이 어려워하는 부분인데 잘 이해했네요.<br />어렵다면: 'Who called you? = 누가 너를' vs 'Who did you call? = 너는 누구를' 이렇게 외워보세요."
+      - type: qna
+        question: "SC2. 언제 did를 쓰고 언제 쓰지 않는지 구별할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 영어 의문문의 핵심을 파악했습니다.<br />어렵다면: 의문사가 주어면 did 없음, 의문사가 목적어면 did 있음 - 이것만 기억하세요!"
+      - type: qna
+        question: "SC3. Who saw you?와 Who did you see?의 차이를 자신있게 설명할 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 이 두 문장을 구별하는 것이 이 단원의 핵심입니다.<br />어렵다면: 답을 넣어보세요. Tom saw me → Who saw you? / I saw Tom → Who did you see?"
+      - type: qna
+        question: "SC4. 오늘 배운 내용 중 가장 헷갈렸던 부분은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 어려웠던 부분을 인식하는 것이 학습의 첫 걸음입니다!"
+      - type: note
+        content: "잘했어요! 주어 의문문과 목적어 의문문을 구별하는 것은 영어에서 꽤 어려운 개념입니다. 오늘 배운 패턴을 기억하고, 실제 상황에서 'Who가 주어인가, 목적어인가?'를 생각하며 연습해 보세요. 처음에는 헷갈려도 괜찮아요 - 반복 연습으로 자연스러워집니다! 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 주어 의문문과 목적어 의문문을 구별하는 연습을 해 보세요!"
+      - type: note
+        content: "💡 성장 마인드셋: 이 개념이 어렵다고 느껴진다면, 당신은 정상입니다! 많은 영어 학습자들이 똑같이 어려워합니다. 'Who saw you?' vs 'Who did you see?'를 하루에 10번씩 말해보세요. 일주일 후에는 자연스러워질 거예요!"

@@ -1,0 +1,260 @@
+title: "Unit 46 · How long does it take...? (시간이 얼마나 걸리니?)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 어떤 일에 걸리는 시간을 물어볼 때 'How long does it take~?'를 사용합니다. 이 표현은 일상생활에서 정말 많이 쓰이는 유용한 패턴이에요!"
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "How long does it take + to + 동사원형?"
+          - "How long does it take to get there? (거기까지 가는 데 얼마나 걸려?)"
+          - "It takes + 시간 + to + 동사원형"
+          - "It takes 30 minutes to get there. (거기까지 가는 데 30분 걸려.)"
+          - "사람을 넣을 때: It takes + 사람 + 시간 + to + 동사원형"
+          - "It takes me an hour to finish. (나는 끝내는 데 한 시간 걸려.)"
+      - type: text
+        content: "<span class='highlight'>핵심 포인트:</span><br />• it은 가주어이고, to + 동사원형이 진주어입니다<br />• 시간 앞에는 about(약), around(대략)를 넣어 대략적인 시간을 표현할 수 있어요<br />• 과거형: How long did it take~? / It took~"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 이동 시간을 물을 때: How long does it take to go to school? (학교까지 얼마나 걸려?)<br />• 작업 시간을 물을 때: How long does it take to cook dinner? (저녁 요리하는 데 얼마나 걸려?)<br />• 학습 시간을 물을 때: How long does it take to learn Korean? (한국어 배우는 데 얼마나 걸려?)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "How long does it take to walk to the station? (역까지 걸어가는 데 얼마나 걸려?)"
+          - "It takes about 10 minutes. (약 10분 걸려.)"
+          - "How long does it take to fly to Japan? (일본까지 비행기로 얼마나 걸려?)"
+          - "It takes about 2 hours. (약 2시간 걸려.)"
+          - "How long does it take you to get ready? (준비하는 데 얼마나 걸려?)"
+          - "It takes me about 30 minutes. (나는 약 30분 걸려.)"
+          - "How long did it take to build this house? (이 집 짓는 데 얼마나 걸렸어?)"
+          - "It took about 6 months. (약 6개월 걸렸어.)"
+          - "How long will it take to finish? (끝내는 데 얼마나 걸릴까?)"
+          - "It will take about an hour. (약 한 시간 걸릴 거야.)"
+          - "How long does it take to make a cake? (케이크 만드는 데 얼마나 걸려?)"
+          - "It takes about 2 hours including baking time. (굽는 시간 포함해서 약 2시간 걸려.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 주어 오류: How long do you take? (X) → How long does it take you? (O)<br />2. to 생략: It takes 10 minutes go there. (X) → It takes 10 minutes to go there. (O)<br />3. 시간 표현 위치: It takes to go 10 minutes. (X) → It takes 10 minutes to go. (O)"
+      - type: note
+        content: "🇰🇷 한국어 vs 🇺🇸 영어 비교:<br />• 한국어: '(나는) 학교까지 30분 걸려' - 사람이 주어<br />• 영어: 'It takes me 30 minutes' - it이 주어, 사람은 목적어로!<br />• 차이점: 영어는 '시간이 걸린다'를 it takes로 표현<br />• 어순 비교:<br />  한국어: 나는 + 장소까지 + 시간 + 걸려<br />  영어: It takes + 사람 + 시간 + to + 동사<br />• 팁: 영어는 '그것(it)이 나에게 시간을 가져간다'라고 생각하세요!"
+      - type: text
+        content: "<span class='highlight'>시간 표현 복습:</span><br />• 분: minute(s) - 10 minutes<br />• 시간: hour(s) - 2 hours<br />• 일: day(s) - 3 days<br />• 주: week(s) - 2 weeks<br />• 달: month(s) - 6 months<br />• 반: half - half an hour (30분), an hour and a half (1시간 30분)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "How long does it take to get to Seoul?"
+          - "It takes about 2 hours by train."
+          - "How long does it take you to do your homework?"
+          - "It takes me about an hour."
+          - "How long did it take to make this video?"
+          - "It took about 3 days."
+      - type: qna
+        question: "Q1. 모든 질문에서 공통으로 사용되는 주어는 무엇인가요?"
+        answer: "it입니다. 'How long does it take~'에서 it은 가주어입니다."
+      - type: qna
+        question: "Q2. 시간 표현(2 hours, an hour, 3 days)은 문장 어디에 위치하나요?"
+        answer: "takes 바로 뒤에 위치합니다. It takes + 시간 + to~"
+      - type: qna
+        question: "Q3. 과거에 걸린 시간을 물을 때는 어떻게 바뀌나요?"
+        answer: "does가 did로, take가 took으로 바뀝니다. How long did it take~? / It took~"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. '~하는 데 얼마나 걸려?'를 영어로 시작하면 어떻게 되나요?"
+        answer: "How long does it take to~?"
+      - type: qna
+        question: "R2. '10분 걸려'를 영어로 말해 보세요."
+        answer: "It takes 10 minutes. / It takes about 10 minutes."
+      - type: qna
+        question: "R3. '나는 1시간 걸려'처럼 사람을 넣으면 어순이 어떻게 되나요?"
+        answer: "It takes me an hour. (It takes + 사람 + 시간)"
+      - type: qna
+        question: "R4. 과거에 걸린 시간을 말할 때 take는 어떻게 바뀌나요?"
+        answer: "took으로 바뀝니다. It took 2 hours."
+      - type: qna
+        question: "R5. '약'을 나타내는 영어 단어는?"
+        answer: "about 또는 around"
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 단어를 넣으세요."
+      - type: qna
+        question: "Q1. How long does it ___ to get there?"
+        answer: "take<br />설명: How long does it take~? 패턴입니다."
+      - type: qna
+        question: "Q2. It ___ about 30 minutes."
+        answer: "takes<br />설명: 현재 시제에서 it + takes 형태입니다."
+      - type: qna
+        question: "Q3. How long does it take ___ walk to school?"
+        answer: "to<br />설명: It takes + 시간 + to + 동사원형 패턴입니다."
+      - type: qna
+        question: "Q4. It takes ___ about an hour to finish."
+        answer: "me<br />설명: 사람을 넣을 때 It takes + 사람 + 시간 순서입니다."
+      - type: qna
+        question: "Q5. How long ___ it take to build this? (과거)"
+        answer: "did<br />설명: 과거 시제에서는 did를 사용합니다."
+      - type: qna
+        question: "Q6. It ___ about 2 years. (과거)"
+        answer: "took<br />설명: 과거 시제에서 take → took으로 바뀝니다."
+      - type: qna
+        question: "Q7. How long ___ it take to fly to America?"
+        answer: "does<br />설명: 현재 시제, it은 3인칭 단수이므로 does를 사용합니다."
+      - type: qna
+        question: "Q8. It takes about ___ an hour. (반)"
+        answer: "half<br />설명: half an hour = 30분"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 학교까지 가는 데 얼마나 걸려?"
+        answer: "How long does it take to get to school? / How long does it take to go to school?<br />평가 기준: How long does it take to~ 형태면 정답입니다."
+      - type: qna
+        question: "T2. 약 20분 걸려."
+        answer: "It takes about 20 minutes.<br />평가 기준: It takes + 시간 형태면 정답입니다."
+      - type: qna
+        question: "T3. 너는 준비하는 데 얼마나 걸려?"
+        answer: "How long does it take you to get ready?<br />평가 기준: How long does it take you to~ 형태면 정답입니다."
+      - type: qna
+        question: "T4. 나는 약 30분 걸려."
+        answer: "It takes me about 30 minutes.<br />평가 기준: It takes me + 시간 형태면 정답입니다."
+      - type: qna
+        question: "T5. 이 영화 만드는 데 얼마나 걸렸어?"
+        answer: "How long did it take to make this movie?<br />평가 기준: How long did it take to~ (과거) 형태면 정답입니다."
+      - type: qna
+        question: "T6. 약 2년 걸렸어."
+        answer: "It took about 2 years.<br />평가 기준: It took + 시간 (과거) 형태면 정답입니다."
+      - type: qna
+        question: "T7. 일본까지 비행기로 얼마나 걸려?"
+        answer: "How long does it take to fly to Japan?<br />평가 기준: How long does it take to~ 형태면 정답입니다."
+      - type: qna
+        question: "T8. 약 2시간 걸려."
+        answer: "It takes about 2 hours.<br />평가 기준: It takes + 시간 형태면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 정보를 사용하여 질문과 답을 만들어 보세요."
+      - type: qna
+        question: "TF1. (walk / the park / 15 minutes) → 질문 만들기"
+        answer: "How long does it take to walk to the park?<br />설명: walk to the park = 공원까지 걸어가다"
+      - type: qna
+        question: "TF2. (walk / the park / 15 minutes) → 답변 만들기"
+        answer: "It takes about 15 minutes.<br />설명: takes + 시간 형태로 답합니다."
+      - type: qna
+        question: "TF3. (you / do homework / 1 hour) → 질문 만들기"
+        answer: "How long does it take you to do your homework?<br />설명: you를 넣어 '너는'을 표현합니다."
+      - type: qna
+        question: "TF4. (you / do homework / 1 hour) → 답변 만들기"
+        answer: "It takes me about an hour.<br />설명: me를 넣어 '나는'을 표현합니다."
+      - type: qna
+        question: "TF5. (build this bridge / 3 years / 과거) → 질문 만들기"
+        answer: "How long did it take to build this bridge?<br />설명: 과거이므로 did를 사용합니다."
+      - type: qna
+        question: "TF6. (build this bridge / 3 years / 과거) → 답변 만들기"
+        answer: "It took about 3 years.<br />설명: 과거이므로 took을 사용합니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "실제 상황에서 사용할 수 있는 문장을 만들어 보세요!"
+      - type: qna
+        question: "A1. 친구에게 집에서 학교까지 얼마나 걸리는지 물어보세요."
+        answer: "예시 답안: How long does it take (you) to get to school?<br />평가 기준: How long does it take to~ 형태면 정답입니다."
+      - type: qna
+        question: "A2. 당신은 아침에 준비하는 데 얼마나 걸리나요? 영어로 질문과 답을 만들어 보세요."
+        answer: "예시 답안: How long does it take you to get ready in the morning? - It takes me about 30 minutes.<br />평가 기준: 질문과 답이 올바른 형태면 정답입니다."
+      - type: qna
+        question: "A3. 외국인 친구에게 한국에서 일본까지 비행기로 얼마나 걸리는지 알려주세요."
+        answer: "예시 답안: It takes about 2 hours to fly from Korea to Japan.<br />평가 기준: It takes + 시간 + to~ 형태면 정답입니다."
+      - type: qna
+        question: "A4. 숙제를 끝내는 데 보통 얼마나 걸리나요? 영어로 답해 보세요."
+        answer: "예시 답안: It usually takes me about an hour to finish my homework.<br />평가 기준: It takes + 시간 + to~ 형태면 정답입니다."
+      - type: qna
+        question: "A5. 요리사에게 이 음식을 만드는 데 얼마나 걸리는지 물어보세요."
+        answer: "예시 답안: How long does it take to make this dish? / How long does it take to cook this?<br />평가 기준: How long does it take to~ 형태면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 고치세요: 'How long do you take to get there?'"
+        answer: "올바른 문장: How long does it take you to get there?<br />설명: 주어는 it이어야 하고, 사람은 it takes 다음에 넣습니다."
+      - type: qna
+        question: "C2. 다음 두 문장을 비교해 보세요:<br />a) It takes 2 hours.<br />b) It takes me 2 hours."
+        answer: "a) 일반적으로 2시간 걸린다 (누구에게나)<br />b) 나에게는 2시간 걸린다 (개인적인 시간)<br />설명: me를 넣으면 특정 사람의 시간을 나타냅니다."
+      - type: qna
+        question: "C3. 다음 대화의 빈칸을 채우세요:<br />A: How long ___ it ___ to fly to America?<br />B: It ___ about 14 hours.<br />A: Wow! That's a long time. How long ___ it ___ you to pack?<br />B: It usually ___ me about 2 hours."
+        answer: "A: How long does it take to fly to America?<br />B: It takes about 14 hours.<br />A: How long does it take you to pack?<br />B: It usually takes me about 2 hours."
+      - type: qna
+        question: "C4. 다음 상황에 맞는 질문을 만드세요: 친구가 새 집으로 이사했습니다. 집 꾸미는 데 얼마나 걸렸는지 궁금합니다."
+        answer: "How long did it take (you) to decorate your new house?<br />설명: 과거의 일이므로 did를 사용합니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. How long does it ___ to get there?"
+        answer: "take"
+      - type: qna
+        question: "SR2. It ___ about 30 minutes."
+        answer: "takes"
+      - type: qna
+        question: "SR3. It takes ___ an hour. (나에게)"
+        answer: "me"
+      - type: qna
+        question: "SR4. How long ___ it take? (과거)"
+        answer: "did"
+      - type: qna
+        question: "SR5. 번역: 거기까지 가는 데 얼마나 걸려?"
+        answer: "How long does it take to get there?"
+      - type: qna
+        question: "SR6. 번역: 약 20분 걸려."
+        answer: "It takes about 20 minutes."
+      - type: qna
+        question: "SR7. 번역: 그것은 3년 걸렸어. (과거)"
+        answer: "It took about 3 years."
+      - type: qna
+        question: "SR8. 틀린 곳 찾기: How long do you take to finish?"
+        answer: "How long does it take you to finish?"
+      - type: qna
+        question: "SR9. It takes 30 minutes ___ walk there."
+        answer: "to"
+      - type: qna
+        question: "SR10. half ___ hour = 30분"
+        answer: "an (half an hour)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. 'How long does it take to~?'를 자신있게 사용할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 일상에서 정말 많이 쓰는 표현입니다.<br />어렵다면: 'How long does it take to get there?'를 여러 번 말해보세요."
+      - type: qna
+        question: "SC2. 시간을 답할 때 'It takes~'를 올바르게 사용할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 질문과 답을 모두 할 수 있게 되었습니다.<br />어렵다면: 'It takes + 시간 + to + 동사원형' 순서를 기억하세요."
+      - type: qna
+        question: "SC3. 과거에 걸린 시간을 표현할 수 있나요? (did, took)"
+        answer: "할 수 있다면: 대단합니다! 과거와 현재를 구별해서 사용할 수 있습니다.<br />어렵다면: does → did, takes → took 으로 바뀐다고 기억하세요."
+      - type: qna
+        question: "SC4. 오늘 배운 표현을 사용해서 일상에서 질문 2개를 만들어 보세요."
+        answer: "자유롭게 답변해 보세요. 예: How long does it take to eat breakfast? / How long does it take you to get to school?"
+      - type: note
+        content: "잘했어요! 'How long does it take~?'는 일상생활에서 정말 자주 사용하는 표현입니다. 길을 물어볼 때, 여행 계획을 세울 때, 요리 시간을 물어볼 때 등 다양한 상황에서 활용할 수 있어요. 이 표현 하나로 다양한 대화를 시작할 수 있습니다! 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 It takes + 시간 + to~ 패턴을 확실히 익혀두세요!"
+      - type: note
+        content: "💡 성장 마인드셋: 'It takes'가 '그것이 가져간다'라는 뜻인 게 이상하게 느껴질 수 있어요. 하지만 영어에서는 시간을 이렇게 표현합니다! 매일 'How long does it take~?'로 시작하는 질문 하나를 만들어 보세요. 곧 자연스러워질 거예요!"

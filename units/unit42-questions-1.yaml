@@ -1,0 +1,260 @@
+title: "Unit 42 · is it...? have you...? do they...? (의문문 1)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 Yes/No 질문을 만들 때는 조동사나 be동사를 문장 맨 앞에 놓습니다. 이를 통해 상대방에게 '네/아니오'로 답할 수 있는 질문을 할 수 있어요."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "be동사 의문문: Is/Are/Was/Were + 주어 + ~?"
+          - "조동사 의문문: Do/Does/Did + 주어 + 동사원형~?"
+          - "have/has 의문문: Have/Has + 주어 + 과거분사~?"
+          - "Can/Will 의문문: Can/Will + 주어 + 동사원형~?"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> Yes/No 의문문은 상대방에게 확인하거나 정보를 얻고 싶을 때 사용합니다. 한국어의 '~니?', '~하니?', '~했니?'에 해당합니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 상태를 물을 때: Is it cold outside? (밖이 춥니?)<br />• 경험을 물을 때: Have you been to Japan? (일본에 가 본 적 있니?)<br />• 일상 행동을 물을 때: Do they play soccer? (그들은 축구를 하니?)<br />• 가능성을 물을 때: Can she swim? (그녀는 수영할 수 있니?)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "Is it raining now? (지금 비 오니?) - 날씨"
+          - "Are you tired? (너 피곤하니?) - 상태"
+          - "Was she at home yesterday? (그녀 어제 집에 있었니?) - 과거 상태"
+          - "Do you like pizza? (너 피자 좋아하니?) - 일상 취향"
+          - "Does he speak English? (그는 영어를 말하니?) - 능력"
+          - "Did they finish their homework? (그들은 숙제를 끝냈니?) - 과거 행동"
+          - "Have you eaten lunch? (점심 먹었니?) - 완료/경험"
+          - "Has she called you? (그녀가 너에게 전화했니?) - 완료"
+          - "Can you help me? (나 도와줄 수 있니?) - 능력/부탁"
+          - "Will it snow tomorrow? (내일 눈 올까?) - 미래 예측"
+          - "Are they coming to the party? (그들 파티에 오니?) - 진행/계획"
+          - "Were you listening? (너 듣고 있었니?) - 과거 진행"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 어순 오류: You are happy? (X) → Are you happy? (O)<br />2. do/does 생략: She like pizza? (X) → Does she like pizza? (O)<br />3. 3인칭 단수 does 사용 누락: Do he play? (X) → Does he play? (O)<br />4. 동사 원형 사용 안함: Does she likes? (X) → Does she like? (O)"
+      - type: note
+        content: "🇰🇷 한국어 vs 🇺🇸 영어 의문문 비교:<br />• 한국어: 문장 끝에 '~니?', '~하니?' 추가 (어순 변화 없음)<br />  예) 너는 피자를 좋아하니?<br />• 영어: 조동사/be동사가 주어 앞으로 이동 (어순 변화!)<br />  예) Do you like pizza?<br />• 차이점: 한국어는 억양으로 질문, 영어는 어순으로 질문<br />• 팁: 영어 의문문은 '동사 먼저!'라고 기억하세요"
+      - type: text
+        content: "<span class='highlight'>의문문 만드는 규칙:</span><br />• be동사가 있으면: be동사를 주어 앞으로 이동<br />• 일반동사가 있으면: Do/Does/Did를 앞에 추가, 동사는 원형으로<br />• 조동사가 있으면: 조동사를 주어 앞으로 이동<br />• have/has (완료형): Have/Has를 주어 앞으로 이동"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "Is it your book?"
+          - "Are they from Korea?"
+          - "Do you have a pet?"
+          - "Does she like music?"
+          - "Did he go to school?"
+          - "Have you seen this movie?"
+          - "Has she finished her work?"
+          - "Can they play the piano?"
+      - type: qna
+        question: "Q1. 위 문장들의 공통점은 무엇인가요? 어떤 단어로 시작하나요?"
+        answer: "모두 Is, Are, Do, Does, Did, Have, Has, Can과 같은 조동사나 be동사로 시작합니다. 이것들이 주어 앞에 옵니다."
+      - type: qna
+        question: "Q2. Do와 Does는 언제 사용하나요?"
+        answer: "Do: I, you, we, they와 함께<br />Does: he, she, it과 함께 (3인칭 단수)"
+      - type: qna
+        question: "Q3. Does/Did 뒤의 동사 형태를 관찰하세요. 무엇이 특별한가요?"
+        answer: "Does/Did 뒤에는 항상 동사원형이 옵니다. likes나 went가 아니라 like, go처럼요."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. Yes/No 의문문을 만들 때 be동사나 조동사는 어디에 위치하나요?"
+        answer: "문장의 맨 앞(주어 앞)에 위치합니다."
+      - type: qna
+        question: "R2. 일반동사(like, play 등)로 의문문을 만들 때 무엇을 추가하나요?"
+        answer: "Do/Does/Did를 문장 앞에 추가하고, 동사는 원형으로 씁니다."
+      - type: qna
+        question: "R3. He likes pizza를 의문문으로 바꾸면?"
+        answer: "Does he like pizza?<br />설명: likes가 like로 바뀝니다. Does가 3인칭 단수를 나타내기 때문입니다."
+      - type: qna
+        question: "R4. Have you~와 Do you~의 차이점은 무엇인가요?"
+        answer: "Have you~: 현재완료 (경험이나 완료를 물을 때)<br />Do you~: 현재 시제 (습관이나 일반적인 사실을 물을 때)"
+      - type: qna
+        question: "R5. 한국 학습자가 의문문에서 자주 하는 실수 하나를 말해 보세요."
+        answer: "예시: 어순을 바꾸지 않고 You are~?로 물어보는 것 / Does 뒤에 likes처럼 s를 붙이는 것"
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 단어를 넣으세요."
+      - type: qna
+        question: "Q1. ___ it cold today? (be동사)"
+        answer: "Is<br />설명: it은 3인칭 단수이므로 Is를 사용합니다."
+      - type: qna
+        question: "Q2. ___ you like chocolate? (일반동사)"
+        answer: "Do<br />설명: you와 함께 쓰이는 조동사는 Do입니다."
+      - type: qna
+        question: "Q3. ___ she play tennis? (일반동사)"
+        answer: "Does<br />설명: she는 3인칭 단수이므로 Does를 사용합니다."
+      - type: qna
+        question: "Q4. ___ they finished their homework? (현재완료)"
+        answer: "Have<br />설명: they와 함께 쓰이므로 Have를 사용합니다."
+      - type: qna
+        question: "Q5. ___ he at school yesterday? (과거 be동사)"
+        answer: "Was<br />설명: he는 단수이고 과거이므로 Was를 사용합니다."
+      - type: qna
+        question: "Q6. ___ you called your mom? (현재완료)"
+        answer: "Have<br />설명: you와 함께 현재완료를 만들 때 Have를 사용합니다."
+      - type: qna
+        question: "Q7. ___ it rain yesterday? (과거 일반동사)"
+        answer: "Did<br />설명: 과거 시제 의문문에는 Did를 사용하고, 동사는 원형(rain)으로 씁니다."
+      - type: qna
+        question: "Q8. ___ your parents coming? (현재진행)"
+        answer: "Are<br />설명: parents는 복수이므로 Are를 사용합니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어 의문문으로 번역해 보세요."
+      - type: qna
+        question: "T1. 그것은 맛있니?"
+        answer: "Is it delicious? / Is it good?<br />평가 기준: Is it + 형용사 형태면 정답입니다."
+      - type: qna
+        question: "T2. 너는 피자를 좋아하니?"
+        answer: "Do you like pizza?<br />평가 기준: Do you like가 올바르게 사용되면 정답입니다."
+      - type: qna
+        question: "T3. 그녀는 영어를 말하니?"
+        answer: "Does she speak English?<br />평가 기준: Does she + 동사원형이 맞으면 정답입니다."
+      - type: qna
+        question: "T4. 그들은 어제 학교에 갔니?"
+        answer: "Did they go to school yesterday?<br />평가 기준: Did + 주어 + 동사원형 형태면 정답입니다."
+      - type: qna
+        question: "T5. 너는 이 영화를 본 적 있니?"
+        answer: "Have you seen this movie?<br />평가 기준: Have you + 과거분사 형태면 정답입니다."
+      - type: qna
+        question: "T6. 그는 숙제를 끝냈니?"
+        answer: "Has he finished his homework?<br />평가 기준: Has he + 과거분사 형태면 정답입니다."
+      - type: qna
+        question: "T7. 너희 부모님은 집에 계시니?"
+        answer: "Are your parents at home?<br />평가 기준: Are your parents + 장소 형태면 정답입니다."
+      - type: qna
+        question: "T8. 그녀는 너에게 전화했니?"
+        answer: "Did she call you? / Has she called you?<br />평가 기준: 둘 다 올바른 표현입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 의문문으로 바꿔 보세요."
+      - type: qna
+        question: "TF1. It is sunny today. → 의문문으로"
+        answer: "Is it sunny today?<br />설명: be동사 is를 주어 앞으로 이동합니다."
+      - type: qna
+        question: "TF2. She plays the piano. → 의문문으로"
+        answer: "Does she play the piano?<br />설명: Does를 앞에 추가하고, plays를 play로 바꿉니다."
+      - type: qna
+        question: "TF3. They went to the park. → 의문문으로"
+        answer: "Did they go to the park?<br />설명: Did를 앞에 추가하고, went를 go로 바꿉니다."
+      - type: qna
+        question: "TF4. You have eaten breakfast. → 의문문으로"
+        answer: "Have you eaten breakfast?<br />설명: Have를 주어 앞으로 이동합니다."
+      - type: qna
+        question: "TF5. He was tired yesterday. → 의문문으로"
+        answer: "Was he tired yesterday?<br />설명: Was를 주어 앞으로 이동합니다."
+      - type: qna
+        question: "TF6. They can swim. → 의문문으로"
+        answer: "Can they swim?<br />설명: 조동사 Can을 주어 앞으로 이동합니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "실제 상황에서 사용할 수 있는 의문문을 만들어 보세요!"
+      - type: qna
+        question: "A1. 친구에게 점심을 먹었는지 물어보세요."
+        answer: "예시 답안: Have you eaten lunch? / Did you eat lunch?<br />평가 기준: 올바른 의문문 형태면 정답입니다."
+      - type: qna
+        question: "A2. 새로운 친구에게 좋아하는 음식이 있는지 물어보세요."
+        answer: "예시 답안: Do you like Korean food? / What food do you like?<br />평가 기준: Do you + 동사원형 형태면 정답입니다."
+      - type: qna
+        question: "A3. 선생님께 오늘 시험이 있는지 물어보세요."
+        answer: "예시 답안: Is there a test today? / Do we have a test today?<br />평가 기준: 의문문 형태가 올바르면 정답입니다."
+      - type: qna
+        question: "A4. 가족에게 내일 시간이 있는지 물어보세요."
+        answer: "예시 답안: Are you free tomorrow? / Do you have time tomorrow?<br />평가 기준: 의문문 형태가 올바르면 정답입니다."
+      - type: qna
+        question: "A5. 친구에게 제주도에 가 본 적 있는지 물어보세요."
+        answer: "예시 답안: Have you been to Jeju? / Have you visited Jeju?<br />평가 기준: Have you + 과거분사 형태면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 고치세요: 'Does she likes ice cream?'"
+        answer: "올바른 문장: Does she like ice cream?<br />설명: Does 뒤에는 동사원형이 와야 합니다. likes → like"
+      - type: qna
+        question: "C2. 'You are a student?'가 틀린 이유를 설명하고 올바른 문장을 쓰세요."
+        answer: "올바른 문장: Are you a student?<br />설명: 의문문을 만들 때 be동사(are)를 주어(you) 앞으로 이동해야 합니다."
+      - type: qna
+        question: "C3. 다음 대화의 빈칸을 채우세요:<br />A: ___ you like sports?<br />B: Yes, I do.<br />A: ___ you ever played basketball?<br />B: No, I haven't."
+        answer: "A: Do you like sports?<br />A: Have you ever played basketball?<br />설명: 첫 번째는 일반적 취향(Do), 두 번째는 경험(Have)을 묻습니다."
+      - type: qna
+        question: "C4. 'He went to school yesterday'를 세 가지 다른 형태의 의문문으로 바꿔 보세요."
+        answer: "1. Did he go to school yesterday? (Yes/No 의문문)<br />2. Where did he go yesterday? (장소를 묻는 의문문)<br />3. When did he go to school? (시간을 묻는 의문문)"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. It is cold. → 의문문으로"
+        answer: "Is it cold?"
+      - type: qna
+        question: "SR2. She likes music. → 의문문으로"
+        answer: "Does she like music?"
+      - type: qna
+        question: "SR3. They went home. → 의문문으로"
+        answer: "Did they go home?"
+      - type: qna
+        question: "SR4. You have finished. → 의문문으로"
+        answer: "Have you finished?"
+      - type: qna
+        question: "SR5. 번역: 너 피곤하니?"
+        answer: "Are you tired?"
+      - type: qna
+        question: "SR6. 번역: 그녀는 영어를 말하니?"
+        answer: "Does she speak English?"
+      - type: qna
+        question: "SR7. 번역: 너 점심 먹었니?"
+        answer: "Have you eaten lunch? / Did you eat lunch?"
+      - type: qna
+        question: "SR8. 틀린 곳 찾기: Do he play soccer?"
+        answer: "Does he play soccer? (Do → Does)"
+      - type: qna
+        question: "SR9. 틀린 곳 찾기: Does she likes pizza?"
+        answer: "Does she like pizza? (likes → like)"
+      - type: qna
+        question: "SR10. 빈칸: ___ they at school now?"
+        answer: "Are"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. be동사, do/does, have/has로 의문문을 만드는 방법을 구별할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 의문문의 기본 구조를 잘 이해했습니다.<br />어렵다면: be동사는 그대로 앞으로, 일반동사는 do/does/did 추가, 완료형은 have/has 앞으로 - 이 세 가지만 기억하세요!"
+      - type: qna
+        question: "SC2. Does 뒤에 동사원형이 와야 한다는 것을 기억하나요?"
+        answer: "기억한다면: 완벽해요! 이 규칙을 알면 많은 실수를 피할 수 있습니다.<br />어렵다면: 'Does she like~', 'Does he play~'를 여러 번 소리 내어 읽어 보세요."
+      - type: qna
+        question: "SC3. 일상 대화에서 Yes/No 의문문을 자신 있게 만들 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 이제 영어로 질문하는 것이 자연스러워질 거예요.<br />어렵다면: 매일 3개의 질문을 영어로 만들어 보는 연습을 해 보세요."
+      - type: qna
+        question: "SC4. 오늘 배운 내용 중 가장 기억에 남는 것은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 자신만의 학습 포인트를 찾는 것이 중요합니다!"
+      - type: note
+        content: "잘했어요! 의문문은 영어 대화에서 정말 중요합니다. 질문을 할 수 있어야 대화가 시작되니까요. 오늘 배운 Is it~?, Do you~?, Have you~?를 일상에서 사용해 보세요. 처음에는 어순이 어색할 수 있지만, 연습하면 자연스러워집니다. 실수해도 괜찮아요 - 실수는 배움의 과정입니다! 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 책을 보지 않고 풀 수 있다면 완벽하게 이해한 것입니다!"
+      - type: note
+        content: "💡 성장 마인드셋: 의문문 어순이 어려워도 포기하지 마세요! 원어민 아이들도 처음에는 'You are happy?'처럼 말하다가 점차 바른 어순을 배웁니다. 매일 조금씩 연습하면 당신도 할 수 있습니다!"
