@@ -1,0 +1,267 @@
+title: "Unit 40 · too/either, so am I / neither do I (동의 표현)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 상대방의 말에 '나도 그래' 또는 '나도 아니야'라고 동의할 때 사용하는 표현입니다. 긍정문에는 too, So + 조동사 + I를, 부정문에는 either, Neither + 조동사 + I를 사용합니다."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "긍정 동의 (나도 그래): Me too. / So + 조동사 + 주어"
+          - "부정 동의 (나도 아니야): Me neither. / Neither + 조동사 + 주어"
+          - "문장 끝에: too (긍정), either (부정)"
+          - "문장 처음에: So (긍정), Neither (부정) - 도치 구조"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• Me too / Me neither: 일상 대화에서 가장 많이 쓰이는 간단한 표현<br />• So do I / Neither do I: 조금 더 격식 있고 정확한 표현<br />• I do too / I don't either: 문장 끝에 too/either를 붙이는 표현"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 상대방이 긍정문을 말했을 때 동의: I like pizza. - Me too! / So do I. / I do too.<br />• 상대방이 부정문을 말했을 때 동의: I don't like bugs. - Me neither. / Neither do I. / I don't either."
+      - type: list
+        heading: "조동사별 동의 표현"
+        list:
+          - "be동사: I'm tired. - So am I. / Me too."
+          - "do/does: I like music. - So do I. / She likes K-pop. - So does he."
+          - "did: I went there. - So did I."
+          - "can: I can swim. - So can I."
+          - "will: I'll come. - So will I."
+          - "have: I've seen it. - So have I."
+          - "부정 be: I'm not ready. - Neither am I. / Me neither."
+          - "부정 do: I don't smoke. - Neither do I."
+          - "부정 can: I can't drive. - Neither can I."
+      - type: list
+        heading: "더 많은 예문"
+        list:
+          - "I'm hungry. - Me too! (나도!) - 간단한 표현"
+          - "I love chocolate. - So do I! (나도 그래!) - 도치 표현"
+          - "I like reading. - I do too. (나도 좋아해) - too 표현"
+          - "She is Korean. - So am I. (나도 그래요)"
+          - "I don't like spiders. - Me neither! (나도 싫어!) - 간단한 표현"
+          - "I can't cook. - Neither can I. (나도 못해) - 도치 표현"
+          - "He doesn't drink coffee. - I don't either. (나도 안 마셔) - either 표현"
+          - "I haven't been there. - Neither have I. (나도 안 가봤어)"
+          - "I will study hard. - So will I. (나도 열심히 할 거야)"
+          - "She didn't come. - Neither did he. (그도 안 왔어)"
+          - "I'm not a morning person. - Neither am I. (나도 아니야)"
+          - "I can play guitar. - So can my brother. (내 동생도 칠 수 있어)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 긍정/부정 혼동: I don't like it. - Me too (X) → Me neither (O)<br />2. 조동사 불일치: I'm tired. - So do I (X) → So am I (O)<br />3. 어순 실수: So I am (X) → So am I (O) - 도치 필수!<br />4. either/neither 혼동: I don't like it. - Neither I do (X) → Neither do I (O)"
+      - type: text
+        content: "<span class='highlight'>도치 구조 이해하기:</span><br />• So/Neither + 조동사 + 주어 순서입니다<br />• 일반적인 어순(주어 + 조동사)이 뒤집힙니다<br />• So am I (O) vs So I am (X)<br />• Neither do I (O) vs Neither I do (X)"
+      - type: text
+        content: "<span class='highlight'>조동사 선택 규칙:</span><br />• 상대방이 사용한 조동사/동사에 맞춰야 합니다!<br />• I'm tired. → So am I. (be동사 am)<br />• I like pizza. → So do I. (일반동사 → do)<br />• She loves music. → So does he. (3인칭 단수 → does)<br />• I went there. → So did I. (과거 → did)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 대화들을 관찰하고 동의 표현의 패턴을 발견해 보세요!"
+      - type: list
+        heading: "대화들을 관찰하세요"
+        list:
+          - "A: I'm hungry. B: Me too! / So am I."
+          - "A: I like pizza. B: Me too! / So do I. / I do too."
+          - "A: I can swim. B: So can I."
+          - "A: I'm not tired. B: Me neither. / Neither am I."
+          - "A: I don't like spiders. B: Me neither. / Neither do I. / I don't either."
+          - "A: I can't drive. B: Neither can I."
+          - "A: She went home. B: So did he."
+          - "A: They haven't finished. B: Neither have we."
+      - type: qna
+        question: "Q1. 긍정문에 동의할 때 사용하는 단어들은 무엇인가요?"
+        answer: "too, So를 사용합니다. (Me too, So do I, I do too)"
+      - type: qna
+        question: "Q2. 부정문에 동의할 때 사용하는 단어들은 무엇인가요?"
+        answer: "either, Neither를 사용합니다. (Me neither, Neither do I, I don't either)"
+      - type: qna
+        question: "Q3. 'So am I'와 'So do I'의 차이는 무엇인가요?"
+        answer: "So am I는 be동사(am, is, are)에 대한 동의, So do I는 일반동사에 대한 동의입니다."
+      - type: qna
+        question: "Q4. 도치 표현에서 어순은 어떻게 되나요?"
+        answer: "So/Neither + 조동사 + 주어 순서입니다. (So am I, Neither do I)"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 긍정문에 동의할 때 쓰는 가장 간단한 표현은?"
+        answer: "Me too!<br />평가 기준: Me too를 말하면 정답입니다."
+      - type: qna
+        question: "R2. 부정문에 동의할 때 쓰는 가장 간단한 표현은?"
+        answer: "Me neither!<br />평가 기준: Me neither를 말하면 정답입니다."
+      - type: qna
+        question: "R3. 'I'm tired.'에 동의하는 도치 표현은?"
+        answer: "So am I.<br />평가 기준: So am I를 말하면 정답입니다."
+      - type: qna
+        question: "R4. 'I don't like coffee.'에 동의하는 도치 표현은?"
+        answer: "Neither do I.<br />평가 기준: Neither do I를 말하면 정답입니다."
+      - type: qna
+        question: "R5. 왜 'I'm happy. - So do I.'가 틀린가요?"
+        answer: "I'm에서 am(be동사)을 사용했으므로 So am I라고 해야 합니다. do는 일반동사에 씁니다.<br />평가 기준: be동사와 일반동사의 구분을 언급하면 정답입니다."
+
+  - title: "4. 기초 연습 - 동의 표현 완성"
+    items:
+      - type: note
+        content: "상대방의 말에 동의하는 표현을 완성하세요."
+      - type: qna
+        question: "Q1. I'm a student. - So ___ I."
+        answer: "am<br />설명: I'm(be동사)에 맞춰 am을 씁니다."
+      - type: qna
+        question: "Q2. I like K-pop. - So ___ I."
+        answer: "do<br />설명: like(일반동사)에 맞춰 do를 씁니다."
+      - type: qna
+        question: "Q3. I can swim. - So ___ I."
+        answer: "can<br />설명: can에 맞춰 can을 씁니다."
+      - type: qna
+        question: "Q4. I don't eat meat. - Neither ___ I."
+        answer: "do<br />설명: don't eat(일반동사 부정)에 맞춰 do를 씁니다."
+      - type: qna
+        question: "Q5. I'm not ready. - Neither ___ I."
+        answer: "am<br />설명: I'm not(be동사 부정)에 맞춰 am을 씁니다."
+      - type: qna
+        question: "Q6. She went home. - So ___ he."
+        answer: "did<br />설명: went(과거 동사)에 맞춰 did를 씁니다."
+      - type: qna
+        question: "Q7. I can't drive. - Neither ___ I."
+        answer: "can<br />설명: can't에 맞춰 can을 씁니다."
+      - type: qna
+        question: "Q8. I've been there. - So ___ I."
+        answer: "have<br />설명: I've(have)에 맞춰 have를 씁니다."
+
+  - title: "5. 세 가지 표현 방법 연습"
+    items:
+      - type: note
+        content: "같은 동의를 세 가지 방법으로 표현해 보세요."
+      - type: qna
+        question: "T1. I like pizza. (세 가지 방법으로 동의)"
+        answer: "1) Me too! 2) So do I. 3) I do too.<br />평가 기준: 세 가지 중 두 가지 이상 맞으면 정답입니다."
+      - type: qna
+        question: "T2. I'm tired. (세 가지 방법으로 동의)"
+        answer: "1) Me too! 2) So am I. 3) I am too.<br />평가 기준: 세 가지 중 두 가지 이상 맞으면 정답입니다."
+      - type: qna
+        question: "T3. I don't like bugs. (세 가지 방법으로 동의)"
+        answer: "1) Me neither! 2) Neither do I. 3) I don't either.<br />평가 기준: 세 가지 중 두 가지 이상 맞으면 정답입니다."
+      - type: qna
+        question: "T4. I can't cook. (세 가지 방법으로 동의)"
+        answer: "1) Me neither! 2) Neither can I. 3) I can't either.<br />평가 기준: 세 가지 중 두 가지 이상 맞으면 정답입니다."
+      - type: qna
+        question: "T5. I'm not hungry. (세 가지 방법으로 동의)"
+        answer: "1) Me neither! 2) Neither am I. 3) I'm not either.<br />평가 기준: 세 가지 중 두 가지 이상 맞으면 정답입니다."
+
+  - title: "6. 다양한 주어로 연습"
+    items:
+      - type: note
+        content: "나 외에 다른 사람에 대해서도 동의 표현을 만들어 보세요."
+      - type: qna
+        question: "TF1. Tom likes music. (Mary도 그렇다)"
+        answer: "So does Mary. / Mary does too.<br />설명: 3인칭 단수이므로 does를 씁니다."
+      - type: qna
+        question: "TF2. I'm Korean. (My friend도 그렇다)"
+        answer: "So is my friend. / My friend is too.<br />설명: be동사이므로 is를 씁니다."
+      - type: qna
+        question: "TF3. She can't dance. (He도 못한다)"
+        answer: "Neither can he. / He can't either.<br />설명: 부정문이므로 Neither를 씁니다."
+      - type: qna
+        question: "TF4. We went to the park. (They도 갔다)"
+        answer: "So did they. / They did too.<br />설명: 과거이므로 did를 씁니다."
+      - type: qna
+        question: "TF5. I don't have a car. (My brother도 없다)"
+        answer: "Neither does my brother. / My brother doesn't either.<br />설명: 3인칭 단수 부정이므로 does를 씁니다."
+      - type: qna
+        question: "TF6. They will come. (We도 갈 것이다)"
+        answer: "So will we. / We will too.<br />설명: will이므로 will을 씁니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "실제 대화에서 동의 표현을 사용해 보세요!"
+      - type: qna
+        question: "A1. 친구가 'I love BTS'라고 했습니다. 당신도 BTS를 좋아한다면 어떻게 동의하나요?"
+        answer: "예시 답안: Me too! / So do I! / I do too!<br />평가 기준: 긍정 동의 표현을 사용하면 정답입니다."
+      - type: qna
+        question: "A2. 친구가 'I'm not good at math'라고 했습니다. 당신도 수학을 못한다면 어떻게 동의하나요?"
+        answer: "예시 답안: Me neither. / Neither am I. / I'm not either.<br />평가 기준: 부정 동의 표현을 사용하면 정답입니다."
+      - type: qna
+        question: "A3. 친구가 'I can speak English'라고 했습니다. 당신도 영어를 할 수 있다면?"
+        answer: "예시 답안: Me too! / So can I! / I can too!<br />평가 기준: 긍정 동의 표현을 사용하면 정답입니다."
+      - type: qna
+        question: "A4. 친구가 'I didn't do my homework'라고 했습니다. 당신도 안 했다면?"
+        answer: "예시 답안: Me neither. / Neither did I. / I didn't either.<br />평가 기준: 부정 동의 표현을 사용하면 정답입니다."
+      - type: qna
+        question: "A5. 당신과 친구의 공통점 3가지를 동의 표현으로 만들어 보세요."
+        answer: "예시 답안:<br />A: I like playing games. B: So do I.<br />A: I'm 12 years old. B: Me too!<br />A: I can ride a bike. B: So can I.<br />평가 기준: 3가지 동의 표현을 올바르게 만들면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 대답의 틀린 부분을 고치세요: I'm tired. - So do I."
+        answer: "올바른 문장: So am I.<br />설명: I'm은 be동사이므로 am을 써야 합니다. do는 일반동사에 씁니다."
+      - type: qna
+        question: "C2. 다음 대답의 틀린 부분을 고치세요: I don't like it. - Me too."
+        answer: "올바른 문장: Me neither. / Neither do I.<br />설명: 부정문에 동의할 때는 neither를 써야 합니다."
+      - type: qna
+        question: "C3. 다음 대화를 완성하세요:<br />A: I love reading books.<br />B: ___ ___ I. I also like writing.<br />A: ___ ___ I! Do you like K-pop?<br />B: Not really. I don't listen to music often.<br />A: ___ ___ I. I'm too busy."
+        answer: "B: So do I. (긍정 동의 - 일반동사)<br />A: So do I! (긍정 동의 - 일반동사)<br />A: Neither do I. (부정 동의 - 일반동사)<br />설명: 각 문장의 동사와 긍정/부정에 맞춰 동의합니다."
+      - type: qna
+        question: "C4. 친구들과의 대화를 상상해서 So/Neither 도치 표현이 4개 이상 포함된 대화를 만드세요."
+        answer: "예시 답안:<br />A: I'm excited about the school trip!<br />B: So am I! I've never been to Jeju.<br />C: Neither have I. But I can swim.<br />A: So can I! I hope we can go to the beach.<br />B: Me too! I don't like hiking though.<br />C: Neither do I.<br />평가 기준: So/Neither 도치 표현이 4개 이상 올바르게 사용되면 정답입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. I'm happy. - So ___ I."
+        answer: "am"
+      - type: qna
+        question: "SR2. I like pizza. - So ___ I."
+        answer: "do"
+      - type: qna
+        question: "SR3. I don't eat meat. - Neither ___ I."
+        answer: "do"
+      - type: qna
+        question: "SR4. I can swim. - So ___ I."
+        answer: "can"
+      - type: qna
+        question: "SR5. I'm not ready. - Neither ___ I."
+        answer: "am"
+      - type: qna
+        question: "SR6. I went there. - So ___ he."
+        answer: "did"
+      - type: qna
+        question: "SR7. I can't drive. (간단한 동의)"
+        answer: "Me neither."
+      - type: qna
+        question: "SR8. I love music. (간단한 동의)"
+        answer: "Me too!"
+      - type: qna
+        question: "SR9. She likes K-pop. - So ___ he."
+        answer: "does"
+      - type: qna
+        question: "SR10. I haven't been there. - Neither ___ I."
+        answer: "have"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. 긍정문에 동의할 때와 부정문에 동의할 때의 차이를 알고 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! 가장 중요한 구분을 이해했습니다.<br />어렵다면: 긍정 = too/So, 부정 = either/Neither라고 기억하세요!"
+      - type: qna
+        question: "SC2. So/Neither 도치 표현에서 올바른 조동사를 선택할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 조동사 매칭을 마스터했네요.<br />어렵다면: 상대방 문장의 동사를 보세요. be동사면 am/is/are, 일반동사면 do/does/did!"
+      - type: qna
+        question: "SC3. Me too와 So do I의 차이를 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 둘 다 사용할 수 있게 됐네요.<br />어렵다면: Me too는 간단한 표현, So do I는 격식 있는 표현이에요. 둘 다 같은 의미입니다."
+      - type: qna
+        question: "SC4. 다양한 주어(he, she, they 등)로 동의 표현을 만들 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 다양한 상황에서 활용할 수 있어요.<br />어렵다면: So does she, Neither can they처럼 주어만 바꾸면 돼요!"
+      - type: qna
+        question: "SC5. 오늘 배운 표현 중 가장 유용하다고 느낀 것은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 가장 많이 쓸 것 같은 표현을 기억해 두세요!"
+      - type: note
+        content: "여기까지 완료했다면 정말 잘하고 있어요! 동의 표현은 영어 대화에서 정말 자주 사용됩니다. 친구와 대화할 때 'Me too!' 'So do I!'를 써보세요. 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 상대방 문장을 보고 바로 동의할 수 있다면 완벽하게 이해한 것입니다!"

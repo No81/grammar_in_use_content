@@ -1,0 +1,620 @@
+title: "Units 38-41 종합 복습 (Comprehensive Review)"
+meta: "대상: 6학년 · 난이도: 중~중상 · 권장 45-60분 (A4 3p)"
+review_scope: "Auxiliary Verbs Grammar (Units 38-41)"
+units_covered:
+  - "Unit 38: I am, I don't, etc. (조동사로 짧은 대답)"
+  - "Unit 39: Have you? Are you? (의문문 어순)"
+  - "Unit 40: too/either, so am I / neither do I (동의 표현)"
+  - "Unit 41: isn't, haven't, don't, etc. (부정문)"
+
+sections:
+  - title: "1. 조동사 활용 문법 맵 (Grammar Map)"
+    items:
+      - type: text
+        content: "Units 38-41에서는 영어 조동사(auxiliary verbs)의 다양한 활용을 배웠습니다. 조동사는 영어 대화의 핵심입니다!"
+      - type: list
+        heading: "Unit 38: 짧은 대답 (Short Answers)"
+        list:
+          - "형태: Yes/No, + 주어 + 조동사"
+          - "의미: 질문에 간결하게 대답하기, 동의/반박 표현"
+          - "예문: Are you tired? - Yes, I am. / No, I'm not."
+          - "예문: Do you like pizza? - Yes, I do. / No, I don't."
+          - "핵심: 질문에 사용된 조동사와 같은 조동사로 대답!"
+      - type: list
+        heading: "Unit 39: 의문문 어순 (Question Word Order)"
+        list:
+          - "정식 의문문: 조동사/be동사 + 주어 + ...? (Are you ready?)"
+          - "상승 억양 의문문: 평서문 어순 + ? (You're ready?)"
+          - "정식 의문문: 단순 질문, 공식적 상황"
+          - "상승 억양 의문문: 놀라움, 확인, 반문"
+          - "핵심: 상황에 따라 적절한 의문문 형태 선택"
+      - type: list
+        heading: "Unit 40: 동의 표현 (Agreement Expressions)"
+        list:
+          - "긍정 동의: Me too! / So + 조동사 + 주어 / 주어 + 조동사 + too"
+          - "부정 동의: Me neither! / Neither + 조동사 + 주어 / 주어 + 조동사 + not + either"
+          - "예문: I'm tired. - So am I. / Me too!"
+          - "예문: I don't like bugs. - Neither do I. / Me neither!"
+          - "핵심: 긍정에는 too/So, 부정에는 either/Neither"
+      - type: list
+        heading: "Unit 41: 부정 축약형 (Negative Contractions)"
+        list:
+          - "be동사: isn't, aren't (am not은 I'm not)"
+          - "do/does/did: don't, doesn't, didn't"
+          - "조동사: can't, won't, shouldn't, haven't, hasn't"
+          - "주의: won't (will not), can't (cannot)"
+          - "핵심: 일상 대화에서는 축약형 사용이 자연스러움"
+      - type: note
+        content: "핵심 구분법:<br />• 짧은 대답: 질문의 조동사 따라가기<br />• 의문문: 정식(조동사 앞) vs 상승 억양(평서문+?)<br />• 동의: 긍정(too/So) vs 부정(either/Neither)<br />• 부정: 조동사 + not → 축약형"
+
+  - title: "2. 자가 진단 체크리스트 (Self-Diagnosis Checklist)"
+    items:
+      - type: note
+        content: "Units 38-41을 시작하기 전, 자신의 현재 수준을 체크해 보세요!"
+      - type: list
+        heading: "솔직하게 체크해 보세요"
+        list:
+          - "□ Are you hungry?에 Yes, I am.으로 대답할 수 있다 (Unit 38)"
+          - "□ Do you like music?에 Yes, I do.로 대답할 수 있다 (Unit 38)"
+          - "□ Are you~?와 You are~?의 뉘앙스 차이를 안다 (Unit 39)"
+          - "□ 평서문을 정식 의문문으로 바꿀 수 있다 (Unit 39)"
+          - "□ I like pizza.에 Me too! / So do I.로 동의할 수 있다 (Unit 40)"
+          - "□ I don't like bugs.에 Me neither! / Neither do I.로 동의할 수 있다 (Unit 40)"
+          - "□ will not → won't, cannot → can't 축약형을 안다 (Unit 41)"
+          - "□ He doesn't like (O) vs He doesn't likes (X) 구분할 수 있다 (Unit 41)"
+      - type: note
+        content: "체크 결과:<br />7-8개: 이 복습 빠르게 확인하고 넘어가세요!<br />4-6개: 약한 부분 집중 복습 필요!<br />0-3개: 각 Unit을 먼저 복습한 후 돌아오세요!"
+
+  - title: "3. 핵심 개념 비교 (Contrastive Analysis)"
+    items:
+      - type: text
+        content: "헷갈리기 쉬운 개념들을 비교하며 명확하게 구분해 봅시다!"
+      - type: list
+        heading: "짧은 대답에서 조동사 매칭 - 가장 중요한 규칙!"
+        list:
+          - "핵심: 질문에 사용된 조동사와 같은 조동사로 대답!"
+          - "Are you~? → Yes, I am. / No, I'm not. (be동사)"
+          - "Do you~? → Yes, I do. / No, I don't. (일반동사 현재)"
+          - "Does she~? → Yes, she does. / No, she doesn't. (3인칭 단수)"
+          - "Did you~? → Yes, I did. / No, I didn't. (과거)"
+          - "Can you~? → Yes, I can. / No, I can't. (조동사)"
+          - "Have you~? → Yes, I have. / No, I haven't. (현재완료)"
+          - "Will you~? → Yes, I will. / No, I won't. (미래)"
+          - "흔한 실수: Are you tired? - Yes, I do. (X) → Yes, I am. (O)"
+      - type: list
+        heading: "정식 의문문 vs 상승 억양 의문문 - 뉘앙스 차이!"
+        list:
+          - "핵심: 형태가 다르면 느낌도 다르다!"
+          - "정식 (Are you Korean?): 단순 질문, 처음 묻는 질문, 공식적"
+          - "상승 억양 (You're Korean?): 놀라움, 확인, 반문, 비공식적"
+          - "정식 (Have you finished?): 진짜 궁금해서 물어봄"
+          - "상승 억양 (You've finished?): 벌써 끝났다고? 놀람/확인"
+          - "직접 비교: Are you a doctor? (첫 만남) vs You're a doctor? (놀람)"
+          - "사용 상황: 면접/처음 = 정식 / 친구 대화/놀람 = 상승 억양"
+      - type: list
+        heading: "긍정 동의 vs 부정 동의 - too와 either 구분!"
+        list:
+          - "핵심: 상대방 문장이 긍정이면 too/So, 부정이면 either/Neither!"
+          - "긍정 동의: I like pizza. → Me too! / So do I. / I do too."
+          - "부정 동의: I don't like bugs. → Me neither! / Neither do I. / I don't either."
+          - "긍정: I'm tired. → So am I. (am 사용)"
+          - "부정: I'm not ready. → Neither am I. (am 사용)"
+          - "흔한 실수: I don't like it. - Me too (X) → Me neither (O)"
+          - "도치 순서: So/Neither + 조동사 + 주어 (So am I, Neither do I)"
+      - type: list
+        heading: "조동사별 부정 축약형 - 특수 형태 주의!"
+        list:
+          - "규칙적: is not → isn't, do not → don't, cannot → can't"
+          - "특수: will not → won't (willn't 아님!)"
+          - "특수: am not → I'm not (amn't는 없음!)"
+          - "주의: doesn't + 동사원형 (He doesn't like, He doesn't likes X)"
+          - "주의: didn't + 동사원형 (She didn't go, She didn't went X)"
+          - "흔한 실수: He don't like (X) → He doesn't like (O)"
+
+  - title: "4. 통합 진단 테스트 (Diagnostic Assessment)"
+    items:
+      - type: note
+        content: "Units 38-41의 핵심 개념을 진단합니다. 틀린 문제가 속한 Unit을 집중 복습하세요!"
+      - type: qna
+        question: "D1. [Unit 38] 짧은 대답 완성: Are you a student? - Yes, I ___."
+        answer: "am<br />설명: Are로 물었으므로 am으로 대답합니다.<br />틀렸다면 → Unit 38 복습"
+      - type: qna
+        question: "D2. [Unit 38] 짧은 대답 완성: Do you like K-pop? - Yes, I ___."
+        answer: "do<br />설명: Do로 물었으므로 do로 대답합니다.<br />틀렸다면 → Unit 38 복습"
+      - type: qna
+        question: "D3. [Unit 38] 짧은 대답 완성: Does she speak English? - No, she ___."
+        answer: "doesn't<br />설명: Does로 물었으므로 doesn't로 대답합니다.<br />틀렸다면 → Unit 38 복습"
+      - type: qna
+        question: "D4. [Unit 38] 반박하기: You don't like pizza. (사실은 좋아함) - ___!"
+        answer: "I do! / Actually, I do!<br />설명: 부정문에 반박할 때 긍정 조동사를 강조합니다.<br />틀렸다면 → Unit 38 복습"
+      - type: qna
+        question: "D5. [Unit 39] 평서문을 정식 의문문으로: You are tired. → ___"
+        answer: "Are you tired?<br />설명: be동사를 주어 앞으로 이동합니다.<br />틀렸다면 → Unit 39 복습"
+      - type: qna
+        question: "D6. [Unit 39] 평서문을 정식 의문문으로: He likes pizza. → ___"
+        answer: "Does he like pizza?<br />설명: 일반동사는 Does + 주어 + 동사원형 형태로 바꿉니다.<br />틀렸다면 → Unit 39 복습"
+      - type: qna
+        question: "D7. [Unit 39] 놀라움 표현: 친구가 'I won the game'이라고 했을 때 놀라며 반응"
+        answer: "You won the game?! / You won?!<br />설명: 상승 억양 의문문으로 놀라움을 표현합니다.<br />틀렸다면 → Unit 39 복습"
+      - type: qna
+        question: "D8. [Unit 40] 동의 표현: I'm happy. - So ___ I."
+        answer: "am<br />설명: I'm(be동사)에 맞춰 am을 씁니다.<br />틀렸다면 → Unit 40 복습"
+      - type: qna
+        question: "D9. [Unit 40] 동의 표현: I like music. - So ___ I."
+        answer: "do<br />설명: like(일반동사)에 맞춰 do를 씁니다.<br />틀렸다면 → Unit 40 복습"
+      - type: qna
+        question: "D10. [Unit 40] 동의 표현: I can't swim. - Neither ___ I."
+        answer: "can<br />설명: can't에 맞춰 can을 씁니다.<br />틀렸다면 → Unit 40 복습"
+      - type: qna
+        question: "D11. [Unit 40] 오류 수정: I don't like bugs. - Me too."
+        answer: "Me neither. / Neither do I.<br />설명: 부정문에 동의할 때는 neither를 써야 합니다.<br />틀렸다면 → Unit 40 복습"
+      - type: qna
+        question: "D12. [Unit 41] 축약형: will not → ___"
+        answer: "won't<br />설명: will not의 특수 축약형입니다.<br />틀렸다면 → Unit 41 복습"
+      - type: qna
+        question: "D13. [Unit 41] 부정문 만들기: She likes pizza. → ___"
+        answer: "She doesn't like pizza.<br />설명: 3인칭 단수는 doesn't + 동사원형입니다.<br />틀렸다면 → Unit 41 복습"
+      - type: qna
+        question: "D14. [Unit 41] 오류 수정: He don't like coffee."
+        answer: "He doesn't like coffee.<br />설명: 3인칭 단수는 don't가 아니라 doesn't입니다.<br />틀렸다면 → Unit 41 복습"
+      - type: qna
+        question: "D15. [Unit 41] 오류 수정: She didn't went home."
+        answer: "She didn't go home.<br />설명: didn't 뒤에는 동사원형(go)을 씁니다.<br />틀렸다면 → Unit 41 복습"
+      - type: note
+        content: "자기 채점:<br />13-15개 정답: 완벽! 모든 개념을 마스터했습니다!<br />10-12개 정답: 아주 잘했어요! 조금만 더 복습하면 완벽합니다!<br />7-9개 정답: 잘하고 있어요! 틀린 Unit을 다시 복습하세요!<br />6개 이하: 기초를 다시 다져봅시다! 각 Unit을 천천히 복습하세요!"
+
+  - title: "5. 인터리빙 연습 (Interleaving Practice)"
+    items:
+      - type: note
+        content: "Units 38-41의 개념을 랜덤하게 섞어 연습합니다! 각 개념을 명확하게 구분할 수 있게 됩니다."
+      - type: qna
+        question: "I1. [38+40] A: Are you tired? B: Yes, I ___. A: Me ___!"
+        answer: "am / too<br />설명: 짧은 대답(am) + 긍정 동의(too)<br />개념: Unit 38 + Unit 40 통합"
+      - type: qna
+        question: "I2. [39+38] 정식 의문문으로 바꾸고 긍정으로 대답: You can swim."
+        answer: "Can you swim? - Yes, I can.<br />설명: 정식 의문문 + 짧은 대답<br />개념: Unit 39 + Unit 38 통합"
+      - type: qna
+        question: "I3. [40+41] I don't like math. - ___ do I. Math ___ interesting."
+        answer: "Neither / isn't<br />설명: 부정 동의(Neither) + 부정문(isn't)<br />개념: Unit 40 + Unit 41 통합"
+      - type: qna
+        question: "I4. [38+41] A: Does she like pizza? B: No, she ___. She ___ eat cheese."
+        answer: "doesn't / doesn't 또는 can't<br />설명: 짧은 대답 + 부정문<br />개념: Unit 38 + Unit 41 통합"
+      - type: qna
+        question: "I5. [39+40] A: I've been to Japan. B: ___?! So ___ I!"
+        answer: "You've been to Japan? / have<br />설명: 놀라움(상승 억양) + 동의(So have I)<br />개념: Unit 39 + Unit 40 통합"
+      - type: qna
+        question: "I6. [41+38] 부정문으로 바꾸고 동의하세요: He likes coffee. - I agree, I ___ like coffee."
+        answer: "He doesn't like coffee. - Neither do I. 또는 I don't like coffee either.<br />설명: 부정문 + 부정 동의<br />개념: Unit 41 + Unit 40 통합"
+      - type: qna
+        question: "I7. [38+39+40] A: Did you finish homework? B: Yes, I ___. A: ___ did I. B: You finished ___?"
+        answer: "did / So / too? 또는 already?<br />설명: 짧은 대답 + 동의 + 확인 질문<br />개념: Unit 38 + Unit 40 + Unit 39 통합"
+      - type: qna
+        question: "I8. [41+40] A: I can't drive. B: Neither ___ I. We ___ take a bus."
+        answer: "can / should 또는 will 또는 can<br />설명: 부정 동의 + 미래/조동사<br />개념: Unit 40 + Unit 41 통합"
+      - type: qna
+        question: "I9. [39+41] 부정 정식 의문문 만들기: You don't like it. → ___"
+        answer: "Don't you like it?<br />설명: 부정 의문문 형태<br />개념: Unit 39 + Unit 41 통합"
+      - type: qna
+        question: "I10. [38+40] A: Have you eaten? B: No, I ___. A: I ___ either."
+        answer: "haven't / haven't<br />설명: 부정 대답 + 부정 동의(either)<br />개념: Unit 38 + Unit 40 통합"
+      - type: qna
+        question: "I11. [39+38+41] 정식 의문문, 부정 대답, 이유 설명: She speaks Japanese."
+        answer: "Does she speak Japanese? - No, she doesn't. She hasn't learned it.<br />설명: 정식 의문문 + 짧은 대답 + 부정문<br />개념: Unit 39 + Unit 38 + Unit 41 통합"
+      - type: qna
+        question: "I12. [40+41] A: I will study hard. B: So ___ I. I ___ waste time anymore."
+        answer: "will / won't<br />설명: 긍정 동의(So will I) + 부정문(won't)<br />개념: Unit 40 + Unit 41 통합"
+      - type: qna
+        question: "I13. [38+39] A: You look tired. B: I ___. A: ___ you tired? B: Yes, I ___."
+        answer: "am / Are / am<br />설명: 동의 + 정식 의문문 + 짧은 대답<br />개념: Unit 38 + Unit 39 통합"
+      - type: qna
+        question: "I14. [41+38] 오류 수정 후 대답: Does he likes music? - Yes, he ___."
+        answer: "Does he like music? - Yes, he does.<br />설명: 오류 수정(like) + 짧은 대답(does)<br />개념: Unit 41 + Unit 38 통합"
+      - type: qna
+        question: "I15. [40+39] A: I'm from Korea. B: ___?! Me ___!"
+        answer: "You're from Korea? / too<br />설명: 놀라움 표현 + 긍정 동의<br />개념: Unit 39 + Unit 40 통합"
+      - type: qna
+        question: "I16. [38+41+40] A: Can she swim? B: No, she ___. A: Neither ___ I. We ___ learn."
+        answer: "can't / can / should<br />설명: 짧은 대답 + 부정 동의 + 조동사<br />개념: Unit 38 + Unit 40 + Unit 41 통합"
+      - type: qna
+        question: "I17. [39+41] 평서문을 부정 의문문으로: He will come tomorrow."
+        answer: "Won't he come tomorrow? / Will he not come tomorrow?<br />설명: 부정 의문문 형태<br />개념: Unit 39 + Unit 41 통합"
+      - type: qna
+        question: "I18. [38+40+41] A: Did you study? B: No, I ___. I ___ have time. A: I ___ study either."
+        answer: "didn't / didn't / didn't<br />설명: 짧은 대답 + 부정문 + 부정 동의<br />개념: Unit 38 + Unit 41 + Unit 40 통합"
+      - type: qna
+        question: "I19. [40+38] A: She loves BTS. B: So ___ he. A: Does she like BlackPink? B: Yes, she ___."
+        answer: "does / does<br />설명: 긍정 동의 + 짧은 대답<br />개념: Unit 40 + Unit 38 통합"
+      - type: qna
+        question: "I20. [39+40+41] A: I haven't finished yet. B: ___?! Neither ___ I. We should ___."
+        answer: "You haven't finished? / have / hurry<br />설명: 확인 질문 + 부정 동의 + 조언<br />개념: Unit 39 + Unit 40 + Unit 41 통합"
+      - type: qna
+        question: "I21. [41+38+39] A: He ___ play piano. B: Can he play guitar? A: Yes, he ___."
+        answer: "can't / can<br />설명: 부정문 + 정식 의문문 + 짧은 대답<br />개념: Unit 41 + Unit 39 + Unit 38 통합"
+      - type: qna
+        question: "I22. [40+41] 오류 수정: I'm tired. - So do I."
+        answer: "So am I.<br />설명: I'm은 be동사이므로 am을 써야 합니다.<br />개념: Unit 40 통합"
+      - type: qna
+        question: "I23. [38+39+41] A: ___ you Korean? B: Yes, I ___. A: You speak Korean well. B: I ___! I ___ speak it perfectly yet."
+        answer: "Are / am / don't / can't 또는 don't<br />설명: 정식 의문문 + 짧은 대답 + 반박 + 부정문<br />개념: Unit 39 + Unit 38 + Unit 41 통합"
+      - type: qna
+        question: "I24. [40+39] A: I can cook. B: You ___ cook? So ___ I! What can you make?"
+        answer: "can / can<br />설명: 확인 질문 + 긍정 동의<br />개념: Unit 39 + Unit 40 통합"
+      - type: qna
+        question: "I25. [38+40+41+39] 다음 대화 완성: A: ___ you like spicy food? B: No, I ___. I ___ eat it. A: Me ___! ___ it too hot?"
+        answer: "Do / don't / can't / neither / Isn't 또는 Is<br />설명: 정식 의문문 + 짧은 대답 + 부정문 + 부정 동의 + 의문문<br />개념: 모든 Unit 통합"
+
+  - title: "6. 오류 탐지 & 수정 (Error Detection & Correction)"
+    items:
+      - type: note
+        content: "한국 학습자가 자주 하는 실수들을 찾아 고쳐 봅시다!"
+      - type: qna
+        question: "E1. [Unit 38] 조동사 불일치: Are you tired? - Yes, I do."
+        answer: "Yes, I am.<br />설명: Are로 물었으므로 am으로 대답해야 합니다. do는 Do로 물었을 때 씁니다.<br />L1 전이: 한국어 '응'은 모든 질문에 사용 가능하지만 영어는 조동사 일치 필요"
+      - type: qna
+        question: "E2. [Unit 38] 조동사 불일치: Do you like pizza? - Yes, I am."
+        answer: "Yes, I do.<br />설명: Do로 물었으므로 do로 대답해야 합니다.<br />L1 전이: 한국어는 조동사 구분 없이 '응/아니'로 대답"
+      - type: qna
+        question: "E3. [Unit 38] 3인칭 오류: Does she work? - Yes, she do."
+        answer: "Yes, she does.<br />설명: Does로 물었으므로 does로 대답해야 합니다.<br />L1 전이: 한국어는 인칭에 따른 동사 변화가 없음"
+      - type: qna
+        question: "E4. [Unit 39] 어순 오류: Like you pizza?"
+        answer: "Do you like pizza?<br />설명: 일반동사 의문문은 Do/Does + 주어 + 동사원형 순서입니다.<br />L1 전이: 한국어는 어순 변화 없이 억양만으로 의문문"
+      - type: qna
+        question: "E5. [Unit 39] do 누락: You like pizza?"
+        answer: "Do you like pizza? (정식 의문문의 경우)<br />참고: You like pizza?는 상승 억양 의문문으로 문법적으로 틀리지 않지만, 뉘앙스가 다릅니다 (확인/놀라움).<br />설명: 처음 묻는 질문이면 정식 의문문이 적절합니다."
+      - type: qna
+        question: "E6. [Unit 40] 긍정/부정 혼동: I don't like bugs. - Me too."
+        answer: "Me neither. / Neither do I.<br />설명: 부정문에 동의할 때는 neither/either를 씁니다. too는 긍정에만 사용!<br />L1 전이: 한국어 '나도'는 긍정/부정 구분 없이 사용"
+      - type: qna
+        question: "E7. [Unit 40] 조동사 불일치: I'm tired. - So do I."
+        answer: "So am I.<br />설명: I'm은 be동사이므로 am을 써야 합니다. do는 일반동사에 사용!<br />L1 전이: 한국어 '나도 그래'는 동사 종류 구분 없이 사용"
+      - type: qna
+        question: "E8. [Unit 40] 도치 어순 오류: So I am tired."
+        answer: "So am I. / I am too.<br />설명: So/Neither + 조동사 + 주어 순서입니다. 주어가 먼저 오면 안 됩니다.<br />L1 전이: 한국어는 어순이 상대적으로 자유로움"
+      - type: qna
+        question: "E9. [Unit 40] Neither 어순 오류: Neither I do."
+        answer: "Neither do I.<br />설명: Neither + 조동사 + 주어 순서입니다.<br />L1 전이: 직역하면 '나도 아니 해'가 되어 어순이 뒤바뀜"
+      - type: qna
+        question: "E10. [Unit 41] 3인칭 오류: He don't like coffee."
+        answer: "He doesn't like coffee.<br />설명: 3인칭 단수(he, she, it)는 doesn't를 씁니다.<br />L1 전이: 한국어 '안'은 인칭에 따라 변하지 않음"
+      - type: qna
+        question: "E11. [Unit 41] 동사원형 오류: She doesn't likes pizza."
+        answer: "She doesn't like pizza.<br />설명: doesn't 뒤에는 반드시 동사원형(like)을 씁니다.<br />L1 전이: 한국어는 부정어 뒤에도 동사 형태가 같음"
+      - type: qna
+        question: "E12. [Unit 41] 과거 동사원형 오류: She didn't went home."
+        answer: "She didn't go home.<br />설명: didn't 뒤에는 반드시 동사원형(go)을 씁니다.<br />L1 전이: 한국어 '안 갔다'에서 '갔다'는 여전히 과거형"
+      - type: qna
+        question: "E13. [Unit 41] 축약형 오류: I amn't tired."
+        answer: "I'm not tired. / I am not tired.<br />설명: am not은 축약형이 없습니다. I'm not만 가능!<br />주의: amn't는 영어에 존재하지 않는 형태"
+      - type: qna
+        question: "E14. [Unit 41] will not 축약 오류: She willn't come."
+        answer: "She won't come.<br />설명: will not의 축약형은 won't입니다 (willn't 아님!).<br />주의: 이것은 불규칙 축약형으로 외워야 함"
+      - type: qna
+        question: "E15. [Unit 41] do 누락: I not like coffee."
+        answer: "I don't like coffee.<br />설명: 일반동사 부정에는 반드시 do/does/did + not이 필요합니다.<br />L1 전이: 한국어 '안 좋아해'는 '안'만 붙이면 됨"
+      - type: qna
+        question: "E16. [Unit 38+41] 이중 부정: No, I don't not like it."
+        answer: "No, I don't like it.<br />설명: 영어에서 이중 부정은 긍정이 됩니다. 부정은 한 번만!<br />L1 전이: 한국어는 강조를 위해 이중 부정 사용 가능"
+      - type: qna
+        question: "E17. [Unit 39+41] 부정 의문문 오류: Doesn't he likes music?"
+        answer: "Doesn't he like music?<br />설명: Doesn't 뒤에는 동사원형(like)을 씁니다.<br />주의: 의문문에서도 동사원형 규칙 적용"
+      - type: qna
+        question: "E18. [Unit 40+41] 복합 오류: I can't swim. - Neither don't I."
+        answer: "Neither can I.<br />설명: Neither + 조동사 + 주어. can't에 대응하는 것은 can입니다.<br />주의: Neither 뒤에 don't를 쓰면 안 됨"
+
+  - title: "7. 통합 프로젝트 (Integrated Production Tasks)"
+    items:
+      - type: note
+        content: "여러 문법 포인트를 함께 사용하는 실제 상황 과제입니다. 창의적으로 표현하세요!"
+      - type: qna
+        question: "P1. 친구와의 대화: 다음 상황에서 짧은 대답, 동의 표현, 부정문을 모두 사용하여 8줄 이상의 대화를 만드세요. (상황: 주말 계획에 대해 이야기)"
+        answer: "예시 답안:<br />A: Do you have plans this weekend?<br />B: No, I don't. I don't have anything special.<br />A: Neither do I. Do you want to go to the movies?<br />B: Yes, I do! I love movies!<br />A: So do I! Can you come on Saturday?<br />B: Yes, I can. But I can't come in the morning.<br />A: That's okay. Neither can I. Let's meet at 2 PM.<br />B: Sounds great! I'm excited!<br />A: Me too!<br /><br />평가 기준:<br />짧은 대답 2개 이상<br />동의 표현(So/Neither/too/either) 3개 이상<br />부정문 2개 이상<br />8줄 이상<br />자연스러운 대화 흐름"
+      - type: qna
+        question: "P2. 자기소개: 자신에 대해 10문장을 쓰세요. (긍정문 5개, 부정문 5개, 다양한 조동사 사용)"
+        answer: "예시 답안:<br />I am a student. I like music and reading. I can play the piano. I have been to Japan. I will study hard.<br />I'm not very tall. I don't like spicy food. I can't swim well. I haven't been to America. I won't give up learning English.<br /><br />평가 기준:<br />긍정문 5개<br />부정문 5개<br />다양한 조동사 (am, do, can, have, will 등)<br />축약형 올바르게 사용<br />문법적으로 정확"
+      - type: qna
+        question: "P3. 인터뷰 만들기: 유명인(가수, 운동선수 등)을 인터뷰하는 대화를 10줄 이상 만드세요. (정식 의문문, 짧은 대답, 상승 억양 의문문 모두 포함)"
+        answer: "예시 답안:<br />Interviewer: Are you happy with your new album?<br />Singer: Yes, I am. Very happy!<br />Interviewer: Do you write your own songs?<br />Singer: Yes, I do. I write all of them.<br />Interviewer: You write all of them?! That's amazing!<br />Singer: Thank you! Do you like the new song?<br />Interviewer: Yes, I do! Can you sing a little for us?<br />Singer: Sure, I can.<br />Interviewer: Will you have a concert soon?<br />Singer: Yes, I will. Next month!<br />Interviewer: Next month?! So soon! I'm excited!<br />Singer: Me too!<br /><br />평가 기준:<br />정식 의문문 4개 이상<br />짧은 대답 4개 이상<br />상승 억양 의문문 2개 이상<br />동의 표현 1개 이상<br />10줄 이상"
+      - type: qna
+        question: "P4. 공통점 찾기: 친구와 나의 공통점을 찾는 대화를 8줄 이상 만드세요. (So do I, Me too, Neither do I, Me neither 모두 사용)"
+        answer: "예시 답안:<br />A: I like pizza.<br />B: So do I! I also like fried chicken.<br />A: Me too! But I don't like vegetables.<br />B: Neither do I. They aren't delicious.<br />A: I can ride a bike.<br />B: So can I! But I can't swim.<br />A: Me neither. I haven't learned yet.<br />B: Neither have I. We should learn together!<br />A: Good idea!<br /><br />평가 기준:<br />So do I / So + 조동사 + I 2개 이상<br />Me too 1개 이상<br />Neither do I / Neither + 조동사 + I 2개 이상<br />Me neither 1개 이상<br />8줄 이상"
+      - type: qna
+        question: "P5. 규칙 설명: 학교나 집의 규칙을 8문장으로 설명하세요. (긍정 규칙 4개, 부정 규칙 4개, should/must/can 사용)"
+        answer: "예시 답안:<br />School Rules:<br />We should arrive on time. We must respect teachers. Students can use the library. We can eat in the cafeteria.<br />We shouldn't run in the hallways. We mustn't use phones in class. Students can't leave early. We don't wear hats inside.<br /><br />평가 기준:<br />긍정 규칙 4개<br />부정 규칙 4개<br />should/shouldn't 1개 이상<br />must/mustn't 1개 이상<br />can/can't 1개 이상<br />문법적으로 정확"
+
+  - title: "8. 약점 집중 복습 (Targeted Review for Weak Areas)"
+    items:
+      - type: text
+        content: "가장 헷갈리는 개념들을 집중적으로 복습합니다. 자신의 약점을 찾아 집중 연습하세요!"
+      - type: text
+        content: "<span class='highlight'>약점 클러스터 1: 짧은 대답에서 조동사 매칭</span>"
+      - type: qna
+        question: "W1-1. Are you Korean? - Yes, I ___."
+        answer: "am<br />설명: Are → am"
+      - type: qna
+        question: "W1-2. Do you like music? - No, I ___."
+        answer: "don't<br />설명: Do → don't"
+      - type: qna
+        question: "W1-3. Does she play piano? - Yes, she ___."
+        answer: "does<br />설명: Does → does"
+      - type: qna
+        question: "W1-4. Can you swim? - No, I ___."
+        answer: "can't<br />설명: Can → can't"
+      - type: qna
+        question: "W1-5. Have you been there? - Yes, I ___."
+        answer: "have<br />설명: Have → have"
+      - type: text
+        content: "<span class='highlight'>약점 클러스터 2: 정식 의문문 vs 상승 억양 의문문</span>"
+      - type: qna
+        question: "W2-1. 처음 만난 사람에게 직업 묻기 (정식 의문문)"
+        answer: "Are you a teacher? / What do you do?<br />설명: 처음 묻는 질문은 정식 의문문이 적절"
+      - type: qna
+        question: "W2-2. 친구가 '나 1등 했어'라고 해서 놀랐을 때"
+        answer: "You got first place?! / You came first?!<br />설명: 놀라움은 상승 억양 의문문"
+      - type: qna
+        question: "W2-3. He likes pizza. → 정식 의문문"
+        answer: "Does he like pizza?<br />설명: 일반동사 3인칭은 Does + 주어 + 동사원형"
+      - type: qna
+        question: "W2-4. They have finished. → 정식 의문문"
+        answer: "Have they finished?<br />설명: 조동사(have)를 주어 앞으로"
+      - type: text
+        content: "<span class='highlight'>약점 클러스터 3: too/either vs So/Neither 구분</span>"
+      - type: qna
+        question: "W3-1. I like pizza. (동의) - Me ___! / So ___ I."
+        answer: "too / do<br />설명: 긍정 동의는 too, So + 조동사"
+      - type: qna
+        question: "W3-2. I don't like bugs. (동의) - Me ___! / Neither ___ I."
+        answer: "neither / do<br />설명: 부정 동의는 neither, Neither + 조동사"
+      - type: qna
+        question: "W3-3. I'm tired. (동의) - So ___ I."
+        answer: "am<br />설명: be동사(I'm)에 맞춰 am"
+      - type: qna
+        question: "W3-4. She can't swim. (동의) - Neither ___ he."
+        answer: "can<br />설명: can't에 맞춰 can"
+      - type: qna
+        question: "W3-5. He likes K-pop. (동의) - So ___ she."
+        answer: "does<br />설명: likes(3인칭)에 맞춰 does"
+      - type: text
+        content: "<span class='highlight'>약점 클러스터 4: 부정 축약형</span>"
+      - type: qna
+        question: "W4-1. is not → ___"
+        answer: "isn't"
+      - type: qna
+        question: "W4-2. will not → ___"
+        answer: "won't (특수 형태!)"
+      - type: qna
+        question: "W4-3. cannot → ___"
+        answer: "can't"
+      - type: qna
+        question: "W4-4. I am not → ___"
+        answer: "I'm not (amn't는 없음!)"
+      - type: qna
+        question: "W4-5. should not → ___"
+        answer: "shouldn't"
+      - type: text
+        content: "<span class='highlight'>약점 클러스터 5: 부정문에서 동사원형</span>"
+      - type: qna
+        question: "W5-1. He doesn't ___ (like) pizza."
+        answer: "like<br />설명: doesn't + 동사원형"
+      - type: qna
+        question: "W5-2. She didn't ___ (go) home."
+        answer: "go<br />설명: didn't + 동사원형"
+      - type: qna
+        question: "W5-3. They don't ___ (know) the answer."
+        answer: "know<br />설명: don't + 동사원형"
+      - type: qna
+        question: "W5-4. 오류 수정: He don't likes coffee."
+        answer: "He doesn't like coffee.<br />설명: 3인칭 doesn't + 동사원형"
+      - type: qna
+        question: "W5-5. 오류 수정: She didn't went to school."
+        answer: "She didn't go to school.<br />설명: didn't + 동사원형"
+
+  - title: "9. 종합 평가 (Final Comprehensive Assessment)"
+    items:
+      - type: note
+        content: "Units 38-41 전체를 종합적으로 평가합니다. 시간을 재면서 풀어보세요! (목표: 15분)"
+      - type: qna
+        question: "F1. 대화 완성: A: Are you ready? B: Yes, I ___. A: Do you have your book? B: No, I ___. A: Me ___. Let's share."
+        answer: "am / don't / neither"
+      - type: qna
+        question: "F2. 오류 수정: A: Does she likes music? B: Yes, she do."
+        answer: "A: Does she like music? B: Yes, she does."
+      - type: qna
+        question: "F3. 영작: '너 숙제 끝났어?' → '응, 끝났어.' (정식 의문문 + 짧은 대답)"
+        answer: "Have you finished your homework? - Yes, I have."
+      - type: qna
+        question: "F4. 영작: '나 피자 좋아해.' → '나도!' (동의 세 가지 방법)"
+        answer: "Me too! / So do I. / I do too."
+      - type: qna
+        question: "F5. 축약형 쓰기: will not, cannot, am not, should not"
+        answer: "won't, can't, I'm not, shouldn't"
+      - type: qna
+        question: "F6. 대화 완성: A: I can't drive. B: Neither ___ I. A: Can you ride a bike? B: Yes, I ___."
+        answer: "can / can"
+      - type: qna
+        question: "F7. 상황에 맞는 의문문: 친구가 '나 복권 당첨됐어!'라고 했을 때 놀라며"
+        answer: "You won the lottery?! / Really?! You won?!"
+      - type: qna
+        question: "F8. 영작: '그는 커피를 안 좋아해. 나도 안 좋아해.'"
+        answer: "He doesn't like coffee. Neither do I. / I don't either."
+      - type: qna
+        question: "F9. 부정문 만들기: She will come tomorrow."
+        answer: "She won't come tomorrow. / She will not come tomorrow."
+      - type: qna
+        question: "F10. 대화 완성: A: I'm excited about the trip! B: So ___ I! A: Have you packed? B: No, I ___. A: I haven't ___."
+        answer: "am / haven't / either"
+      - type: qna
+        question: "F11. 정식 의문문 만들기: They went to the park."
+        answer: "Did they go to the park?"
+      - type: qna
+        question: "F12. 오류 수정: I amn't tired. I don't have nothing to do."
+        answer: "I'm not tired. I don't have anything to do. / I have nothing to do."
+      - type: qna
+        question: "F13. 대화 완성: A: Do you like math? B: No, I ___. A: ___? Why not? B: It ___ interesting."
+        answer: "don't / You don't? 또는 Really? / isn't"
+      - type: qna
+        question: "F14. 동의 표현 (3인칭): Tom likes soccer. (Mary도 그렇다)"
+        answer: "So does Mary. / Mary does too."
+      - type: qna
+        question: "F15. 반박하기: You can't speak English well. (사실은 잘함)"
+        answer: "I can! / Actually, I can! / Yes, I can!"
+      - type: note
+        content: "자기 채점:<br />14-15개 정답: 완벽한 마스터!<br />11-13개 정답: 아주 잘했어요!<br />8-10개 정답: 좋아요, 약점 복습 필요!<br />7개 이하: 각 Unit 다시 복습하세요!"
+
+  - title: "10. 간격 반복 일정 & 학습 계획 (Spaced Repetition Schedule)"
+    items:
+      - type: text
+        content: "<span class='highlight'>자기 점검 체크리스트</span>"
+      - type: list
+        heading: "이제 나는 할 수 있다..."
+        list:
+          - "☐ 질문의 조동사에 맞춰 짧게 대답할 수 있다 (Are you~? → Yes, I am.)"
+          - "☐ be동사와 do/does를 구분해서 짧게 대답할 수 있다"
+          - "☐ 정식 의문문과 상승 억양 의문문의 차이를 알고 상황에 맞게 사용할 수 있다"
+          - "☐ 긍정문에 동의할 때 too/So를 사용할 수 있다"
+          - "☐ 부정문에 동의할 때 either/Neither를 사용할 수 있다"
+          - "☐ So/Neither 도치 구조에서 올바른 조동사를 선택할 수 있다"
+          - "☐ 주요 부정 축약형(isn't, don't, can't, won't 등)을 알고 있다"
+          - "☐ 부정문에서 동사원형을 올바르게 사용할 수 있다"
+      - type: note
+        content: "자기 채점:<br />8개 모두 체크: 완벽! 다음 단원으로!<br />6-7개 체크: 잘했어요! 약한 부분만 복습!<br />4-5개 체크: 괜찮아요! Section 8 약점 복습!<br />3개 이하: 각 Unit을 다시 복습해 봅시다!"
+      - type: text
+        content: "<span class='highlight'>간격 반복 복습 일정</span>"
+      - type: list
+        heading: "1일 후 복습 (내일)"
+        list:
+          - "Section 4 진단 테스트 다시 풀기 (10분)"
+          - "틀린 문제가 속한 Unit의 핵심 규칙 확인"
+      - type: list
+        heading: "3일 후 복습"
+        list:
+          - "Section 5 인터리빙 연습 중 10문제 선택해서 풀기"
+          - "Section 8 약점 클러스터 중 어려운 부분 복습"
+      - type: list
+        heading: "1주일 후 복습"
+        list:
+          - "Section 9 종합 평가 다시 풀기 (15분)"
+          - "Section 7 통합 프로젝트 새로운 주제로 하나 만들기"
+      - type: list
+        heading: "2주일 후 복습"
+        list:
+          - "Section 6 오류 탐지 빠르게 훑어보기"
+          - "친구나 가족과 실제 대화에서 사용해 보기"
+      - type: list
+        heading: "1개월 후 복습"
+        list:
+          - "전체 복습 자료 빠르게 훑어보기 (30분)"
+          - "자신만의 예문 10개 만들어 보기"
+      - type: text
+        content: "<span class='highlight'>실생활 적용 미션</span>"
+      - type: list
+        heading: "매일 할 수 있는 연습"
+        list:
+          - "하루에 질문 3개 만들고 짧게 대답하기 (Unit 38)"
+          - "친구/가족 말에 'Me too!' 'Neither do I!' 사용하기 (Unit 40)"
+          - "영어 대화에서 'Are you~?' 'Do you~?' 질문 만들기 (Unit 39)"
+          - "부정문 3개 만들기 (I don't~, I can't~, I won't~) (Unit 41)"
+          - "영어 일기: 오늘 한 것(긍정)과 안 한 것(부정) 쓰기"
+      - type: note
+        content: "최종 목표:<br />조동사를 자연스럽게 사용해서 대화할 수 있을 때까지 연습하세요!<br /><br />Remember:<br />• 짧은 대답: 질문의 조동사 따라가기<br />• 의문문: 상황에 맞게 정식 vs 상승 억양<br />• 동의: 긍정(too/So) vs 부정(either/Neither)<br />• 부정: 축약형 + 동사원형<br /><br />영어 대화에서 조동사를 자유롭게 쓸 수 있다면, 영어 실력이 한 단계 올라간 것입니다! 파이팅!"
+      - type: note
+        content: "축하합니다! Units 38-41 종합 복습을 완료했습니다!<br /><br />여러분은 이제 영어 조동사를 다양하게 활용할 수 있게 되었어요. 짧은 대답, 의문문 만들기, 동의 표현, 부정문 - 이 모든 것이 자연스러운 영어 대화의 핵심입니다!<br /><br />Remember:<br />• Are you~? → Yes, I am. (조동사 매칭!)<br />• You're Korean? (놀람) vs Are you Korean? (단순 질문)<br />• I like it. → Me too! / So do I.<br />• I don't like it. → Me neither! / Neither do I.<br />• won't, can't, I'm not (특수 축약형 주의!)<br /><br />See you in the next unit! 다음 단원도 파이팅!"
+
+pedagogical_design:
+  spaced_repetition:
+    - "Section 2: 자가 진단으로 현재 수준 파악"
+    - "Section 10: 1일, 3일, 1주, 2주, 1개월 복습 일정"
+    - "Section 10: 실생활 적용 미션"
+
+  retrieval_practice:
+    - "Section 4: 진단 테스트로 약점 파악"
+    - "Section 5: 인터리빙 연습 (랜덤 순서로 회상)"
+    - "Section 9: 종합 평가"
+
+  interleaving:
+    - "Section 5: 25개 문제를 랜덤 순서로 배치 (Unit 태그 표시)"
+    - "Section 6: L1 전이 오류를 무작위로 섞어 제시"
+    - "Section 7: 통합 프로젝트에서 모든 문법 요소 혼합"
+
+  diagnostic_assessment:
+    - "Section 2: 사전 자가 진단 체크리스트"
+    - "Section 4: 각 문제마다 해당 Unit 표시로 약점 파악"
+    - "Section 8: 약점 클러스터별 집중 복습"
+
+  contrastive_analysis:
+    - "Section 3: 조동사 매칭, 의문문 형태, 동의 표현, 부정 축약형 비교"
+    - "Section 6: 한국어-영어 L1 전이 오류 분석"
+
+  error_analysis:
+    - "Section 6: 한국 학습자 특화 오류 18개"
+    - "Section 6: 각 오류의 L1 전이 원인 설명"
+    - "Section 8: 오류 패턴별 집중 연습"
+
+  production_tasks:
+    - "Section 7: 5개 통합 프로젝트 (대화, 자기소개, 인터뷰, 공통점 찾기, 규칙 설명)"
+    - "Section 7: 실제 상황에서 복수 문법 포인트 동시 사용"
+    - "모든 프로젝트에 명확한 평가 기준 제시"
+
+  metacognition:
+    - "Section 2: 사전 자가 진단"
+    - "Section 4: 진단 후 자기 채점 및 피드백"
+    - "Section 9: 종합 평가 후 자기 채점"
+    - "Section 10: 포괄적 자기 점검 체크리스트"
+
+  personalization:
+    - "Section 8: 5개 약점 클러스터 (선택적 집중 학습)"
+    - "Section 10: 성취도별 복습 일정"
+    - "Section 10: 실생활 적용 미션"
+
+confusion_points_addressed:
+  - "짧은 대답에서 조동사 매칭 (Are → am, Do → do)"
+  - "정식 의문문(Are you~?) vs 상승 억양 의문문(You are~?)"
+  - "긍정 동의(too/So) vs 부정 동의(either/Neither)"
+  - "부정 축약형 (won't, can't, I'm not)"
+  - "부정문에서 동사원형 사용 (doesn't like, didn't go)"
+
+differentiation:
+  - "자가 진단으로 개인별 약점 파악 → 맞춤 복습 가능"
+  - "약점 클러스터: 필요한 부분만 선택적 학습"
+  - "성취도별 학습 계획: 체크 개수에 따른 복습 방향"
+  - "통합 프로젝트: 난이도 조절 가능 (주제, 문장 수)"
+
+estimated_time:
+  - "Section 1: 5분 (문법 맵)"
+  - "Section 2: 3분 (자가 진단)"
+  - "Section 3: 5분 (핵심 개념 비교)"
+  - "Section 4: 10분 (진단 테스트 15문제)"
+  - "Section 5: 12분 (인터리빙 연습 25문제)"
+  - "Section 6: 10분 (오류 탐지 18문제)"
+  - "Section 7: 15분 (통합 프로젝트 3-5개 중 선택)"
+  - "Section 8: 8분 (약점 집중 복습 - 필요한 클러스터만)"
+  - "Section 9: 10분 (종합 평가 15문제)"
+  - "Section 10: 5분 (자기 평가 및 계획)"
+  - "총 예상 시간: 약 60-75분 (깊이 있게 할 경우)"
+  - "빠른 복습: 45분 (Section 4, 5, 9만 집중)"
+
+notes: |
+  이 복습 자료는 Units 38-41 (Auxiliary Verbs)의 핵심 개념을 통합적으로 복습하도록 설계되었습니다.
+
+  **10-section 구조:**
+  1. 문법 맵 - 전체 개요
+  2. 자가 진단 - 현재 수준 파악
+  3. 핵심 개념 비교 - 대조 분석
+  4. 통합 진단 - 약점 파악
+  5. 인터리빙 연습 - 랜덤 순서로 개념 구분 연습
+  6. 오류 탐지 - L1 전이 오류 집중
+  7. 통합 프로젝트 - 실제 상황 산출 과제
+  8. 약점 집중 복습 - 클러스터별 타겟 학습
+  9. 종합 평가 - 최종 점검
+  10. 간격 반복 일정 - 복습 로드맵
+
+  **한국 학습자 특화:**
+  - L1 전이 오류 집중 분석 (조동사 혼동, 긍정/부정 동의 혼동)
+  - 한국어-영어 대조 설명
+  - 한국 학생 실생활 예시
+
+  **핵심 혼동 포인트 집중:**
+  - 짧은 대답 조동사 매칭
+  - 정식 vs 상승 억양 의문문
+  - too/So vs either/Neither
+  - 부정 축약형 특수 형태

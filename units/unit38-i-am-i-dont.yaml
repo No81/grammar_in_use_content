@@ -1,0 +1,273 @@
+title: "Unit 38 · I am, I don't, etc. (조동사로 대답하기)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 질문에 짧게 대답하거나, 상대방 말에 동의/반박할 때, 전체 문장을 반복하지 않고 조동사(am, is, are, do, does, did, have, has, can, will 등)만 사용하여 간단하게 응답합니다."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "긍정 대답: Yes, + 주어 + 조동사 (Yes, I am. / Yes, she does.)"
+          - "부정 대답: No, + 주어 + 조동사 + not (No, I'm not. / No, she doesn't.)"
+          - "동의/반박: 주어 + 조동사 (I am. / I don't. / She can.)"
+          - "확인 질문에 대답: 조동사만 사용 (A: You're tired. B: Yes, I am.)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 이 표현은 대화를 자연스럽고 간결하게 만들어줍니다. 전체 문장을 반복하면 어색하고, 조동사만 사용하면 원어민처럼 자연스럽게 들립니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 질문에 짧게 대답할 때: Are you hungry? - Yes, I am.<br />• 상대방 말에 동의할 때: You look tired. - I am.<br />• 상대방 말에 반박할 때: You don't like pizza. - I do!<br />• 확인하며 대화할 때: She can swim. - Yes, she can."
+      - type: list
+        heading: "조동사별 짧은 대답 예시"
+        list:
+          - "be동사: Am I late? - Yes, you are. / No, you aren't."
+          - "do/does: Do you like it? - Yes, I do. / No, I don't."
+          - "did: Did he come? - Yes, he did. / No, he didn't."
+          - "can: Can she swim? - Yes, she can. / No, she can't."
+          - "will: Will you help? - Yes, I will. / No, I won't."
+          - "have/has: Have you eaten? - Yes, I have. / No, I haven't."
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "Are you a student? - Yes, I am. (네, 그래요) - be동사"
+          - "Is she your sister? - No, she isn't. (아니요, 아니에요) - be동사"
+          - "Do you speak Korean? - Yes, I do. (네, 해요) - 일반동사"
+          - "Does he play soccer? - No, he doesn't. (아니요, 안 해요) - 일반동사 3인칭"
+          - "Did you finish homework? - Yes, I did. (네, 했어요) - 과거"
+          - "Can you come tomorrow? - Yes, I can. (네, 갈 수 있어요) - 능력/가능"
+          - "Will it rain? - I think it will. (그럴 것 같아요) - 미래"
+          - "Have you been to Japan? - No, I haven't. (아니요, 가본 적 없어요) - 현재완료"
+          - "You're Korean, aren't you? - Yes, I am. (네, 맞아요) - 부가의문문"
+          - "You don't like coffee. - Actually, I do. (사실 좋아해요) - 반박"
+          - "She can't drive. - She can! (아니요, 할 수 있어요!) - 강한 반박"
+          - "You look happy. - I am! (맞아요, 행복해요!) - 동의"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 전체 문장 반복: Do you like pizza? - Yes, I like pizza (어색) → Yes, I do (자연스러움)<br />2. 조동사 혼동: Are you tired? - Yes, I do (X) → Yes, I am (O)<br />3. do/does 혼동: Does she work? - Yes, she do (X) → Yes, she does (O)<br />4. 축약형 실수: No, I amn't (X) → No, I'm not (O)"
+      - type: text
+        content: "<span class='highlight'>조동사 선택 규칙:</span><br />• 질문에 사용된 조동사와 같은 조동사로 대답합니다!<br />• Are you~? → Yes, I am. / No, I'm not.<br />• Do you~? → Yes, I do. / No, I don't.<br />• Can you~? → Yes, I can. / No, I can't.<br />• 절대로 조동사를 바꾸면 안 됩니다!"
+      - type: text
+        content: "<span class='highlight'>한국어와의 차이점:</span><br />• 한국어: 질문에 '네/아니요'로만 대답 가능<br />• 영어: '네/아니요' + 주어 + 조동사 필수<br />• 예) '피자 좋아해?' - '응' (한국어) / 'Yes, I do.' (영어)<br />• 영어는 조동사를 생략하면 불완전하게 들립니다"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 대화들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "대화들을 관찰하세요"
+        list:
+          - "A: Are you ready? B: Yes, I am."
+          - "A: Do you like music? B: Yes, I do."
+          - "A: Does she speak English? B: No, she doesn't."
+          - "A: Can you swim? B: Yes, I can."
+          - "A: Did they win? B: No, they didn't."
+          - "A: Have you finished? B: Yes, I have."
+          - "A: Will you come? B: Yes, I will."
+          - "A: You're tired. B: I am."
+      - type: qna
+        question: "Q1. 위 대답들에서 공통적으로 사용되는 단어는 무엇인가요?"
+        answer: "주어(I, she, they, you)와 조동사(am, do, does, can, did, have, will 등)만 사용합니다."
+      - type: qna
+        question: "Q2. 질문의 조동사와 대답의 조동사 사이에 어떤 규칙이 있나요?"
+        answer: "질문에 사용된 조동사와 같은 조동사로 대답합니다. (Are you~? → Yes, I am. / Do you~? → Yes, I do.)"
+      - type: qna
+        question: "Q3. 왜 'Yes, I like music.'이 아니라 'Yes, I do.'라고 대답할까요?"
+        answer: "전체 문장을 반복하지 않고 조동사만 사용하면 더 자연스럽고 간결하기 때문입니다."
+      - type: qna
+        question: "Q4. 'You're tired. - I am.'에서 왜 Yes 없이 대답하나요?"
+        answer: "상대방의 진술에 동의할 때는 Yes 없이 '주어 + 조동사'만으로 대답할 수 있습니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 짧은 대답에서 조동사는 어떤 것을 따라가나요?"
+        answer: "질문에 사용된 조동사를 따라갑니다.<br />평가 기준: 질문의 조동사와 대답의 조동사가 같아야 한다고 언급하면 정답입니다."
+      - type: qna
+        question: "R2. 'Do you like pizza?'에 긍정으로 대답하세요."
+        answer: "Yes, I do.<br />평가 기준: Yes, I do가 있으면 정답입니다."
+      - type: qna
+        question: "R3. 'Are you a student?'에 부정으로 대답하세요."
+        answer: "No, I'm not. / No, I am not.<br />평가 기준: No, I'm not 또는 No, I am not이 있으면 정답입니다."
+      - type: qna
+        question: "R4. 왜 영어에서는 'Yes'만으로 대답하면 불완전하게 들리나요?"
+        answer: "영어는 주어와 조동사를 함께 사용해야 완전한 대답이 되기 때문입니다.<br />평가 기준: 주어와 조동사가 필요하다는 점을 언급하면 정답입니다."
+      - type: qna
+        question: "R5. 'Can you swim?'에 긍정으로 대답하세요."
+        answer: "Yes, I can.<br />평가 기준: Yes, I can이 있으면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 조동사를 넣어 짧은 대답을 완성하세요."
+      - type: qna
+        question: "Q1. Are you happy? - Yes, I ___."
+        answer: "am<br />설명: Are로 물었으므로 am으로 대답합니다."
+      - type: qna
+        question: "Q2. Do you have a pen? - No, I ___."
+        answer: "don't<br />설명: Do로 물었으므로 don't로 부정 대답합니다."
+      - type: qna
+        question: "Q3. Does she like K-pop? - Yes, she ___."
+        answer: "does<br />설명: Does로 물었으므로 does로 대답합니다."
+      - type: qna
+        question: "Q4. Did you eat breakfast? - Yes, I ___."
+        answer: "did<br />설명: Did로 물었으므로 did로 대답합니다."
+      - type: qna
+        question: "Q5. Can they speak Korean? - No, they ___."
+        answer: "can't<br />설명: Can으로 물었으므로 can't로 부정 대답합니다."
+      - type: qna
+        question: "Q6. Will you help me? - Yes, I ___."
+        answer: "will<br />설명: Will로 물었으므로 will로 대답합니다."
+      - type: qna
+        question: "Q7. Have you finished? - No, I ___."
+        answer: "haven't<br />설명: Have로 물었으므로 haven't로 부정 대답합니다."
+      - type: qna
+        question: "Q8. Is he your brother? - Yes, he ___."
+        answer: "is<br />설명: Is로 물었으므로 is로 대답합니다."
+
+  - title: "5. 문장 만들기 - 짧은 대답 완성"
+    items:
+      - type: note
+        content: "질문에 맞는 짧은 대답을 완성하세요."
+      - type: qna
+        question: "T1. Are you Korean? - Yes, ___."
+        answer: "I am<br />평가 기준: Yes, I am이 완성되면 정답입니다."
+      - type: qna
+        question: "T2. Do you play games? - No, ___."
+        answer: "I don't<br />평가 기준: No, I don't가 완성되면 정답입니다."
+      - type: qna
+        question: "T3. Does your mom work? - Yes, ___."
+        answer: "she does<br />평가 기준: Yes, she does가 완성되면 정답입니다."
+      - type: qna
+        question: "T4. Did they arrive? - No, ___."
+        answer: "they didn't<br />평가 기준: No, they didn't가 완성되면 정답입니다."
+      - type: qna
+        question: "T5. Can you drive? - No, ___."
+        answer: "I can't<br />평가 기준: No, I can't가 완성되면 정답입니다."
+      - type: qna
+        question: "T6. Will she come tomorrow? - Yes, ___."
+        answer: "she will<br />평가 기준: Yes, she will이 완성되면 정답입니다."
+      - type: qna
+        question: "T7. Have you been to Tokyo? - Yes, ___."
+        answer: "I have<br />평가 기준: Yes, I have가 완성되면 정답입니다."
+      - type: qna
+        question: "T8. Is it raining? - No, ___."
+        answer: "it isn't / it's not<br />평가 기준: No, it isn't 또는 No, it's not이 완성되면 정답입니다."
+
+  - title: "6. 동의/반박 연습"
+    items:
+      - type: note
+        content: "상대방의 말에 동의하거나 반박하는 연습을 해보세요."
+      - type: qna
+        question: "TF1. You look tired. (동의하세요)"
+        answer: "I am. / Yes, I am.<br />설명: 상대방 말에 동의할 때는 주어 + 조동사로 대답합니다."
+      - type: qna
+        question: "TF2. You don't like spicy food. (반박하세요 - 사실은 좋아함)"
+        answer: "I do! / Actually, I do.<br />설명: 부정문에 반박할 때는 긍정 조동사를 강조해서 말합니다."
+      - type: qna
+        question: "TF3. She can't play piano. (반박하세요 - 사실은 할 수 있음)"
+        answer: "She can! / Yes, she can.<br />설명: 부정문에 반박할 때 긍정 조동사를 사용합니다."
+      - type: qna
+        question: "TF4. They didn't study. (동의하세요)"
+        answer: "They didn't. / No, they didn't.<br />설명: 부정문에 동의할 때는 부정 조동사를 사용합니다."
+      - type: qna
+        question: "TF5. You've been to Paris. (부정하세요 - 사실은 안 가봄)"
+        answer: "I haven't. / No, I haven't.<br />설명: 긍정문을 부정할 때는 부정 조동사를 사용합니다."
+      - type: qna
+        question: "TF6. He will help us. (동의하세요)"
+        answer: "He will. / Yes, he will.<br />설명: 상대방 말에 동의할 때 같은 조동사를 사용합니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "실제 상황에서 짧은 대답을 사용해 보세요!"
+      - type: qna
+        question: "A1. 친구가 'Are you hungry?'라고 물었습니다. 배가 고프다면 어떻게 대답하나요?"
+        answer: "예시 답안: Yes, I am.<br />평가 기준: Yes, I am을 사용하면 정답입니다."
+      - type: qna
+        question: "A2. 선생님이 'Did you do your homework?'라고 물었습니다. 했다면 어떻게 대답하나요?"
+        answer: "예시 답안: Yes, I did.<br />평가 기준: Yes, I did를 사용하면 정답입니다."
+      - type: qna
+        question: "A3. 부모님이 'Can you help me?'라고 물었습니다. 도와줄 수 있다면 어떻게 대답하나요?"
+        answer: "예시 답안: Yes, I can.<br />평가 기준: Yes, I can을 사용하면 정답입니다."
+      - type: qna
+        question: "A4. 친구가 'You don't like math.'라고 말했는데, 사실 수학을 좋아합니다. 어떻게 반박하나요?"
+        answer: "예시 답안: I do! / Actually, I do.<br />평가 기준: I do를 사용해서 반박하면 정답입니다."
+      - type: qna
+        question: "A5. 오늘 있었던 일에 대해 3가지 질문과 짧은 대답을 만들어 보세요."
+        answer: "예시 답안: Did you wake up early? - Yes, I did. Are you tired? - No, I'm not. Will you study tonight? - Yes, I will.<br />평가 기준: 질문과 짧은 대답 3쌍을 올바르게 만들면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 대답의 틀린 부분을 찾아 올바르게 고치세요: 'Do you like music? - Yes, I am.'"
+        answer: "올바른 문장: Yes, I do.<br />설명: Do로 물었으므로 do로 대답해야 합니다. am은 Are로 물었을 때 사용합니다."
+      - type: qna
+        question: "C2. 다음 대화를 완성하세요:<br />A: Are you ready?<br />B: Yes, I ___.<br />A: Do you have your book?<br />B: No, I ___.<br />A: Can you borrow one?<br />B: Yes, I ___."
+        answer: "B: Yes, I am.<br />B: No, I don't.<br />B: Yes, I can.<br />설명: 각 질문의 조동사에 맞춰 대답합니다."
+      - type: qna
+        question: "C3. 'Does she like pizza?'에 대한 대답으로 옳은 것을 모두 고르세요:<br />a) Yes, she does. b) Yes, she do. c) No, she doesn't. d) No, she don't."
+        answer: "정답: a), c)<br />설명: Does로 물었으므로 does/doesn't로 대답합니다. do/don't는 틀립니다."
+      - type: qna
+        question: "C4. 친구와의 대화를 상상해서 5가지 질문과 짧은 대답을 만드세요. 다양한 조동사를 사용하세요."
+        answer: "예시 답안:<br />1. Are you okay? - Yes, I am.<br />2. Do you have any snacks? - No, I don't.<br />3. Did you watch the movie? - Yes, I did.<br />4. Can you lend me a pen? - Yes, I can.<br />5. Will you come to my party? - Yes, I will.<br />평가 기준: 5가지 다른 조동사를 사용하고 짧은 대답이 올바르면 정답입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. Are you a student? - Yes, I ___."
+        answer: "am"
+      - type: qna
+        question: "SR2. Do you like pizza? - Yes, I ___."
+        answer: "do"
+      - type: qna
+        question: "SR3. Does he play soccer? - No, he ___."
+        answer: "doesn't"
+      - type: qna
+        question: "SR4. Did you finish? - Yes, I ___."
+        answer: "did"
+      - type: qna
+        question: "SR5. Can she swim? - Yes, she ___."
+        answer: "can"
+      - type: qna
+        question: "SR6. Will you help? - No, I ___."
+        answer: "won't"
+      - type: qna
+        question: "SR7. Have you eaten? - No, I ___."
+        answer: "haven't"
+      - type: qna
+        question: "SR8. Is it cold? - Yes, it ___."
+        answer: "is"
+      - type: qna
+        question: "SR9. You look happy. (동의) - I ___."
+        answer: "am"
+      - type: qna
+        question: "SR10. You don't like coffee. (반박) - I ___!"
+        answer: "do"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. 질문의 조동사에 맞춰 짧게 대답할 수 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! 영어 대화의 기본을 완벽히 이해했습니다.<br />어렵다면: 괜찮아요. 질문에 사용된 조동사를 그대로 대답에 쓴다고 기억하세요!"
+      - type: qna
+        question: "SC2. be동사(am, is, are)와 do/does를 구분해서 대답할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 가장 헷갈리기 쉬운 부분을 마스터했네요.<br />어렵다면: Are you~? → I am / Do you~? → I do 이렇게 짝으로 외워 보세요."
+      - type: qna
+        question: "SC3. 상대방 말에 동의하거나 반박할 때 조동사를 사용할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 이제 자연스러운 영어 대화가 가능합니다.<br />어렵다면: 반박할 때는 반대 조동사를 강조해서 써보세요. (You don't like it. - I do!)"
+      - type: qna
+        question: "SC4. 왜 'Yes'만으로 대답하면 불완전한지 설명할 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 영어의 특성을 정확히 이해했네요.<br />어렵다면: 영어는 주어+조동사가 한 세트예요. Yes만 쓰면 문장이 미완성된 느낌이 들어요."
+      - type: qna
+        question: "SC5. 오늘 배운 내용 중 가장 유용하다고 느낀 부분은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 자신만의 학습 포인트를 찾는 것이 중요합니다!"
+      - type: note
+        content: "여기까지 완료했다면 정말 잘하고 있어요! 조동사로 짧게 대답하는 것은 영어 대화에서 정말 많이 쓰입니다. 친구나 가족과 영어로 간단한 질문과 대답을 연습해 보세요. 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 질문의 조동사를 보고 바로 대답할 수 있다면 완벽하게 이해한 것입니다!"

@@ -1,0 +1,251 @@
+title: "Unit 39 · You have? Have you? You are? Are you? (의문문 어순)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 의문문을 만드는 방법은 두 가지가 있습니다. 정식 의문문(조동사/be동사를 앞으로)과 상승 억양 의문문(평서문 그대로 + 올라가는 억양)입니다. 두 방법 모두 자주 사용되지만, 뉘앙스가 다릅니다."
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "정식 의문문: 조동사/be동사 + 주어 + ...? (Have you...? / Are you...? / Do you...?)"
+          - "상승 억양 의문문: 평서문 어순 + ? (You have...? / You are...? / You like...?)"
+          - "be동사: Are you tired? (정식) / You're tired? (상승 억양)"
+          - "조동사: Have you finished? (정식) / You have finished? (상승 억양)"
+          - "일반동사: Do you like it? (정식) / You like it? (상승 억양)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스 차이:</span><br />• 정식 의문문 (Have you~?): 단순히 정보를 묻는 중립적인 질문<br />• 상승 억양 의문문 (You have~?): 놀라움, 확인, 반문의 뉘앙스가 있음<br />• 예) Have you been to Japan? (일본 가본 적 있어? - 단순 질문)<br />• 예) You've been to Japan? (일본 가봤다고? - 놀라움/확인)"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 정식 의문문: 처음 묻는 질문, 공식적인 상황, 정보 수집<br />• 상승 억양 의문문: 상대방 말에 대한 반응, 놀라움 표현, 확인할 때, 비공식적인 대화"
+      - type: list
+        heading: "더 많은 예문 - 정식 의문문 vs 상승 억양 의문문"
+        list:
+          - "Are you Korean? (한국인이에요?) vs You're Korean? (한국인이라고요?/한국인이에요?)"
+          - "Is she your sister? (그녀가 네 언니야?) vs She's your sister? (그녀가 네 언니라고?)"
+          - "Have you eaten? (밥 먹었어?) vs You've eaten? (밥 먹었다고?)"
+          - "Do you like pizza? (피자 좋아해?) vs You like pizza? (피자 좋아한다고?)"
+          - "Does he know? (그가 알아?) vs He knows? (그가 안다고?)"
+          - "Did you see that? (그거 봤어?) vs You saw that? (그거 봤다고?)"
+          - "Can you swim? (수영할 수 있어?) vs You can swim? (수영할 수 있다고?)"
+          - "Will you come? (올 거야?) vs You'll come? (온다고?)"
+          - "Has it started? (시작했어?) vs It's started? (시작했다고?)"
+          - "Were you there? (거기 있었어?) vs You were there? (거기 있었다고?)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 어순 혼동: You are tired? (O - 비공식) vs Are tired you? (X)<br />2. 상승 억양 무시: You're tired. (평서문) vs You're tired? (의문문) - 억양이 중요!<br />3. 정식 의문문에서 do 빠뜨림: Like you pizza? (X) → Do you like pizza? (O)<br />4. 상황에 맞지 않는 사용: 처음 만난 사람에게 'You're a teacher?'보다 'Are you a teacher?'가 더 적절"
+      - type: text
+        content: "<span class='highlight'>정식 의문문 만들기 규칙:</span><br />• be동사: be동사를 주어 앞으로 (You are → Are you?)<br />• 조동사(can, will, have 등): 조동사를 주어 앞으로 (You can → Can you?)<br />• 일반동사: do/does/did + 주어 + 동사원형 (You like → Do you like?)"
+      - type: text
+        content: "<span class='highlight'>상승 억양 의문문 사용 상황:</span><br />• 상대방이 한 말을 다시 확인할 때: A: I'm going to Paris. B: You're going to Paris?<br />• 놀라움을 표현할 때: You won the lottery?! (복권에 당첨됐다고?!)<br />• 친한 사이에서 가볍게 물을 때: You're coming tonight?<br />• 믿기 어려운 정보를 들었을 때: She's 50 years old? (50살이라고?)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 대화들을 관찰하고 두 가지 의문문 형태의 차이를 발견해 보세요!"
+      - type: list
+        heading: "대화들을 관찰하세요"
+        list:
+          - "A: Are you a student? B: Yes, I am. (처음 만난 상황)"
+          - "A: I'm a student. B: You're a student? I thought you were a teacher! (놀라움)"
+          - "A: Have you finished your homework? B: Yes, I have. (단순 질문)"
+          - "A: I've finished my homework. B: You've finished? Already? (놀라움)"
+          - "A: Do you like K-pop? B: Yes, I do. (처음 묻는 질문)"
+          - "A: I like K-pop. B: You like K-pop? Me too! (공감/확인)"
+          - "A: Can you play piano? B: No, I can't. (단순 질문)"
+          - "A: I can play piano. B: You can play piano? That's amazing! (놀라움)"
+      - type: qna
+        question: "Q1. 위 대화에서 정식 의문문(조동사가 앞에 오는 것)은 어떤 상황에서 사용되나요?"
+        answer: "처음 정보를 물을 때, 단순히 질문할 때 사용됩니다."
+      - type: qna
+        question: "Q2. 상승 억양 의문문(평서문 어순)은 어떤 상황에서 사용되나요?"
+        answer: "상대방 말에 반응할 때, 놀라움을 표현할 때, 확인할 때 사용됩니다."
+      - type: qna
+        question: "Q3. 'You're a student?'와 'Are you a student?'의 뉘앙스 차이는 무엇인가요?"
+        answer: "'Are you a student?'는 단순 질문이고, 'You're a student?'는 놀라움이나 확인의 느낌이 있습니다."
+      - type: qna
+        question: "Q4. 상승 억양 의문문은 글로 쓸 때 어떻게 표시하나요?"
+        answer: "문장 끝에 물음표(?)를 붙입니다. 평서문과 형태는 같지만 물음표로 구분합니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 정식 의문문은 어떤 어순으로 만드나요?"
+        answer: "조동사/be동사 + 주어 + ... 순서입니다.<br />평가 기준: 조동사나 be동사가 앞에 온다고 언급하면 정답입니다."
+      - type: qna
+        question: "R2. 상승 억양 의문문은 어떤 상황에서 주로 사용하나요?"
+        answer: "놀라움, 확인, 상대방 말에 대한 반응, 비공식적인 대화에서 사용합니다.<br />평가 기준: 놀라움, 확인, 반응 중 하나 이상 언급하면 정답입니다."
+      - type: qna
+        question: "R3. 'You have a car?'와 'Do you have a car?'의 차이는 무엇인가요?"
+        answer: "'Do you have a car?'는 단순 질문, 'You have a car?'는 놀라움/확인의 뉘앙스가 있습니다.<br />평가 기준: 뉘앙스 차이를 설명하면 정답입니다."
+      - type: qna
+        question: "R4. 처음 만난 사람에게 질문할 때는 어떤 의문문 형태가 더 적절한가요?"
+        answer: "정식 의문문이 더 적절합니다. (Are you~? / Do you~?)<br />평가 기준: 정식 의문문을 선택하면 정답입니다."
+      - type: qna
+        question: "R5. 일반동사로 정식 의문문을 만들 때 필요한 것은 무엇인가요?"
+        answer: "do/does/did가 필요합니다. (Do you like~? / Does she know~?)<br />평가 기준: do/does/did를 언급하면 정답입니다."
+
+  - title: "4. 기초 연습 - 의문문 변환"
+    items:
+      - type: note
+        content: "평서문을 정식 의문문과 상승 억양 의문문 두 가지로 바꿔보세요."
+      - type: qna
+        question: "Q1. You are tired. → 정식 의문문:"
+        answer: "Are you tired?<br />설명: be동사(are)를 주어(you) 앞으로 옮깁니다."
+      - type: qna
+        question: "Q2. You are tired. → 상승 억양 의문문:"
+        answer: "You're tired?<br />설명: 어순은 그대로, 끝을 올리며 물음표를 붙입니다."
+      - type: qna
+        question: "Q3. She has finished. → 정식 의문문:"
+        answer: "Has she finished?<br />설명: 조동사(has)를 주어(she) 앞으로 옮깁니다."
+      - type: qna
+        question: "Q4. He likes pizza. → 정식 의문문:"
+        answer: "Does he like pizza?<br />설명: 일반동사는 does를 앞에 쓰고 동사는 원형(like)으로 바꿉니다."
+      - type: qna
+        question: "Q5. They can swim. → 정식 의문문:"
+        answer: "Can they swim?<br />설명: 조동사(can)를 주어(they) 앞으로 옮깁니다."
+      - type: qna
+        question: "Q6. You will come tomorrow. → 상승 억양 의문문:"
+        answer: "You'll come tomorrow?<br />설명: 어순은 그대로, 끝을 올리며 물음표를 붙입니다."
+      - type: qna
+        question: "Q7. They went home. → 정식 의문문:"
+        answer: "Did they go home?<br />설명: 과거 일반동사는 did를 앞에 쓰고 동사는 원형(go)으로 바꿉니다."
+      - type: qna
+        question: "Q8. She is your teacher. → 두 가지 의문문 모두:"
+        answer: "정식: Is she your teacher?<br />상승 억양: She's your teacher?<br />설명: 두 가지 방법 모두 가능합니다."
+
+  - title: "5. 상황별 의문문 선택"
+    items:
+      - type: note
+        content: "상황에 맞는 의문문 형태를 선택하거나 만들어 보세요."
+      - type: qna
+        question: "T1. 처음 만난 사람에게 직업을 물을 때 (정식 의문문 사용)"
+        answer: "Are you a teacher? / What do you do?<br />평가 기준: 정식 의문문 형태로 직업을 물으면 정답입니다."
+      - type: qna
+        question: "T2. 친구가 '나 숙제 끝냈어'라고 해서 놀랐을 때 (상승 억양 의문문 사용)"
+        answer: "You've finished? / You finished already?<br />평가 기준: 상승 억양 의문문 형태로 놀라움을 표현하면 정답입니다."
+      - type: qna
+        question: "T3. 친구의 취미를 처음 물을 때 (정식 의문문 사용)"
+        answer: "Do you like sports? / What hobbies do you have?<br />평가 기준: 정식 의문문 형태로 취미를 물으면 정답입니다."
+      - type: qna
+        question: "T4. 상대방이 '나 K-pop 좋아해'라고 해서 공감할 때 (상승 억양 의문문 사용)"
+        answer: "You like K-pop? Me too!<br />평가 기준: 상승 억양 의문문 + 공감 표현이 있으면 정답입니다."
+      - type: qna
+        question: "T5. 면접에서 경험을 물을 때 (정식 의문문 사용)"
+        answer: "Have you worked before? / Do you have any experience?<br />평가 기준: 정식 의문문 형태로 공식적으로 물으면 정답입니다."
+      - type: qna
+        question: "T6. 친구가 '나 피아노 칠 수 있어'라고 해서 감탄할 때 (상승 억양 의문문 사용)"
+        answer: "You can play piano? That's amazing!<br />평가 기준: 상승 억양 의문문 + 감탄 표현이 있으면 정답입니다."
+
+  - title: "6. 대화 연습"
+    items:
+      - type: note
+        content: "자연스러운 대화를 만들어 보세요."
+      - type: qna
+        question: "TF1. A: I'm from Canada. B: ___? (놀라움으로 반응)"
+        answer: "You're from Canada? / You're Canadian?<br />설명: 상대방 말에 놀라움으로 반응할 때 상승 억양 의문문을 씁니다."
+      - type: qna
+        question: "TF2. A: ___ Japanese? (처음 묻는 질문) B: No, I'm Korean."
+        answer: "Are you Japanese? / Do you speak Japanese?<br />설명: 처음 묻는 질문은 정식 의문문을 사용합니다."
+      - type: qna
+        question: "TF3. A: I've been to 20 countries. B: ___?! (놀라움)"
+        answer: "You've been to 20 countries?! / Twenty countries?!<br />설명: 놀라운 정보에 반응할 때 상승 억양 의문문을 씁니다."
+      - type: qna
+        question: "TF4. A: ___ this movie? (추천 여부 질문) B: Yes, I highly recommend it."
+        answer: "Do you recommend this movie? / Have you seen this movie?<br />설명: 정보를 구하는 질문은 정식 의문문을 사용합니다."
+      - type: qna
+        question: "TF5. A: I don't eat meat. B: ___? (확인)"
+        answer: "You don't eat meat? / You're vegetarian?<br />설명: 상대방 말을 확인할 때 상승 억양 의문문을 씁니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "실제 상황에서 두 가지 의문문을 사용해 보세요!"
+      - type: qna
+        question: "A1. 새로 전학 온 학생에게 물어볼 질문 3가지를 정식 의문문으로 만드세요."
+        answer: "예시 답안: Where are you from? / Do you like sports? / Have you been to this city before?<br />평가 기준: 정식 의문문 3개를 올바르게 만들면 정답입니다."
+      - type: qna
+        question: "A2. 친구가 놀라운 소식을 말했을 때 사용할 상승 억양 의문문 3가지를 만드세요."
+        answer: "예시 답안: You got a perfect score? / You're moving to America? / You met a celebrity?<br />평가 기준: 상승 억양 의문문으로 놀라움을 표현하면 정답입니다."
+      - type: qna
+        question: "A3. 다음 상황에서 어떤 의문문을 쓸지 선택하세요: 선생님께 숙제 마감일을 물을 때"
+        answer: "예시 답안: When is the homework due? / Is the homework due tomorrow?<br />평가 기준: 정식 의문문을 선택하고 적절한 질문을 만들면 정답입니다."
+      - type: qna
+        question: "A4. 친구와의 대화를 상상해서 정식 의문문 2개와 상승 억양 의문문 2개가 포함된 대화를 만드세요."
+        answer: "예시 답안:<br />A: Do you want to go to the movies? (정식)<br />B: Sure! Have you seen the new Marvel movie? (정식)<br />A: I saw it yesterday. B: You saw it yesterday? (상승) Was it good?<br />A: It was amazing! B: It was amazing? (상승) Now I really want to see it!<br />평가 기준: 두 유형의 의문문이 각각 2개씩 올바르게 사용되면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 중 정식 의문문과 상승 억양 의문문을 구분하세요:<br />a) Are you ready?<br />b) You're ready?<br />c) Have you eaten?<br />d) You've eaten?"
+        answer: "정식 의문문: a), c) - 조동사/be동사가 앞에 옴<br />상승 억양 의문문: b), d) - 평서문 어순 + 물음표<br />설명: 어순을 보면 구분할 수 있습니다."
+      - type: qna
+        question: "C2. 다음 상황에 맞는 의문문을 만드세요: 친구가 '나 어제 10시간 잤어'라고 했을 때 놀라움을 표현"
+        answer: "You slept for 10 hours? / You slept 10 hours?!<br />설명: 놀라움을 표현할 때 상승 억양 의문문을 사용합니다."
+      - type: qna
+        question: "C3. 왜 면접 같은 공식적인 상황에서는 정식 의문문이 더 적절한가요?"
+        answer: "정식 의문문은 중립적이고 공손하게 들리기 때문입니다. 상승 억양 의문문은 비공식적이고 친근한 느낌이 있어서 공식 상황에는 덜 적절합니다.<br />평가 기준: 공손함, 중립성, 공식성 중 하나 이상 언급하면 정답입니다."
+      - type: qna
+        question: "C4. 다음 대화의 빈칸을 채우세요:<br />A: I can speak five languages.<br />B: ___?! That's incredible!<br />A: Yes. ___ any other languages? (B에게 묻기)<br />B: I speak Korean and English.<br />A: Just two? ___ any other languages? (배우고 싶은지 묻기)"
+        answer: "B: You can speak five languages?! / Five languages?!<br />A: Do you speak any other languages?<br />A: Do you want to learn any other languages?<br />설명: 놀라움은 상승 억양, 정보 질문은 정식 의문문을 사용합니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. You are a student. → 정식 의문문:"
+        answer: "Are you a student?"
+      - type: qna
+        question: "SR2. She has finished. → 상승 억양 의문문:"
+        answer: "She's finished? / She has finished?"
+      - type: qna
+        question: "SR3. He likes pizza. → 정식 의문문:"
+        answer: "Does he like pizza?"
+      - type: qna
+        question: "SR4. 정식 의문문은 어떤 상황에서 사용하나요?"
+        answer: "처음 묻는 질문, 공식적인 상황, 단순히 정보를 얻을 때"
+      - type: qna
+        question: "SR5. 상승 억양 의문문은 어떤 뉘앙스가 있나요?"
+        answer: "놀라움, 확인, 반문의 뉘앙스"
+      - type: qna
+        question: "SR6. They can swim. → 정식 의문문:"
+        answer: "Can they swim?"
+      - type: qna
+        question: "SR7. 놀라움 표현: 'I got 100 points'에 반응하세요."
+        answer: "You got 100 points?!"
+      - type: qna
+        question: "SR8. You will come. → 정식 의문문:"
+        answer: "Will you come?"
+      - type: qna
+        question: "SR9. 처음 만난 사람에게 적절한 질문 형태는?"
+        answer: "정식 의문문 (Are you~? / Do you~?)"
+      - type: qna
+        question: "SR10. She went home. → 정식 의문문:"
+        answer: "Did she go home?"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. 정식 의문문과 상승 억양 의문문의 차이를 설명할 수 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! 영어 의문문의 두 가지 형태를 완벽히 이해했습니다.<br />어렵다면: 괜찮아요. 정식은 '조동사 + 주어', 상승 억양은 '평서문 + 물음표'예요."
+      - type: qna
+        question: "SC2. 상황에 따라 적절한 의문문 형태를 선택할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 상황 판단력이 뛰어나네요.<br />어렵다면: 공식 상황 = 정식, 놀라움/확인 = 상승 억양이라고 기억하세요."
+      - type: qna
+        question: "SC3. 일반동사로 정식 의문문을 만들 때 do/does/did를 올바르게 사용할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 영어 의문문의 핵심을 마스터했네요.<br />어렵다면: 일반동사는 do/does/did가 필요해요. Do you like~? / Does she know~?"
+      - type: qna
+        question: "SC4. 상대방 말에 놀라움을 표현하는 의문문을 만들 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 자연스러운 영어 대화가 가능해요.<br />어렵다면: 상대방 말을 그대로 반복하고 물음표와 함께 억양을 올려보세요."
+      - type: qna
+        question: "SC5. 오늘 배운 내용 중 가장 새로웠던 부분은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 새로운 발견을 하는 것이 학습의 즐거움입니다!"
+      - type: note
+        content: "여기까지 완료했다면 정말 잘하고 있어요! 두 가지 의문문 형태를 알면 영어 대화가 훨씬 자연스러워집니다. 상황에 맞게 사용해 보세요. 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 상황에 맞는 의문문을 바로 만들 수 있다면 완벽하게 이해한 것입니다!"

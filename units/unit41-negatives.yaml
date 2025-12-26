@@ -1,0 +1,280 @@
+title: "Unit 41 · isn't, haven't, don't, etc. (부정문)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 부정문을 만들 때는 조동사나 be동사 뒤에 not을 붙입니다. 일상 대화에서는 축약형(isn't, don't, can't 등)을 주로 사용합니다. 부정문을 정확하게 만들고 사용하는 것은 영어의 기본입니다."
+      - type: list
+        heading: "형식 (Form) - 부정 축약형"
+        list:
+          - "be동사: is not → isn't, are not → aren't, am not → (축약 없음, I'm not)"
+          - "was/were: was not → wasn't, were not → weren't"
+          - "do/does/did: do not → don't, does not → doesn't, did not → didn't"
+          - "have/has/had: have not → haven't, has not → hasn't, had not → hadn't"
+          - "can: cannot → can't"
+          - "will: will not → won't (특수 형태!)"
+          - "would: would not → wouldn't"
+          - "should: should not → shouldn't"
+          - "must: must not → mustn't"
+          - "could: could not → couldn't"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• 축약형(isn't, don't): 일상 대화, 친근하고 자연스러움<br />• 전체형(is not, do not): 강조, 격식, 글쓰기<br />• 예) I don't like it. (일상 대화) vs I do NOT like it. (강한 강조)"
+      - type: text
+        content: "<span class='highlight'>부정문 만드는 규칙:</span><br />• be동사: be동사 + not (She is happy → She isn't happy)<br />• 조동사: 조동사 + not (I can swim → I can't swim)<br />• 일반동사: do/does/did + not + 동사원형 (He likes → He doesn't like)"
+      - type: list
+        heading: "더 많은 예문"
+        list:
+          - "I'm not tired. (나 안 피곤해) - be동사 1인칭"
+          - "She isn't here. (그녀는 여기 없어) - be동사 3인칭"
+          - "They aren't ready. (그들은 준비 안 됐어) - be동사 복수"
+          - "It wasn't my fault. (내 잘못이 아니었어) - be동사 과거"
+          - "I don't understand. (이해 못 하겠어) - 일반동사 현재"
+          - "He doesn't know. (그는 몰라) - 일반동사 3인칭"
+          - "She didn't come. (그녀는 안 왔어) - 일반동사 과거"
+          - "I haven't finished. (아직 안 끝냈어) - 현재완료"
+          - "He hasn't arrived. (그는 아직 안 도착했어) - 현재완료 3인칭"
+          - "I can't swim. (나 수영 못 해) - can"
+          - "I won't do it. (안 할 거야) - will"
+          - "You shouldn't eat too much. (너무 많이 먹으면 안 돼) - should"
+          - "I couldn't find it. (찾을 수 없었어) - could"
+          - "You mustn't be late. (늦으면 안 돼) - must"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 이중 부정: I don't have nothing (X) → I don't have anything (O)<br />   → 영어에서는 부정어를 2개 쓰면 긍정이 됩니다! (I don't have nothing = 뭔가 있다는 뜻이 됨)<br />   → 한국어와 달리 영어는 부정을 한 번만 표현합니다<br />2. 동사 원형 안 씀: He doesn't likes (X) → He doesn't like (O)<br />3. do 누락: I not like (X) → I don't like (O)<br />4. am not 축약 오류: I amn't (X) → I'm not (O)<br />5. won't 철자: willn't (X) → won't (O)"
+      - type: note
+        content: "🇰🇷 한국어 vs 🇺🇸 영어 부정문 비교:<br />• 한국어: 동사 어미 변화 (-지 않다, -못하다, 안-)<br />  예) 나는 좋아하지 않아 / 나는 안 좋아해<br />• 영어: 별도의 부정어(not, don't, can't 등) 필요<br />  예) I don't like it.<br />• 차이점: 한국어는 동사 끝에서 부정, 영어는 동사 앞에서 부정<br />• 팁: '안 ~해'는 don't + 동사, '못 ~해'는 can't + 동사로 기억하세요!"
+      - type: text
+        content: "<span class='highlight'>특별한 부정 표현:</span><br />• am not: 축약형이 없어요! I'm not (O) vs I amn't (X)<br />• won't: will not의 축약형 (willn't가 아님!)<br />• cannot: 한 단어로 씀 (can not도 가능하지만 cannot이 표준)"
+      - type: text
+        content: "<span class='highlight'>부정문 강조하기:</span><br />• 전체형 사용: I do NOT like it. (NOT을 강하게 읽음)<br />• 부사 추가: I really don't like it. (정말 안 좋아해)<br />• never 사용: I never eat breakfast. (절대 안 먹어)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 부정문의 패턴을 발견해 보세요!"
+      - type: list
+        heading: "문장들을 관찰하세요"
+        list:
+          - "I'm not a student. / I am not a student."
+          - "She isn't here. / She is not here."
+          - "They aren't coming. / They are not coming."
+          - "I don't like coffee. / I do not like coffee."
+          - "He doesn't play soccer. / He does not play soccer."
+          - "We didn't go there. / We did not go there."
+          - "I can't understand. / I cannot understand."
+          - "She won't come. / She will not come."
+      - type: qna
+        question: "Q1. 축약형과 전체형에서 공통적으로 어떤 단어가 사용되나요?"
+        answer: "not이 공통적으로 사용됩니다."
+      - type: qna
+        question: "Q2. be동사와 조동사의 부정문은 어떻게 만드나요?"
+        answer: "be동사/조동사 바로 뒤에 not을 붙입니다. (is not, can not)"
+      - type: qna
+        question: "Q3. 일반동사의 부정문은 어떻게 만드나요?"
+        answer: "do/does/did + not + 동사원형을 사용합니다. (don't like, doesn't play)"
+      - type: qna
+        question: "Q4. 일상 대화에서 더 자주 사용하는 형태는 무엇인가요?"
+        answer: "축약형(isn't, don't, can't 등)을 더 자주 사용합니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. will not의 축약형은 무엇인가요?"
+        answer: "won't<br />평가 기준: won't를 말하면 정답입니다."
+      - type: qna
+        question: "R2. 'He doesn't likes pizza'가 왜 틀렸나요?"
+        answer: "doesn't 뒤에는 동사 원형이 와야 합니다. He doesn't like pizza가 맞습니다.<br />평가 기준: 동사 원형을 써야 한다고 언급하면 정답입니다."
+      - type: qna
+        question: "R3. I am not의 축약형은 무엇인가요?"
+        answer: "I'm not (amn't는 없습니다)<br />평가 기준: I'm not을 말하면 정답입니다."
+      - type: qna
+        question: "R4. 일반동사 부정문을 만들 때 필요한 것은?"
+        answer: "do/does/did + not + 동사원형<br />평가 기준: do/does/did not과 동사원형을 언급하면 정답입니다."
+      - type: qna
+        question: "R5. 부정문에서 축약형과 전체형의 뉘앙스 차이는?"
+        answer: "축약형은 일상적이고 자연스럽고, 전체형은 강조하거나 격식 있는 표현입니다.<br />평가 기준: 일상 vs 강조/격식을 언급하면 정답입니다."
+
+  - title: "4. 기초 연습 - 축약형 완성"
+    items:
+      - type: note
+        content: "전체형을 축약형으로 바꾸세요."
+      - type: qna
+        question: "Q1. is not → ___"
+        answer: "isn't"
+      - type: qna
+        question: "Q2. are not → ___"
+        answer: "aren't"
+      - type: qna
+        question: "Q3. do not → ___"
+        answer: "don't"
+      - type: qna
+        question: "Q4. does not → ___"
+        answer: "doesn't"
+      - type: qna
+        question: "Q5. did not → ___"
+        answer: "didn't"
+      - type: qna
+        question: "Q6. have not → ___"
+        answer: "haven't"
+      - type: qna
+        question: "Q7. will not → ___"
+        answer: "won't"
+      - type: qna
+        question: "Q8. cannot → ___"
+        answer: "can't"
+      - type: qna
+        question: "Q9. should not → ___"
+        answer: "shouldn't"
+      - type: qna
+        question: "Q10. was not → ___"
+        answer: "wasn't"
+
+  - title: "5. 부정문 만들기"
+    items:
+      - type: note
+        content: "긍정문을 부정문으로 바꾸세요. 축약형을 사용하세요."
+      - type: qna
+        question: "T1. She is happy. → ___"
+        answer: "She isn't happy. / She's not happy.<br />설명: be동사 뒤에 not을 붙입니다."
+      - type: qna
+        question: "T2. I like pizza. → ___"
+        answer: "I don't like pizza.<br />설명: 일반동사는 don't + 동사원형을 사용합니다."
+      - type: qna
+        question: "T3. He plays soccer. → ___"
+        answer: "He doesn't play soccer.<br />설명: 3인칭 단수는 doesn't를 쓰고 동사는 원형으로 바꿉니다."
+      - type: qna
+        question: "T4. They went home. → ___"
+        answer: "They didn't go home.<br />설명: 과거는 didn't + 동사원형을 사용합니다."
+      - type: qna
+        question: "T5. I can swim. → ___"
+        answer: "I can't swim.<br />설명: 조동사 뒤에 not을 붙입니다."
+      - type: qna
+        question: "T6. She will come. → ___"
+        answer: "She won't come.<br />설명: will not의 축약형은 won't입니다."
+      - type: qna
+        question: "T7. I have finished. → ___"
+        answer: "I haven't finished.<br />설명: have 뒤에 not을 붙입니다."
+      - type: qna
+        question: "T8. You should do that. → ___"
+        answer: "You shouldn't do that.<br />설명: should 뒤에 not을 붙입니다."
+
+  - title: "6. 오류 수정 연습"
+    items:
+      - type: note
+        content: "다음 문장의 틀린 부분을 찾아 고치세요."
+      - type: qna
+        question: "TF1. He don't like coffee. → ___"
+        answer: "He doesn't like coffee.<br />설명: 3인칭 단수는 don't가 아니라 doesn't를 씁니다."
+      - type: qna
+        question: "TF2. She doesn't likes pizza. → ___"
+        answer: "She doesn't like pizza.<br />설명: doesn't 뒤에는 동사 원형(like)을 씁니다."
+      - type: qna
+        question: "TF3. I amn't tired. → ___"
+        answer: "I'm not tired. / I am not tired.<br />설명: amn't라는 축약형은 없습니다."
+      - type: qna
+        question: "TF4. They willn't come. → ___"
+        answer: "They won't come.<br />설명: will not의 축약형은 won't입니다."
+      - type: qna
+        question: "TF5. I not understand. → ___"
+        answer: "I don't understand.<br />설명: 일반동사 부정에는 do/does/did가 필요합니다."
+      - type: qna
+        question: "TF6. She didn't went. → ___"
+        answer: "She didn't go.<br />설명: didn't 뒤에는 동사 원형(go)을 씁니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "일상생활에서 부정문을 사용해 보세요!"
+      - type: qna
+        question: "A1. 당신이 싫어하는 음식 3가지를 부정문으로 표현하세요."
+        answer: "예시 답안: I don't like onions. I don't eat carrots. I can't stand spicy food.<br />평가 기준: 부정문을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A2. 당신이 못하는 것 3가지를 부정문으로 표현하세요."
+        answer: "예시 답안: I can't play piano. I don't know how to cook. I'm not good at math.<br />평가 기준: 부정문을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A3. 오늘 하지 않은 일 3가지를 부정문으로 표현하세요."
+        answer: "예시 답안: I didn't wake up early. I haven't finished my homework. I didn't exercise today.<br />평가 기준: 과거 부정문을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A4. 친구에게 하면 안 되는 것을 조언하는 문장 2개를 만드세요."
+        answer: "예시 답안: You shouldn't stay up late. You mustn't skip breakfast.<br />평가 기준: shouldn't, mustn't 등을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A5. 미래에 안 할 것 2가지를 부정문으로 표현하세요."
+        answer: "예시 답안: I won't be late tomorrow. I won't forget your birthday.<br />평가 기준: won't를 올바르게 사용하면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다! 여러 개념을 함께 활용해 보세요."
+      - type: qna
+        question: "C1. 다음 모든 조동사의 부정 축약형을 쓰세요: is, are, do, does, did, have, has, can, will, should"
+        answer: "isn't, aren't, don't, doesn't, didn't, haven't, hasn't, can't, won't, shouldn't<br />평가 기준: 8개 이상 맞으면 정답입니다."
+      - type: qna
+        question: "C2. 다음 대화를 완성하세요:<br />A: Do you like broccoli?<br />B: No, I ___. I ___ eat vegetables.<br />A: You should try. It ___ taste bad.<br />B: I ___ want to. But maybe I ___ try tomorrow."
+        answer: "B: No, I don't. I don't eat vegetables.<br />A: You should try. It doesn't taste bad.<br />B: I don't want to. But maybe I'll try tomorrow.<br />설명: 각 문장의 동사와 시제에 맞춰 부정형을 사용합니다."
+      - type: qna
+        question: "C3. 'never'와 'don't'의 차이는 무엇인가요? 각각 예문을 만드세요."
+        answer: "don't은 '안 한다', never는 '절대/전혀 안 한다'로 더 강한 부정입니다.<br />예문: I don't eat meat. (고기 안 먹어) vs I never eat meat. (고기 절대 안 먹어)<br />평가 기준: 강도의 차이를 설명하고 예문을 만들면 정답입니다."
+      - type: qna
+        question: "C4. 다양한 조동사 부정형을 사용해서 자기소개 5문장을 만드세요."
+        answer: "예시 답안:<br />1. I'm not very tall. (be동사)<br />2. I don't have any brothers. (일반동사)<br />3. I can't speak Japanese. (can)<br />4. I haven't been to America. (have)<br />5. I won't give up learning English. (will)<br />평가 기준: 5가지 다른 부정 표현을 올바르게 사용하면 정답입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요! 오늘 배운 내용을 복습하는 시간입니다."
+      - type: qna
+        question: "SR1. is not → ___"
+        answer: "isn't"
+      - type: qna
+        question: "SR2. will not → ___"
+        answer: "won't"
+      - type: qna
+        question: "SR3. do not → ___"
+        answer: "don't"
+      - type: qna
+        question: "SR4. She likes pizza. → 부정문"
+        answer: "She doesn't like pizza."
+      - type: qna
+        question: "SR5. I went there. → 부정문"
+        answer: "I didn't go there."
+      - type: qna
+        question: "SR6. I am not의 축약형은?"
+        answer: "I'm not (amn't는 없음)"
+      - type: qna
+        question: "SR7. cannot → ___"
+        answer: "can't"
+      - type: qna
+        question: "SR8. He don't like it. → 오류 수정"
+        answer: "He doesn't like it."
+      - type: qna
+        question: "SR9. should not → ___"
+        answer: "shouldn't"
+      - type: qna
+        question: "SR10. She didn't went. → 오류 수정"
+        answer: "She didn't go."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요! 정직하게 체크해 보는 시간입니다."
+      - type: qna
+        question: "SC1. 주요 조동사의 부정 축약형을 모두 기억하고 있나요?"
+        answer: "할 수 있다면: 정말 잘했어요! 영어 부정문의 기본을 완벽히 이해했습니다.<br />어렵다면: isn't, don't, can't, won't부터 시작해서 하나씩 외워 보세요!"
+      - type: qna
+        question: "SC2. 일반동사 부정문에서 동사 원형을 써야 한다는 것을 기억하나요?"
+        answer: "할 수 있다면: 훌륭합니다! 가장 흔한 실수를 피할 수 있어요.<br />어렵다면: doesn't like (O), doesn't likes (X) - doesn't 뒤에는 항상 원형!"
+      - type: qna
+        question: "SC3. won't가 will not의 축약형이라는 것이 자연스럽게 떠오르나요?"
+        answer: "할 수 있다면: 완벽해요! 불규칙 축약형을 기억하고 있네요.<br />어렵다면: will not = won't, 특별해서 외워야 해요!"
+      - type: qna
+        question: "SC4. 부정문을 사용해서 자연스럽게 말할 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 영어 대화에서 자연스럽게 부정을 표현할 수 있어요.<br />어렵다면: 일상에서 '안 해', '못 해', '싫어'를 영어로 바꿔 연습해 보세요."
+      - type: qna
+        question: "SC5. 오늘 배운 내용 중 가장 헷갈렸던 부분은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 어려웠던 부분을 인식하는 것이 극복의 첫 단계입니다!"
+      - type: note
+        content: "여기까지 완료했다면 정말 잘하고 있어요! 부정문은 영어의 가장 기본이 되는 문법 중 하나입니다. 축약형을 자연스럽게 쓸 수 있다면 영어가 훨씬 자연스러워질 거예요. 파이팅!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 모든 축약형이 자연스럽게 떠오른다면 완벽하게 이해한 것입니다!"
