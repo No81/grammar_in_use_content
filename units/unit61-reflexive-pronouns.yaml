@@ -1,0 +1,257 @@
+title: "Unit 61 · myself/yourself/themselves, etc. (재귀대명사)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "재귀대명사(reflexive pronouns)는 '~자신'이라는 의미로, 주어와 목적어가 같은 사람/사물일 때 사용합니다. '나는 나 자신을 보았어'처럼 행동이 자기 자신에게 돌아갈 때 씁니다."
+      - type: list
+        heading: "재귀대명사 (Reflexive Pronouns)"
+        list:
+          - "I → myself (나 자신)"
+          - "you (단수) → yourself (너 자신)"
+          - "you (복수) → yourselves (너희 자신)"
+          - "he → himself (그 자신)"
+          - "she → herself (그녀 자신)"
+          - "it → itself (그것 자신)"
+          - "we → ourselves (우리 자신)"
+          - "they → themselves (그들 자신)"
+      - type: text
+        content: "<span class='highlight'>형식 규칙</span><br />• 단수 1, 2인칭: 소유격 + self → myself, yourself<br />• 단수 3인칭: 목적격 + self → himself, herself, itself<br />• 복수: + selves → ourselves, yourselves, themselves"
+      - type: text
+        content: "<span class='highlight'>재귀대명사의 두 가지 용법</span><br /><br /><b>1. 재귀 용법 (주어=목적어)</b><br />주어가 한 행동이 자기 자신에게 돌아올 때<br />• I hurt myself. (나는 내 자신을 다쳤어.)<br />• She saw herself in the mirror. (그녀는 거울에서 자신을 봤어.)<br /><br /><b>2. 강조 용법 ('직접', '스스로')</b><br />주어를 강조할 때 (주어 바로 뒤나 문장 끝에 위치)<br />• I made this myself. (나는 이것을 직접 만들었어.)<br />• The president himself came. (대통령 본인이 직접 왔어.)"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 자신에게 한 행동: I taught myself English. (나는 영어를 독학했어.)<br />• 혼자 했음을 강조: Did you do it yourself? (네가 직접 했어?)<br />• by oneself = 혼자서: I live by myself. (나는 혼자 살아.)<br />• 감정 표현: Enjoy yourself! (즐겨! / 재미있게 놀아!)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "학교: I taught myself how to play guitar. (나는 기타 치는 법을 독학했어.)"
+          - "학교: Believe in yourself! (자신을 믿어!)"
+          - "친구: Don't be too hard on yourself. (자신에게 너무 가혹하지 마.)"
+          - "가족: My baby can dress herself now. (내 아기가 이제 혼자 옷을 입을 수 있어.)"
+          - "취미: I made this cake myself. (나는 이 케이크를 직접 만들었어.)"
+          - "음식: Help yourself to some food. (음식 마음대로 드세요.)"
+          - "게임: The game itself is not difficult. (게임 자체는 어렵지 않아.)"
+          - "일상: Be careful! You might hurt yourself. (조심해! 다칠 수도 있어.)"
+          - "감정: I was proud of myself. (나는 내 자신이 자랑스러웠어.)"
+          - "혼자: She lives by herself. (그녀는 혼자 산다.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 재귀대명사 과잉 사용: I washed myself hands. (X) → I washed my hands. (O)<br />2. 주어-재귀대명사 불일치: He hurt myself. (X) → He hurt himself. (O)<br />3. hisself/theirself: hisself (X) → himself (O), theirself (X) → themselves (O)<br />4. 재귀대명사가 필요 없는 경우: I feel myself tired. (X) → I feel tired. (O)<br />5. 단수/복수 혼동: They enjoyed themself. (X) → They enjoyed themselves. (O)"
+      - type: text
+        content: "<span class='highlight'>재귀대명사 vs 일반 목적격</span><br />• I saw me in the photo. (X) → 주어와 목적어가 같으면 재귀대명사!<br />• I saw myself in the photo. (O)<br />• I saw him in the photo. (O) - 주어(I)와 목적어(him)가 다르면 일반 대명사"
+      - type: text
+        content: "<span class='highlight'>by oneself vs for oneself</span><br />• by myself = 혼자서, 도움 없이: I did it by myself. (혼자 했어.)<br />• for myself = 나 자신을 위해: I bought it for myself. (내 자신을 위해 샀어.)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I cut myself while cooking."
+          - "She looked at herself in the mirror."
+          - "They enjoyed themselves at the party."
+          - "We made the cake ourselves."
+          - "He did all the work himself."
+          - "Be careful! Don't hurt yourself!"
+      - type: qna
+        question: "Q1. 각 문장에서 주어와 재귀대명사의 관계를 찾아보세요."
+        answer: "I-myself, She-herself, They-themselves, We-ourselves, He-himself, You-yourself<br />주어와 재귀대명사가 같은 사람을 가리킵니다!"
+      - type: qna
+        question: "Q2. 4번, 5번 문장에서 재귀대명사의 위치와 역할은?"
+        answer: "문장 끝에 위치하여 '직접', '스스로'의 의미로 주어를 강조합니다.<br />We made the cake ourselves. = 우리가 직접 만들었어"
+      - type: qna
+        question: "Q3. 단수형(myself, yourself, himself, herself)과 복수형(ourselves, yourselves, themselves)의 형태 차이는?"
+        answer: "단수: -self / 복수: -selves<br />myself→ourselves, yourself→yourselves, himself→themselves"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 재귀대명사 8개를 모두 써 보세요."
+        answer: "myself, yourself, himself, herself, itself, ourselves, yourselves, themselves<br />평가 기준: 8개 모두 쓰면 정답입니다."
+      - type: qna
+        question: "R2. 재귀대명사의 두 가지 용법은?"
+        answer: "1. 재귀 용법: 주어와 목적어가 같을 때 (I hurt myself)<br />2. 강조 용법: '직접', '스스로'의 의미 (I made it myself)<br />평가 기준: 두 용법을 설명하면 정답입니다."
+      - type: qna
+        question: "R3. 'by oneself'의 의미는?"
+        answer: "혼자서, 도움 없이<br />예: I did it by myself. (혼자 했어.)<br />평가 기준: '혼자서'를 답하면 정답입니다."
+      - type: qna
+        question: "R4. hisself, theirself가 틀린 이유는?"
+        answer: "올바른 형태는 himself, themselves입니다. 3인칭 단수는 목적격(him, her)+self, 복수는 them+selves입니다.<br />평가 기준: himself, themselves가 맞다고 답하면 정답입니다."
+      - type: qna
+        question: "R5. 'I saw me in the mirror'가 틀린 이유는?"
+        answer: "주어(I)와 목적어가 같은 사람일 때는 재귀대명사를 사용합니다. → I saw myself in the mirror.<br />평가 기준: 재귀대명사를 써야 한다고 설명하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 재귀대명사를 넣으세요."
+      - type: qna
+        question: "Q1. I taught ___ how to swim. (I의 재귀대명사)"
+        answer: "myself<br />설명: I → myself"
+      - type: qna
+        question: "Q2. Be careful! Don't hurt ___. (you 단수의 재귀대명사)"
+        answer: "yourself<br />설명: you (단수) → yourself"
+      - type: qna
+        question: "Q3. He made breakfast ___. (he의 재귀대명사)"
+        answer: "himself<br />설명: he → himself"
+      - type: qna
+        question: "Q4. She looked at ___ in the mirror. (she의 재귀대명사)"
+        answer: "herself<br />설명: she → herself"
+      - type: qna
+        question: "Q5. The cat cleaned ___. (it의 재귀대명사)"
+        answer: "itself<br />설명: it → itself"
+      - type: qna
+        question: "Q6. We enjoyed ___ at the party. (we의 재귀대명사)"
+        answer: "ourselves<br />설명: we → ourselves"
+      - type: qna
+        question: "Q7. They bought ___ new shoes. (they의 재귀대명사)"
+        answer: "themselves<br />설명: they → themselves"
+      - type: qna
+        question: "Q8. You two should behave ___. (you 복수의 재귀대명사)"
+        answer: "yourselves<br />설명: you (복수) → yourselves"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 거울에서 내 자신을 봤어."
+        answer: "I saw myself in the mirror.<br />평가 기준: myself(재귀대명사)를 쓰면 정답입니다."
+      - type: qna
+        question: "T2. 그녀는 직접 케이크를 만들었어."
+        answer: "She made the cake herself.<br />평가 기준: herself(강조 용법)를 쓰면 정답입니다."
+      - type: qna
+        question: "T3. 조심해! 다칠 수 있어."
+        answer: "Be careful! You might hurt yourself.<br />평가 기준: yourself(재귀대명사)를 쓰면 정답입니다."
+      - type: qna
+        question: "T4. 우리는 파티에서 즐거웠어."
+        answer: "We enjoyed ourselves at the party.<br />평가 기준: ourselves(재귀대명사)를 쓰면 정답입니다."
+      - type: qna
+        question: "T5. 그는 혼자 산다."
+        answer: "He lives by himself.<br />평가 기준: by himself(혼자서)를 쓰면 정답입니다."
+      - type: qna
+        question: "T6. 음식 마음대로 드세요."
+        answer: "Help yourself to the food.<br />평가 기준: Help yourself(마음대로 드세요)를 쓰면 정답입니다."
+      - type: qna
+        question: "T7. 자신을 믿어!"
+        answer: "Believe in yourself!<br />평가 기준: yourself(재귀대명사)를 쓰면 정답입니다."
+      - type: qna
+        question: "T8. 그들은 스스로 문제를 해결했어."
+        answer: "They solved the problem themselves. / They solved the problem by themselves.<br />평가 기준: themselves(재귀대명사)를 쓰면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어에 맞는 재귀대명사로 문장을 완성하세요."
+      - type: qna
+        question: "TF1. I hurt ___. → She hurt ___."
+        answer: "myself, herself<br />설명: 주어에 맞춰 재귀대명사가 바뀝니다."
+      - type: qna
+        question: "TF2. You should believe in ___. (단수) → You should believe in ___. (복수)"
+        answer: "yourself, yourselves<br />설명: 단수 you → yourself, 복수 you → yourselves"
+      - type: qna
+        question: "TF3. He did it by ___. → They did it by ___."
+        answer: "himself, themselves<br />설명: he → himself, they → themselves"
+      - type: qna
+        question: "TF4. The baby dressed ___. → The babies dressed ___."
+        answer: "herself/himself/itself, themselves<br />설명: 단수 → herself/himself, 복수 → themselves"
+      - type: qna
+        question: "TF5. I made this for ___. → We made this for ___."
+        answer: "myself, ourselves<br />설명: I → myself, we → ourselves"
+      - type: qna
+        question: "TF6. She bought a gift for ___. → He bought a gift for ___."
+        answer: "herself, himself<br />설명: she → herself, he → himself"
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요!"
+      - type: qna
+        question: "A1. 직접 한 일에 대해 2문장을 써 보세요. (myself 사용)"
+        answer: "예시: I made breakfast myself this morning. I taught myself how to ride a bike.<br />평가 기준: myself를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A2. 친구에게 응원하는 말을 써 보세요. (yourself 사용)"
+        answer: "예시: Believe in yourself! / Don't be too hard on yourself. / Be proud of yourself!<br />평가 기준: yourself를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A3. 가족이나 친구들이 함께 한 일을 써 보세요. (ourselves/themselves 사용)"
+        answer: "예시: We enjoyed ourselves at the beach. / They introduced themselves to the teacher.<br />평가 기준: ourselves/themselves를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A4. 혼자 한 경험을 써 보세요. (by myself/yourself 사용)"
+        answer: "예시: I traveled to Busan by myself. / I cleaned my room by myself.<br />평가 기준: by + 재귀대명사를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A5. 조심하라고 말하는 문장을 써 보세요. (hurt yourself 등 사용)"
+        answer: "예시: Be careful with the knife! You might cut yourself. / Don't run! You'll hurt yourself.<br />평가 기준: 재귀대명사를 올바르게 사용하면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 고치세요: 'He hurt hisself.'"
+        answer: "올바른 문장: He hurt himself.<br />설명: hisself는 틀린 형태입니다. 올바른 형태는 himself입니다."
+      - type: qna
+        question: "C2. 다음 중 재귀대명사가 필요한 문장과 필요 없는 문장을 구별하세요:<br />a) I washed ___ face.<br />b) I washed ___."
+        answer: "a) I washed my face. (소유격 형용사 필요)<br />b) I washed myself. (재귀대명사 필요 - 나 자신을 씻었다)<br />설명: face는 신체 부위이므로 my, '나 자신을'은 myself"
+      - type: qna
+        question: "C3. 다음 두 문장의 의미 차이를 설명하세요:<br />a) He talked about him.<br />b) He talked about himself."
+        answer: "a) He talked about him: 그는 (다른) 그에 대해 이야기했다<br />b) He talked about himself: 그는 자기 자신에 대해 이야기했다<br />him = 다른 남자, himself = 같은 사람(자기 자신)"
+      - type: qna
+        question: "C4. 빈칸에 알맞은 형태를 넣으세요: 'I bought a gift for ___ and one for ___.' (I, she)"
+        answer: "I bought a gift for myself and one for her.<br />설명: 나 자신을 위해 = for myself, 그녀를 위해 = for her (주어와 다른 사람)"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. I → myself, you → ___, he → ___"
+        answer: "yourself, himself"
+      - type: qna
+        question: "SR2. she → ___, we → ___, they → ___"
+        answer: "herself, ourselves, themselves"
+      - type: qna
+        question: "SR3. I taught ___ English. (나 자신에게)"
+        answer: "myself"
+      - type: qna
+        question: "SR4. She made the cake ___. (직접)"
+        answer: "herself"
+      - type: qna
+        question: "SR5. We enjoyed ___ at the party."
+        answer: "ourselves"
+      - type: qna
+        question: "SR6. He lives by ___. (혼자서)"
+        answer: "himself"
+      - type: qna
+        question: "SR7. 번역: 자신을 믿어!"
+        answer: "Believe in yourself!"
+      - type: qna
+        question: "SR8. 번역: 조심해! 다칠 수 있어."
+        answer: "Be careful! You might hurt yourself."
+      - type: qna
+        question: "SR9. 틀린 곳 고치기: They enjoyed themself."
+        answer: "They enjoyed themselves."
+      - type: qna
+        question: "SR10. 틀린 곳 고치기: He hurt hisself."
+        answer: "He hurt himself."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. 재귀대명사 8개를 모두 기억하나요?"
+        answer: "할 수 있다면: 훌륭합니다! 기본기가 탄탄해요.<br />어렵다면: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves - 규칙을 기억하세요!"
+      - type: qna
+        question: "SC2. 재귀 용법과 강조 용법의 차이를 설명할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 재귀대명사를 완벽히 이해했습니다.<br />어렵다면: 재귀 = 주어와 목적어 같음, 강조 = '직접', '스스로'"
+      - type: qna
+        question: "SC3. by myself/yourself의 의미를 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 일상 표현을 잘 알고 있습니다.<br />어렵다면: by + 재귀대명사 = 혼자서, 도움 없이"
+      - type: note
+        content: "잘했어요! 재귀대명사는 '자기 자신'을 나타내는 중요한 표현입니다. 'I hurt myself', 'She made it herself'처럼 주어가 한 행동이 자신에게 돌아가거나, 직접 했음을 강조할 때 사용합니다!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 himself(hisself X), themselves(theirself X) 형태를 기억하세요!"

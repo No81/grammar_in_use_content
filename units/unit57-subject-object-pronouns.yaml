@@ -1,0 +1,254 @@
+title: "Unit 57 · I/me he/him they/them, etc. (주격과 목적격 대명사)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 대명사는 명사를 대신하는 말입니다. 그런데 같은 사람을 가리켜도 문장에서의 역할에 따라 형태가 달라집니다. 주어 자리에서는 '주격 대명사'를, 목적어 자리에서는 '목적격 대명사'를 사용합니다."
+      - type: list
+        heading: "주격 대명사 vs 목적격 대명사"
+        list:
+          - "I (나) → me (나를/나에게)"
+          - "you (너) → you (너를/너에게) - 형태가 같음!"
+          - "he (그) → him (그를/그에게)"
+          - "she (그녀) → her (그녀를/그녀에게)"
+          - "it (그것) → it (그것을) - 형태가 같음!"
+          - "we (우리) → us (우리를/우리에게)"
+          - "they (그들) → them (그들을/그들에게)"
+      - type: text
+        content: "<span class='highlight'>주격 대명사 (Subject Pronouns)</span> - 문장의 주어로 쓰입니다.<br />• I like pizza. (나는 피자를 좋아해.)<br />• She is my friend. (그녀는 내 친구야.)<br />• They play soccer. (그들은 축구를 해.)"
+      - type: text
+        content: "<span class='highlight'>목적격 대명사 (Object Pronouns)</span> - 동사나 전치사의 목적어로 쓰입니다.<br />• My mom loves me. (엄마는 나를 사랑해.)<br />• I called her. (나는 그녀에게 전화했어.)<br />• Give it to them. (그들에게 그것을 줘.)"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 주격: 문장의 주어 자리 → I/you/he/she/it/we/they<br />• 목적격: 동사 뒤의 목적어 → 동사 + me/you/him/her/it/us/them<br />• 목적격: 전치사 뒤 → for me, with him, to her, by them"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "학교: The teacher called me. (선생님이 나를 불렀어.) - 동사 뒤 목적어"
+          - "친구: I met him at school. (나는 학교에서 그를 만났어.) - 동사 뒤 목적어"
+          - "가족: She gave us cookies. (그녀가 우리에게 쿠키를 줬어.) - 간접 목적어"
+          - "취미: Can you teach me? (나에게 가르쳐 줄 수 있어?) - 동사 뒤 목적어"
+          - "음식: I made it for her. (나는 그것을 그녀를 위해 만들었어.) - 전치사 뒤"
+          - "게임: Play with us! (우리랑 같이 해!) - 전치사 뒤"
+          - "일상: This is from them. (이것은 그들에게서 온 거야.) - 전치사 뒤"
+          - "감정: I miss her. (나는 그녀가 보고 싶어.) - 동사 뒤 목적어"
+          - "요청: Help me, please. (나를 도와줘, 제발.) - 동사 뒤 목적어"
+          - "소개: It's for you. (이것은 너를 위한 거야.) - 전치사 뒤"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. Me like pizza. (X) → I like pizza. (O) - 주어는 주격!<br />2. Give it to I. (X) → Give it to me. (O) - 전치사 뒤는 목적격!<br />3. Him is tall. (X) → He is tall. (O) - 주어는 주격!<br />4. I saw he. (X) → I saw him. (O) - 동사 뒤는 목적격!<br />5. Between you and I (X) → Between you and me (O) - 전치사 뒤는 목적격!"
+      - type: text
+        content: "<span class='highlight'>특별한 경우:</span><br />• It's me! (나야!) - 구어체에서 be동사 뒤에 me 사용 가능<br />• Who's there? - Me! (누구야? - 나!) - 짧은 대답에서 목적격 사용<br />• You and I are friends. (너와 나는 친구야.) - 주어 자리에서는 I<br />• He told you and me. (그가 너와 나에게 말했어.) - 목적어 자리에서는 me"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I love my dog. My dog loves me."
+          - "She is my sister. I know her well."
+          - "They are coming. Wait for them."
+          - "He plays soccer. I play with him."
+          - "We are students. The teacher teaches us."
+          - "You are kind. I like you."
+      - type: qna
+        question: "Q1. 각 쌍에서 대명사의 형태가 어떻게 변하나요? 규칙을 찾아보세요."
+        answer: "주어 자리: I, She, They, He, We, You<br />목적어 자리(동사/전치사 뒤): me, her, them, him, us, you<br />주어일 때와 목적어일 때 형태가 다릅니다! (you는 예외로 같음)"
+      - type: qna
+        question: "Q2. 'for them', 'with him' 에서 대명사가 목적격인 이유는?"
+        answer: "for, with는 전치사입니다. 전치사 뒤에는 항상 목적격 대명사가 옵니다."
+      - type: qna
+        question: "Q3. you와 it은 주격과 목적격이 같은데, 문장에서 어떻게 구별하나요?"
+        answer: "위치로 구별합니다! 문장 앞(주어 자리)에 있으면 주격, 동사 뒤나 전치사 뒤에 있으면 목적격입니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 주격 대명사 7개를 모두 써 보세요."
+        answer: "I, you, he, she, it, we, they<br />평가 기준: 7개 모두 쓰면 정답입니다."
+      - type: qna
+        question: "R2. 목적격 대명사 7개를 모두 써 보세요."
+        answer: "me, you, him, her, it, us, them<br />평가 기준: 7개 모두 쓰면 정답입니다."
+      - type: qna
+        question: "R3. 목적격 대명사는 어디에 쓰이나요? 두 가지 위치를 말해 보세요."
+        answer: "1. 동사 뒤 (목적어): I love her.<br />2. 전치사 뒤: for me, with him, to them<br />평가 기준: 두 위치를 모두 언급하면 정답입니다."
+      - type: qna
+        question: "R4. 'between you and ___' 빈칸에 I가 올까요, me가 올까요? 이유는?"
+        answer: "me가 옵니다. between은 전치사이고, 전치사 뒤에는 항상 목적격이 오기 때문입니다.<br />평가 기준: me를 쓰고 이유(전치사 뒤)를 설명하면 정답입니다."
+      - type: qna
+        question: "R5. 주격과 목적격 형태가 같은 대명사 2개는?"
+        answer: "you, it<br />평가 기준: 두 개 모두 쓰면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 대명사를 넣으세요."
+      - type: qna
+        question: "Q1. ___ am a student. (I/Me)"
+        answer: "I<br />설명: 주어 자리이므로 주격 I를 씁니다."
+      - type: qna
+        question: "Q2. Mom loves ___. (I/me)"
+        answer: "me<br />설명: 동사 loves의 목적어이므로 목적격 me를 씁니다."
+      - type: qna
+        question: "Q3. ___ is my brother. (He/Him)"
+        answer: "He<br />설명: 주어 자리이므로 주격 He를 씁니다."
+      - type: qna
+        question: "Q4. I saw ___ at the park. (she/her)"
+        answer: "her<br />설명: 동사 saw의 목적어이므로 목적격 her를 씁니다."
+      - type: qna
+        question: "Q5. This gift is for ___. (they/them)"
+        answer: "them<br />설명: 전치사 for 뒤이므로 목적격 them을 씁니다."
+      - type: qna
+        question: "Q6. ___ are going to the movies. (We/Us)"
+        answer: "We<br />설명: 주어 자리이므로 주격 We를 씁니다."
+      - type: qna
+        question: "Q7. Can you help ___? (we/us)"
+        answer: "us<br />설명: 동사 help의 목적어이므로 목적격 us를 씁니다."
+      - type: qna
+        question: "Q8. I talked to ___. (he/him)"
+        answer: "him<br />설명: 전치사 to 뒤이므로 목적격 him을 씁니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 그녀를 알아."
+        answer: "I know her.<br />평가 기준: I(주격) + know + her(목적격) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T2. 그들은 우리를 좋아해."
+        answer: "They like us.<br />평가 기준: They(주격) + like + us(목적격) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T3. 이것은 그를 위한 거야."
+        answer: "This is for him.<br />평가 기준: 전치사 for 뒤에 him(목적격)을 쓰면 정답입니다."
+      - type: qna
+        question: "T4. 그녀와 나는 친구야."
+        answer: "She and I are friends.<br />평가 기준: 주어 자리이므로 She와 I(주격)를 쓰면 정답입니다."
+      - type: qna
+        question: "T5. 선생님이 그들에게 말했어."
+        answer: "The teacher told them. / The teacher spoke to them.<br />평가 기준: them(목적격)을 쓰면 정답입니다."
+      - type: qna
+        question: "T6. 나랑 같이 가자."
+        answer: "Come with me.<br />평가 기준: 전치사 with 뒤에 me(목적격)를 쓰면 정답입니다."
+      - type: qna
+        question: "T7. 우리는 그것을 샀어."
+        answer: "We bought it.<br />평가 기준: We(주격) + bought + it(목적격) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T8. 그와 그녀는 형제야."
+        answer: "He and she are siblings. / They are siblings.<br />평가 기준: 주어 자리에 He와 she(주격)를 쓰면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "밑줄 친 명사를 대명사로 바꿔 보세요."
+      - type: qna
+        question: "TF1. I like <u>my sister</u>. → I like ___."
+        answer: "her<br />설명: my sister는 여자이고, 동사 like의 목적어 자리이므로 목적격 her를 씁니다."
+      - type: qna
+        question: "TF2. <u>Tom and I</u> are friends. → ___ are friends."
+        answer: "We<br />설명: Tom and I = 우리, 주어 자리이므로 주격 We를 씁니다."
+      - type: qna
+        question: "TF3. Give this to <u>your parents</u>. → Give this to ___."
+        answer: "them<br />설명: your parents는 복수, 전치사 to 뒤이므로 목적격 them을 씁니다."
+      - type: qna
+        question: "TF4. <u>My dog</u> is cute. → ___ is cute."
+        answer: "It<br />설명: 동물은 보통 it으로 표현, 주어 자리이므로 주격 It을 씁니다."
+      - type: qna
+        question: "TF5. I talked with <u>my brother</u>. → I talked with ___."
+        answer: "him<br />설명: my brother는 남자, 전치사 with 뒤이므로 목적격 him을 씁니다."
+      - type: qna
+        question: "TF6. <u>My friends and I</u> played soccer. → ___ played soccer."
+        answer: "We<br />설명: My friends and I = 우리, 주어 자리이므로 주격 We를 씁니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요!"
+      - type: qna
+        question: "A1. 좋아하는 친구에 대해 2문장을 써 보세요. (주격과 목적격 대명사 모두 사용)"
+        answer: "예시: She is my best friend. I like her very much.<br />평가 기준: 한 문장에서 주격(He/She), 다른 문장에서 목적격(him/her)을 사용하면 정답입니다."
+      - type: qna
+        question: "A2. 가족에 대해 2문장을 써 보세요. (we/us 사용)"
+        answer: "예시: We are a happy family. Mom always cooks for us.<br />평가 기준: we(주격)와 us(목적격)를 각각 사용하면 정답입니다."
+      - type: qna
+        question: "A3. 친구에게 함께 하자고 제안하는 문장을 써 보세요. (with me 또는 with us 사용)"
+        answer: "예시: Come with me! / Play with us! / Study with me!<br />평가 기준: with + 목적격(me/us) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "A4. 선물을 주거나 받은 경험을 영어로 써 보세요. (for + 목적격 사용)"
+        answer: "예시: My mom bought a gift for me. / I made cookies for her.<br />평가 기준: for + 목적격 대명사 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "A5. 친구나 가족을 도와준 경험을 써 보세요. (helped + 목적격 사용)"
+        answer: "예시: I helped him with his homework. / She helped me clean my room.<br />평가 기준: helped + 목적격 대명사 구조가 맞으면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 고치세요: 'Me and Tom went to school.'"
+        answer: "올바른 문장: Tom and I went to school.<br />설명: 1) 주어 자리이므로 Me가 아닌 I를 사용 2) 예의상 다른 사람을 먼저 씁니다 (Tom and I)"
+      - type: qna
+        question: "C2. 다음 문장의 틀린 부분을 찾아 고치세요: 'Give it to he.'"
+        answer: "올바른 문장: Give it to him.<br />설명: 전치사 to 뒤에는 목적격 him을 사용합니다."
+      - type: qna
+        question: "C3. 빈칸에 알맞은 대명사를 넣으세요: 'Between you and ___, this is a secret.'"
+        answer: "me<br />설명: between은 전치사이고, 전치사 뒤에는 항상 목적격이 옵니다. 'between you and I'는 흔한 실수입니다!"
+      - type: qna
+        question: "C4. 다음 두 문장의 차이를 설명해 보세요:<br />a) I saw her.<br />b) She saw me."
+        answer: "a) I saw her: 내가 그녀를 봤다 (I=주어, her=목적어)<br />b) She saw me: 그녀가 나를 봤다 (She=주어, me=목적어)<br />같은 대명사도 주어/목적어 역할에 따라 형태가 달라집니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. 주격: I, you, he, she, it, we, they - 목적격으로 바꾸면?"
+        answer: "me, you, him, her, it, us, them"
+      - type: qna
+        question: "SR2. ___ am happy. (I/Me)"
+        answer: "I"
+      - type: qna
+        question: "SR3. Give it to ___. (she/her)"
+        answer: "her"
+      - type: qna
+        question: "SR4. ___ and I are friends. (Him/He)"
+        answer: "He"
+      - type: qna
+        question: "SR5. I saw ___ at the park. (they/them)"
+        answer: "them"
+      - type: qna
+        question: "SR6. 번역: 그녀는 나를 좋아해."
+        answer: "She likes me."
+      - type: qna
+        question: "SR7. 번역: 우리와 함께 가자."
+        answer: "Come with us."
+      - type: qna
+        question: "SR8. Between you and ___. (I/me)"
+        answer: "me"
+      - type: qna
+        question: "SR9. ___ are my best friends. (They/Them)"
+        answer: "They"
+      - type: qna
+        question: "SR10. I talked to ___. (he/him)"
+        answer: "him"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. 주격 대명사 7개를 모두 기억하나요?"
+        answer: "할 수 있다면: 훌륭합니다! 기본기가 탄탄해요.<br />어렵다면: I, you, he, she, it, we, they - 손가락으로 꼽으며 외워보세요!"
+      - type: qna
+        question: "SC2. 동사 뒤와 전치사 뒤에는 어떤 형태의 대명사를 쓰나요?"
+        answer: "할 수 있다면: 대단해요! 핵심 규칙을 이해했습니다.<br />어렵다면: '동사 뒤, 전치사 뒤 = 목적격' 이것만 기억하세요!"
+      - type: qna
+        question: "SC3. 'between you and I'가 왜 틀린지 설명할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 흔한 실수를 피할 수 있습니다.<br />어렵다면: between은 전치사 → 뒤에는 목적격 → me가 맞아요!"
+      - type: note
+        content: "잘했어요! 주격과 목적격 대명사는 영어의 기본 중의 기본입니다. 'I love her', 'She loves me'처럼 같은 사람도 문장에서의 역할에 따라 형태가 달라진다는 것을 기억하세요!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. I/me, he/him, she/her, we/us, they/them이 자연스럽게 나온다면 완벽합니다!"

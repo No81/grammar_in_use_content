@@ -1,0 +1,356 @@
+title: "Pronouns and Possessives Review · Units 57-62 종합 복습"
+meta: "대상: 6학년 · 난이도: 통합 · 권장 45-60분 (A4 3-4p)"
+scope:
+  units: "Units 57-62"
+  topics: "대명사(주격/목적격), 소유격 형용사, 소유대명사, 재귀대명사, 소유격 's"
+  prerequisite: "Pronouns and possessives 파트의 모든 유닛 학습 완료"
+sections:
+  - title: "1. Pronouns and Possessives 문법 맵"
+    items:
+      - type: text
+        content: "이번 복습에서는 대명사와 소유 표현의 모든 형태를 정리합니다. 같은 사람을 가리켜도 문장에서의 역할에 따라 형태가 달라진다는 것을 확실히 이해하는 것이 목표입니다."
+      - type: list
+        heading: "이 복습에서 다루는 유닛들"
+        list:
+          - "Unit 57: I/me, he/him, they/them - 주격 vs 목적격 대명사"
+          - "Unit 58: my/his/their - 소유격 형용사 (명사 앞에 사용)"
+          - "Unit 59: mine/yours/hers - 소유대명사 (명사 없이 단독 사용)"
+          - "Unit 60: I/me/my/mine - 대명사 4가지 형태 총정리"
+          - "Unit 61: myself/yourself/themselves - 재귀대명사 (~자신)"
+          - "Unit 62: Kate's camera, my brother's car - 소유격 's"
+      - type: note
+        content: "<span class='highlight'>핵심 구분점:</span><br />• 주격(I) vs 목적격(me) - 주어 자리 vs 동사/전치사 뒤<br />• 소유격 형용사(my) vs 소유대명사(mine) - 명사 앞 vs 단독 사용<br />• 재귀대명사(myself) - 주어와 목적어가 같을 때<br />• 소유격 's - 사람/동물의 소유 표현"
+      - type: list
+        heading: "대명사 형태 총정리표"
+        list:
+          - "I - me - my - mine - myself"
+          - "you - you - your - yours - yourself/yourselves"
+          - "he - him - his - his - himself"
+          - "she - her - her - hers - herself"
+          - "it - it - its - (its) - itself"
+          - "we - us - our - ours - ourselves"
+          - "they - them - their - theirs - themselves"
+
+  - title: "2. 핵심 개념 비교"
+    items:
+      - type: text
+        content: "대명사와 소유 표현에서 가장 헷갈리는 부분들을 비교해 봅시다."
+      - type: text
+        content: "<span class='highlight'>1. 주격 vs 목적격: I/me, he/him, she/her</span><br /><br /><b>구분 기준:</b><br />• 주격: 문장의 주어 자리 → I, he, she, we, they<br />• 목적격: 동사 뒤, 전치사 뒤 → me, him, her, us, them<br /><br /><b>예문 비교:</b><br />• I love her. (나는 그녀를) - I=주격, her=목적격<br />• She loves me. (그녀는 나를) - She=주격, me=목적격<br /><br /><b>흔한 실수:</b><br />• ❌ Me like pizza. → ✅ I like pizza.<br />• ❌ Give it to I. → ✅ Give it to me.<br />• ❌ Between you and I → ✅ Between you and me<br /><br /><b>판별 팁:</b> 전치사(to, for, with, between) 뒤에는 항상 목적격!"
+      - type: text
+        content: "<span class='highlight'>2. 소유격 형용사 vs 소유대명사: my vs mine</span><br /><br /><b>구분 기준:</b><br />• 소유격 형용사: 명사 앞에 사용 → my book, your pen<br />• 소유대명사: 명사 없이 단독 사용 → This is mine.<br /><br /><b>예문 비교:</b><br />• This is my book. (my + 명사 필수)<br />• This book is mine. (mine 단독, 명사 불가)<br /><br /><b>흔한 실수:</b><br />• ❌ This is my. → ✅ This is mine.<br />• ❌ This is mine book. → ✅ This is my book.<br /><br /><b>판별 팁:</b> 뒤에 명사가 있으면 my/your/his, 없으면 mine/yours/his!"
+      - type: text
+        content: "<span class='highlight'>3. her의 세 가지 용법 구별</span><br /><br /><b>구분 기준:</b><br />• her (목적격): I like her. - 뒤에 명사 없음, '그녀를'<br />• her (소유격 형용사): I like her bag. - 뒤에 명사 있음, '그녀의'<br />• hers (소유대명사): This bag is hers. - 단독 사용, '그녀의 것'<br /><br /><b>예문 비교:</b><br />• I saw her. (그녀를 봤다) - 목적격<br />• I saw her friend. (그녀의 친구) - 소유격 형용사<br />• This is hers. (그녀의 것) - 소유대명사<br /><br /><b>판별 팁:</b> her 뒤에 명사가 있으면 소유격, 없으면 목적격. 단독으로 '~의 것'은 hers!"
+      - type: text
+        content: "<span class='highlight'>4. 목적격 vs 재귀대명사: me vs myself</span><br /><br /><b>구분 기준:</b><br />• 목적격(me/him/her): 주어와 목적어가 다른 사람일 때<br />• 재귀대명사(myself/himself): 주어와 목적어가 같은 사람일 때<br /><br /><b>예문 비교:</b><br />• I saw him. (나는 그를 봤다) - 주어 ≠ 목적어<br />• I saw myself. (나는 나 자신을 봤다) - 주어 = 목적어<br /><br /><b>흔한 실수:</b><br />• ❌ I saw me in the mirror. → ✅ I saw myself in the mirror.<br />• ❌ He introduced hisself. → ✅ He introduced himself.<br /><br /><b>판별 팁:</b> 주어가 한 행동이 자기 자신에게 돌아오면 재귀대명사!"
+      - type: text
+        content: "<span class='highlight'>5. 소유격 's vs of</span><br /><br /><b>구분 기준:</b><br />• 's: 사람, 동물, 시간에 주로 사용 → Tom's book<br />• of: 무생물에 주로 사용 → the leg of the table<br /><br /><b>예문 비교:</b><br />• my friend's phone (O) - 사람의 소유<br />• the phone of my friend (△) - 어색함<br />• the door of the house (O) - 무생물<br /><br /><b>복수 's 규칙:</b><br />• 단수 + 's: Tom's<br />• -s로 끝나는 복수 + ': students'<br />• 불규칙 복수 + 's: children's"
+
+  - title: "3. 통합 진단"
+    items:
+      - type: note
+        content: "각 문제를 풀고 유닛별 점수를 계산해 보세요. 약한 영역을 찾아 Section 7에서 집중 복습하세요."
+      - type: qna
+        question: "D1. ___ am a student. (I/Me)"
+        answer: "I (Unit 57)<br />설명: 주어 자리이므로 주격 I를 씁니다."
+      - type: qna
+        question: "D2. Give this to ___. (he/him)"
+        answer: "him (Unit 57)<br />설명: 전치사 to 뒤이므로 목적격 him을 씁니다."
+      - type: qna
+        question: "D3. This is ___ book. (my/mine)"
+        answer: "my (Unit 58)<br />설명: 명사(book) 앞이므로 소유격 형용사 my를 씁니다."
+      - type: qna
+        question: "D4. The dog wagged ___ tail. (it's/its)"
+        answer: "its (Unit 58)<br />설명: '그것의 꼬리'이므로 소유격 its입니다. it's = it is."
+      - type: qna
+        question: "D5. Whose is this? - It's ___. (my/mine)"
+        answer: "mine (Unit 59)<br />설명: 명사 없이 단독이므로 소유대명사 mine입니다."
+      - type: qna
+        question: "D6. This bag is ___. (her/hers)"
+        answer: "hers (Unit 59)<br />설명: 명사 없이 단독이므로 소유대명사 hers입니다."
+      - type: qna
+        question: "D7. She likes ___. (he/him/his)"
+        answer: "him (Unit 60)<br />설명: 동사 likes의 목적어 자리이므로 목적격 him입니다."
+      - type: qna
+        question: "D8. ___ bag is bigger than yours. (Her/Hers)"
+        answer: "Her (Unit 60)<br />설명: 명사(bag) 앞이므로 소유격 형용사 Her입니다."
+      - type: qna
+        question: "D9. I taught ___ how to swim. (me/myself)"
+        answer: "myself (Unit 61)<br />설명: 주어(I)와 목적어가 같으므로 재귀대명사입니다."
+      - type: qna
+        question: "D10. She made the cake ___. (her/herself)"
+        answer: "herself (Unit 61)<br />설명: '직접 만들었다'의 강조 용법으로 재귀대명사입니다."
+      - type: qna
+        question: "D11. They enjoyed ___ at the party. (them/themselves)"
+        answer: "themselves (Unit 61)<br />설명: 주어(They)와 목적어가 같으므로 재귀대명사입니다."
+      - type: qna
+        question: "D12. This is ___ camera. (Kate/Kate's)"
+        answer: "Kate's (Unit 62)<br />설명: 사람의 소유는 's를 붙입니다."
+      - type: qna
+        question: "D13. The ___ toys are here. (children/children's)"
+        answer: "children's (Unit 62)<br />설명: 불규칙 복수 children에 's를 붙입니다."
+      - type: qna
+        question: "D14. The ___ classroom is big. (students/students')"
+        answer: "students' (Unit 62)<br />설명: -s로 끝나는 복수에는 아포스트로피만 붙입니다."
+      - type: qna
+        question: "D15. I saw ___ at the park. (she/her/hers)"
+        answer: "her (Unit 60)<br />설명: 동사 saw의 목적어 자리이므로 목적격 her입니다."
+      - type: note
+        content: "<span class='highlight'>채점 가이드:</span><br />• Units 57 (주격/목적격): D1, D2 → __/2점<br />• Units 58 (소유격 형용사): D3, D4 → __/2점<br />• Units 59 (소유대명사): D5, D6 → __/2점<br />• Units 60 (형태 비교): D7, D8, D15 → __/3점<br />• Units 61 (재귀대명사): D9, D10, D11 → __/3점<br />• Units 62 (소유격 's): D12, D13, D14 → __/3점<br /><br />총점: __/15점<br />• 13-15점: 훌륭합니다!<br />• 10-12점: 좋아요, 조금만 더 연습!<br />• 7-9점: Section 7에서 약한 영역 복습 필요<br />• 6점 이하: 각 유닛 다시 학습 권장"
+
+  - title: "4. 인터리빙 연습"
+    items:
+      - type: note
+        content: "30개의 문제가 무작위로 섞여 있습니다. 각 문제가 어떤 유닛의 내용인지 생각하며 풀어 보세요."
+      - type: qna
+        question: "I1. This is ___ sister's car. (my brother/my brother's)"
+        answer: "my brother's (Unit 62)<br />설명: '내 남동생의 여동생의 차' - 's로 소유 표현"
+      - type: qna
+        question: "I2. ___ and I are friends. (He/Him)"
+        answer: "He (Unit 57)<br />설명: 주어 자리이므로 주격 He"
+      - type: qna
+        question: "I3. Whose pen is this? - It's ___. (your/yours)"
+        answer: "yours (Unit 59)<br />설명: 명사 없이 단독이므로 소유대명사"
+      - type: qna
+        question: "I4. She hurt ___ while cooking. (her/herself)"
+        answer: "herself (Unit 61)<br />설명: 주어(She)와 목적어가 같음 - 재귀대명사"
+      - type: qna
+        question: "I5. I like ___ new phone. (your/yours)"
+        answer: "your (Unit 58)<br />설명: 명사(phone) 앞이므로 소유격 형용사"
+      - type: qna
+        question: "I6. Give it to ___. (they/them)"
+        answer: "them (Unit 57)<br />설명: 전치사 to 뒤이므로 목적격"
+      - type: qna
+        question: "I7. This book is ___. (him/his)"
+        answer: "his (Unit 59)<br />설명: 명사 없이 단독 - 소유대명사 (his는 형태 동일)"
+      - type: qna
+        question: "I8. The ___ homework is due today. (student's/students')"
+        answer: "students' (Unit 62)<br />설명: 복수 students에 아포스트로피만"
+      - type: qna
+        question: "I9. ___ went to the movies. (We/Us)"
+        answer: "We (Unit 57)<br />설명: 주어 자리이므로 주격"
+      - type: qna
+        question: "I10. I taught ___ English. (me/myself)"
+        answer: "myself (Unit 61)<br />설명: 주어(I)와 목적어가 같음 - 재귀대명사"
+      - type: qna
+        question: "I11. ___ bag is red. (She/Her)"
+        answer: "Her (Unit 58)<br />설명: 명사(bag) 앞이므로 소유격 형용사"
+      - type: qna
+        question: "I12. I saw ___ at school. (she/her)"
+        answer: "her (Unit 57)<br />설명: 동사 saw의 목적어 - 목적격"
+      - type: qna
+        question: "I13. My score is higher than ___. (her/hers)"
+        answer: "hers (Unit 59)<br />설명: her score 대신 hers - 소유대명사"
+      - type: qna
+        question: "I14. He introduced ___. (him/himself)"
+        answer: "himself (Unit 61)<br />설명: 주어(He)와 목적어가 같음 - 재귀대명사"
+      - type: qna
+        question: "I15. This is ___ camera. (Tom/Tom's)"
+        answer: "Tom's (Unit 62)<br />설명: 사람의 소유 - 's"
+      - type: qna
+        question: "I16. Between you and ___. (I/me)"
+        answer: "me (Unit 57)<br />설명: 전치사 between 뒤 - 목적격"
+      - type: qna
+        question: "I17. The cat cleaned ___. (it/itself)"
+        answer: "itself (Unit 61)<br />설명: 주어(cat)와 목적어가 같음 - 재귀대명사"
+      - type: qna
+        question: "I18. I washed ___ hands. (my/mine)"
+        answer: "my (Unit 58)<br />설명: 명사(hands) 앞이므로 소유격 형용사"
+      - type: qna
+        question: "I19. ___ are my best friends. (They/Them)"
+        answer: "They (Unit 57)<br />설명: 주어 자리이므로 주격"
+      - type: qna
+        question: "I20. Is this yours or ___? (her/hers)"
+        answer: "hers (Unit 59)<br />설명: 명사 없이 단독 - 소유대명사"
+      - type: qna
+        question: "I21. ___ weather is nice. (Today/Today's)"
+        answer: "Today's (Unit 62)<br />설명: 시간 표현의 소유 - 's"
+      - type: qna
+        question: "I22. Help ___ to some food. (you/yourself)"
+        answer: "yourself (Unit 61)<br />설명: Help yourself = 마음대로 드세요"
+      - type: qna
+        question: "I23. I talked to ___. (he/him)"
+        answer: "him (Unit 57)<br />설명: 전치사 to 뒤 - 목적격"
+      - type: qna
+        question: "I24. This is ___ house. (our/ours)"
+        answer: "our (Unit 58)<br />설명: 명사(house) 앞이므로 소유격 형용사"
+      - type: qna
+        question: "I25. The ___ toys are colorful. (children/children's)"
+        answer: "children's (Unit 62)<br />설명: 불규칙 복수에 's"
+      - type: qna
+        question: "I26. She did it by ___. (her/herself)"
+        answer: "herself (Unit 61)<br />설명: by herself = 혼자서"
+      - type: qna
+        question: "I27. ___ am happy. (I/Me)"
+        answer: "I (Unit 57)<br />설명: 주어 자리이므로 주격"
+      - type: qna
+        question: "I28. This room is ___. (our/ours)"
+        answer: "ours (Unit 59)<br />설명: 명사 없이 단독 - 소유대명사"
+      - type: qna
+        question: "I29. I bought a gift for ___. (she/her)"
+        answer: "her (Unit 57)<br />설명: 전치사 for 뒤 - 목적격"
+      - type: qna
+        question: "I30. The dog wagged ___ tail. (it's/its)"
+        answer: "its (Unit 58)<br />설명: 소유격 its (it's = it is)"
+
+  - title: "5. 오류 탐지 & 수정"
+    items:
+      - type: note
+        content: "다음 문장에서 틀린 부분을 찾아 고치세요. 어떤 유닛의 규칙을 위반했는지도 확인하세요."
+      - type: qna
+        question: "E1. Me and Tom went to school."
+        answer: "❌ 틀린 부분: Me and Tom<br />문제: 주어 자리에 목적격 Me 사용<br />위반 규칙: Unit 57 - 주격 vs 목적격<br />✅ 수정: Tom and I went to school.<br />설명: 주어 자리는 주격! 예의상 상대방을 먼저 씁니다."
+      - type: qna
+        question: "E2. This book is my."
+        answer: "❌ 틀린 부분: my<br />문제: 명사 없이 소유격 형용사 사용<br />위반 규칙: Unit 59 - 소유대명사<br />✅ 수정: This book is mine.<br />설명: 명사 없이 단독으로 쓸 때는 소유대명사 mine!"
+      - type: qna
+        question: "E3. It's tail is long."
+        answer: "❌ 틀린 부분: It's<br />문제: it's(it is)를 소유격으로 잘못 사용<br />위반 규칙: Unit 58 - its vs it's<br />✅ 수정: Its tail is long.<br />설명: 소유격은 its (아포스트로피 없음), it's = it is!"
+      - type: qna
+        question: "E4. Give it to I."
+        answer: "❌ 틀린 부분: to I<br />문제: 전치사 뒤에 주격 사용<br />위반 규칙: Unit 57 - 전치사 뒤는 목적격<br />✅ 수정: Give it to me.<br />설명: 전치사(to, for, with) 뒤에는 항상 목적격!"
+      - type: qna
+        question: "E5. He hurt hisself."
+        answer: "❌ 틀린 부분: hisself<br />문제: 틀린 재귀대명사 형태<br />위반 규칙: Unit 61 - 재귀대명사 형태<br />✅ 수정: He hurt himself.<br />설명: 올바른 형태는 himself (hisself는 없는 단어!)"
+      - type: qna
+        question: "E6. This is mine book."
+        answer: "❌ 틀린 부분: mine book<br />문제: 소유대명사 뒤에 명사 사용<br />위반 규칙: Unit 59 - 소유대명사는 단독 사용<br />✅ 수정: This is my book. 또는 This book is mine.<br />설명: mine 뒤에 명사 불가! my + 명사 또는 mine 단독"
+      - type: qna
+        question: "E7. The students's classroom is big."
+        answer: "❌ 틀린 부분: students's<br />문제: -s로 끝나는 복수에 's 사용<br />위반 규칙: Unit 62 - 복수 소유격 규칙<br />✅ 수정: The students' classroom is big.<br />설명: -s로 끝나는 복수에는 아포스트로피만!"
+      - type: qna
+        question: "E8. Her is my friend."
+        answer: "❌ 틀린 부분: Her (문장 앞)<br />문제: 목적격/소유격을 주격 자리에 사용<br />위반 규칙: Unit 57 - 주격 대명사<br />✅ 수정: She is my friend.<br />설명: 주어 자리에는 주격 She!"
+      - type: qna
+        question: "E9. They enjoyed themself at the party."
+        answer: "❌ 틀린 부분: themself<br />문제: 복수 주어에 단수 재귀대명사 사용<br />위반 규칙: Unit 61 - 재귀대명사 단수/복수<br />✅ 수정: They enjoyed themselves at the party.<br />설명: They(복수) → themselves(복수)"
+      - type: qna
+        question: "E10. Between you and I, this is a secret."
+        answer: "❌ 틀린 부분: I<br />문제: 전치사 between 뒤에 주격 사용<br />위반 규칙: Unit 57 - 전치사 뒤는 목적격<br />✅ 수정: Between you and me, this is a secret.<br />설명: 흔한 실수! between 뒤에는 항상 me!"
+      - type: qna
+        question: "E11. I saw me in the mirror."
+        answer: "❌ 틀린 부분: me<br />문제: 주어와 목적어가 같은데 목적격 사용<br />위반 규칙: Unit 61 - 재귀대명사 필요<br />✅ 수정: I saw myself in the mirror.<br />설명: 주어(I)와 목적어가 같으면 재귀대명사!"
+      - type: qna
+        question: "E12. Whose is this? - It's me."
+        answer: "❌ 틀린 부분: me<br />문제: 소유 질문에 목적격으로 답함<br />위반 규칙: Unit 59 - 소유대명사로 답하기<br />✅ 수정: Whose is this? - It's mine.<br />설명: 누구의 것이냐는 질문에는 소유대명사로!"
+      - type: qna
+        question: "E13. I washed face."
+        answer: "❌ 틀린 부분: washed face<br />문제: 신체 부위 앞에 소유격 빠짐<br />위반 규칙: Unit 58 - 신체 부위 앞 소유격 필수<br />✅ 수정: I washed my face.<br />설명: 영어는 신체 부위 앞에 소유격 필수!"
+      - type: qna
+        question: "E14. The childrens' toys are here."
+        answer: "❌ 틀린 부분: childrens'<br />문제: 불규칙 복수에 잘못된 형태 사용<br />위반 규칙: Unit 62 - 불규칙 복수 소유격<br />✅ 수정: The children's toys are here.<br />설명: children은 이미 복수! children + 's"
+      - type: qna
+        question: "E15. I like the my new phone."
+        answer: "❌ 틀린 부분: the my<br />문제: 관사와 소유격 형용사 중복 사용<br />위반 규칙: Unit 58 - 소유격이 있으면 관사 불필요<br />✅ 수정: I like my new phone.<br />설명: 소유격(my)이 있으면 the 불필요!"
+
+  - title: "6. 통합 프로젝트"
+    items:
+      - type: note
+        content: "여러 유닛의 문법을 함께 사용하여 글을 써 보세요. 각 과제에서 요구하는 문법 요소를 모두 포함해야 합니다."
+      - type: qna
+        question: "P1. 나 자신 소개하기: 다음 요소를 모두 포함하여 5문장 이상 쓰세요.<br />- 주격 대명사 (I, We)<br />- 목적격 대명사 (me, us)<br />- 소유격 형용사 (my, our)<br />- 소유대명사 (mine, ours)<br />- 재귀대명사 (myself)"
+        answer: "예시 답안:<br />I am a 6th grade student. My name is Mina. My friends like me because I am kind. I taught myself how to play the piano. This room is mine. Our family loves each other.<br /><br />평가 기준:<br />• 사용한 유닛: 57(주격/목적격), 58(소유격 형용사), 59(소유대명사), 61(재귀대명사)<br />• 문법 정확도: 각 형태를 올바른 위치에 사용했는지<br />• 창의성: 자연스러운 문장 구성"
+      - type: qna
+        question: "P2. 친구 소개하기: 다음 요소를 모두 포함하여 5문장 이상 쓰세요.<br />- 주격/목적격 대명사 (he/him 또는 she/her)<br />- 소유격 형용사 (his/her)<br />- 소유대명사 (his/hers)<br />- 소유격 's (친구 이름 + 's)"
+        answer: "예시 답안:<br />My friend's name is Tom. He is very tall. His hobby is playing basketball. I like him because he is funny. This bag is his. I often visit Tom's house.<br /><br />평가 기준:<br />• 사용한 유닛: 57(he/him), 58(his), 59(his), 62('s)<br />• 문법 정확도: he/him/his를 올바르게 구분<br />• 창의성: 다양한 정보 포함"
+      - type: qna
+        question: "P3. 가족 비교하기: 다음 요소를 모두 포함하여 5문장 이상 쓰세요.<br />- 여러 사람의 소유대명사 비교 (mine, yours, his, hers, ours)<br />- 소유격 's (가족 + 's)<br />- 재귀대명사 (himself, herself, themselves)"
+        answer: "예시 답안:<br />My mom's cooking is delicious. Hers is better than mine. My dad taught himself how to cook too. My sister's room is cleaner than mine. My parents work by themselves at home. Our family loves each other.<br /><br />평가 기준:<br />• 사용한 유닛: 59(소유대명사), 61(재귀대명사), 62('s)<br />• 문법 정확도: 여러 소유대명사 정확히 구분<br />• 창의성: 비교 표현 활용"
+      - type: qna
+        question: "P4. 물건 주인 찾기 대화: A와 B의 대화를 만드세요. 다음 표현을 모두 사용하세요.<br />- Whose is this?<br />- It's mine/yours/his/hers<br />- 소유격 형용사 + 명사"
+        answer: "예시 답안:<br />A: Whose bag is this?<br />B: It's not mine. Is it yours?<br />A: No, it's not mine either. Maybe it's Tom's.<br />B: Let me check. Yes, it's his. His name is on it.<br />A: Whose pencil case is that?<br />B: That's hers. It's Mina's favorite color.<br /><br />평가 기준:<br />• 사용한 유닛: 59(Whose/소유대명사), 58(소유격 형용사), 62('s)<br />• 대화 자연스러움: 질문-대답 흐름<br />• 다양성: 여러 소유대명사 사용"
+
+  - title: "7. 약점 집중 복습"
+    items:
+      - type: note
+        content: "진단 평가(Section 3)에서 약한 영역만 선택해서 푸세요. 모든 영역이 강하다면 건너뛰어도 됩니다."
+      - type: text
+        content: "<span class='highlight'>Units 57 복습 (주격 vs 목적격)</span>"
+      - type: note
+        content: "핵심: 주어 자리 = 주격(I/he/she/we/they), 동사·전치사 뒤 = 목적격(me/him/her/us/them)"
+      - type: qna
+        question: "R1. ___ and my sister went shopping. (I/Me)"
+        answer: "I<br />설명: 주어 자리이므로 주격. Me and my sister (X)"
+      - type: qna
+        question: "R2. The teacher called ___. (we/us)"
+        answer: "us<br />설명: 동사 called의 목적어이므로 목적격"
+      - type: qna
+        question: "R3. This gift is for ___ and him. (I/me)"
+        answer: "me<br />설명: 전치사 for 뒤이므로 목적격"
+      - type: text
+        content: "<span class='highlight'>Units 58-59 복습 (소유격 형용사 vs 소유대명사)</span>"
+      - type: note
+        content: "핵심: 명사 앞 = my/your/his/her, 단독 = mine/yours/his/hers"
+      - type: qna
+        question: "R4. This is ___ pencil. That pencil is ___. (my/mine)"
+        answer: "my, mine<br />설명: 명사(pencil) 앞 = my, 단독 = mine"
+      - type: qna
+        question: "R5. Is this bag ___? (your/yours)"
+        answer: "yours<br />설명: 명사 없이 단독이므로 소유대명사"
+      - type: qna
+        question: "R6. ___ tail is long. (It's/Its)"
+        answer: "Its<br />설명: 소유격은 its, it's = it is"
+      - type: text
+        content: "<span class='highlight'>Units 60 복습 (대명사 형태 비교)</span>"
+      - type: note
+        content: "핵심: I-me-my-mine, she-her-her-hers, he-him-his-his"
+      - type: qna
+        question: "R7. ___ likes ___. (She/Her, he/him)"
+        answer: "She, him<br />설명: 주어 = She(주격), 목적어 = him(목적격)"
+      - type: qna
+        question: "R8. I saw ___ bag. ___ is pretty. (her/hers)"
+        answer: "her, It/Hers<br />설명: 명사 앞 = her(소유격), 단독 = Hers(소유대명사)"
+      - type: text
+        content: "<span class='highlight'>Units 61 복습 (재귀대명사)</span>"
+      - type: note
+        content: "핵심: 주어 = 목적어일 때 myself/yourself/himself/herself/ourselves/themselves"
+      - type: qna
+        question: "R9. I looked at ___ in the mirror. (me/myself)"
+        answer: "myself<br />설명: 주어(I)와 목적어가 같으므로 재귀대명사"
+      - type: qna
+        question: "R10. Be careful! Don't hurt ___. (you/yourself)"
+        answer: "yourself<br />설명: 주어(You)와 목적어가 같으므로 재귀대명사"
+      - type: qna
+        question: "R11. They introduced ___ to the class. (them/themselves)"
+        answer: "themselves<br />설명: 주어(They)와 목적어가 같으므로 재귀대명사"
+      - type: text
+        content: "<span class='highlight'>Units 62 복습 (소유격 's)</span>"
+      - type: note
+        content: "핵심: 단수 + 's, 복수(-s) + ', 불규칙 복수 + 's"
+      - type: qna
+        question: "R12. This is my ___. (friend's/friends') book. (1명)"
+        answer: "friend's<br />설명: 단수 friend에 's"
+      - type: qna
+        question: "R13. The ___ uniforms are blue. (teacher's/teachers')"
+        answer: "teachers'<br />설명: 복수 teachers에 아포스트로피만"
+      - type: qna
+        question: "R14. The ___ playground is big. (children's/childrens')"
+        answer: "children's<br />설명: 불규칙 복수 children에 's"
+
+  - title: "8. 종합 자기 평가 & 학습 계획"
+    items:
+      - type: note
+        content: "복습을 마치며 스스로를 점검해 봅시다!"
+      - type: qna
+        question: "SC1. I/me, he/him, she/her를 올바른 위치에 쓸 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 대명사의 기본을 완벽히 이해했습니다.<br />어렵다면: Section 7의 Units 57 복습을 다시 풀어보세요. 주어 자리 = 주격, 동사/전치사 뒤 = 목적격!"
+      - type: qna
+        question: "SC2. my와 mine, your와 yours를 구별할 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 소유 표현의 핵심을 이해했습니다.<br />어렵다면: 명사 앞 = my/your, 단독 = mine/yours - 이것만 기억하세요!"
+      - type: qna
+        question: "SC3. 재귀대명사(myself, himself, themselves)를 언제 쓰는지 알고 있나요?"
+        answer: "할 수 있다면: 완벽합니다! 재귀대명사 용법을 이해했습니다.<br />어렵다면: '주어가 한 행동이 자기 자신에게 돌아올 때' 재귀대명사를 씁니다."
+      - type: qna
+        question: "SC4. 소유격 's의 규칙(단수, 복수, 불규칙 복수)을 구별할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 's 규칙을 완벽히 이해했습니다.<br />어렵다면: Tom's(단수), students'(복수-s), children's(불규칙복수) - 연습해보세요!"
+      - type: qna
+        question: "SC5. its와 it's, their와 there을 구별할 수 있나요?"
+        answer: "할 수 있다면: 대단합니다! 많은 사람들이 헷갈리는 부분입니다.<br />어렵다면: its = 그것의, it's = it is / their = 그들의, there = 거기"
+      - type: note
+        content: "<span class='highlight'>나의 복습 결과</span><br />진단 평가 점수: __/15<br />가장 자신있는 유닛: ______<br />더 연습이 필요한 유닛: ______"
+      - type: note
+        content: "<span class='highlight'>다음 주 학습 계획</span><br />• 점수가 낮은 유닛: 해당 유닛 다시 학습 후 복습<br />• 특히 주의: her의 세 가지 용법, its vs it's 구별<br />• 추천: 일기나 짧은 글을 쓸 때 대명사 형태 의식하기"
+      - type: note
+        content: "잘했어요! 대명사와 소유 표현은 영어의 기본 중의 기본입니다. I/me/my/mine, he/him/his/his, she/her/her/hers... 이제 각 형태가 언제 쓰이는지 확실히 알게 되었을 거예요. 계속 연습하면 자연스럽게 나올 거예요! 파이팅!"
+      - type: note
+        content: "다음 목표: 복습이 끝나면 다음 파트로 넘어가거나, 약한 유닛을 다시 학습해 보세요. 대명사는 매일 쓰는 표현이니 실생활에서 연습하는 것이 가장 좋습니다!"

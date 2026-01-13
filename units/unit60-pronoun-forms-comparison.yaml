@@ -1,0 +1,264 @@
+title: "Unit 60 · I/me/my/mine (대명사 형태 총정리)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어의 대명사는 문장에서의 역할에 따라 4가지 형태로 바뀝니다: 주격(I), 목적격(me), 소유격 형용사(my), 소유대명사(mine). 이번 시간에는 이 4가지를 총정리합니다!"
+      - type: list
+        heading: "대명사 4가지 형태 총정리"
+        list:
+          - "I - me - my - mine (나)"
+          - "you - you - your - yours (너)"
+          - "he - him - his - his (그)"
+          - "she - her - her - hers (그녀)"
+          - "it - it - its - (its) (그것)"
+          - "we - us - our - ours (우리)"
+          - "they - them - their - theirs (그들)"
+      - type: text
+        content: "<span class='highlight'>각 형태의 역할</span><br />1. <b>주격</b>: 문장의 주어 → I like pizza.<br />2. <b>목적격</b>: 동사/전치사의 목적어 → She likes me. / for me<br />3. <b>소유격 형용사</b>: 명사 앞에서 소유 표현 → my book<br />4. <b>소유대명사</b>: 명사 없이 단독으로 소유 표현 → This is mine."
+      - type: text
+        content: "<span class='highlight'>언제 어떤 형태를 쓰나요?</span><br />• 주어 자리: I am happy. (O) / Me am happy. (X)<br />• 동사 뒤: She called me. (O) / She called I. (X)<br />• 전치사 뒤: for me (O) / for I (X)<br />• 명사 앞 (소유): my book (O) / mine book (X)<br />• 명사 없이 (소유): It's mine. (O) / It's my. (X)"
+      - type: list
+        heading: "더 많은 예문 - I/me/my/mine 비교"
+        list:
+          - "I love my dog. (나는 내 개를 사랑해.) - I=주격, my=소유격"
+          - "My dog loves me. (내 개는 나를 사랑해.) - me=목적격"
+          - "This dog is mine. (이 개는 내 것이야.) - mine=소유대명사"
+          - "I am doing my homework. (나는 내 숙제를 하고 있어.)"
+          - "The teacher helped me. (선생님이 나를 도와주셨어.)"
+          - "This book is mine, not yours. (이 책은 내 것이야, 네 것이 아니야.)"
+          - "Can you give it to me? (나에게 그것을 줄 수 있어?)"
+          - "I washed my hands. (나는 내 손을 씻었어.)"
+      - type: list
+        heading: "he/him/his/his 비교"
+        list:
+          - "He is my friend. (그는 내 친구야.) - He=주격"
+          - "I saw him yesterday. (나는 어제 그를 봤어.) - him=목적격"
+          - "His name is Tom. (그의 이름은 Tom이야.) - his=소유격 형용사"
+          - "This pen is his. (이 펜은 그의 것이야.) - his=소유대명사"
+      - type: list
+        heading: "she/her/her/hers 비교"
+        list:
+          - "She is tall. (그녀는 키가 커.) - She=주격"
+          - "I like her. (나는 그녀를 좋아해.) - her=목적격"
+          - "Her bag is blue. (그녀의 가방은 파란색이야.) - her=소유격 형용사"
+          - "This bag is hers. (이 가방은 그녀의 것이야.) - hers=소유대명사"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 주격/목적격 혼동: Me like pizza. (X) → I like pizza. (O)<br />2. 소유격/소유대명사 혼동: This is my. (X) → This is mine. (O)<br />3. her의 세 가지 용법 혼동: I like her. (목적격) / her bag (소유격) / It's hers. (소유대명사)<br />4. his의 두 가지 용법: his book (소유격) = his (소유대명사) - 형태 같음!"
+      - type: text
+        content: "<span class='highlight'>특별 주의: her의 세 가지 용법</span><br />• <b>목적격</b>: I saw her. (그녀를)<br />• <b>소유격 형용사</b>: I saw her bag. (그녀의 가방)<br />• <b>소유대명사</b>: This bag is hers. (그녀의 것)<br /><br />her는 목적격과 소유격이 같아서 문맥으로 구별해야 합니다!"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 대명사 형태의 차이를 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I love my mom. My mom loves me."
+          - "He called his friend. His friend called him."
+          - "She did her homework. Her homework is done."
+          - "This is my book. This book is mine."
+          - "Give it to me. It's for me."
+          - "Her bag is new. That bag is hers."
+      - type: qna
+        question: "Q1. 'I love my mom'과 'My mom loves me'에서 I/me의 위치 차이는?"
+        answer: "I는 문장 앞(주어 자리)에, me는 동사 뒤(목적어 자리)에 있습니다.<br />주어 = 주격(I), 목적어 = 목적격(me)"
+      - type: qna
+        question: "Q2. 'my book'과 'mine'의 차이는?"
+        answer: "my book: 소유격 형용사(my) + 명사(book)<br />mine: 소유대명사, 명사 없이 단독으로 사용<br />my + 명사 vs mine 단독"
+      - type: qna
+        question: "Q3. 6번 문장 'Her bag is new. That bag is hers.'에서 her와 hers의 차이는?"
+        answer: "Her bag: 소유격 형용사 her + 명사 bag<br />hers: 소유대명사, 명사(bag) 없이 단독 사용<br />her = 뒤에 명사 필요, hers = 단독 사용"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 대명사의 4가지 형태를 순서대로 말해 보세요."
+        answer: "주격 - 목적격 - 소유격 형용사 - 소유대명사<br />예: I - me - my - mine<br />평가 기준: 4가지를 순서대로 말하면 정답입니다."
+      - type: qna
+        question: "R2. 'she'의 4가지 형태를 모두 써 보세요."
+        answer: "she - her - her - hers<br />평가 기준: 4가지 모두 쓰면 정답입니다."
+      - type: qna
+        question: "R3. 주격은 언제, 목적격은 언제 쓰나요?"
+        answer: "주격: 문장의 주어 자리<br />목적격: 동사 뒤 목적어 자리, 전치사 뒤<br />평가 기준: 두 가지 위치를 설명하면 정답입니다."
+      - type: qna
+        question: "R4. 소유격 형용사와 소유대명사의 차이는?"
+        answer: "소유격 형용사: 명사 앞에 위치 (my book)<br />소유대명사: 명사 없이 단독 사용 (mine)<br />평가 기준: 명사 필요 여부를 설명하면 정답입니다."
+      - type: qna
+        question: "R5. his가 소유격과 소유대명사에서 형태가 같다는 것을 기억하나요? 예문을 만들어 보세요."
+        answer: "his book (소유격 형용사) - This book is his. (소유대명사)<br />평가 기준: 두 용법의 예문을 만들면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 대명사 형태를 넣으세요."
+      - type: qna
+        question: "Q1. ___ am a student. (I/me/my/mine)"
+        answer: "I<br />설명: 주어 자리이므로 주격 I를 씁니다."
+      - type: qna
+        question: "Q2. This is ___ book. (I/me/my/mine)"
+        answer: "my<br />설명: 명사(book) 앞이므로 소유격 형용사 my를 씁니다."
+      - type: qna
+        question: "Q3. Give it to ___. (I/me/my/mine)"
+        answer: "me<br />설명: 전치사(to) 뒤이므로 목적격 me를 씁니다."
+      - type: qna
+        question: "Q4. This book is ___. (I/me/my/mine)"
+        answer: "mine<br />설명: 명사 없이 단독이므로 소유대명사 mine을 씁니다."
+      - type: qna
+        question: "Q5. ___ is my best friend. (He/Him/His)"
+        answer: "He<br />설명: 주어 자리이므로 주격 He를 씁니다."
+      - type: qna
+        question: "Q6. I like ___. (she/her/hers)"
+        answer: "her<br />설명: 동사(like) 뒤 목적어 자리이므로 목적격 her를 씁니다."
+      - type: qna
+        question: "Q7. ___ bag is blue. (She/Her/Hers)"
+        answer: "Her<br />설명: 명사(bag) 앞이므로 소유격 형용사 Her를 씁니다."
+      - type: qna
+        question: "Q8. That bag is ___. (she/her/hers)"
+        answer: "hers<br />설명: 명사 없이 단독이므로 소유대명사 hers를 씁니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. 올바른 대명사 형태를 사용하세요."
+      - type: qna
+        question: "T1. 나는 내 친구를 좋아해."
+        answer: "I like my friend.<br />평가 기준: I(주격) + like + my(소유격) friend 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T2. 그가 나를 도와줬어."
+        answer: "He helped me.<br />평가 기준: He(주격) + helped + me(목적격) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T3. 이것은 그녀의 가방이야. 저것은 내 것이야."
+        answer: "This is her bag. That is mine.<br />평가 기준: her(소유격) + bag, mine(소유대명사) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T4. 그녀는 그를 좋아해."
+        answer: "She likes him.<br />평가 기준: She(주격) + likes + him(목적격) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T5. 우리 집은 작아. 그들의 것은 커."
+        answer: "Our house is small. Theirs is big.<br />평가 기준: Our(소유격) + house, Theirs(소유대명사) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T6. 이 펜은 네 것이야, 아니면 그의 것이야?"
+        answer: "Is this pen yours or his?<br />평가 기준: yours(소유대명사), his(소유대명사) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T7. 그녀가 그녀의 엄마에게 전화했어."
+        answer: "She called her mom.<br />평가 기준: She(주격) + called + her(소유격) mom 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T8. 그들은 우리와 함께 놀았어."
+        answer: "They played with us.<br />평가 기준: They(주격) + played + with + us(목적격) 구조가 맞으면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 대명사를 올바른 형태로 바꿔 문장을 완성하세요."
+      - type: qna
+        question: "TF1. (I) ___ like pizza. Give pizza to ___."
+        answer: "I, me<br />설명: 첫 번째는 주어(주격), 두 번째는 전치사 뒤(목적격)"
+      - type: qna
+        question: "TF2. (she) ___ is smart. I helped ___."
+        answer: "She, her<br />설명: 첫 번째는 주어(주격), 두 번째는 동사 뒤(목적격)"
+      - type: qna
+        question: "TF3. (we) This is ___ classroom. The classroom is ___."
+        answer: "our, ours<br />설명: 첫 번째는 명사 앞(소유격), 두 번째는 단독(소유대명사)"
+      - type: qna
+        question: "TF4. (he) ___ is tall. That book is ___."
+        answer: "He, his<br />설명: 첫 번째는 주어(주격), 두 번째는 단독(소유대명사)"
+      - type: qna
+        question: "TF5. (they) ___ are my friends. I like ___."
+        answer: "They, them<br />설명: 첫 번째는 주어(주격), 두 번째는 동사 뒤(목적격)"
+      - type: qna
+        question: "TF6. (you) Is this ___ pen? Is this pen ___?"
+        answer: "your, yours<br />설명: 첫 번째는 명사 앞(소유격), 두 번째는 단독(소유대명사)"
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요!"
+      - type: qna
+        question: "A1. 자신에 대해 4문장을 써 보세요. (I/me/my/mine 모두 사용)"
+        answer: "예시: I am a student. My favorite subject is English. The teacher likes me. This book is mine.<br />평가 기준: I, me, my, mine을 각각 사용하면 정답입니다."
+      - type: qna
+        question: "A2. 친구에 대해 4문장을 써 보세요. (he 또는 she의 4가지 형태 모두 사용)"
+        answer: "예시: She is my friend. Her name is Mina. I like her. This pencil is hers.<br />평가 기준: she/her/her/hers 또는 he/him/his/his를 각각 사용하면 정답입니다."
+      - type: qna
+        question: "A3. 가족에 대해 문장을 써 보세요. (we/us/our/ours 사용)"
+        answer: "예시: We are a happy family. Our house is small. This is ours. Parents love us.<br />평가 기준: we, us, our, ours를 사용하면 정답입니다."
+      - type: qna
+        question: "A4. 물건을 비교하는 문장을 써 보세요. (여러 소유대명사 사용)"
+        answer: "예시: My phone is new. Yours is old. His is bigger than mine.<br />평가 기준: 2개 이상의 소유대명사를 사용하면 정답입니다."
+      - type: qna
+        question: "A5. 친구와 함께한 경험을 써 보세요. (다양한 대명사 형태 사용)"
+        answer: "예시: I played with him yesterday. He invited me to his house. We had fun. His mom made us snacks.<br />평가 기준: 3가지 이상의 대명사 형태를 사용하면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장에서 틀린 부분을 모두 찾아 고치세요: 'Me and her went to the store. Me bought her a gift.'"
+        answer: "올바른 문장: She and I went to the store. I bought her a gift.<br />설명: 1) 주어 자리에서 Me→I, her→She 2) 예의상 다른 사람을 먼저 (She and I) 3) 두 번째 문장도 주어는 I"
+      - type: qna
+        question: "C2. 빈칸에 알맞은 형태를 넣으세요: '___ gave ___ book to ___. Now it's ___.' (she, her, her, hers)"
+        answer: "She gave her book to her. Now it's hers.<br />설명: She(주격), her(소유격 형용사), her(목적격), hers(소유대명사)"
+      - type: qna
+        question: "C3. 다음 문장의 틀린 부분을 찾아 고치세요: 'This book is my. Your is on the desk.'"
+        answer: "올바른 문장: This book is mine. Yours is on the desk.<br />설명: 단독 사용은 소유대명사 mine, yours"
+      - type: qna
+        question: "C4. 'her'의 세 가지 용법(목적격, 소유격 형용사, 소유대명사)을 각각 사용한 문장을 만들어 보세요."
+        answer: "목적격: I saw her at school.<br />소유격 형용사: Her bag is pretty.<br />소유대명사: This bag is hers.<br />설명: her는 목적격과 소유격이 같은 형태입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. I - ___ - ___ - mine"
+        answer: "me, my"
+      - type: qna
+        question: "SR2. she - ___ - ___ - hers"
+        answer: "her, her"
+      - type: qna
+        question: "SR3. ___ am happy. (I/me)"
+        answer: "I"
+      - type: qna
+        question: "SR4. She likes ___. (I/me)"
+        answer: "me"
+      - type: qna
+        question: "SR5. This is ___ book. (my/mine)"
+        answer: "my"
+      - type: qna
+        question: "SR6. This book is ___. (my/mine)"
+        answer: "mine"
+      - type: qna
+        question: "SR7. ___ bag is blue. (Her/Hers)"
+        answer: "Her"
+      - type: qna
+        question: "SR8. That bag is ___. (her/hers)"
+        answer: "hers"
+      - type: qna
+        question: "SR9. 번역: 그가 나를 도와줬어."
+        answer: "He helped me."
+      - type: qna
+        question: "SR10. 번역: 이것은 그녀의 것이야."
+        answer: "This is hers."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. 대명사의 4가지 형태(주격, 목적격, 소유격 형용사, 소유대명사)를 모두 이해하나요?"
+        answer: "할 수 있다면: 훌륭합니다! 영어 대명사의 핵심을 이해했습니다.<br />어렵다면: I-me-my-mine 이 순서를 여러 번 연습해 보세요!"
+      - type: qna
+        question: "SC2. 언제 주격을 쓰고, 언제 목적격을 쓰는지 구별할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 문장 구조를 잘 이해하고 있습니다.<br />어렵다면: 주어 자리 = 주격, 동사 뒤/전치사 뒤 = 목적격"
+      - type: qna
+        question: "SC3. my와 mine의 차이를 명확히 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 소유 표현을 정확히 쓸 수 있습니다.<br />어렵다면: my + 명사 (my book) vs mine 단독 (It's mine)"
+      - type: note
+        content: "잘했어요! 오늘 배운 대명사 4가지 형태는 영어의 기본 중의 기본입니다. I/me/my/mine, he/him/his/his, she/her/her/hers... 각 대명사가 문장에서 어떤 역할을 하는지에 따라 형태가 바뀐다는 것을 기억하세요!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 her의 세 가지 용법(목적격/소유격/소유대명사)을 구별하는 것이 중요합니다!"
