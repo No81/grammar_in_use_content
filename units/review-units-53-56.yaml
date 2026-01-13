@@ -1,0 +1,376 @@
+title: "Go, get, do, make, have Review · Units 53-56 종합 복습"
+meta: "대상: 6학년 · 난이도: 통합 · 권장 45-60분 (A4 3-4p)"
+scope:
+  units: "Units 53-56"
+  topics: "go 표현들, get의 다양한 의미, do와 make 차이, have의 다양한 사용법"
+  prerequisite: "Go, get, do, make, have 파트의 모든 유닛 학습 완료"
+sections:
+  - title: "1. Go/Get/Do/Make/Have 문법 맵"
+    items:
+      - type: text
+        content: "이번 복습에서는 일상에서 가장 많이 쓰이는 기본 동사 go, get, do, make, have의 다양한 표현을 종합적으로 정리합니다. 각 동사가 어떤 상황에서 어떻게 쓰이는지, 그리고 서로 어떻게 다른지 비교하면서 복습해 봅시다."
+      - type: list
+        heading: "이 복습에서 다루는 유닛들"
+        list:
+          - "Unit 53: go 표현들 - go to(장소), go on(경험), go for(짧은 활동), go -ing(레저)"
+          - "Unit 54: get - 받다/얻다, 도착하다, ~해지다(변화), get + 과거분사"
+          - "Unit 55: do와 make - do(활동 수행) vs. make(결과물 생성)"
+          - "Unit 56: have - 소유, 식사, 경험/활동, 증상"
+      - type: note
+        content: "<span class='highlight'>핵심 구분점:</span><br />• go to vs. go -ing (언제 to를 쓰고 언제 -ing를 쓰나?)<br />• get to vs. go to (도착 표현의 차이)<br />• do vs. make (둘 다 '하다'지만 다른 사용법)<br />• have breakfast vs. make breakfast (먹다 vs. 만들다)"
+
+  - title: "2. 핵심 개념 비교"
+    items:
+      - type: text
+        content: "비슷해 보이지만 다르게 사용되는 표현들을 비교해 봅시다. 이 차이를 알면 영어가 훨씬 자연스러워집니다!"
+      - type: text
+        content: "<span class='highlight'>go to vs. go -ing: 언제 to를 쓰고 언제 -ing를 쓰나?</span>"
+      - type: list
+        heading: "구분 기준"
+        list:
+          - "go to + 장소: 특정 장소로 가는 것 (I go to school.)"
+          - "go -ing + 활동: 레저/스포츠 활동을 하러 가는 것 (I go swimming.)"
+          - "주의! home, there, here 앞에는 to 없이: go home (O) / go to home (X)"
+      - type: note
+        content: "흔한 실수:<br />❌ I go to shopping. → ✅ I go shopping.<br />❌ I go to home. → ✅ I go home.<br />판별 팁: '장소 이름'이면 to 사용, '-ing 활동'이면 to 없이!"
+      - type: text
+        content: "<span class='highlight'>get to vs. arrive at vs. go to: 도착과 이동의 차이</span>"
+      - type: list
+        heading: "구분 기준"
+        list:
+          - "go to: 이동하는 과정 (I go to school every day. - 가는 것)"
+          - "get to: 도착하는 순간 (I got to school at 8. - 도착한 것)"
+          - "arrive at: 격식체 도착 표현 (I arrived at school at 8. - 공식적)"
+          - "주의! home, there, here는 예외: get home (O) / get to home (X)"
+      - type: note
+        content: "흔한 실수:<br />❌ I got to home at 6. → ✅ I got home at 6.<br />판별 팁: 일상 대화에서는 arrive보다 get이 더 자연스러워요!"
+      - type: text
+        content: "<span class='highlight'>do vs. make: 둘 다 '하다'지만 다른 사용법</span>"
+      - type: list
+        heading: "구분 기준"
+        list:
+          - "do: 행동/활동을 수행하다 (눈에 안 보이는 활동)"
+          - "make: 무언가를 만들어내다 (눈에 보이는 결과물)"
+          - "do: homework, housework, exercise, the dishes, your best"
+          - "make: breakfast, a cake, friends, a mistake, noise, money"
+      - type: note
+        content: "흔한 실수:<br />❌ make homework → ✅ do homework<br />❌ do a mistake → ✅ make a mistake<br />❌ make exercise → ✅ do exercise<br />판별 팁: '만들어내는 것' = make / '하는 활동' = do"
+      - type: text
+        content: "<span class='highlight'>have breakfast vs. make breakfast: 먹다 vs. 만들다</span>"
+      - type: list
+        heading: "구분 기준"
+        list:
+          - "have breakfast: 아침을 '먹다' (식사 경험)"
+          - "make breakfast: 아침을 '만들다' (요리 활동)"
+          - "I have breakfast at 7. (먹는 것) / Mom makes breakfast. (만드는 것)"
+      - type: note
+        content: "흔한 실수:<br />❌ I eat breakfast. → ✅ I have breakfast. (have가 더 자연스러움)<br />판별 팁: 영어에서 식사는 eat보다 have가 더 일상적!"
+      - type: text
+        content: "<span class='highlight'>get + 형용사 vs. become + 형용사: 변화 표현</span>"
+      - type: list
+        heading: "구분 기준"
+        list:
+          - "get + 형용사: 일상적인 변화 표현 (I'm getting hungry.)"
+          - "become + 형용사: 격식체 변화 표현 (It's becoming dark.)"
+          - "일상 대화에서는 get이 훨씬 자연스럽습니다!"
+      - type: note
+        content: "판별 팁: 일상 대화 = get / 격식적 글 = become"
+
+  - title: "3. 통합 진단"
+    items:
+      - type: note
+        content: "15문제를 풀고 각 영역별로 점수를 확인하세요. 점수가 낮은 영역은 Section 7에서 집중 복습합니다!"
+      - type: qna
+        question: "D1. I go ___ school every day. (to / X)"
+        answer: "to (Unit 53)<br />설명: school은 장소이므로 go to school"
+      - type: qna
+        question: "D2. She goes shop___ every weekend."
+        answer: "shopping (Unit 53)<br />설명: go + -ing 형태로 '쇼핑하러 가다'"
+      - type: qna
+        question: "D3. I got ___ home at 6. (to / X)"
+        answer: "X (Unit 54)<br />설명: home 앞에는 to를 쓰지 않습니다. got home"
+      - type: qna
+        question: "D4. The weather is ___ cold. (get / getting)"
+        answer: "getting (Unit 54)<br />설명: is getting (진행형)으로 '추워지고 있다'"
+      - type: qna
+        question: "D5. I need to ___ my homework. (do / make)"
+        answer: "do (Unit 55)<br />설명: homework는 do와 함께 씁니다."
+      - type: qna
+        question: "D6. Mom ___ breakfast for us. (does / makes)"
+        answer: "makes (Unit 55)<br />설명: breakfast(음식)는 make와 함께 씁니다."
+      - type: qna
+        question: "D7. I ___ a cold yesterday. (have / had)"
+        answer: "had (Unit 56)<br />설명: 어제(과거)이므로 had. 'have a cold = 감기에 걸리다'"
+      - type: qna
+        question: "D8. We went ___ a trip to Busan. (for / on)"
+        answer: "on (Unit 53)<br />설명: trip(여행) 앞에는 on을 씁니다. go on a trip"
+      - type: qna
+        question: "D9. She ___ to school at 8 every day. (goes / gets)"
+        answer: "gets (Unit 54)<br />설명: '도착하다'는 get to. '학교에 도착하다 = get to school'"
+      - type: qna
+        question: "D10. I ___ a big mistake. (did / made)"
+        answer: "made (Unit 55)<br />설명: mistake는 make와 함께. 'make a mistake = 실수하다'"
+      - type: qna
+        question: "D11. Did you ___ a good time? (have / get)"
+        answer: "have (Unit 56)<br />설명: have a good time = 즐거운 시간을 보내다"
+      - type: qna
+        question: "D12. Let's go ___ a walk! (for / on / to)"
+        answer: "for (Unit 53)<br />설명: 짧은 활동(a walk) 앞에는 for. go for a walk"
+      - type: qna
+        question: "D13. Don't ___ angry! (become / get)"
+        answer: "get (Unit 54)<br />설명: 일상 표현에서는 get + 형용사가 자연스럽습니다."
+      - type: qna
+        question: "D14. Don't ___ noise in the library! (do / make)"
+        answer: "make (Unit 55)<br />설명: noise는 make와 함께. 'make noise = 소음을 내다'"
+      - type: qna
+        question: "D15. I ___ breakfast at 7. (eat / have)"
+        answer: "have (Unit 56)<br />설명: 식사는 have가 더 자연스럽습니다. 'have breakfast'"
+      - type: note
+        content: "<span class='highlight'>채점 가이드:</span><br />• Unit 53 (go 표현): D1, D2, D8, D12 → __/4점<br />• Unit 54 (get): D3, D4, D9, D13 → __/4점<br />• Unit 55 (do/make): D5, D6, D10, D14 → __/4점<br />• Unit 56 (have): D7, D11, D15 → __/3점<br /><br />총점: __/15점<br />• 13-15점: 훌륭해요! Section 4, 5, 6으로 넘어가세요.<br />• 10-12점: 좋아요! 틀린 영역 위주로 Section 7 복습하세요.<br />• 10점 미만: Section 7에서 약한 영역 집중 복습 후 다시 도전!"
+
+  - title: "4. 인터리빙 연습"
+    items:
+      - type: note
+        content: "30문제가 완전히 섞여 있습니다. 모든 유닛의 내용을 구분하면서 풀어 보세요!"
+      - type: qna
+        question: "I1. She ___ (do/make) breakfast every morning."
+        answer: "makes (Unit 55)<br />설명: breakfast(음식)는 make"
+      - type: qna
+        question: "I2. I go ___ (to/X) home after school."
+        answer: "X - go home (Unit 53)<br />설명: home 앞에는 to 없이"
+      - type: qna
+        question: "I3. We ___ (have/has) a great time yesterday."
+        answer: "had (Unit 56)<br />설명: 어제(과거) + We → had"
+      - type: qna
+        question: "I4. It's ___ (get/getting) dark outside."
+        answer: "getting (Unit 54)<br />설명: is getting (진행형)"
+      - type: qna
+        question: "I5. I ___ (do/make) my homework after school."
+        answer: "do (Unit 55)<br />설명: homework는 do"
+      - type: qna
+        question: "I6. We went ___ (on/for) vacation last summer."
+        answer: "on (Unit 53)<br />설명: vacation 앞에는 on"
+      - type: qna
+        question: "I7. She ___ (got/get) a new bag yesterday."
+        answer: "got (Unit 54)<br />설명: 어제(과거)이므로 got"
+      - type: qna
+        question: "I8. ___ (Have/Has) fun at the party!"
+        answer: "Have (Unit 56)<br />설명: 명령문이므로 Have fun!"
+      - type: qna
+        question: "I9. They go swim___ every Saturday."
+        answer: "swimming (Unit 53)<br />설명: go + -ing"
+      - type: qna
+        question: "I10. I ___ (did/made) a mistake on the test."
+        answer: "made (Unit 55)<br />설명: mistake는 make"
+      - type: qna
+        question: "I11. What time did you get ___ (to/X) home?"
+        answer: "X - get home (Unit 54)<br />설명: home 앞에는 to 없이"
+      - type: qna
+        question: "I12. Let's ___ (have/eat) lunch together!"
+        answer: "have (Unit 56)<br />설명: 식사는 have가 자연스러움"
+      - type: qna
+        question: "I13. He ___ (does/makes) exercise every morning."
+        answer: "does (Unit 55)<br />설명: exercise는 do"
+      - type: qna
+        question: "I14. She went ___ (to/for) a walk in the park."
+        answer: "for (Unit 53)<br />설명: a walk 앞에는 for"
+      - type: qna
+        question: "I15. I'm ___ (get/getting) hungry."
+        answer: "getting (Unit 54)<br />설명: I'm getting (~해지고 있다)"
+      - type: qna
+        question: "I16. Do you ___ (have/has) a pen?"
+        answer: "have (Unit 56)<br />설명: Do you have...? 의문문"
+      - type: qna
+        question: "I17. They ___ (do/make) new friends at camp."
+        answer: "made (Unit 55)<br />설명: friends는 make"
+      - type: qna
+        question: "I18. We got ___ (to/X) the airport on time."
+        answer: "to (Unit 54)<br />설명: airport는 장소이므로 got to"
+      - type: qna
+        question: "I19. I go ___ (to/X) school by bus."
+        answer: "to (Unit 53)<br />설명: school은 장소이므로 go to"
+      - type: qna
+        question: "I20. She ___ (has/have) two cats."
+        answer: "has (Unit 56)<br />설명: 3인칭 단수 She → has"
+      - type: qna
+        question: "I21. ___ (Do/Make) your best on the exam!"
+        answer: "Do (Unit 55)<br />설명: do your best = 최선을 다하다"
+      - type: qna
+        question: "I22. We're going ___ (on/for) a trip next week."
+        answer: "on (Unit 53)<br />설명: trip 앞에는 on"
+      - type: qna
+        question: "I23. He ___ (get/got) married last year."
+        answer: "got (Unit 54)<br />설명: 작년(과거)이므로 got married"
+      - type: qna
+        question: "I24. I ___ (have/had) a headache yesterday."
+        answer: "had (Unit 56)<br />설명: 어제(과거)이므로 had"
+      - type: qna
+        question: "I25. Don't ___ (do/make) noise in class!"
+        answer: "make (Unit 55)<br />설명: noise는 make"
+      - type: qna
+        question: "I26. Mom goes shop___ every weekend."
+        answer: "shopping (Unit 53)<br />설명: go + -ing"
+      - type: qna
+        question: "I27. The food is ___ (get/getting) cold."
+        answer: "getting (Unit 54)<br />설명: is getting (진행형)"
+      - type: qna
+        question: "I28. We ___ (did/made) the dishes after dinner."
+        answer: "did (Unit 55)<br />설명: the dishes는 do"
+      - type: qna
+        question: "I29. Did you ___ (have/had) breakfast?"
+        answer: "have (Unit 56)<br />설명: Did you have...? 의문문"
+      - type: qna
+        question: "I30. I got ___ (to/X) there early."
+        answer: "X - got there (Unit 54)<br />설명: there 앞에는 to 없이"
+
+  - title: "5. 오류 탐지 & 수정"
+    items:
+      - type: note
+        content: "틀린 부분을 찾아 고치세요. 어떤 유닛의 규칙을 틀렸는지도 확인해 보세요!"
+      - type: qna
+        question: "E1. I go to home after school."
+        answer: "❌ 틀린 부분: to home<br />문제: home 앞에 to를 씀<br />위반 규칙: Unit 53 - home, there, here 앞에는 to 없이<br />✅ 수정: I go home after school.<br />설명: home은 부사이므로 to를 쓰지 않습니다."
+      - type: qna
+        question: "E2. She makes exercise every day."
+        answer: "❌ 틀린 부분: makes exercise<br />문제: exercise에 make를 씀<br />위반 규칙: Unit 55 - exercise는 do와 함께<br />✅ 수정: She does exercise every day.<br />설명: 운동(exercise)은 '하는 활동'이므로 do를 씁니다."
+      - type: qna
+        question: "E3. I got to home at 6."
+        answer: "❌ 틀린 부분: to home<br />문제: home 앞에 to를 씀<br />위반 규칙: Unit 54 - get home (to 없이)<br />✅ 수정: I got home at 6.<br />설명: go home처럼 get home도 to 없이 사용합니다."
+      - type: qna
+        question: "E4. I did a mistake on the test."
+        answer: "❌ 틀린 부분: did a mistake<br />문제: mistake에 do를 씀<br />위반 규칙: Unit 55 - mistake는 make와 함께<br />✅ 수정: I made a mistake on the test.<br />설명: 실수(mistake)는 '만들어지는 것'으로 make를 씁니다."
+      - type: qna
+        question: "E5. She have a cat."
+        answer: "❌ 틀린 부분: have<br />문제: 3인칭 단수에 have를 씀<br />위반 규칙: Unit 56 - 3인칭 단수는 has<br />✅ 수정: She has a cat.<br />설명: She/He/It과 함께 쓸 때는 has입니다."
+      - type: qna
+        question: "E6. We go to shopping every weekend."
+        answer: "❌ 틀린 부분: to shopping<br />문제: go -ing에 to를 씀<br />위반 규칙: Unit 53 - go + -ing는 to 없이<br />✅ 수정: We go shopping every weekend.<br />설명: 활동(-ing)으로 갈 때는 to 없이 바로 연결합니다."
+      - type: qna
+        question: "E7. It's becoming hungry. (일상 대화에서)"
+        answer: "❌ 틀린 부분: becoming<br />문제: 일상 대화에 격식체 becoming 사용<br />위반 규칙: Unit 54 - 일상 변화는 get + 형용사<br />✅ 수정: I'm getting hungry.<br />설명: 일상 대화에서는 become보다 get이 자연스럽습니다."
+      - type: qna
+        question: "E8. Can you do me a cake?"
+        answer: "❌ 틀린 부분: do me a cake<br />문제: cake(음식)에 do를 씀<br />위반 규칙: Unit 55 - 음식은 make<br />✅ 수정: Can you make me a cake?<br />설명: 케이크는 '만드는 것'이므로 make를 씁니다."
+      - type: qna
+        question: "E9. I have headache today."
+        answer: "❌ 틀린 부분: have headache (a 누락)<br />문제: headache 앞에 관사 a가 없음<br />위반 규칙: Unit 56 - have a headache<br />✅ 수정: I have a headache today.<br />설명: 증상 표현에는 관사 a가 필요합니다."
+      - type: qna
+        question: "E10. We went for a trip to Japan."
+        answer: "❌ 틀린 부분: for a trip<br />문제: trip에 for를 씀<br />위반 규칙: Unit 53 - trip 앞에는 on<br />✅ 수정: We went on a trip to Japan.<br />설명: 긴 경험(trip, vacation)은 go on을 씁니다."
+      - type: qna
+        question: "E11. She got to there early."
+        answer: "❌ 틀린 부분: to there<br />문제: there 앞에 to를 씀<br />위반 규칙: Unit 54 - there 앞에는 to 없이<br />✅ 수정: She got there early.<br />설명: there, here, home은 부사이므로 to 없이 사용합니다."
+      - type: qna
+        question: "E12. I do breakfast at 7."
+        answer: "❌ 틀린 부분: do breakfast<br />문제: breakfast에 do를 씀<br />위반 규칙: Unit 55/56 - 식사는 have, 만드는 것은 make<br />✅ 수정: I have breakfast at 7. (먹다) / I make breakfast at 7. (만들다)<br />설명: 아침을 '먹다'는 have, '만들다'는 make입니다."
+      - type: qna
+        question: "E13. Let's go to swim!"
+        answer: "❌ 틀린 부분: to swim<br />문제: swim에 to를 씀<br />위반 규칙: Unit 53 - 수영하러 가다 = go swimming<br />✅ 수정: Let's go swimming!<br />설명: 활동을 하러 갈 때는 go + -ing입니다."
+      - type: qna
+        question: "E14. He make noise in the library."
+        answer: "❌ 틀린 부분: make (동사 형태)<br />문제: 3인칭 단수에 원형 make 사용<br />위반 규칙: Unit 55 - 3인칭 단수 현재형은 makes<br />✅ 수정: He makes noise in the library.<br />설명: He/She/It + 동사-s/es 규칙입니다."
+      - type: qna
+        question: "E15. Did you have got a pen?"
+        answer: "❌ 틀린 부분: have got<br />문제: Did와 have got을 함께 씀<br />위반 규칙: Unit 56 - Do you have...? 또는 Have you got...? 둘 중 하나만<br />✅ 수정: Did you have a pen? / Have you got a pen?<br />설명: 두 형태를 섞지 않습니다."
+
+  - title: "6. 통합 프로젝트"
+    items:
+      - type: note
+        content: "여러 유닛의 문법을 함께 사용해서 글을 써 보세요. 실제로 영어를 쓸 때는 다양한 문법이 섞여서 나옵니다!"
+      - type: qna
+        question: "P1. 나의 하루 일과를 영어로 써 보세요. 다음을 모두 포함하세요:<br />• go to 표현 1개<br />• go -ing 표현 1개<br />• get 표현 1개 (도착 또는 변화)<br />• do/make 표현 각 1개<br />• have 표현 1개"
+        answer: "예시 답안:<br />I go to school at 8 a.m. I get there on time every day. After school, I do my homework. Mom makes dinner for us. We have dinner together at 6. On weekends, I go shopping with my friends. I'm getting better at English!<br /><br />평가 기준:<br />• go to 사용 (go to school) ✓<br />• go -ing 사용 (go shopping) ✓<br />• get 사용 (get there / getting better) ✓<br />• do 사용 (do homework) ✓<br />• make 사용 (makes dinner) ✓<br />• have 사용 (have dinner) ✓<br />• 문법 정확도: 6개 표현 모두 정확하면 만점!"
+      - type: qna
+        question: "P2. 친구와의 대화를 만들어 보세요. 다음 표현들을 사용하세요:<br />• go for a walk / go on a trip<br />• get + 형용사 (변화)<br />• have a good time / have fun<br />• do/make 표현"
+        answer: "예시 답안:<br />A: What did you do last weekend?<br />B: I went on a trip to Busan with my family.<br />A: Did you have a good time?<br />B: Yes! But I got tired after walking a lot.<br />A: Did you make any mistakes on the way?<br />B: Yes, we got lost once! But we had fun.<br />A: Let's go for a walk this weekend!<br />B: Great! I'll do my homework first.<br /><br />평가 기준:<br />• 자연스러운 대화 흐름 ✓<br />• 4가지 이상 표현 정확히 사용 ✓<br />• 상황에 맞는 표현 선택 ✓"
+      - type: qna
+        question: "P3. 가족 중 한 명을 소개해 보세요. 다음을 포함하세요:<br />• 그 사람이 가진 것 (have)<br />• 그 사람이 하는 활동 (do/make/go)<br />• 그 사람의 변화나 상태 (get)"
+        answer: "예시 답안:<br />My mom is the best! She has long hair and beautiful eyes. She makes delicious breakfast every morning. She does housework a lot, but she never gets angry. On weekends, she goes shopping with me. When I have a cold, she takes care of me. She's getting better at cooking Italian food. I love having dinner together with her!<br /><br />평가 기준:<br />• have 사용 (has long hair, have a cold, having dinner) ✓<br />• do/make 사용 (makes breakfast, does housework) ✓<br />• go 사용 (goes shopping) ✓<br />• get 사용 (gets angry, getting better) ✓<br />• 창의성과 자연스러움 ✓"
+      - type: qna
+        question: "P4. 어제와 오늘을 비교하는 글을 써 보세요. 다음 패턴을 사용하세요:<br />• 어제: got, went, had, did/made (과거형)<br />• 오늘: get, go, have, do/make (현재형)<br />• 변화: is/am getting (현재진행형)"
+        answer: "예시 답안:<br />Yesterday, I got to school late. I made a mistake on my math test. I had a headache all day. I went home early and did my homework quickly.<br /><br />Today is different! I get to school on time. I have a good feeling about the English test. The weather is getting warmer. I'm going to go for a walk after school. I'll do my best today!<br /><br />평가 기준:<br />• 과거형 정확히 사용 (got, made, had, went, did) ✓<br />• 현재형 정확히 사용 (get, have, do) ✓<br />• 진행형 사용 (is getting) ✓<br />• 과거와 현재 대비 명확 ✓"
+
+  - title: "7. 약점 집중 복습"
+    items:
+      - type: note
+        content: "진단 평가(Section 3)에서 점수가 낮았던 영역만 선택해서 풀어 보세요!"
+      - type: text
+        content: "<span class='highlight'>Unit 53 복습 (go 표현들)</span>"
+      - type: note
+        content: "핵심 요약:<br />• go to + 장소 (school, work, hospital)<br />• go on + 경험 (a trip, vacation)<br />• go for + 짧은 활동 (a walk, a run)<br />• go -ing + 레저 (shopping, swimming)<br />• 예외: go home, go there (to 없이!)"
+      - type: qna
+        question: "R53-1. I go ___ (to/X) school and ___ (to/X) home every day."
+        answer: "to / X - go to school, go home<br />설명: school은 장소(to 필요), home은 예외(to 불필요)"
+      - type: qna
+        question: "R53-2. 번역: 우리는 여름에 캠핑하러 가요."
+        answer: "We go camping in summer.<br />설명: 활동(-ing)은 to 없이 바로 연결"
+      - type: qna
+        question: "R53-3. We went ___ a picnic yesterday."
+        answer: "on - went on a picnic<br />설명: 소풍은 경험이므로 go on"
+      - type: text
+        content: "<span class='highlight'>Unit 54 복습 (get)</span>"
+      - type: note
+        content: "핵심 요약:<br />• get + 명사 = 받다/얻다 (I got a present.)<br />• get to + 장소 = 도착하다 (I got to school.)<br />• get + 형용사 = ~해지다 (I'm getting tired.)<br />• 예외: get home, get there (to 없이!)"
+      - type: qna
+        question: "R54-1. What time did you get ___ (to/X) home?"
+        answer: "X - get home<br />설명: home 앞에는 to 없이"
+      - type: qna
+        question: "R54-2. 번역: 날씨가 더워지고 있어요."
+        answer: "The weather is getting hot. / It's getting hot.<br />설명: get + 형용사 = ~해지다"
+      - type: qna
+        question: "R54-3. She ___ (got/get) to the airport at 10."
+        answer: "got - got to the airport<br />설명: 과거이므로 got, airport는 장소이므로 to 필요"
+      - type: text
+        content: "<span class='highlight'>Unit 55 복습 (do/make)</span>"
+      - type: note
+        content: "핵심 요약:<br />• do: 활동/일 (homework, exercise, dishes, housework)<br />• make: 만드는 것 (breakfast, cake, friends, mistake, noise)<br />• 암기법: 눈에 안 보이면 do, 눈에 보이면 make"
+      - type: qna
+        question: "R55-1. I ___ (do/make) my homework and ___ (do/make) a sandwich."
+        answer: "do / make<br />설명: homework는 활동(do), sandwich는 음식(make)"
+      - type: qna
+        question: "R55-2. 틀린 곳 찾기: She did a mistake."
+        answer: "She made a mistake.<br />설명: mistake는 make와 함께"
+      - type: qna
+        question: "R55-3. 번역: 소음 내지 마!"
+        answer: "Don't make noise!<br />설명: noise는 make와 함께"
+      - type: text
+        content: "<span class='highlight'>Unit 56 복습 (have)</span>"
+      - type: note
+        content: "핵심 요약:<br />• have + 소유물 = 가지다 (I have a bike.)<br />• have + 식사 = 먹다 (I have breakfast.)<br />• have + 경험 = ~하다 (have a good time, have fun)<br />• have + 증상 = ~이 있다 (have a cold, have a headache)"
+      - type: qna
+        question: "R56-1. She ___ (have/has) two brothers."
+        answer: "has<br />설명: 3인칭 단수(She)는 has"
+      - type: qna
+        question: "R56-2. 번역: 재미있게 놀아!"
+        answer: "Have fun!<br />설명: have fun = 재미있게 놀다"
+      - type: qna
+        question: "R56-3. I ___ breakfast and ___ a cold yesterday."
+        answer: "had / had<br />설명: 어제(과거)이므로 had. 'have breakfast = 먹다', 'have a cold = 감기 걸리다'"
+
+  - title: "8. 종합 자기 평가 & 학습 계획"
+    items:
+      - type: note
+        content: "복습을 마치며 스스로를 점검해 봅시다!"
+      - type: qna
+        question: "SC1. go to vs. go -ing를 구분할 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 장소는 to, 활동은 -ing 완벽 이해!<br />어렵다면: Section 2의 첫 번째 비교표를 다시 읽고, Section 7의 Unit 53 복습을 풀어 보세요."
+      - type: qna
+        question: "SC2. get home / get to school의 차이를 알고 있나요?"
+        answer: "할 수 있다면: 대단해요! home/there/here 예외 규칙을 알고 있네요!<br />어렵다면: Unit 53, 54 모두 같은 규칙입니다. home, there, here 앞에는 to 없이!"
+      - type: qna
+        question: "SC3. do homework / make breakfast를 구분할 수 있나요?"
+        answer: "할 수 있다면: 정말 잘하고 있습니다! do/make 구분이 확실하네요.<br />어렵다면: '하는 활동' = do / '만드는 것' = make 기억하고 Section 7 Unit 55를 복습하세요."
+      - type: qna
+        question: "SC4. have breakfast / make breakfast의 차이를 설명할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 먹다 vs. 만들다를 정확히 이해했어요.<br />어렵다면: have = 먹다(경험) / make = 만들다(요리). Section 2의 비교표를 확인하세요."
+      - type: qna
+        question: "SC5. 가장 자주 헷갈리는 표현은 무엇인가요?"
+        answer: "자유롭게 답변해 보세요. 헷갈리는 부분을 알면 집중해서 연습할 수 있습니다!"
+      - type: note
+        content: "<span class='highlight'>나의 복습 결과</span><br />• 진단 평가 점수: __/15점<br />• 인터리빙 연습 정답률: __/30문제<br />• 가장 자신있는 유닛: ______<br />• 더 연습이 필요한 유닛: ______"
+      - type: note
+        content: "<span class='highlight'>다음 주 학습 계획</span><br />• 점수가 낮은 유닛을 원래 학습 자료로 돌아가 복습하기<br />• 매일 3-5문제씩 do/make, go to/go -ing 연습하기<br />• 일기나 대화에서 배운 표현 직접 사용해 보기<br />• 1주일 후 이 복습 자료를 다시 풀어 보기"
+      - type: note
+        content: "잘했어요! go, get, do, make, have는 영어에서 가장 많이 쓰이는 동사들입니다. 이 동사들의 다양한 표현을 익히면 영어 대화가 훨씬 자연스러워집니다. 오늘 복습한 내용을 실생활에서 사용해 보세요!"
+      - type: note
+        content: "다음 목표: Units 57-62 (Pronouns and possessives) 학습 또는 이 파트 완벽 마스터를 위한 재복습!"
