@@ -1,0 +1,267 @@
+title: "Unit 79 · all / most / some / any / no/none (수량 표현 - 한정사와 대명사)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 all, most, some, any, no/none은 양이나 수를 나타내는 수량 표현입니다. 이들은 명사 앞에 와서 한정사 역할을 하거나, 혼자 쓰여 대명사 역할을 합니다. 각각의 표현이 나타내는 범위가 다르므로 정확히 이해해야 합니다."
+      - type: list
+        heading: "수량 스펙트럼 (Quantifier Spectrum)"
+        list:
+          - "all = 100% 전부: All students passed the test. (모든 학생들이 시험에 합격했어.)"
+          - "most = 50% 이상, 대부분: Most students passed the test. (대부분의 학생들이 합격했어.)"
+          - "some = 일부: Some students passed the test. (일부 학생들이 합격했어.)"
+          - "any = 어떤 것이든, 부정문/의문문에서 사용: Do any students have questions? (질문 있는 학생 있어?)"
+          - "no/none = 0% 하나도 없음: No students failed. (낙제한 학생이 없어.) / None of them failed. (그들 중 아무도 낙제하지 않았어.)"
+      - type: text
+        content: "<span class='highlight'>형식 (Form)</span><br />• all/most/some/any/no + 복수 가산 명사: all students, most books, some friends<br />• all/most/some/any/no + 불가산 명사: all water, most music, some money<br />• all/most/some/any/none + of + the/this/my/them 등: all of the students, most of my friends, none of them"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• <span class='highlight'>all</span> - 예외 없이 전부 (100%): All birds have wings.<br />• <span class='highlight'>most</span> - 절반 이상, 대다수 (50% 초과): Most teenagers like music.<br />• <span class='highlight'>some</span> - 일부, 약간 (정확한 수는 모름): Some people prefer tea.<br />• <span class='highlight'>any</span> - '어떤 ~라도' 또는 부정/의문에서 사용: I don't have any money.<br />• <span class='highlight'>no</span> - 전혀 없음, 명사 앞에 사용: There is no water.<br />• <span class='highlight'>none</span> - 전혀 없음, 단독 또는 of와 함께: None of them came."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 일반적인 진술 (of 없이): Most people like chocolate. / All children need love.<br />• 특정 그룹을 말할 때 (of + the/this/my/them): Most of the students in my class study hard.<br />• 부정문/의문문에서: Do you have any questions? / I don't have any homework.<br />• 강조할 때: No students were absent. (한 명도 결석 안 함) / None of my friends were late. (내 친구들 중 아무도 늦지 않음)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "학교: All students must wear uniforms. (모든 학생들은 교복을 입어야 해.)"
+          - "친구: Most of my friends play video games. (내 친구들 대부분은 비디오 게임을 해.)"
+          - "음식: Some children don't like vegetables. (어떤 아이들은 채소를 안 좋아해.)"
+          - "질문: Do you have any brothers or sisters? (형제자매 있어?)"
+          - "부정: There is no homework today. (오늘은 숙제가 없어.)"
+          - "대명사: I invited ten friends, but none came. (10명을 초대했는데 아무도 안 왔어.)"
+          - "취미: All of us love music. (우리 모두 음악을 좋아해.)"
+          - "일반적 사실: Most birds can fly. (대부분의 새는 날 수 있어.)"
+          - "불가산 명사: I drank some water. (나는 물을 좀 마셨어.)"
+          - "부정 + any: I don't have any money. (나는 돈이 전혀 없어.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. of 사용 오류: All students (O) vs All of students (X) - 일반적인 의미일 때 of 없이!<br />2. of the 필수: All of the students in my class (O) vs All the students in my class (O) - 특정 그룹일 때 the 필요!<br />3. no vs none 혼동: No students came (O) / None came (O) / None students came (X) - none 뒤에 바로 명사 불가!<br />4. any 위치 오류: 긍정문에서 some 사용, 부정/의문에서 any 사용<br />5. 주어-동사 수 일치: None of them is/are - 둘 다 가능하지만 구어에서 are 더 많이 사용"
+      - type: text
+        content: "<span class='highlight'>of 사용 규칙 정리:</span><br /><br />• <span class='highlight'>of 없이</span> (일반적인 의미):<br />  - All children need love. (아이들 전체, 일반적)<br />  - Most people like music. (사람들 대부분, 일반적)<br />  - Some birds can't fly. (일부 새들, 일반적)<br /><br />• <span class='highlight'>of + the/this/my/these/them</span> (특정 그룹):<br />  - All of the children in this class... (이 반의 아이들)<br />  - Most of my friends... (내 친구들)<br />  - Some of these books... (이 책들 중 일부)<br />  - None of them... (그들 중 아무도)"
+      - type: text
+        content: "<span class='highlight'>no vs none 비교:</span><br /><br />• <span class='highlight'>no</span> = 한정사, 명사 앞에 직접 사용<br />  - No students were late. (늦은 학생이 없어.)<br />  - There is no water. (물이 없어.)<br />  - I have no money. (돈이 없어.)<br /><br />• <span class='highlight'>none</span> = 대명사, 단독 또는 of와 함께<br />  - None of the students were late. (그 학생들 중 아무도 늦지 않았어.)<br />  - A: How many did you see? B: None. (몇 개 봤어? - 하나도 못 봤어.)<br />  - None of them came. (그들 중 아무도 안 왔어.)"
+      - type: text
+        content: "<span class='highlight'>주어-동사 수 일치:</span><br /><br />• All/Most/Some of the + 복수 명사 → 복수 동사: All of the students <span class='highlight'>are</span> here.<br />• All/Most/Some of the + 불가산 명사 → 단수 동사: All of the water <span class='highlight'>is</span> gone.<br />• None of + 복수 명사 → 단수/복수 모두 가능 (구어에서 복수 선호): None of them <span class='highlight'>are</span> ready. / None of them <span class='highlight'>is</span> ready.<br />• No + 단수 명사 → 단수 동사: No student <span class='highlight'>is</span> absent.<br />• No + 복수 명사 → 복수 동사: No students <span class='highlight'>are</span> absent."
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "All students need to study."
+          - "All of the students in my class passed."
+          - "Most people like pizza."
+          - "Most of my friends play soccer."
+          - "Some children are afraid of dogs."
+          - "Some of these books are interesting."
+          - "I don't have any homework."
+          - "None of them answered correctly."
+      - type: qna
+        question: "Q1. 'All students'와 'All of the students'의 차이는 무엇인가요?"
+        answer: "All students = 학생들 전체 (일반적인 의미, of 없음)<br />All of the students = 특정 학생들 전부 (특정 그룹을 가리킴, of the 사용)<br />일반적으로 말할 때는 of 없이, 특정 그룹을 말할 때는 of the를 씁니다."
+      - type: qna
+        question: "Q2. 'Most people'과 'Most of my friends'에서 of 사용이 다른 이유는?"
+        answer: "Most people = 사람들 대부분 (일반적인 의미)<br />Most of my friends = 내 친구들 대부분 (특정 그룹 - my friends)<br />일반적인 명사 앞에는 of 없이, 특정 소유격이나 the가 올 때는 of를 씁니다."
+      - type: qna
+        question: "Q3. 'I don't have any homework'에서 왜 any를 쓰나요?"
+        answer: "부정문(don't)에서는 some 대신 any를 씁니다.<br />I have some homework. (긍정) → I don't have any homework. (부정)<br />의문문에서도 any를 씁니다: Do you have any questions?"
+      - type: qna
+        question: "Q4. 'None of them'에서 none 다음에 바로 명사가 오지 않는 이유는?"
+        answer: "none은 대명사이므로 바로 명사 앞에 쓸 수 없습니다.<br />None of them (O) / None students (X)<br />명사 앞에 직접 쓰려면 no를 사용: No students (O)"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. all, most, some, any, no/none을 수량 순서대로 나열해 보세요."
+        answer: "all (100%) → most (50% 이상) → some (일부) → any/no/none (부정/의문에서 0%)<br />평가 기준: all, most, some 순서가 맞으면 정답입니다."
+      - type: qna
+        question: "R2. 일반적인 의미로 '대부분의 사람들'이라고 할 때 of를 쓰나요?"
+        answer: "쓰지 않습니다. Most people (O), Most of people (X)<br />일반적인 의미일 때는 of 없이 씁니다.<br />평가 기준: 'of 없이'라고 답하면 정답입니다."
+      - type: qna
+        question: "R3. no와 none의 차이는 무엇인가요?"
+        answer: "no = 한정사, 명사 앞에 직접 사용 (No students came.)<br />none = 대명사, 단독 또는 of와 함께 (None of them came. / None came.)<br />평가 기준: no는 명사 앞, none은 단독 또는 of와 함께 쓴다고 답하면 정답입니다."
+      - type: qna
+        question: "R4. 부정문과 의문문에서 some 대신 무엇을 쓰나요?"
+        answer: "any를 씁니다.<br />I have some money. → I don't have any money. / Do you have any money?<br />평가 기준: 'any'라고 답하면 정답입니다."
+      - type: qna
+        question: "R5. 'None of the students'가 주어일 때 동사는 단수? 복수?"
+        answer: "둘 다 가능합니다. None of the students is/are ready.<br />구어에서는 복수(are)를 더 많이 씁니다.<br />평가 기준: '둘 다 가능' 또는 '복수를 더 많이 쓴다'고 답하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 수량 표현을 넣으세요. (all / most / some / any / no / none)"
+      - type: qna
+        question: "Q1. ___ students in my class like math. (우리 반 학생들 전부)"
+        answer: "All (of the)<br />설명: 특정 그룹(my class)을 말할 때 All 또는 All of the를 씁니다."
+      - type: qna
+        question: "Q2. ___ birds can fly. (대부분의 새들 - 일반적)"
+        answer: "Most<br />설명: 일반적인 의미로 대부분을 말할 때 Most를 쓰고 of는 쓰지 않습니다."
+      - type: qna
+        question: "Q3. ___ of my friends have pets. (내 친구들 중 일부)"
+        answer: "Some<br />설명: 특정 그룹(my friends)의 일부를 말할 때 Some of를 씁니다."
+      - type: qna
+        question: "Q4. Do you have ___ questions? (질문 있어?)"
+        answer: "any<br />설명: 의문문에서는 some 대신 any를 씁니다."
+      - type: qna
+        question: "Q5. I don't have ___ homework today. (숙제가 전혀 없어)"
+        answer: "any<br />설명: 부정문(don't)에서는 some 대신 any를 씁니다."
+      - type: qna
+        question: "Q6. ___ students were absent. (결석한 학생이 없었어)"
+        answer: "No<br />설명: 명사(students) 앞에 직접 쓸 때는 no를 씁니다."
+      - type: qna
+        question: "Q7. I invited many friends, but ___ came. (아무도 안 왔어)"
+        answer: "none<br />설명: 단독으로 대명사처럼 쓸 때는 none을 씁니다."
+      - type: qna
+        question: "Q8. ___ of the water is clean. (그 물 전부가 깨끗해)"
+        answer: "All<br />설명: 특정한 것(the water)의 전부를 말할 때 All of the를 씁니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 모든 아이들은 사랑이 필요해. (일반적인 의미)"
+        answer: "All children need love.<br />평가 기준: All children (of 없이)으로 쓰면 정답입니다."
+      - type: qna
+        question: "T2. 대부분의 사람들은 음악을 좋아해. (일반적인 의미)"
+        answer: "Most people like music.<br />평가 기준: Most people (of 없이)으로 쓰면 정답입니다."
+      - type: qna
+        question: "T3. 내 친구들 중 일부는 일본에서 왔어."
+        answer: "Some of my friends are from Japan.<br />평가 기준: Some of my friends 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T4. 너 돈 있어? (의문문)"
+        answer: "Do you have any money?<br />평가 기준: any money (의문문에서 any 사용)로 쓰면 정답입니다."
+      - type: qna
+        question: "T5. 숙제가 없어. (no 사용)"
+        answer: "There is no homework. / I have no homework.<br />평가 기준: no homework으로 쓰면 정답입니다."
+      - type: qna
+        question: "T6. 그들 중 아무도 대답하지 않았어."
+        answer: "None of them answered.<br />평가 기준: None of them 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T7. 우리 반 학생들 대부분은 축구를 좋아해."
+        answer: "Most of the students in my class like soccer.<br />평가 기준: Most of the students (특정 그룹이므로 of the 사용)가 맞으면 정답입니다."
+      - type: qna
+        question: "T8. 나는 시간이 전혀 없어. (부정문 + any)"
+        answer: "I don't have any time.<br />평가 기준: don't have any time으로 쓰면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. some → any: I have some questions. (부정문으로)"
+        answer: "I don't have any questions.<br />설명: 부정문에서는 some이 any로 바뀝니다."
+      - type: qna
+        question: "TF2. no → none of: No students failed. (특정 그룹으로)"
+        answer: "None of the students failed.<br />설명: 특정 그룹을 말할 때 none of the를 씁니다."
+      - type: qna
+        question: "TF3. 일반 → 특정: Most people like sports. (우리 반 사람들)"
+        answer: "Most of the people in my class like sports.<br />설명: 특정 그룹을 말할 때 of the를 추가합니다."
+      - type: qna
+        question: "TF4. 특정 → 일반: All of my friends are nice. (친구들 전체, 일반적)"
+        answer: "All friends are nice. (또는 Friends are nice.)<br />설명: 일반적인 의미로 바꾸면 of my를 빼고 All만 쓰거나 수량 표현 없이 복수형만 씁니다."
+      - type: qna
+        question: "TF5. 긍정 → 부정: I have some money. (돈이 전혀 없다는 의미로)"
+        answer: "I don't have any money. / I have no money.<br />설명: 부정문에서는 any 또는 no를 사용합니다."
+      - type: qna
+        question: "TF6. none → no: None of the students were late. (명사 앞에 직접)"
+        answer: "No students were late.<br />설명: 명사 앞에 직접 쓸 때는 no를 사용합니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요!"
+      - type: qna
+        question: "A1. 'All of my friends...'로 시작하는 문장을 2개 써 보세요."
+        answer: "예시: All of my friends like video games. / All of my friends go to the same school.<br />평가 기준: All of my friends + 동사 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "A2. 'Most people...'로 시작하는 일반적인 사실을 2개 써 보세요."
+        answer: "예시: Most people use smartphones. / Most people like weekends.<br />평가 기준: Most people (of 없이) + 일반적인 사실이면 정답입니다."
+      - type: qna
+        question: "A3. 'Some of the students in my class...'로 시작하는 문장을 2개 써 보세요."
+        answer: "예시: Some of the students in my class are good at math. / Some of the students in my class play basketball.<br />평가 기준: Some of the students 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "A4. 부정문에서 any를 사용해서 문장을 2개 써 보세요."
+        answer: "예시: I don't have any brothers. / I don't have any pets.<br />평가 기준: 부정문 + any + 명사 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "A5. no 또는 none을 사용해서 '~가 없다'는 문장을 2개 써 보세요."
+        answer: "예시: There are no tests today. / None of my friends are absent.<br />평가 기준: no + 명사 또는 none of + 특정 그룹 구조가 맞으면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 고치세요: 'Most of people like chocolate.'"
+        answer: "올바른 문장: Most people like chocolate.<br />설명: 일반적인 의미로 사람들 대부분을 말할 때는 of를 쓰지 않습니다. Most of the people (특정 그룹) vs Most people (일반)"
+      - type: qna
+        question: "C2. 다음 두 문장의 의미 차이를 설명하세요:<br />a) All students must study.<br />b) All of the students must study."
+        answer: "a) All students = 학생이라면 누구나 (일반적인 의미)<br />b) All of the students = 특정 학생들 전부 (예: 우리 반 학생들)<br />a는 학생 전체에 대한 일반적인 진술이고, b는 특정 그룹에 대한 진술입니다."
+      - type: qna
+        question: "C3. 빈칸에 no와 none 중 알맞은 것을 고르세요:<br />a) ___ of my friends were late.<br />b) ___ students failed the test."
+        answer: "a) None of my friends were late. (none + of)<br />b) No students failed the test. (no + 명사)<br />설명: of와 함께 쓸 때는 none, 명사 앞에 직접 쓸 때는 no입니다."
+      - type: qna
+        question: "C4. 다음 문장들 중 틀린 것을 모두 찾아 고치세요:<br />1) None students came to the party.<br />2) I don't have some money.<br />3) All of children need love."
+        answer: "1) None students came. → No students came. / None of the students came. (none 뒤에 바로 명사 불가)<br />2) I don't have some money. → I don't have any money. (부정문에서는 any)<br />3) All of children need love. → All children need love. / All of the children need love. (of 다음에는 the/my/them 등이 와야 함)"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. 일반적인 의미: ___ children need love. (모든 아이들)"
+        answer: "All<br />설명: 일반적인 의미로 '모든'을 말할 때 All을 쓰고 of는 쓰지 않습니다."
+      - type: qna
+        question: "SR2. 일반적인 의미: ___ people like music. (대부분의 사람들)"
+        answer: "Most<br />설명: 일반적인 의미로 '대부분'을 말할 때 Most를 쓰고 of는 쓰지 않습니다."
+      - type: qna
+        question: "SR3. 특정 그룹: ___ of my friends play soccer. (내 친구들 중 일부)"
+        answer: "Some<br />설명: 특정 그룹(my friends)의 일부를 말할 때 Some of를 씁니다."
+      - type: qna
+        question: "SR4. 부정문: I don't have ___ money. (돈이 전혀 없어)"
+        answer: "any<br />설명: 부정문(don't)에서는 some 대신 any를 씁니다."
+      - type: qna
+        question: "SR5. 명사 앞: ___ students were absent. (결석한 학생이 없었어)"
+        answer: "No<br />설명: 명사(students) 앞에 직접 쓸 때는 no를 씁니다."
+      - type: qna
+        question: "SR6. 단독 사용: I invited many, but ___ came. (아무도 안 왔어)"
+        answer: "none<br />설명: 단독으로 대명사처럼 쓸 때는 none을 씁니다."
+      - type: qna
+        question: "SR7. 번역: 대부분의 사람들은 초콜릿을 좋아해."
+        answer: "Most people like chocolate.<br />설명: 일반적인 의미이므로 of 없이 Most people으로 씁니다."
+      - type: qna
+        question: "SR8. 번역: 그들 중 아무도 대답하지 않았어."
+        answer: "None of them answered.<br />설명: 특정 그룹(them)에서 아무도 없을 때 None of them을 씁니다."
+      - type: qna
+        question: "SR9. 틀린 곳 고치기: Most of people like sports."
+        answer: "Most people like sports.<br />설명: 일반적인 의미이므로 of를 삭제합니다. of 다음에는 the/my/them 등이 와야 합니다."
+      - type: qna
+        question: "SR10. no vs none: ___를 명사 앞에 직접 쓰고, ___는 단독 또는 of와 함께 씁니다."
+        answer: "no / none<br />설명: no는 한정사로 명사 앞에 직접, none은 대명사로 단독 또는 of와 함께 씁니다."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. all, most, some, any, no/none의 수량 순서를 알고 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 각 표현이 나타내는 양을 정확히 이해하고 있어요.<br />어렵다면: all (100%) → most (50% 이상) → some (일부) → any/no/none (부정/의문) 순서예요!"
+      - type: qna
+        question: "SC2. of를 언제 쓰고 언제 쓰지 않는지 구분할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 일반 vs 특정의 차이를 잘 알고 있습니다.<br />어렵다면: 일반적인 의미면 of 없이 (Most people), 특정 그룹이면 of the/my/them (Most of my friends)를 써요!"
+      - type: qna
+        question: "SC3. no와 none의 차이를 설명할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 두 표현을 정확하게 구분하고 있습니다.<br />어렵다면: no는 명사 앞에 직접 (No students), none은 단독 또는 of와 함께 (None of them / None came)예요!"
+      - type: qna
+        question: "SC4. 부정문과 의문문에서 some 대신 any를 쓸 수 있나요?"
+        answer: "할 수 있다면: 멋져요! 긍정/부정/의문문에 따른 사용법을 잘 알고 있습니다.<br />어렵다면: 긍정문에서는 some (I have some money), 부정문/의문문에서는 any (I don't have any money / Do you have any money?)를 써요!"
+      - type: qna
+        question: "SC5. 주어-동사 수 일치 규칙을 알고 있나요? (All of the water is/are?)"
+        answer: "할 수 있다면: 훌륭해요! 가산/불가산 명사에 따른 동사 일치를 잘 이해하고 있습니다.<br />어렵다면: 불가산 명사는 단수 동사 (All of the water is), 복수 명사는 복수 동사 (All of the students are)를 써요!"
+      - type: note
+        content: "잘했어요! all, most, some, any, no/none은 영어에서 정말 자주 쓰는 표현이에요. 특히 일반적인 의미(of 없이)와 특정 그룹(of the/my/them)을 구분하는 것이 중요합니다. 이 규칙만 기억하면 자연스러운 영어를 쓸 수 있어요!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 'Most people (일반)'과 'Most of my friends (특정)'의 차이, 그리고 'no (명사 앞)'와 'none (of와 함께)'의 차이를 기억하세요!"

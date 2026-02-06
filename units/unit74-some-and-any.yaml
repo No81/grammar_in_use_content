@@ -1,0 +1,268 @@
+title: "Unit 74 · some and any (한정사와 대명사)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "some과 any는 한국어에 정확히 대응하는 단어가 없어서 처음에는 어렵게 느껴질 수 있습니다. 둘 다 '약간의', '조금의', '어떤'이라는 의미이지만, 문장의 종류에 따라 사용법이 다릅니다."
+      - type: list
+        heading: "some의 기본 사용법"
+        list:
+          - "긍정문에서 사용: I have some friends. (나는 친구가 좀 있어.)"
+          - "셀 수 있는 명사(복수)와 함께: some books, some apples, some students"
+          - "셀 수 없는 명사와 함께: some water, some money, some time"
+          - "권유/요청할 때: Would you like some tea? (차 좀 드실래요?)"
+          - "부탁할 때: Can I have some water? (물 좀 주시겠어요?)"
+      - type: list
+        heading: "any의 기본 사용법"
+        list:
+          - "부정문에서 사용: I don't have any money. (나는 돈이 전혀 없어.)"
+          - "의문문에서 사용: Do you have any questions? (질문 있나요?)"
+          - "셀 수 있는 명사(복수)와 함께: any books, any friends, any ideas"
+          - "셀 수 없는 명사와 함께: any water, any information, any help"
+          - "'아무거나'의 의미: You can take any seat. (아무 자리나 앉아도 돼.)"
+      - type: text
+        content: "<span class='highlight'>형식 (Form)</span><br />• some/any + 셀 수 있는 명사 복수: some books, any friends<br />• some/any + 셀 수 없는 명사: some water, any money<br />• some/any만 단독 사용 (대명사): Do you want some? I don't need any."
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> some은 '있다'는 긍정적인 느낌을, any는 부정문에서 '전혀 없다', 의문문에서 '혹시 있나요?'라는 느낌을 줍니다. 한국어에서는 '좀', '약간', '조금'으로 번역되지만, 사실 some/any 없이도 문장이 성립하는 한국어와 달리 영어에서는 양을 나타낼 때 꼭 필요합니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 긍정문에서 '좀 있다'고 말할 때: I have some homework. (숙제가 좀 있어.)<br />• 부정문에서 '전혀 없다'고 말할 때: I don't have any time. (시간이 전혀 없어.)<br />• 질문할 때: Do you have any brothers? (형제 있어?)<br />• 권유할 때: Would you like some cake? (케이크 좀 드실래요?)<br />• 부탁할 때: Can I borrow some money? (돈 좀 빌려줄래?)<br />• '아무거나'라고 말할 때: You can choose any color. (아무 색이나 골라.)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "학교 (긍정): I have some pencils in my bag. (가방에 연필이 좀 있어.)"
+          - "학교 (부정): I don't have any homework today. (오늘은 숙제가 전혀 없어.)"
+          - "학교 (의문): Do you have any erasers? (지우개 있어?)"
+          - "친구 (긍정): I made some new friends. (새 친구를 좀 사귀었어.)"
+          - "친구 (부정): She doesn't have any close friends here. (그녀는 여기 친한 친구가 없어.)"
+          - "가족 (긍정): My mom bought some fruit. (엄마가 과일을 좀 사셨어.)"
+          - "가족 (의문): Do you have any siblings? (형제자매 있어?)"
+          - "음식 (권유): Would you like some ice cream? (아이스크림 좀 먹을래?)"
+          - "음식 (부탁): Can I have some water, please? (물 좀 주시겠어요?)"
+          - "게임 (any = 아무거나): You can play any game you want. (원하는 아무 게임이나 해도 돼.)"
+          - "일상 (긍정): I need some help with my project. (프로젝트에 도움이 좀 필요해.)"
+          - "일상 (부정): There isn't any milk in the fridge. (냉장고에 우유가 전혀 없어.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 긍정문에 any 사용: I have any friends (X) → I have some friends (O)<br />2. 부정문에 some 사용: I don't have some money (X) → I don't have any money (O)<br />3. 단수 명사에 some/any 사용: some book (X) → some books (O), a book (O)<br />4. some/any 생략: I have friends (△) → I have some friends (O) - some을 쓰는 게 더 자연스러워요!<br />5. 권유/부탁에 any 사용: Would you like any tea? (△) → Would you like some tea? (O)"
+      - type: text
+        content: "<span class='highlight'>some vs any 비교:</span><br /><br />• 긍정문: I have some money. (O) / I have any money. (X)<br />• 부정문: I don't have any money. (O) / I don't have some money. (X)<br />• 일반 의문문: Do you have any money? (O)<br />• 권유 의문문: Would you like some coffee? (O) - yes를 기대할 때<br />• 부탁 의문문: Can I have some water? (O) - yes를 기대할 때"
+      - type: text
+        content: "<span class='highlight'>any의 특별한 의미: '아무거나'</span><br />any는 긍정문에서 '아무 ~나', '어떤 ~든'이라는 의미로도 사용됩니다.<br />• You can sit in any chair. (아무 의자나 앉아도 돼.)<br />• Any student can join the club. (어떤 학생이든 동아리에 가입할 수 있어.)<br />• Come any time you want. (원할 때 아무 때나 와.)<br />이때는 '선택의 자유'를 강조하는 긍정적인 의미입니다!"
+      - type: text
+        content: "<span class='highlight'>some/any의 대명사 사용:</span><br />some과 any는 명사 없이 단독으로도 사용할 수 있습니다.<br />• A: Do you want some cookies? B: Yes, I'd like some. (응, 좀 줘.)<br />• A: Do you have any money? B: No, I don't have any. (아니, 전혀 없어.)<br />• There are some on the table. (테이블 위에 좀 있어.)<br />앞에서 말한 명사를 반복하지 않을 때 사용합니다."
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I have some books."
+          - "I don't have any books."
+          - "Do you have any books?"
+          - "Would you like some tea?"
+          - "Can I have some water?"
+          - "There isn't any milk left."
+          - "You can take any seat."
+          - "I need some help."
+      - type: qna
+        question: "Q1. 1-3번 문장을 비교해 보세요. 긍정문, 부정문, 의문문에서 각각 어떤 단어를 사용하나요?"
+        answer: "긍정문: some (I have some books.)<br />부정문: any (I don't have any books.)<br />의문문: any (Do you have any books?)<br />기본 규칙: 긍정문에는 some, 부정문과 의문문에는 any를 사용합니다."
+      - type: qna
+        question: "Q2. 4-5번 문장은 의문문인데 왜 any가 아닌 some을 사용하나요?"
+        answer: "Would you like ~?는 '권유'이고, Can I have ~?는 '부탁'입니다.<br />권유나 부탁을 할 때는 'yes'라는 대답을 기대하기 때문에 some을 사용합니다.<br />상대방에게 무언가를 제공하거나 요청할 때는 some을 쓰는 것이 더 자연스럽습니다!"
+      - type: qna
+        question: "Q3. 7번 문장 'You can take any seat.'에서 any가 어떤 의미로 사용되었나요?"
+        answer: "'아무 자리나'라는 의미입니다.<br />이 문장은 긍정문이지만 any를 사용합니다.<br />any가 '아무 ~나', '어떤 ~든'이라는 '선택의 자유'를 나타낼 때는 긍정문에서도 사용됩니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. some과 any는 각각 어떤 종류의 문장에서 사용하나요?"
+        answer: "some: 긍정문, 권유/부탁하는 의문문<br />any: 부정문, 일반 의문문<br />평가 기준: 각각 한 가지 이상 맞으면 정답입니다."
+      - type: qna
+        question: "R2. 'Would you like some coffee?'는 의문문인데 왜 any가 아닌 some을 쓰나요?"
+        answer: "권유하는 문장이고, 'yes'라는 대답을 기대하기 때문입니다.<br />평가 기준: '권유', '제안', 'yes를 기대' 중 하나를 언급하면 정답입니다."
+      - type: qna
+        question: "R3. any가 '아무거나'라는 의미로 쓰일 때 예문을 하나 만들어 보세요."
+        answer: "예: You can choose any color. / You can sit in any chair. / Come any time.<br />평가 기준: any + 명사 형태로 '아무 ~나'라는 의미가 전달되면 정답입니다."
+      - type: qna
+        question: "R4. some/any는 어떤 종류의 명사와 함께 사용하나요?"
+        answer: "셀 수 있는 명사의 복수형 (some books, any friends)<br />셀 수 없는 명사 (some water, any money)<br />평가 기준: 두 가지 모두 언급하면 정답입니다."
+      - type: qna
+        question: "R5. 'I don't have some money.'가 틀린 이유는?"
+        answer: "부정문에서는 some이 아니라 any를 사용해야 합니다.<br />올바른 문장: I don't have any money.<br />평가 기준: '부정문에서는 any를 쓴다'고 답하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 some 또는 any를 넣으세요."
+      - type: qna
+        question: "Q1. I have ___ homework to do tonight."
+        answer: "some<br />설명: 긍정문이므로 some을 사용합니다."
+      - type: qna
+        question: "Q2. Do you have ___ brothers or sisters?"
+        answer: "any<br />설명: 일반 의문문이므로 any를 사용합니다."
+      - type: qna
+        question: "Q3. There isn't ___ juice in the fridge."
+        answer: "any<br />설명: 부정문(isn't)이므로 any를 사용합니다."
+      - type: qna
+        question: "Q4. Would you like ___ cookies?"
+        answer: "some<br />설명: 권유하는 의문문이므로 some을 사용합니다."
+      - type: qna
+        question: "Q5. She doesn't have ___ friends at the new school."
+        answer: "any<br />설명: 부정문(doesn't have)이므로 any를 사용합니다."
+      - type: qna
+        question: "Q6. Can I borrow ___ money?"
+        answer: "some<br />설명: 부탁하는 의문문이므로 some을 사용합니다."
+      - type: qna
+        question: "Q7. You can play ___ game you want."
+        answer: "any<br />설명: '아무 게임이나'라는 의미로 any를 사용합니다."
+      - type: qna
+        question: "Q8. We bought ___ snacks for the party."
+        answer: "some<br />설명: 긍정문이므로 some을 사용합니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 친구가 좀 있어."
+        answer: "I have some friends.<br />평가 기준: some friends 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T2. 질문 있나요?"
+        answer: "Do you have any questions?<br />평가 기준: any questions (의문문이므로 any) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T3. 냉장고에 우유가 전혀 없어."
+        answer: "There isn't any milk in the fridge.<br />평가 기준: isn't any milk (부정문이므로 any) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T4. 케이크 좀 드실래요?"
+        answer: "Would you like some cake?<br />평가 기준: some cake (권유이므로 some) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T5. 물 좀 주시겠어요?"
+        answer: "Can I have some water, please?<br />평가 기준: some water (부탁이므로 some) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T6. 아무 색이나 골라도 돼."
+        answer: "You can choose any color.<br />평가 기준: any color ('아무 ~나' 의미) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T7. 나는 돈이 전혀 없어."
+        answer: "I don't have any money.<br />평가 기준: don't have any money (부정문이므로 any) 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "T8. 도움이 좀 필요해요."
+        answer: "I need some help.<br />평가 기준: some help (긍정문이므로 some) 구조가 맞으면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. 긍정문 → 부정문: I have some money."
+        answer: "I don't have any money.<br />설명: 부정문이 되면 some이 any로 바뀝니다."
+      - type: qna
+        question: "TF2. 긍정문 → 의문문: She has some questions."
+        answer: "Does she have any questions?<br />설명: 의문문이 되면 some이 any로 바뀝니다."
+      - type: qna
+        question: "TF3. 부정문 → 긍정문: There isn't any water in the bottle."
+        answer: "There is some water in the bottle.<br />설명: 긍정문이 되면 any가 some으로 바뀝니다."
+      - type: qna
+        question: "TF4. 일반 의문문 → 권유: Do you have any coffee?"
+        answer: "Would you like some coffee?<br />설명: 권유 의문문에서는 any가 아닌 some을 사용합니다."
+      - type: qna
+        question: "TF5. 틀린 문장 고치기: I don't have some time."
+        answer: "I don't have any time.<br />설명: 부정문에서는 some이 아닌 any를 사용합니다."
+      - type: qna
+        question: "TF6. 틀린 문장 고치기: Would you like any tea?"
+        answer: "Would you like some tea?<br />설명: 권유하는 의문문에서는 any가 아닌 some을 사용합니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요!"
+      - type: qna
+        question: "A1. 가방 안에 있는 것들에 대해 2-3문장을 써 보세요. (some 사용)"
+        answer: "예시: I have some books in my bag. I have some pencils too. There is some money in my wallet.<br />평가 기준: some + 복수명사 또는 불가산명사 구조를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A2. 냉장고에 없는 것들에 대해 2-3문장을 써 보세요. (any 사용)"
+        answer: "예시: There isn't any juice in the fridge. We don't have any eggs. There isn't any butter left.<br />평가 기준: 부정문 + any 구조를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A3. 친구에게 무언가를 권유하는 문장 2개를 써 보세요. (Would you like some ~?)"
+        answer: "예시: Would you like some pizza? Would you like some water? Would you like some candy?<br />평가 기준: Would you like some + 명사? 구조가 맞으면 정답입니다."
+      - type: qna
+        question: "A4. '아무거나' 의미로 any를 사용한 문장 2개를 써 보세요."
+        answer: "예시: You can read any book you want. You can come any day. You can choose any seat.<br />평가 기준: any가 '아무 ~나'의 의미로 사용되면 정답입니다."
+      - type: qna
+        question: "A5. 물건을 빌리거나 요청하는 문장을 2개 써 보세요. (Can I have/borrow some ~?)"
+        answer: "예시: Can I borrow some money? Can I have some paper? Can I borrow some pencils?<br />평가 기준: Can I have/borrow some + 명사? 구조가 맞으면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 대화의 빈칸을 채우세요.<br />A: Do you have ___ plans for the weekend?<br />B: Yes, I have ___ plans. I'm going to visit my grandma."
+        answer: "A: any (의문문)<br />B: some (긍정문)<br />설명: 의문문에서는 any, 긍정문에서는 some을 사용합니다."
+      - type: qna
+        question: "C2. 다음 문장들 중 틀린 것을 모두 찾아 고치세요.<br />a) I have any friends.<br />b) Do you have some questions?<br />c) Would you like some cookies?"
+        answer: "a) I have any friends. (X) → I have some friends. (O)<br />b) Do you have some questions? (△) → Do you have any questions? (O) - 일반적으로 any가 더 자연스러움<br />c) Would you like some cookies? (O) - 권유 의문문이므로 some이 맞음"
+      - type: qna
+        question: "C3. 다음 상황에서 some과 any 중 어떤 것을 사용해야 하는지 설명하세요.<br />상황: 손님에게 차를 권유할 때"
+        answer: "some을 사용합니다.<br />예: Would you like some tea?<br />이유: 권유하는 의문문에서는 'yes'라는 대답을 기대하기 때문에 some을 사용합니다. any를 쓰면 어색하고 덜 친절하게 들립니다."
+      - type: qna
+        question: "C4. 'any'가 '아무거나'라는 의미로 사용된 문장과 부정/의문에서 사용된 문장을 각각 1개씩 만드세요."
+        answer: "아무거나 의미: Any student can join. (어떤 학생이든 가입할 수 있어.)<br />부정문: I don't have any pets. (나는 애완동물이 전혀 없어.)<br />의문문: Do you have any pets? (애완동물 있어?)<br />평가 기준: 각각의 의미가 맞게 사용되면 정답입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. some은 어떤 문장에서 사용하나요?"
+        answer: "긍정문, 권유/부탁 의문문"
+      - type: qna
+        question: "SR2. any는 어떤 문장에서 사용하나요?"
+        answer: "부정문, 일반 의문문, '아무거나' 의미일 때"
+      - type: qna
+        question: "SR3. 빈칸: I have ___ homework. (some / any)"
+        answer: "some (긍정문)"
+      - type: qna
+        question: "SR4. 빈칸: I don't have ___ time. (some / any)"
+        answer: "any (부정문)"
+      - type: qna
+        question: "SR5. 빈칸: Do you have ___ questions? (some / any)"
+        answer: "any (의문문)"
+      - type: qna
+        question: "SR6. 빈칸: Would you like ___ coffee? (some / any)"
+        answer: "some (권유)"
+      - type: qna
+        question: "SR7. 번역: 나는 친구가 좀 있어."
+        answer: "I have some friends."
+      - type: qna
+        question: "SR8. 번역: 질문 있나요?"
+        answer: "Do you have any questions?"
+      - type: qna
+        question: "SR9. 틀린 곳 고치기: I don't have some money."
+        answer: "I don't have any money."
+      - type: qna
+        question: "SR10. any가 '아무거나' 의미로 쓰인 예문 1개"
+        answer: "예: You can choose any color. / Any student can join."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. 긍정문에서는 some, 부정문과 의문문에서는 any를 사용한다는 것을 알고 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 가장 중요한 규칙을 이해했어요.<br />어렵다면: 긍정문 = some, 부정문/의문문 = any를 기억하세요!"
+      - type: qna
+        question: "SC2. 권유(Would you like ~?)나 부탁(Can I have ~?)에서는 some을 쓴다는 것을 기억하나요?"
+        answer: "할 수 있다면: 대단해요! 예외적인 상황도 잘 알고 있습니다.<br />어렵다면: 권유/부탁할 때는 'yes'를 기대하므로 some을 써요!"
+      - type: qna
+        question: "SC3. any가 '아무거나'라는 의미로 긍정문에서도 쓰일 수 있다는 것을 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! any의 특별한 용법까지 이해했습니다.<br />어렵다면: You can take any seat. = 아무 자리나 앉아도 돼. any가 '선택의 자유'를 나타낼 때!"
+      - type: note
+        content: "잘했어요! some과 any는 한국어에 없는 개념이라 처음엔 헷갈릴 수 있어요. 하지만 기본 규칙(긍정문=some, 부정문/의문문=any)만 기억하면 대부분 맞출 수 있습니다. 권유/부탁할 때 some을 쓰는 것도 잊지 마세요!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 'Would you like some ~?'처럼 권유할 때 some을 쓰는 것과, 'You can choose any ~'처럼 '아무거나' 의미로 any를 쓰는 것을 연습하세요!"

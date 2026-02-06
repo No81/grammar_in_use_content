@@ -1,0 +1,259 @@
+title: "Unit 75 · not + any / no / none (한정사와 대명사)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 '없다'를 표현하는 방법은 여러 가지가 있습니다. not + any, no, none을 사용할 수 있는데, 의미는 같지만 문장에서 사용하는 방식이 다릅니다. 영어에서는 이중 부정(double negative)을 쓰지 않습니다!"
+      - type: list
+        heading: "형식 (Form)"
+        list:
+          - "not + any + 명사: I don't have any money. (나는 돈이 없어.)"
+          - "no + 명사: I have no money. (나는 돈이 없어.)"
+          - "none (대명사, 명사 없이): How much money? None. (얼마나? 없어.)"
+          - "none of + 명사구: None of them came. (그들 중 아무도 안 왔어.)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> not + any와 no는 같은 의미입니다! 'I don't have any friends'와 'I have no friends'는 똑같이 '나는 친구가 없어'라는 뜻입니다. no를 쓰면 조금 더 강조되는 느낌이 있습니다. none은 명사 없이 혼자 쓰는 대명사입니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• not + any: 부정문에서 자연스럽게 - I don't have any homework.<br />• no: 긍정문 형태로 강조할 때 - I have no homework.<br />• none: 질문에 대답할 때, 명사를 반복하지 않을 때 - How many books? None.<br />• none of: 특정 그룹 중 아무것도/아무도 없을 때 - None of my friends like math."
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "돈 관련: I don't have any money. = I have no money. (나는 돈이 없어.)"
+          - "친구 관련: She doesn't have any friends here. = She has no friends here. (그녀는 여기 친구가 없어.)"
+          - "시간 관련: I don't have any time. = I have no time. (나는 시간이 없어.)"
+          - "음식 관련: There isn't any milk. = There is no milk. (우유가 없어.)"
+          - "숙제 관련: I don't have any homework today. = I have no homework today. (오늘 숙제가 없어.)"
+          - "none 대답: How many pets do you have? None. (몇 마리? 없어.)"
+          - "none of + 대명사: None of them understood. (그들 중 아무도 이해 못 했어.)"
+          - "none of + 명사: None of the students were late. (학생들 중 아무도 안 늦었어.)"
+          - "복수 명사: I don't have any brothers. = I have no brothers. (나는 형제가 없어.)"
+          - "불가산 명사: There isn't any water. = There is no water. (물이 없어.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수 - 이중 부정 금지!<br />1. I don't have no money. (X) → I don't have any money. (O) 또는 I have no money. (O)<br />2. I don't know nothing. (X) → I don't know anything. (O) 또는 I know nothing. (O)<br />3. She doesn't have no friends. (X) → She doesn't have any friends. (O)<br />4. none을 명사와 함께 쓰기: I have none books. (X) → I have no books. (O) 또는 I have none. (O)<br />5. any를 긍정문에서 쓰기: I have any money. (X) → I have some money. (O)"
+      - type: text
+        content: "<span class='highlight'>not + any vs no 비교:</span><br />• not + any: I don't have any questions. (부정문 + any)<br />• no: I have no questions. (긍정문 형태 + no)<br />→ 의미는 똑같습니다! no를 쓰면 문장이 짧아지고 조금 더 강조됩니다.<br /><br />• 복수 가능: any books = no books<br />• 불가산 가능: any water = no water"
+      - type: text
+        content: "<span class='highlight'>none vs none of:</span><br />• none (혼자): How many? None. / Is there any? None.<br />• none of + the/my/these + 명사: None of the apples are ripe. (사과들 중 하나도)<br />• none of + 대명사: None of them / None of us / None of it<br /><br />주의: none of 뒤에는 항상 특정한 것(the, my, these, them 등)이 옵니다!"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I don't have any money."
+          - "I have no money."
+          - "She doesn't eat any meat."
+          - "She eats no meat."
+          - "How many brothers do you have? None."
+          - "None of my friends like spiders."
+          - "There isn't any milk in the fridge."
+          - "There is no milk in the fridge."
+      - type: qna
+        question: "Q1. 1-2번 문장과 3-4번 문장, 7-8번 문장을 각각 비교해 보세요. 의미가 같나요 다른가요?"
+        answer: "의미가 같습니다!<br />don't/doesn't + any = no (같은 의미)<br />I don't have any money = I have no money"
+      - type: qna
+        question: "Q2. 'no'가 있는 문장(2, 4, 8번)의 동사 형태를 보세요. don't/doesn't가 있나요?"
+        answer: "없습니다! no를 쓸 때는 동사가 긍정형입니다.<br />I have no money. (have - 긍정형)<br />이중 부정을 피하기 위해서입니다."
+      - type: qna
+        question: "Q3. 5번 문장에서 'None'은 무엇을 대신하고 있나요?"
+        answer: "brothers를 대신합니다.<br />How many brothers? None (= no brothers / zero brothers)<br />none은 명사 없이 혼자 쓰는 대명사입니다."
+      - type: qna
+        question: "Q4. 6번 문장 'None of my friends'에서 none of 뒤에 무엇이 오나요?"
+        answer: "my friends (소유격 + 명사)가 옵니다.<br />none of 뒤에는 the, my, these 등 특정한 것이 와야 합니다.<br />None of friends (X) → None of my friends (O)"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 'I don't have any money'를 no를 사용해서 같은 의미로 바꾸면?"
+        answer: "I have no money.<br />평가 기준: don't를 빼고 any를 no로 바꾸면 정답입니다."
+      - type: qna
+        question: "R2. 영어에서 왜 'I don't have no money'가 틀린 문장인가요?"
+        answer: "이중 부정(double negative)이기 때문입니다.<br />영어에서는 부정을 두 번 쓰면 안 됩니다.<br />평가 기준: '이중 부정'이라고 답하면 정답입니다."
+      - type: qna
+        question: "R3. none은 언제 쓰나요?"
+        answer: "명사 없이 혼자 쓸 때 (대명사로) 씁니다.<br />예: How many? None. / I wanted some cake, but there was none.<br />평가 기준: '명사 없이' 또는 '대명사로'라고 답하면 정답입니다."
+      - type: qna
+        question: "R4. none of 뒤에는 무엇이 와야 하나요?"
+        answer: "the, my, these 등 + 명사 또는 대명사(them, us 등)<br />예: None of the students, None of my friends, None of them<br />평가 기준: '특정한 것' 또는 예시를 들면 정답입니다."
+      - type: qna
+        question: "R5. not + any와 no 중 어느 것이 더 강조되는 느낌인가요?"
+        answer: "no가 더 강조되는 느낌입니다.<br />I have no time! (시간 없어!)<br />평가 기준: 'no'라고 답하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 any, no, 또는 none을 넣으세요."
+      - type: qna
+        question: "Q1. I don't have ___ homework today."
+        answer: "any<br />설명: don't가 있으므로 any를 씁니다. (부정문 + any)"
+      - type: qna
+        question: "Q2. She has ___ brothers or sisters."
+        answer: "no<br />설명: has (긍정형)이므로 no를 씁니다."
+      - type: qna
+        question: "Q3. How many eggs are there? ___."
+        answer: "None<br />설명: 명사 없이 대답할 때 none을 씁니다."
+      - type: qna
+        question: "Q4. There isn't ___ milk in the fridge."
+        answer: "any<br />설명: isn't가 있으므로 any를 씁니다."
+      - type: qna
+        question: "Q5. ___ of my friends came to my party."
+        answer: "None<br />설명: None of + 특정 명사구 (my friends)"
+      - type: qna
+        question: "Q6. I have ___ idea what to do."
+        answer: "no<br />설명: have (긍정형)이므로 no를 씁니다. (have no idea = 전혀 모르겠어)"
+      - type: qna
+        question: "Q7. We don't have ___ time to waste."
+        answer: "any<br />설명: don't가 있으므로 any를 씁니다."
+      - type: qna
+        question: "Q8. ___ of the answers were correct."
+        answer: "None<br />설명: None of + the answers (특정 답들)"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. not + any 또는 no를 사용하세요."
+      - type: qna
+        question: "T1. 나는 돈이 없어. (not + any 사용)"
+        answer: "I don't have any money.<br />평가 기준: don't have any money로 쓰면 정답입니다."
+      - type: qna
+        question: "T2. 나는 돈이 없어. (no 사용)"
+        answer: "I have no money.<br />평가 기준: have no money로 쓰면 정답입니다."
+      - type: qna
+        question: "T3. 냉장고에 우유가 없어."
+        answer: "There isn't any milk in the fridge. 또는 There is no milk in the fridge.<br />평가 기준: 둘 중 하나로 쓰면 정답입니다."
+      - type: qna
+        question: "T4. 그녀는 친구가 없어."
+        answer: "She doesn't have any friends. 또는 She has no friends.<br />평가 기준: 둘 중 하나로 쓰면 정답입니다."
+      - type: qna
+        question: "T5. 펜이 몇 개 있어? 없어."
+        answer: "How many pens are there? None.<br />평가 기준: None으로 대답하면 정답입니다."
+      - type: qna
+        question: "T6. 그들 중 아무도 오지 않았어."
+        answer: "None of them came.<br />평가 기준: None of them으로 시작하면 정답입니다."
+      - type: qna
+        question: "T7. 나는 시간이 없어."
+        answer: "I don't have any time. 또는 I have no time.<br />평가 기준: 둘 중 하나로 쓰면 정답입니다."
+      - type: qna
+        question: "T8. 학생들 중 아무도 숙제를 안 했어."
+        answer: "None of the students did their homework.<br />평가 기준: None of the students로 시작하면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "not + any 문장을 no 문장으로, no 문장을 not + any 문장으로 바꿔 보세요."
+      - type: qna
+        question: "TF1. not + any → no: I don't have any brothers."
+        answer: "I have no brothers.<br />설명: don't를 빼고 any를 no로 바꿉니다."
+      - type: qna
+        question: "TF2. no → not + any: She has no homework."
+        answer: "She doesn't have any homework.<br />설명: 동사를 부정형으로 바꾸고 no를 any로 바꿉니다."
+      - type: qna
+        question: "TF3. not + any → no: There isn't any water in the bottle."
+        answer: "There is no water in the bottle.<br />설명: isn't를 is로 바꾸고 any를 no로 바꿉니다."
+      - type: qna
+        question: "TF4. no → not + any: We have no time."
+        answer: "We don't have any time.<br />설명: 동사를 부정형으로 바꾸고 no를 any로 바꿉니다."
+      - type: qna
+        question: "TF5. 틀린 문장 고치기: I don't have no money."
+        answer: "I don't have any money. 또는 I have no money.<br />설명: 이중 부정은 틀립니다. 하나만 사용하세요."
+      - type: qna
+        question: "TF6. 틀린 문장 고치기: She doesn't know nothing."
+        answer: "She doesn't know anything. 또는 She knows nothing.<br />설명: 이중 부정은 틀립니다. 하나만 사용하세요."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요! not + any, no, none을 사용해 보세요."
+      - type: qna
+        question: "A1. 지금 가지고 있지 않은 것을 3가지 써 보세요. (I don't have any... 또는 I have no...)"
+        answer: "예시: I don't have any pets. I have no siblings. I don't have any homework today.<br />평가 기준: not + any 또는 no를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A2. 냉장고나 가방에 없는 것을 2가지 써 보세요. (There isn't any... 또는 There is no...)"
+        answer: "예시: There isn't any juice in my fridge. There is no chocolate in my bag.<br />평가 기준: There isn't any 또는 There is no를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A3. 'None of my friends...'로 시작하는 문장을 2개 만들어 보세요."
+        answer: "예시: None of my friends like horror movies. None of my friends have been to Japan.<br />평가 기준: None of my friends로 시작하고 문법이 맞으면 정답입니다."
+      - type: qna
+        question: "A4. 질문과 None으로 대답하는 대화를 2개 만들어 보세요."
+        answer: "예시:<br />Q: How many brothers do you have? A: None.<br />Q: How much money is left? A: None.<br />평가 기준: None으로 올바르게 대답하면 정답입니다."
+      - type: qna
+        question: "A5. 'I have no idea...'를 사용해서 문장을 만들어 보세요."
+        answer: "예시: I have no idea what to eat for lunch. I have no idea how to solve this problem.<br />평가 기준: I have no idea로 시작하는 문장이면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장들 중 틀린 것을 모두 찾아 고치세요:<br />a) I don't have any money.<br />b) I don't have no money.<br />c) I have no money.<br />d) She doesn't know nothing."
+        answer: "틀린 문장: b, d<br />b) I don't have no money. → I don't have any money. 또는 I have no money.<br />d) She doesn't know nothing. → She doesn't know anything. 또는 She knows nothing.<br />설명: 이중 부정(don't + no, doesn't + nothing)은 영어에서 틀립니다."
+      - type: qna
+        question: "C2. 빈칸에 알맞은 것을 고르고 이유를 설명하세요: '___ of the students passed the test.' (No / None)"
+        answer: "None<br />설명: none of + the students (특정 그룹)입니다.<br />No는 바로 명사 앞에 옵니다: No students passed. (O)<br />None of는 특정 명사구 앞에 옵니다: None of the students (O)"
+      - type: qna
+        question: "C3. 다음 대화의 빈칸을 채우세요:<br />A: Do you have any pets?<br />B: No, I have ___.<br />A: How about your sister?<br />B: She has ___ pets either."
+        answer: "B: No, I have none. (또는 no pets)<br />B: She has no pets either.<br />설명: 첫 번째 빈칸은 명사 없이 대답하므로 none, 두 번째는 명사(pets)와 함께이므로 no"
+      - type: qna
+        question: "C4. 'None of them'과 'No one'의 차이점을 설명하고 예문을 만들어 보세요."
+        answer: "None of them = 그들 중 아무도 (특정 그룹 중에서)<br />No one = 아무도 (일반적으로, 사람만)<br /><br />예문:<br />None of them came to the party. (그들 중 아무도 안 왔어)<br />No one came to the party. (아무도 안 왔어 - 전혀)<br /><br />설명: None of them은 특정 그룹, No one은 일반적인 '아무도'"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. not + any → no: I don't have any time."
+        answer: "I have no time."
+      - type: qna
+        question: "SR2. no → not + any: She has no friends."
+        answer: "She doesn't have any friends."
+      - type: qna
+        question: "SR3. 빈칸: How many pencils? ___."
+        answer: "None"
+      - type: qna
+        question: "SR4. 빈칸: ___ of the answers were right."
+        answer: "None"
+      - type: qna
+        question: "SR5. 번역: 나는 돈이 없어. (no 사용)"
+        answer: "I have no money."
+      - type: qna
+        question: "SR6. 번역: 그들 중 아무도 이해 못 했어."
+        answer: "None of them understood."
+      - type: qna
+        question: "SR7. 틀린 곳 고치기: I don't have no homework."
+        answer: "I don't have any homework. 또는 I have no homework."
+      - type: qna
+        question: "SR8. 틀린 곳 고치기: She doesn't know nothing."
+        answer: "She doesn't know anything. 또는 She knows nothing."
+      - type: qna
+        question: "SR9. 빈칸: There isn't ___ milk."
+        answer: "any"
+      - type: qna
+        question: "SR10. 빈칸: There is ___ milk."
+        answer: "no"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. not + any와 no가 같은 의미라는 것을 알고 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 두 표현을 자유롭게 바꿔 쓸 수 있어요.<br />어렵다면: I don't have any money = I have no money, 똑같은 뜻이에요!"
+      - type: qna
+        question: "SC2. 이중 부정을 피해야 한다는 것을 기억하나요?"
+        answer: "할 수 있다면: 대단해요! 영어의 중요한 규칙을 이해했습니다.<br />어렵다면: I don't have no money (X) - don't와 no를 함께 쓰면 안 돼요!"
+      - type: qna
+        question: "SC3. none과 none of의 차이를 구분할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 상황에 맞게 사용할 수 있어요.<br />어렵다면: none = 혼자 (How many? None.) / none of + 특정 그룹 (None of them)"
+      - type: qna
+        question: "SC4. no와 none of의 차이를 구분할 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 문법을 잘 이해했어요.<br />어렵다면: no + 명사 (I have no money) / none of + 특정 명사구 (None of my friends)"
+      - type: note
+        content: "잘했어요! not + any = no이고, 같은 의미입니다. 하지만 영어에서 이중 부정(don't + no)은 쓰면 안 돼요! none은 명사 없이 혼자 쓰는 대명사이고, none of는 특정 그룹과 함께 씁니다."
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 이중 부정을 피하는 것을 연습하세요! I don't have any... = I have no... 둘 다 맞지만, I don't have no...는 틀려요!"

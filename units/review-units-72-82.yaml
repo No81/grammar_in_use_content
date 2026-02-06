@@ -1,0 +1,394 @@
+title: "Determiners and Pronouns Review - Units 72-82 종합 복습"
+meta: "대상: 6학년 · 난이도: 통합 · 권장 45-60분 (A4 3-4p)"
+scope:
+  units: "Units 72-82"
+  topics: "지시사(this/that/these/those), one/ones, some/any, no/none/nobody/nothing, 불특정 대명사, every/all, 수량 표현(both/either/neither, much/many/a lot of, few/little)"
+  prerequisite: "Determiners and Pronouns 파트의 모든 유닛 학습 완료"
+sections:
+  - title: "1. Determiners and Pronouns 문법 맵"
+    items:
+      - type: text
+        content: "이번 복습에서는 한정사(determiners)와 대명사(pronouns)의 다양한 용법을 통합하여 정리합니다. 무언가를 가리키고, 양을 표현하고, 선택하는 다양한 방법을 확실히 구분하는 것이 목표입니다."
+      - type: list
+        heading: "이 복습에서 다루는 유닛들"
+        list:
+          - "Unit 72: this/that/these/those - 가까이/멀리, 단수/복수 지시"
+          - "Unit 73: one/ones - 명사 반복을 피하는 대명사"
+          - "Unit 74: some and any - 긍정문 vs 부정문/의문문"
+          - "Unit 75: not + any / no / none - 부정 표현 (이중 부정 금지!)"
+          - "Unit 76: nobody/no one/nothing - 사람/사물의 부정 대명사"
+          - "Unit 77: somebody/anything/nowhere, etc. - 불특정 대명사와 부사"
+          - "Unit 78: every and all - 개별(every) vs 전체(all)"
+          - "Unit 79: all/most/some/any/no/none - 수량 스펙트럼"
+          - "Unit 80: both/either/neither - 둘에 대한 표현 (2/2, 1/2, 0/2)"
+          - "Unit 81: a lot/much/many - 많은 (가산/불가산 구분)"
+          - "Unit 82: (a) little/(a) few - 조금 있다 vs 거의 없다"
+      - type: note
+        content: "<span class='highlight'>핵심 구분점:</span><br />- some vs any: 긍정문 vs 부정문/의문문<br />- no vs none: 한정사(명사 앞) vs 대명사(단독/of와 함께)<br />- every vs all: 단수 취급 vs 복수 취급<br />- much/many vs a lot of: 부정문/의문문 vs 긍정문<br />- few/little vs a few/a little: 부정적(거의 없다) vs 긍정적(조금 있다)"
+      - type: list
+        heading: "수량 표현 스펙트럼"
+        list:
+          - "100% 전부: all, every"
+          - "50% 이상: most"
+          - "일부: some, a few, a little"
+          - "둘 다: both (2/2)"
+          - "둘 중 하나: either (1/2)"
+          - "거의 없음: few, little"
+          - "0% 없음: no, none, neither (0/2)"
+
+  - title: "2. 핵심 개념 비교"
+    items:
+      - type: text
+        content: "한정사와 대명사 사용에서 가장 헷갈리는 부분들을 비교해 봅시다."
+      - type: text
+        content: "<span class='highlight'>1. some vs any: 긍정문 vs 부정문/의문문</span><br /><br /><b>구분 기준:</b><br />- some: 긍정문, 권유/부탁 의문문<br />- any: 부정문, 일반 의문문, '아무거나' 의미<br /><br /><b>예문 비교:</b><br />- I have some money. (O) / I have any money. (X)<br />- I don't have any money. (O) / I don't have some money. (X)<br />- Would you like some coffee? (O, 권유) - Yes 기대<br />- Do you have any questions? (O, 일반 의문문)<br /><br /><b>흔한 실수:</b><br />- I don't have some time. (X) -> I don't have any time. (O)<br />- Would you like any tea? (X) -> Would you like some tea? (O)<br /><br /><b>판별 팁:</b> 긍정문에서 some, 부정문/의문문에서 any! 권유/부탁은 예외적으로 some!"
+      - type: text
+        content: "<span class='highlight'>2. much/many vs a lot of: 가산/불가산 + 문장 종류</span><br /><br /><b>구분 기준:</b><br />- many + 셀 수 있는 명사 복수: many books, many friends<br />- much + 셀 수 없는 명사: much water, much time<br />- a lot of + 둘 다 가능: a lot of books, a lot of water<br />- much/many는 주로 부정문/의문문에서, a lot of는 긍정문에서!<br /><br /><b>예문 비교:</b><br />- I have a lot of friends. (O, 긍정문에서 자연스러움)<br />- I have many friends. (어색함, 격식체에서 사용)<br />- I don't have many friends. (O, 부정문에서 자연스러움)<br />- I don't have much time. (O, 부정문 + 불가산명사)<br /><br /><b>흔한 실수:</b><br />- I have much books. (X) -> I have many books. / I have a lot of books. (O)<br />- How many water? (X) -> How much water? (O)<br /><br /><b>판별 팁:</b> 긍정문에서는 a lot of가 가장 자연스럽고, 부정문/의문문에서는 much/many 사용!"
+      - type: text
+        content: "<span class='highlight'>3. few/little vs a few/a little: 부정적 vs 긍정적 의미</span><br /><br /><b>구분 기준:</b><br />- few/little (a 없음): 거의 없다 (부정적, 부족함)<br />- a few/a little (a 있음): 조금 있다 (긍정적, 충분함)<br />- few/a few + 셀 수 있는 명사 복수<br />- little/a little + 셀 수 없는 명사<br /><br /><b>예문 비교:</b><br />- I have few friends. (친구가 거의 없어 - 슬픔)<br />- I have a few friends. (친구가 몇 명 있어 - 괜찮음)<br />- I have little time. (시간이 거의 없어 - 서둘러야 함)<br />- I have a little time. (시간이 조금 있어 - 여유 있음)<br /><br /><b>흔한 실수:</b><br />- few water (X) -> little water (O) - water는 셀 수 없음!<br />- I have few friends. (슬픈 말!) -> I have a few friends. (괜찮은 말)<br /><br /><b>판별 팁:</b> 'a'가 있으면 긍정적(조금 있다), 없으면 부정적(거의 없다)!"
+      - type: text
+        content: "<span class='highlight'>4. every vs all: 단수(개별) vs 복수(전체)</span><br /><br /><b>구분 기준:</b><br />- every + 단수 명사 + 단수 동사: 개별 강조<br />- all + 복수 명사 + 복수 동사: 전체 강조<br />- everybody/everyone/everything: 단수 동사!<br /><br /><b>예문 비교:</b><br />- Every student has a book. (학생 각각이 책을 가지고 있다)<br />- All students have books. (학생들 전체가 책을 가지고 있다)<br />- Everyone is happy. (O) / Everyone are happy. (X)<br />- I study every day. (매일, 빈도) vs I studied all day. (하루 종일, 지속)<br /><br /><b>흔한 실수:</b><br />- Every students (X) -> Every student (O)<br />- Everyone are (X) -> Everyone is (O)<br />- Every of them (X) -> All of them (O)<br /><br /><b>판별 팁:</b> every + 단수, all + 복수! every day(매일) vs all day(하루 종일)!"
+      - type: text
+        content: "<span class='highlight'>5. both/either/neither: 둘에 대한 표현</span><br /><br /><b>구분 기준:</b><br />- both: 둘 다 (2/2) - 복수 동사<br />- either: 둘 중 하나 (1/2) - 단수 동사<br />- neither: 둘 다 아님 (0/2) - 단수 동사, 이미 부정 의미!<br /><br /><b>예문 비교:</b><br />- Both students are smart. (둘 다 똑똑해 - 복수)<br />- Either answer is correct. (둘 중 어느 답이든 맞아 - 단수)<br />- Neither of them likes it. (둘 다 좋아하지 않아 - 단수, 부정 내포)<br /><br /><b>흔한 실수:</b><br />- Both student is (X) -> Both students are (O)<br />- Neither of them don't like it. (X, 이중 부정) -> Neither of them likes it. (O)<br />- either books are (X) -> either book is (O)<br /><br /><b>판별 팁:</b> both=복수, either/neither=단수! neither는 이미 '아님'이므로 not 불필요!"
+      - type: text
+        content: "<span class='highlight'>6. no vs none: 한정사 vs 대명사</span><br /><br /><b>구분 기준:</b><br />- no = 한정사, 명사 앞에 직접 사용: no money, no students<br />- none = 대명사, 단독 또는 of와 함께: None. / None of them.<br /><br /><b>예문 비교:</b><br />- I have no money. (O) / I have none money. (X)<br />- None of them came. (O) / No of them came. (X)<br />- How many? - None. (O, 단독 사용)<br /><br /><b>흔한 실수:</b><br />- None students came. (X) -> No students came. / None of the students came. (O)<br />- I don't have no money. (X, 이중 부정) -> I don't have any money. / I have no money. (O)<br /><br /><b>판별 팁:</b> 명사 앞에 직접 = no, 단독/of와 함께 = none!"
+
+  - title: "3. 통합 진단"
+    items:
+      - type: note
+        content: "각 문제를 풀고 유닛별 점수를 계산해 보세요. 약한 영역을 찾아 Section 7에서 집중 복습하세요."
+      - type: qna
+        question: "D1. ___ is my new phone. (손에 들고)"
+        answer: "This (Unit 72)<br />설명: 가까이 있는 단수는 this입니다."
+      - type: qna
+        question: "D2. I don't like this shirt. Can I see the blue ___?"
+        answer: "one (Unit 73)<br />설명: shirt(단수)를 대신하는 one입니다."
+      - type: qna
+        question: "D3. I have ___ homework to do tonight. (긍정문)"
+        answer: "some (Unit 74)<br />설명: 긍정문에서는 some을 사용합니다."
+      - type: qna
+        question: "D4. I don't have ___ money. (부정문)"
+        answer: "any (Unit 74)<br />설명: 부정문에서는 any를 사용합니다."
+      - type: qna
+        question: "D5. There is ___ milk in the fridge. (없다는 의미, 긍정문 형태)"
+        answer: "no (Unit 75)<br />설명: 긍정문 형태에서 '없다'는 no + 명사입니다."
+      - type: qna
+        question: "D6. How many students came? - ___. (아무도 안 왔어)"
+        answer: "None (Unit 75)<br />설명: 명사 없이 단독으로 대답할 때 none입니다."
+      - type: qna
+        question: "D7. ___ knows the answer. (아무도 모른다)"
+        answer: "Nobody / No one (Unit 76)<br />설명: 아무도 ~않다는 nobody/no one + 긍정 동사입니다."
+      - type: qna
+        question: "D8. I have ___ to tell you. (말할 것이 있어)"
+        answer: "something (Unit 77)<br />설명: 긍정문에서 무언가는 something입니다."
+      - type: qna
+        question: "D9. ___ student has a textbook. (모든 학생 각각)"
+        answer: "Every (Unit 78)<br />설명: every + 단수 명사 = 각각의 모든."
+      - type: qna
+        question: "D10. ___ students have textbooks. (모든 학생들)"
+        answer: "All (Unit 78)<br />설명: all + 복수 명사 = 전체로서의 모든."
+      - type: qna
+        question: "D11. ___ people like chocolate. (대부분의 사람들, 일반적)"
+        answer: "Most (Unit 79)<br />설명: 일반적인 의미로 대부분은 Most (of 없이)입니다."
+      - type: qna
+        question: "D12. ___ books are interesting. (두 책 다)"
+        answer: "Both (Unit 80)<br />설명: 둘 다는 both + 복수 명사 + 복수 동사입니다."
+      - type: qna
+        question: "D13. ___ answer is correct. (둘 중 어느 답이든)"
+        answer: "Either (Unit 80)<br />설명: 둘 중 하나는 either + 단수 명사 + 단수 동사입니다."
+      - type: qna
+        question: "D14. ___ of them came to the party. (둘 다 안 왔어)"
+        answer: "Neither (Unit 80)<br />설명: 둘 다 아님은 neither입니다."
+      - type: qna
+        question: "D15. I don't have ___ time. (시간이 많지 않아)"
+        answer: "much (Unit 81)<br />설명: time(셀 수 없음) + 부정문 = much입니다."
+      - type: qna
+        question: "D16. She has ___ friends. (친구가 많아, 긍정문)"
+        answer: "a lot of (Unit 81)<br />설명: 긍정문에서 많은은 a lot of가 자연스럽습니다."
+      - type: qna
+        question: "D17. I have ___ time. Let's rest. (시간이 조금 있어)"
+        answer: "a little (Unit 82)<br />설명: time(셀 수 없음) + 긍정적 의미 = a little입니다."
+      - type: qna
+        question: "D18. She has ___ friends. She feels lonely. (친구가 거의 없어)"
+        answer: "few (Unit 82)<br />설명: friends(셀 수 있음) + 부정적 의미 = few입니다."
+      - type: note
+        content: "<span class='highlight'>채점 가이드:</span><br />- Units 72-73 (지시사/one): D1, D2 -> __/2점<br />- Units 74-75 (some/any/no/none): D3, D4, D5, D6 -> __/4점<br />- Units 76-77 (불특정 대명사): D7, D8 -> __/2점<br />- Units 78-79 (every/all/most): D9, D10, D11 -> __/3점<br />- Unit 80 (both/either/neither): D12, D13, D14 -> __/3점<br />- Units 81-82 (많은/조금): D15, D16, D17, D18 -> __/4점<br /><br />총점: __/18점<br />- 16-18점: 훌륭합니다!<br />- 13-15점: 좋아요, 조금만 더 연습!<br />- 9-12점: Section 7에서 약한 영역 복습 필요<br />- 8점 이하: 각 유닛 다시 학습 권장"
+
+  - title: "4. 인터리빙 연습"
+    items:
+      - type: note
+        content: "30개의 문제가 무작위로 섞여 있습니다. 각 문제가 어떤 유닛의 내용인지 생각하며 풀어 보세요."
+      - type: qna
+        question: "I1. I have ___ friends at school. She's happy. (긍정적, 몇 명)"
+        answer: "a few (Unit 82)<br />설명: friends(셀 수 있음) + 긍정적 의미(행복하다) = a few"
+      - type: qna
+        question: "I2. ___ of my friends came to my party. (아무도 안 왔어)"
+        answer: "None (Unit 75)<br />설명: 특정 그룹(my friends)에서 0명 = None of"
+      - type: qna
+        question: "I3. Which shirt do you want? - The red ___."
+        answer: "one (Unit 73)<br />설명: shirt(단수)를 대신하는 대명사 one"
+      - type: qna
+        question: "I4. ___ is knocking at the door. (누군가)"
+        answer: "Someone / Somebody (Unit 77)<br />설명: 긍정문에서 누군가 = someone/somebody"
+      - type: qna
+        question: "I5. I like ___ pizza ___ pasta. (둘 다)"
+        answer: "both...and (Unit 80)<br />설명: 둘 다 좋아한다 = both A and B"
+      - type: qna
+        question: "I6. ___ are my classmates. (멀리 있는 친구들)"
+        answer: "Those (Unit 72)<br />설명: 멀리 + 복수 = those"
+      - type: qna
+        question: "I7. Would you like ___ coffee? (권유)"
+        answer: "some (Unit 74)<br />설명: 권유 의문문에서는 some을 사용"
+      - type: qna
+        question: "I8. ___ student in my class likes math. (모든 학생 각각)"
+        answer: "Every (Unit 78)<br />설명: every + 단수 명사 + 단수 동사"
+      - type: qna
+        question: "I9. There isn't ___ juice in the fridge. (부정문)"
+        answer: "any (Unit 74)<br />설명: 부정문에서는 any를 사용"
+      - type: qna
+        question: "I10. I don't have ___ homework today. (많지 않아)"
+        answer: "much (Unit 81)<br />설명: homework(셀 수 없음) + 부정문 = much"
+      - type: qna
+        question: "I11. ___ knows the secret. (아무도 모른다)"
+        answer: "Nobody / No one (Unit 76)<br />설명: 아무도 ~않다 = nobody/no one + 긍정 동사"
+      - type: qna
+        question: "I12. You can choose ___ color. (아무 색이나)"
+        answer: "any (Unit 74)<br />설명: 긍정문에서 '아무거나' 의미 = any"
+      - type: qna
+        question: "I13. ___ people like music. (대부분, 일반적)"
+        answer: "Most (Unit 79)<br />설명: 일반적인 의미로 대부분 = Most (of 없이)"
+      - type: qna
+        question: "I14. I'll take ___ the bus ___ the subway. (둘 중 하나)"
+        answer: "either...or (Unit 80)<br />설명: 둘 중 하나 선택 = either A or B"
+      - type: qna
+        question: "I15. (전화에서) Hello? ___ is Amy speaking."
+        answer: "This (Unit 72)<br />설명: 전화에서 자기 소개 = This is..."
+      - type: qna
+        question: "I16. I have ___ time. Hurry up! (시간이 거의 없어)"
+        answer: "little (Unit 82)<br />설명: time(셀 수 없음) + 부정적 의미(서둘러) = little"
+      - type: qna
+        question: "I17. ___ answer is correct. (두 답 다 아님)"
+        answer: "Neither (Unit 80)<br />설명: 둘 다 아님 = neither + 단수 명사 + 단수 동사"
+      - type: qna
+        question: "I18. These shoes are nice, but I prefer the black ___."
+        answer: "ones (Unit 73)<br />설명: shoes(복수)를 대신하는 대명사 ones"
+      - type: qna
+        question: "I19. ___ is ready for the trip. (모든 것이)"
+        answer: "Everything (Unit 77)<br />설명: 모든 것 = everything + 단수 동사"
+      - type: qna
+        question: "I20. I have ___ books in my bag. (많은, 긍정문)"
+        answer: "a lot of (Unit 81)<br />설명: 긍정문에서 많은 = a lot of"
+      - type: qna
+        question: "I21. There is ___ water in the bottle. (없다)"
+        answer: "no (Unit 75)<br />설명: 명사 앞에서 없다 = no + 명사"
+      - type: qna
+        question: "I22. ___ of the students in my class passed. (모든 학생들)"
+        answer: "All (Unit 79)<br />설명: 특정 그룹 전부 = All of the + 복수 명사"
+      - type: qna
+        question: "I23. A: I can't swim. B: ___ can I."
+        answer: "Neither (Unit 80)<br />설명: 부정 동의 = Neither + 조동사 + I"
+      - type: qna
+        question: "I24. ___ is at the door? (누구)"
+        answer: "Who (의문사) 또는 문맥상 Somebody (Unit 77)<br />설명: 문맥에 따라 다름. 의문문이면 Who, 진술이면 Somebody"
+      - type: qna
+        question: "I25. I want ___ special for my birthday. (특별한 무언가)"
+        answer: "something (Unit 77)<br />설명: something + 형용사 순서! something special"
+      - type: qna
+        question: "I26. How ___ students are in your class?"
+        answer: "many (Unit 81)<br />설명: students(셀 수 있음) = How many"
+      - type: qna
+        question: "I27. ___ students have textbooks. (그 학생들 둘 다)"
+        answer: "Both (Unit 80)<br />설명: 둘 다 = both + 복수 명사 + 복수 동사"
+      - type: qna
+        question: "I28. I didn't buy ___. (아무것도)"
+        answer: "anything (Unit 76)<br />설명: 부정문에서 아무것도 = not + anything"
+      - type: qna
+        question: "I29. ___ children need love. (모든 아이들, 일반적)"
+        answer: "All (Unit 78)<br />설명: 일반적인 의미로 모든 = All (of 없이)"
+      - type: qna
+        question: "I30. How ___ water do you need?"
+        answer: "much (Unit 81)<br />설명: water(셀 수 없음) = How much"
+
+  - title: "5. 오류 탐지 & 수정"
+    items:
+      - type: note
+        content: "다음 문장에서 틀린 부분을 찾아 고치세요. 어떤 유닛의 규칙을 위반했는지도 확인하세요."
+      - type: qna
+        question: "E1. I don't have some money."
+        answer: "틀린 부분: some<br />문제: 부정문에서 some 사용<br />위반 규칙: Unit 74 - 부정문에서는 any<br />수정: I don't have any money.<br />설명: 긍정문에서 some, 부정문에서 any를 씁니다."
+      - type: qna
+        question: "E2. I have much books."
+        answer: "틀린 부분: much books<br />문제: much를 셀 수 있는 명사와 사용<br />위반 규칙: Unit 81 - much + 셀 수 없는 명사<br />수정: I have many books. / I have a lot of books.<br />설명: books는 셀 수 있으므로 many 또는 a lot of를 씁니다."
+      - type: qna
+        question: "E3. I have few water."
+        answer: "틀린 부분: few water<br />문제: few를 셀 수 없는 명사와 사용<br />위반 규칙: Unit 82 - few + 셀 수 있는 복수명사<br />수정: I have little water. / I have a little water.<br />설명: water는 셀 수 없으므로 little 또는 a little을 씁니다."
+      - type: qna
+        question: "E4. Every students are happy."
+        answer: "틀린 부분: students, are<br />문제: every 뒤에 복수 명사와 복수 동사<br />위반 규칙: Unit 78 - every + 단수 명사 + 단수 동사<br />수정: Every student is happy.<br />설명: every 뒤에는 항상 단수 명사와 단수 동사가 옵니다."
+      - type: qna
+        question: "E5. Everyone are excited."
+        answer: "틀린 부분: are<br />문제: everyone에 복수 동사 사용<br />위반 규칙: Unit 77 - everyone/everybody + 단수 동사<br />수정: Everyone is excited.<br />설명: everyone/everybody/everything은 항상 단수 동사와 함께 씁니다."
+      - type: qna
+        question: "E6. I don't have no money."
+        answer: "틀린 부분: don't + no (이중 부정)<br />문제: 부정 표현을 두 번 사용<br />위반 규칙: Unit 75 - 영어에서 이중 부정 금지<br />수정: I don't have any money. / I have no money.<br />설명: 부정 표현은 한 번만! don't + any 또는 have + no"
+      - type: qna
+        question: "E7. Neither of them don't like it."
+        answer: "틀린 부분: don't (이중 부정)<br />문제: neither에 이미 부정 의미가 있는데 don't 추가<br />위반 규칙: Unit 80 - neither는 이미 부정 의미 포함<br />수정: Neither of them likes it.<br />설명: neither는 '둘 다 아님'이라는 부정이 이미 포함되어 있습니다."
+      - type: qna
+        question: "E8. Both student is smart."
+        answer: "틀린 부분: student, is<br />문제: both 뒤에 단수 명사와 단수 동사<br />위반 규칙: Unit 80 - both + 복수 명사 + 복수 동사<br />수정: Both students are smart.<br />설명: both는 둘 다이므로 항상 복수입니다."
+      - type: qna
+        question: "E9. I like the blue. (색깔만 말함)"
+        answer: "틀린 부분: the blue<br />문제: 형용사만으로 명사 대신 사용<br />위반 규칙: Unit 73 - 명사 대신 one/ones 필요<br />수정: I like the blue one.<br />설명: 형용사만으로는 불완전하고, one이 필요합니다."
+      - type: qna
+        question: "E10. I met interesting someone at the party."
+        answer: "틀린 부분: interesting someone<br />문제: 형용사를 some/any/no/every- 앞에 배치<br />위반 규칙: Unit 77 - 형용사는 뒤에<br />수정: I met someone interesting at the party.<br />설명: something/someone/anything 등 뒤에 형용사가 옵니다."
+      - type: qna
+        question: "E11. None students came to the party."
+        answer: "틀린 부분: None students<br />문제: none을 명사 앞에 직접 사용<br />위반 규칙: Unit 75 - none은 대명사, 명사 앞엔 no<br />수정: No students came. / None of the students came.<br />설명: 명사 앞에 직접 = no, 단독/of와 함께 = none"
+      - type: qna
+        question: "E12. This books are mine."
+        answer: "틀린 부분: This books<br />문제: this(단수)를 복수 명사와 사용<br />위반 규칙: Unit 72 - this/that + 단수, these/those + 복수<br />수정: These books are mine. / This book is mine.<br />설명: 복수 명사와는 these를 씁니다."
+      - type: qna
+        question: "E13. Most of people like music."
+        answer: "틀린 부분: Most of people<br />문제: 일반적인 의미인데 of 사용<br />위반 규칙: Unit 79 - 일반적인 의미면 of 없이<br />수정: Most people like music.<br />설명: 일반적인 의미면 of 없이, 특정 그룹이면 of the/my 사용"
+      - type: qna
+        question: "E14. I have many friends. (일상 대화)"
+        answer: "문법적으로 맞지만 어색함<br />문제: 긍정문에서 many 사용<br />참고 규칙: Unit 81 - 긍정문에서는 a lot of가 더 자연스러움<br />더 자연스러운 표현: I have a lot of friends.<br />설명: 긍정문에서 much/many는 격식체이고, a lot of가 일상 대화에서 자연스럽습니다."
+      - type: qna
+        question: "E15. (전화에서) I am Tom."
+        answer: "틀린 부분: I am<br />문제: 전화에서 자기 소개할 때 I am 사용<br />위반 규칙: Unit 72 - 전화에서는 This is<br />수정: This is Tom.<br />설명: 전화에서 자기 소개는 This is [이름]입니다."
+
+  - title: "6. 통합 프로젝트"
+    items:
+      - type: note
+        content: "여러 유닛의 문법을 함께 사용하여 글을 써 보세요. 각 과제에서 요구하는 문법 요소를 모두 포함해야 합니다."
+      - type: qna
+        question: "P1. 내 방 소개하기: 다음 요소를 모두 포함하여 5문장 이상 쓰세요.<br />- this/that/these/those (물건 가리키기)<br />- some + 명사 (있는 것)<br />- a lot of / many / much (많은 것)<br />- a few / a little (조금 있는 것)"
+        answer: "예시 답안:<br />This is my room. I have a lot of books on this shelf. There are some posters on the wall. Those toys are from my childhood. I have a few plants by the window. There is a little space left on my desk.<br /><br />평가 기준:<br />- 사용한 유닛: 72(this/that/these/those), 74(some), 81(a lot of), 82(a few/a little)<br />- 문법 정확도: 각 표현을 올바른 문맥에서 사용했는지<br />- 창의성: 자연스러운 방 묘사"
+      - type: qna
+        question: "P2. 학교생활 이야기: 다음 요소를 모두 포함하여 5문장 이상 쓰세요.<br />- every + 단수 (매일/각각)<br />- all + 복수 (전체)<br />- some/any (있음/없음)<br />- nobody/nothing (아무도/아무것도 없음)"
+        answer: "예시 답안:<br />Every student in my class likes the English teacher. All students have textbooks. I have some homework every day. I don't have any time to play games during weekdays. Nobody knows the answer to the last question. Nothing is more fun than lunch time!<br /><br />평가 기준:<br />- 사용한 유닛: 78(every/all), 74(some/any), 76(nobody/nothing)<br />- 문법 정확도: every + 단수 동사, all + 복수 동사<br />- 창의성: 학교생활 다양하게 표현"
+      - type: qna
+        question: "P3. 선택 상황 대화 만들기: A와 B의 대화를 만드세요. 다음 표현을 모두 사용하세요.<br />- both...and... (둘 다 좋아한다)<br />- either...or... (둘 중 하나 선택)<br />- neither...nor... (둘 다 싫어한다)<br />- Which one? / The ... one<br />- some/any (있는지 묻거나 답하기)"
+        answer: "예시 답안:<br />A: Do you have any red shirts?<br />B: Yes, I have some. Which one do you want, the red shirt or the blue one?<br />A: I like both the red one and the blue one. They're both nice!<br />B: You can only choose one. Either the red one or the blue one.<br />A: Hmm, neither the red one nor the blue one has pockets. Do you have any with pockets?<br />B: Sorry, I don't have any. Take the green one!<br />A: OK, I'll take the green one.<br /><br />평가 기준:<br />- 사용한 유닛: 80(both/either/neither), 73(one/ones), 74(some/any)<br />- 대화 자연스러움: 선택 상황의 흐름<br />- 다양성: 네 가지 문법 포인트 모두 사용"
+      - type: qna
+        question: "P4. 냉장고 상황 묘사: 다음 요소를 모두 포함하여 5문장 이상 쓰세요.<br />- no + 명사 / none (없는 것)<br />- a little / little (조금 있음/거의 없음)<br />- a few / few (몇 개 있음/거의 없음)<br />- not + any (부정문)"
+        answer: "예시 답안:<br />I opened the fridge. There is no juice. There is a little milk left, so I can have cereal. I found a few eggs - enough for breakfast. But there are few vegetables. We have little cheese, and we don't have any bread. There is none of my favorite yogurt. I need to go shopping!<br /><br />평가 기준:<br />- 사용한 유닛: 75(no/none), 82(little/a little, few/a few), 74(not + any)<br />- 문법 정확도: 가산/불가산 명사 구분<br />- 창의성: 냉장고 상황을 현실적으로 묘사"
+      - type: qna
+        question: "P5. 파티 후기 쓰기: 다음 요소를 모두 포함하여 5문장 이상 쓰세요.<br />- most of + 특정 그룹 (대부분)<br />- someone/everyone (누군가/모두)<br />- something + 형용사 (형용사 뒤에!)<br />- a lot of (많은)<br />- this/that/these/those (가리키기)"
+        answer: "예시 답안:<br />Last weekend, I had a birthday party. Someone brought something delicious - a chocolate cake! Look at these photos from the party! Most of my friends came. Everyone was happy and excited. We ate a lot of food and played a lot of games. That was my best birthday ever! Everything was perfect!<br /><br />평가 기준:<br />- 사용한 유닛: 79(most of), 77(someone/everyone/something/everything), 81(a lot of), 72(this/that/these/those)<br />- 문법 정확도: something + 형용사 순서<br />- 창의성: 파티 분위기 표현"
+
+  - title: "7. 약점 집중 복습"
+    items:
+      - type: note
+        content: "진단 평가(Section 3)에서 약한 영역만 선택해서 푸세요. 모든 영역이 강하다면 건너뛰어도 됩니다."
+      - type: text
+        content: "<span class='highlight'>Units 72-73 복습 (지시사, one/ones)</span>"
+      - type: note
+        content: "핵심: this/that(단수), these/those(복수) / 가까이(this/these), 멀리(that/those) / one(단수 대신), ones(복수 대신)"
+      - type: qna
+        question: "R1. 빈칸 채우기: ___ is my book. (손에 들고) ___ books are on the table. (저기)"
+        answer: "This, Those<br />설명: 가까이 단수 = This, 멀리 복수 = Those"
+      - type: qna
+        question: "R2. 빈칸 채우기: Which bag do you want? - The big ___. Which shoes? - The white ___."
+        answer: "one, ones<br />설명: bag(단수) = one, shoes(복수) = ones"
+      - type: qna
+        question: "R3. 틀린 곳 고치기: This books are mine."
+        answer: "These books are mine.<br />설명: books(복수)와는 These를 씁니다."
+      - type: text
+        content: "<span class='highlight'>Units 74-75 복습 (some/any, no/none)</span>"
+      - type: note
+        content: "핵심: some = 긍정문, any = 부정문/의문문 / no = 명사 앞, none = 단독/of와 함께 / 이중 부정 금지!"
+      - type: qna
+        question: "R4. some/any 선택: I have ___ homework. I don't have ___ time."
+        answer: "some, any<br />설명: 긍정문 = some, 부정문 = any"
+      - type: qna
+        question: "R5. no/none 선택: ___ students came. = ___ of them came."
+        answer: "No, None<br />설명: 명사 앞 = no, of와 함께 = none"
+      - type: qna
+        question: "R6. 틀린 곳 고치기: I don't have no money."
+        answer: "I don't have any money. / I have no money.<br />설명: 이중 부정은 틀립니다."
+      - type: text
+        content: "<span class='highlight'>Units 76-77 복습 (불특정 대명사)</span>"
+      - type: note
+        content: "핵심: somebody/someone(긍정), anybody/anyone(부정/의문) / nothing/nobody = 이미 부정 / 형용사는 뒤에!"
+      - type: qna
+        question: "R7. 빈칸 채우기: ___ is at the door. (누군가) I don't know ___. (아무도)"
+        answer: "Someone/Somebody, anyone/anybody<br />설명: 긍정문 = someone, 부정문 = anyone"
+      - type: qna
+        question: "R8. 틀린 곳 고치기: I want something delicious. / I want delicious something."
+        answer: "첫 번째가 맞습니다: I want something delicious.<br />설명: some/any/no/every- 뒤에 형용사가 옵니다."
+      - type: qna
+        question: "R9. 빈칸 채우기: ___ knows the answer. (아무도 모른다)"
+        answer: "Nobody / No one<br />설명: 아무도 ~않다 = nobody/no one + 긍정 동사"
+      - type: text
+        content: "<span class='highlight'>Units 78-79 복습 (every/all, 수량 표현)</span>"
+      - type: note
+        content: "핵심: every + 단수 + 단수 동사 / all + 복수 + 복수 동사 / everyone/everything = 단수! / 일반적 = of 없이"
+      - type: qna
+        question: "R10. every/all 선택: ___ student has a pencil. ___ students have pencils."
+        answer: "Every, All<br />설명: 단수와 함께 = every, 복수와 함께 = all"
+      - type: qna
+        question: "R11. 빈칸 채우기: Everyone ___ (is/are) happy. All of them ___ (is/are) happy."
+        answer: "is, are<br />설명: everyone = 단수 동사, all of them = 복수 동사"
+      - type: qna
+        question: "R12. 틀린 곳 고치기: Most of people like music."
+        answer: "Most people like music.<br />설명: 일반적인 의미면 of 없이!"
+      - type: text
+        content: "<span class='highlight'>Unit 80 복습 (both/either/neither)</span>"
+      - type: note
+        content: "핵심: both = 둘 다(복수), either = 둘 중 하나(단수), neither = 둘 다 아님(단수, 부정 내포)"
+      - type: qna
+        question: "R13. 빈칸 채우기: ___ books are interesting. (둘 다) ___ book is correct. (둘 중 하나)"
+        answer: "Both, Either<br />설명: both + 복수, either + 단수"
+      - type: qna
+        question: "R14. 틀린 곳 고치기: Neither of them don't like pizza."
+        answer: "Neither of them likes pizza.<br />설명: neither는 이미 부정이므로 don't 불필요!"
+      - type: qna
+        question: "R15. 부정 동의: A: I can't dance. B: ___ can I."
+        answer: "Neither<br />설명: 부정 동의 = Neither + 조동사 + I"
+      - type: text
+        content: "<span class='highlight'>Units 81-82 복습 (many/much, few/little)</span>"
+      - type: note
+        content: "핵심: many + 셀 수 있음, much + 셀 수 없음 / 긍정문 = a lot of / few/little = 부정적, a few/a little = 긍정적"
+      - type: qna
+        question: "R16. much/many 선택: I don't have ___ time. I don't have ___ friends."
+        answer: "much, many<br />설명: time(셀 수 없음) = much, friends(셀 수 있음) = many"
+      - type: qna
+        question: "R17. few/little 선택: I have ___ money. Let's buy snacks! (긍정적)"
+        answer: "a little<br />설명: money(셀 수 없음) + 긍정적 = a little"
+      - type: qna
+        question: "R18. 의미 차이 설명: I have few friends. vs I have a few friends."
+        answer: "few friends = 친구가 거의 없어 (슬픔, 부정적)<br />a few friends = 친구가 몇 명 있어 (괜찮음, 긍정적)<br />a가 있으면 긍정적!"
+
+  - title: "8. 종합 자기 평가 & 학습 계획"
+    items:
+      - type: note
+        content: "복습을 마치며 스스로를 점검해 봅시다!"
+      - type: qna
+        question: "SC1. some과 any를 문장 종류에 따라 구분할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 기본 규칙을 완벽히 이해했어요.<br />어렵다면: 긍정문 = some, 부정문/의문문 = any! 권유(Would you like some?)는 예외!"
+      - type: qna
+        question: "SC2. much/many와 a lot of를 상황에 맞게 쓸 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 자연스러운 영어 표현을 알고 있어요.<br />어렵다면: many = 셀 수 있음, much = 셀 수 없음 / 긍정문에서는 a lot of가 더 자연스러움!"
+      - type: qna
+        question: "SC3. few/little과 a few/a little의 의미 차이를 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 미묘한 의미 차이를 이해했습니다.<br />어렵다면: a 없음 = 부정적(거의 없다), a 있음 = 긍정적(조금 있다)"
+      - type: qna
+        question: "SC4. every + 단수, all + 복수 규칙을 기억하나요?"
+        answer: "할 수 있다면: 훌륭해요! 동사 수 일치도 잘 알고 있네요.<br />어렵다면: Every student is... All students are... everyone/everything은 항상 단수!"
+      - type: qna
+        question: "SC5. both(복수)/either(단수)/neither(단수, 부정 내포)를 구분할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 둘에 대한 표현을 완벽히 이해했어요.<br />어렵다면: both = 둘 다(복수), either/neither = 단수! neither는 이미 '아님'이므로 not 불필요!"
+      - type: qna
+        question: "SC6. no(한정사)와 none(대명사)의 차이를 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 문법적 역할을 정확히 이해했어요.<br />어렵다면: 명사 앞에 직접 = no (No students), 단독/of와 함께 = none (None of them)"
+      - type: note
+        content: "<span class='highlight'>나의 복습 결과</span><br />진단 평가 점수: __/18<br />가장 자신있는 유닛: ______<br />더 연습이 필요한 유닛: ______"
+      - type: note
+        content: "<span class='highlight'>다음 주 학습 계획</span><br />- 점수가 낮은 유닛: 해당 유닛 다시 학습 후 복습<br />- 특히 주의: some/any 구분, much/many vs a lot of, few/little의 긍정/부정 의미<br />- 추천: 영어 읽을 때 한정사 사용 패턴 관찰하기<br />- 추천: 일기 쓸 때 다양한 수량 표현 의식하며 쓰기"
+      - type: note
+        content: "잘했어요! 한정사와 대명사는 영어 문장에서 매우 중요한 역할을 합니다. some/any, much/many, few/little 같은 표현들은 매일 쓰는 말이니, 규칙을 기억하고 자주 연습하면 자연스럽게 쓸 수 있게 됩니다!"
+      - type: note
+        content: "다음 목표: 이 복습이 끝나면 다음 파트로 넘어가거나, 약한 유닛을 다시 학습해 보세요. 특히 이중 부정 피하기, a의 유무에 따른 의미 차이, every와 all의 동사 수 일치는 시험에도 자주 나오는 중요 포인트입니다!"

@@ -1,0 +1,277 @@
+title: "Unit 78 · every and all (every와 all의 차이)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "every와 all은 둘 다 '모든'이라는 뜻이지만, 사용법이 다릅니다. every는 '각각의 모든'을, all은 '전체로서의 모든'을 의미합니다. 이 차이를 이해하면 영어 표현이 훨씬 정확해집니다!"
+      - type: list
+        heading: "every의 기본 규칙"
+        list:
+          - "every + 단수 명사 + 단수 동사: Every student has a book."
+          - "개별적으로 하나하나를 강조: 모든 학생 각각이 책을 가지고 있다"
+          - "everybody/everyone = 모든 사람 (단수 취급!): Everyone is happy."
+          - "everything = 모든 것 (단수 취급!): Everything is ready."
+          - "every day = 매일 (빈도를 강조): I study English every day."
+          - "every + 시간: every morning, every week, every year"
+      - type: list
+        heading: "all의 기본 규칙"
+        list:
+          - "all + 복수 명사 + 복수 동사: All students have books."
+          - "전체를 하나의 그룹으로: 모든 학생들이 (함께) 책을 가지고 있다"
+          - "all of + the/대명사: all of the students, all of them"
+          - "all + 셀 수 없는 명사: all the water, all the money"
+          - "all day = 하루 종일 (지속을 강조): I studied all day."
+          - "all + 시간: all morning, all week, all year"
+      - type: text
+        content: "<span class='highlight'>형식 (Form)</span><br />• every + 단수 명사: every student, every day, every book<br />• all + 복수 명사: all students, all days, all books<br />• all + 셀 수 없는 명사: all water, all money, all time<br />• all of + the/대명사 + 명사: all of the students, all of them"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• every: 개별 강조 - '각각의 모든 것'이라는 느낌 (하나하나 따로 생각)<br />• all: 전체 강조 - '모두 함께, 전부'라는 느낌 (하나의 그룹으로 생각)<br /><br />예시로 비교:<br />• Every student passed the test. (각 학생이 하나하나 다 합격했다)<br />• All students passed the test. (학생들 전체가 합격했다)"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• every: 개인을 강조할 때, 빈도를 말할 때 (every day = 매일)<br />• all: 그룹 전체를 말할 때, 지속 시간을 말할 때 (all day = 하루 종일)<br />• everybody/everyone/everything: 사람이나 것의 전부를 말할 때 (단수 동사 사용!)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "학교 (every): Every student in my class likes English. (우리 반 모든 학생 각각이 영어를 좋아해.)"
+          - "학교 (all): All students in my class like English. (우리 반 학생들 모두가 영어를 좋아해.)"
+          - "친구 (every): I call my best friend every day. (나는 매일 가장 친한 친구에게 전화해.)"
+          - "친구 (all): All my friends came to my birthday party. (내 모든 친구들이 생일파티에 왔어.)"
+          - "가족 (every): Every family member has their own room. (각 가족 구성원이 자기 방을 가지고 있어.)"
+          - "가족 (all): All of my family members love pizza. (우리 가족 모두가 피자를 좋아해.)"
+          - "취미 (every): I practice piano every morning. (나는 매일 아침 피아노 연습을 해.)"
+          - "취미 (all): I spent all afternoon playing games. (나는 오후 내내 게임을 했어.)"
+          - "음식 (every): Every cookie was delicious. (쿠키 하나하나가 다 맛있었어.)"
+          - "음식 (all): I ate all the cookies. (나는 쿠키를 다 먹었어.)"
+          - "사람 (everyone): Everyone in my class is nice. (우리 반 모든 사람이 착해.)"
+          - "사물 (everything): Everything is fine. (모든 것이 괜찮아.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. every + 복수 명사: Every students (X) → Every student (O)<br />2. everybody/everyone에 복수 동사: Everyone are happy (X) → Everyone is happy (O)<br />3. every와 all 혼동: I studied every day (매일) vs I studied all day (하루 종일)<br />4. all of 다음에 the 빠뜨림: all of students (X) → all of the students (O)<br />5. every를 대명사로 사용: Every of them (X) → All of them (O) 또는 Every one of them (O)"
+      - type: text
+        content: "<span class='highlight'>every vs all 비교 정리:</span><br />• 명사 수: every + 단수 vs all + 복수/셀 수 없는 명사<br />• 동사 수: every → 단수 동사 vs all → 복수 동사<br />• 느낌: every = 개별적 vs all = 전체적<br />• 시간: every day (매일, 빈도) vs all day (하루 종일, 지속)<br />• 대명사: everybody/everyone/everything (단수!) vs all of them/us (복수)"
+      - type: text
+        content: "<span class='highlight'>한국어 '모든'과의 차이:</span><br />한국어 '모든'은 every와 all 둘 다로 번역될 수 있어요. 문맥에 따라 구분하세요!<br />• 모든 학생이 시험에 합격했다 → Every student passed. / All students passed. (둘 다 가능, 느낌 차이)<br />• 나는 매일 운동해 → I exercise every day. (빈도이므로 every)<br />• 나는 하루 종일 공부했어 → I studied all day. (지속이므로 all)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "Every student has a pencil."
+          - "All students have pencils."
+          - "Everyone is excited."
+          - "All of them are excited."
+          - "I drink milk every morning."
+          - "I slept all morning."
+          - "Everything looks great."
+          - "All of the food looks great."
+      - type: qna
+        question: "Q1. 1번과 2번 문장에서 every와 all 다음에 오는 명사의 차이점은 무엇인가요?"
+        answer: "every 다음에는 단수 명사(student)가, all 다음에는 복수 명사(students)가 옵니다.<br />동사도 every는 단수(has), all은 복수(have)입니다."
+      - type: qna
+        question: "Q2. 3번 문장에서 Everyone 다음에 is가 쓰인 이유는 무엇인가요?"
+        answer: "Everyone은 '모든 사람'이라는 뜻이지만, 문법적으로 단수 취급합니다.<br />그래서 단수 동사 is를 사용합니다. everybody, everything도 마찬가지입니다!"
+      - type: qna
+        question: "Q3. 5번과 6번 문장에서 every morning과 all morning의 차이는 무엇인가요?"
+        answer: "every morning: 매일 아침 (빈도, 반복을 강조)<br />all morning: 아침 내내 (지속 시간을 강조)<br />every = 얼마나 자주, all = 얼마나 오래"
+      - type: qna
+        question: "Q4. 4번 문장에서 'all of them' 다음에 are가 쓰인 이유는 무엇인가요?"
+        answer: "all of them은 '그들 모두'라는 뜻으로, them이 복수이므로 복수 동사 are를 사용합니다.<br />all of + 복수 대명사/명사 → 복수 동사"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. every 다음에는 단수 명사가 올까요, 복수 명사가 올까요?"
+        answer: "단수 명사가 옵니다.<br />every student, every day, every book<br />평가 기준: '단수'라고 답하면 정답입니다."
+      - type: qna
+        question: "R2. everybody, everyone, everything은 단수 동사를 쓸까요, 복수 동사를 쓸까요?"
+        answer: "단수 동사를 씁니다.<br />Everyone is happy. Everything is ready.<br />평가 기준: '단수'라고 답하면 정답입니다."
+      - type: qna
+        question: "R3. every day와 all day의 차이는 무엇인가요?"
+        answer: "every day: 매일 (빈도, 반복)<br />all day: 하루 종일 (지속 시간)<br />평가 기준: 빈도/반복과 지속의 차이를 설명하면 정답입니다."
+      - type: qna
+        question: "R4. all of 다음에 명사가 올 때, 무엇이 필요한가요?"
+        answer: "the가 필요합니다.<br />all of the students (O), all of students (X)<br />또는 대명사: all of them, all of us<br />평가 기준: 'the' 또는 '대명사'라고 답하면 정답입니다."
+      - type: qna
+        question: "R5. '각각의 모든'과 '전체로서의 모든' 중 every는 어떤 느낌인가요?"
+        answer: "every는 '각각의 모든'입니다. (개별 강조)<br />all은 '전체로서의 모든'입니다. (그룹 강조)<br />평가 기준: '각각'이나 '개별'을 언급하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 every 또는 all을 넣으세요. 동사 형태도 확인하세요!"
+      - type: qna
+        question: "Q1. ___ student in my class has a textbook."
+        answer: "Every<br />설명: every + 단수 명사(student) + 단수 동사(has)"
+      - type: qna
+        question: "Q2. ___ students in my class have textbooks."
+        answer: "All<br />설명: all + 복수 명사(students) + 복수 동사(have)"
+      - type: qna
+        question: "Q3. I brush my teeth ___ morning."
+        answer: "every<br />설명: 매일 아침 (빈도, 반복)이므로 every"
+      - type: qna
+        question: "Q4. I studied ___ afternoon for the test."
+        answer: "all<br />설명: 오후 내내 (지속 시간)이므로 all"
+      - type: qna
+        question: "Q5. ___ of the cookies are delicious."
+        answer: "All<br />설명: all of + the + 복수 명사 + 복수 동사"
+      - type: qna
+        question: "Q6. ___ child needs love and care."
+        answer: "Every<br />설명: every + 단수 명사(child) + 단수 동사(needs)"
+      - type: qna
+        question: "Q7. ___ of them are my friends."
+        answer: "All<br />설명: all of + 대명사(them) + 복수 동사(are)"
+      - type: qna
+        question: "Q8. ___body is waiting for the bus."
+        answer: "Every<br />설명: Everybody + 단수 동사(is waiting)"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. every와 all 중 적절한 것을 선택하세요!"
+      - type: qna
+        question: "T1. 모든 학생이 숙제를 했다. (개별 강조)"
+        answer: "Every student did the homework.<br />평가 기준: Every + 단수 명사 + 단수 동사이면 정답입니다."
+      - type: qna
+        question: "T2. 모든 학생들이 숙제를 했다. (전체 강조)"
+        answer: "All students did the homework.<br />평가 기준: All + 복수 명사 + 복수 동사이면 정답입니다."
+      - type: qna
+        question: "T3. 나는 매일 영어를 공부해."
+        answer: "I study English every day.<br />평가 기준: every day (매일, 빈도)를 사용하면 정답입니다."
+      - type: qna
+        question: "T4. 나는 하루 종일 게임을 했어."
+        answer: "I played games all day.<br />평가 기준: all day (하루 종일, 지속)를 사용하면 정답입니다."
+      - type: qna
+        question: "T5. 모든 사람이 행복해."
+        answer: "Everyone is happy. / Everybody is happy.<br />평가 기준: Everyone/Everybody + 단수 동사(is)이면 정답입니다."
+      - type: qna
+        question: "T6. 그들 모두가 파티에 왔어."
+        answer: "All of them came to the party.<br />평가 기준: All of them + 복수 동사이면 정답입니다."
+      - type: qna
+        question: "T7. 모든 것이 준비됐어."
+        answer: "Everything is ready.<br />평가 기준: Everything + 단수 동사(is)이면 정답입니다."
+      - type: qna
+        question: "T8. 그 학생들 모두가 시험에 합격했어."
+        answer: "All of the students passed the test.<br />평가 기준: All of the + 복수 명사 + 복수 동사이면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "every 문장을 all 문장으로, all 문장을 every 문장으로 바꿔 보세요."
+      - type: qna
+        question: "TF1. Every player on the team is talented. → all로 바꾸기"
+        answer: "All players on the team are talented.<br />설명: every + 단수 → all + 복수, 동사도 is → are"
+      - type: qna
+        question: "TF2. All books on the shelf are mine. → every로 바꾸기"
+        answer: "Every book on the shelf is mine.<br />설명: all + 복수 → every + 단수, 동사도 are → is"
+      - type: qna
+        question: "TF3. I eat breakfast every morning. → all로 바꾸기 (의미 변화 주의!)"
+        answer: "I ate breakfast all morning. (아침 내내 아침식사를 먹었다)<br />설명: every morning(매일 아침)과 all morning(아침 내내)은 의미가 달라집니다!"
+      - type: qna
+        question: "TF4. 틀린 부분 고치기: Every students are happy."
+        answer: "Every student is happy.<br />설명: every 다음에는 단수 명사 + 단수 동사"
+      - type: qna
+        question: "TF5. 틀린 부분 고치기: Everyone are excited about the trip."
+        answer: "Everyone is excited about the trip.<br />설명: Everyone은 단수 취급, 단수 동사 is 사용"
+      - type: qna
+        question: "TF6. 틀린 부분 고치기: All of students passed the exam."
+        answer: "All of the students passed the exam.<br />설명: all of 다음에 명사가 오면 the가 필요합니다."
+      - type: qna
+        question: "TF7. 틀린 부분 고치기: Every of them is my friend."
+        answer: "All of them are my friends. 또는 Every one of them is my friend.<br />설명: every는 of와 직접 사용할 수 없습니다. all of 또는 every one of를 사용합니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요! every와 all을 올바르게 사용하세요."
+      - type: qna
+        question: "A1. 매일 하는 일을 every를 사용해서 2문장 써 보세요."
+        answer: "예시: I brush my teeth every morning. I do homework every evening.<br />평가 기준: every + 시간 표현을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A2. 오랜 시간 동안 한 일을 all을 사용해서 2문장 써 보세요."
+        answer: "예시: I played games all afternoon. I read books all weekend.<br />평가 기준: all + 시간 표현(지속)을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A3. 학교에서 '모든 학생'에 대해 every와 all을 각각 사용해서 문장을 써 보세요."
+        answer: "예시: Every student in my class loves music. All students in my class love music.<br />평가 기준: every + 단수, all + 복수를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A4. everybody 또는 everyone을 사용해서 문장을 써 보세요."
+        answer: "예시: Everyone in my family is kind. Everybody likes ice cream.<br />평가 기준: Everyone/Everybody + 단수 동사를 사용하면 정답입니다."
+      - type: qna
+        question: "A5. all of them 또는 all of us를 사용해서 문장을 써 보세요."
+        answer: "예시: All of them are my classmates. All of us went to the park.<br />평가 기준: all of + 대명사 + 복수 동사를 사용하면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장들 중 틀린 것을 모두 고르고 고치세요:<br />a) Every students has a pen.<br />b) All students have pens.<br />c) Everyone are happy.<br />d) All of them is excited."
+        answer: "a)와 c)와 d)가 틀렸습니다.<br />a) Every students has → Every student has (every + 단수)<br />c) Everyone are → Everyone is (everyone + 단수 동사)<br />d) All of them is → All of them are (복수 대명사 + 복수 동사)"
+      - type: qna
+        question: "C2. every day와 all day를 사용한 문장을 각각 쓰고, 의미 차이를 설명하세요."
+        answer: "예시:<br />• I exercise every day. (매일 운동한다 - 빈도, 반복)<br />• I exercised all day. (하루 종일 운동했다 - 지속 시간)<br />설명: every day는 '얼마나 자주', all day는 '얼마나 오래'를 나타냅니다."
+      - type: qna
+        question: "C3. 다음 대화를 완성하세요:<br />A: Did ___ student finish the project?<br />B: Yes, ___ of them finished on time."
+        answer: "A: Did every student finish the project?<br />B: Yes, all of them finished on time.<br />설명: 질문에서는 개별 강조(every), 대답에서는 전체 강조(all of them)"
+      - type: qna
+        question: "C4. 다음 글의 빈칸을 채우세요:<br />Last weekend was great. ___ morning, I played soccer with my friends. We played ___ morning until lunch. ___ of my friends came, and ___body had fun!"
+        answer: "Last weekend was great. Every morning, I played soccer with my friends. We played all morning until lunch. All of my friends came, and everybody had fun!<br />설명: Every morning(매일 아침), all morning(아침 내내), All of my friends(친구들 전부), everybody(모든 사람 - 단수 취급)"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. every 다음에는 단수 명사? 복수 명사?"
+        answer: "단수 명사"
+      - type: qna
+        question: "SR2. all 다음에는 단수 명사? 복수 명사?"
+        answer: "복수 명사 (또는 셀 수 없는 명사)"
+      - type: qna
+        question: "SR3. Everyone ___ (is/are) happy."
+        answer: "is (everyone은 단수 취급)"
+      - type: qna
+        question: "SR4. All of them ___ (is/are) my friends."
+        answer: "are (them은 복수)"
+      - type: qna
+        question: "SR5. every day의 뜻은?"
+        answer: "매일 (빈도, 반복)"
+      - type: qna
+        question: "SR6. all day의 뜻은?"
+        answer: "하루 종일 (지속 시간)"
+      - type: qna
+        question: "SR7. 번역: 모든 학생이 열심히 공부한다. (every 사용)"
+        answer: "Every student studies hard."
+      - type: qna
+        question: "SR8. 번역: 그들 모두가 내 친구야."
+        answer: "All of them are my friends."
+      - type: qna
+        question: "SR9. 틀린 곳 고치기: Every students likes pizza."
+        answer: "Every student likes pizza."
+      - type: qna
+        question: "SR10. 틀린 곳 고치기: Everything are ready."
+        answer: "Everything is ready."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. every + 단수 명사 + 단수 동사를 알고 있나요?"
+        answer: "할 수 있다면: 훌륭해요! every의 기본을 이해했습니다.<br />어렵다면: Every student has... 처럼 every 다음엔 단수!"
+      - type: qna
+        question: "SC2. everybody/everyone/everything이 단수 동사를 쓴다는 것을 기억하나요?"
+        answer: "할 수 있다면: 대단해요! 중요한 규칙을 알고 있어요.<br />어렵다면: Everyone IS happy. Everything IS ready. - 항상 단수 동사!"
+      - type: qna
+        question: "SC3. every day(매일)와 all day(하루 종일)의 차이를 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 시간 표현의 차이를 이해했습니다.<br />어렵다면: every day = 얼마나 자주, all day = 얼마나 오래"
+      - type: qna
+        question: "SC4. all of the students, all of them처럼 all of 사용법을 알고 있나요?"
+        answer: "할 수 있다면: 잘했어요! all of 다음에 the 또는 대명사를 잘 알고 있어요.<br />어렵다면: all of + the + 명사 또는 all of + 대명사(them, us)"
+      - type: note
+        content: "잘했어요! every와 all은 둘 다 '모든'이라는 뜻이지만, 사용법이 다릅니다. every는 개별적으로, all은 전체적으로 생각한다고 기억하세요! 특히 everybody/everyone/everything + 단수 동사는 시험에도 자주 나오는 중요한 포인트예요!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 every + 단수, all + 복수, 그리고 everyone IS의 패턴을 기억하세요!"
