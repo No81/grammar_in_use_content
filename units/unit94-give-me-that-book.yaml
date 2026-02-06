@@ -1,0 +1,265 @@
+title: "Unit 94 · Give me that book! Give it to me! (수여동사: 두 가지 어순)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 '~에게 ~을 주다/보내다/만들어주다' 같은 표현을 할 때, <span class='highlight'>두 가지 방법</span>으로 말할 수 있습니다. 이렇게 사람(~에게)과 물건(~을) 두 개의 목적어를 가지는 동사를 <span class='highlight'>수여동사</span>라고 해요."
+      - type: list
+        heading: "형식 (Form) - 두 가지 어순 패턴"
+        list:
+          - "패턴 1: 동사 + 사람 + 물건"
+          - "  Give me the book. (나에게 그 책을 줘.)"
+          - "  Send her a letter. (그녀에게 편지를 보내.)"
+          - "  Buy him a present. (그에게 선물을 사줘.)"
+          - "패턴 2: 동사 + 물건 + to/for + 사람"
+          - "  Give the book to me. (그 책을 나에게 줘.)"
+          - "  Send a letter to her. (편지를 그녀에게 보내.)"
+          - "  Buy a present for him. (선물을 그를 위해 사줘.)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />두 패턴의 의미는 같지만, 강조점이 다릅니다:<br />• 패턴 1 (Give me the book): 누구에게 주는지가 먼저 나옴 - 자연스러운 일상 표현<br />• 패턴 2 (Give the book to me): 물건이 먼저 나옴 - 물건을 강조하거나, 대명사가 목적어일 때 선호"
+      - type: text
+        content: "<span class='highlight'>TO를 쓰는 동사 vs FOR를 쓰는 동사</span><br /><br /><strong>TO를 쓰는 동사 (전달/이동의 느낌):</strong><br />• give (주다): Give the pen to Tom.<br />• send (보내다): Send the email to your teacher.<br />• show (보여주다): Show the photo to me.<br />• bring (가져다주다): Bring the water to your sister.<br />• lend (빌려주다): Lend your pencil to him.<br />• tell (말하다): Tell the truth to your parents.<br /><br /><strong>FOR를 쓰는 동사 (혜택/위해의 느낌):</strong><br />• buy (사주다): Buy some flowers for your mom.<br />• make (만들어주다): Make a cake for me.<br />• get (구해주다): Get a ticket for her."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 선물이나 물건을 줄 때: I'll give you a present. (선물 줄게.)<br />• 정보를 전할 때: Can you tell me the answer? (답 좀 말해줄래?)<br />• 부탁할 때: Could you bring me some water? (물 좀 가져다줄래?)<br />• 무언가를 보여줄 때: Show me your homework. (숙제 보여줘.)<br />• 만들어줄 때: I'll make you a sandwich. (샌드위치 만들어줄게.)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "학교: The teacher gave us homework. = The teacher gave homework to us. (선생님이 우리에게 숙제를 주셨어.)"
+          - "학교: Can you lend me your eraser? = Can you lend your eraser to me? (지우개 좀 빌려줄래?)"
+          - "친구: I sent my friend a birthday card. = I sent a birthday card to my friend. (친구에게 생일 카드를 보냈어.)"
+          - "친구: She showed me her new phone. = She showed her new phone to me. (그녀가 나에게 새 폰을 보여줬어.)"
+          - "가족: Mom made me breakfast. = Mom made breakfast for me. (엄마가 나에게 아침을 만들어주셨어.)"
+          - "가족: Dad bought me a new bike. = Dad bought a new bike for me. (아빠가 나에게 새 자전거를 사주셨어.)"
+          - "음식: Can you get me some juice? = Can you get some juice for me? (주스 좀 갖다줄래?)"
+          - "게임: My brother lent me his controller. = My brother lent his controller to me. (형이 컨트롤러를 빌려줬어.)"
+          - "생일: Grandma sent me money. = Grandma sent money to me. (할머니가 나에게 돈을 보내주셨어.)"
+          - "도움: Could you bring me my bag? = Could you bring my bag to me? (내 가방 좀 가져다줄래?)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. TO와 FOR 혼동: Buy a gift to me (X) → Buy a gift for me (O)<br />2. 대명사일 때 패턴 1 고집: Give me it (어색) → Give it to me (O)<br />3. 전치사 빼먹기: Give the book me (X) → Give the book to me (O)<br />4. 어순 섞기: Give to me the book (X) → Give the book to me (O)<br />5. 이중 전치사: Give to him to the book (X) → Give the book to him (O)"
+      - type: text
+        content: "<span class='highlight'>중요! 대명사(it, them)가 목적어일 때</span><br /><br />물건이 대명사(it, them)일 때는 <span class='highlight'>패턴 2를 써야</span> 자연스럽습니다!<br /><br />• Give me the book. (O) → Give me it. (어색함) → <span class='highlight'>Give it to me.</span> (O)<br />• Send her the letter. (O) → Send her it. (어색함) → <span class='highlight'>Send it to her.</span> (O)<br />• Buy him the present. (O) → Buy him it. (어색함) → <span class='highlight'>Buy it for him.</span> (O)<br /><br />이유: 대명사는 짧기 때문에 문장 끝에 두면 어색해요. 그래서 'Give it to me'처럼 전치사 패턴을 씁니다."
+      - type: text
+        content: "<span class='highlight'>TO vs FOR 구분하는 팁:</span><br /><br /><strong>TO (전달):</strong> 물건이 A에서 B로 '이동'하는 느낌<br />• give, send, show, bring, lend, tell, pass, hand, throw<br />• '~에게 직접 전달한다'의 느낌<br /><br /><strong>FOR (혜택):</strong> 누군가를 '위해' 해주는 느낌<br />• buy, make, get, cook, find, build, order<br />• '~를 위해서 해준다'의 느낌<br /><br />암기 팁: '사서 만들어 줘' → buy, make, get은 FOR!"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "A: Give me the pen."
+          - "B: Give the pen to me."
+          - "A: She made him a cake."
+          - "B: She made a cake for him."
+          - "A: I'll send you a message."
+          - "B: I'll send a message to you."
+          - "A: Mom bought me new shoes."
+          - "B: Mom bought new shoes for me."
+      - type: qna
+        question: "Q1. A 문장들과 B 문장들의 어순 차이를 찾아보세요. 무엇이 다른가요?"
+        answer: "A 문장: 동사 + 사람 + 물건 순서 (Give me the pen)<br />B 문장: 동사 + 물건 + to/for + 사람 순서 (Give the pen to me)<br />두 문장의 의미는 같지만 어순이 다릅니다."
+      - type: qna
+        question: "Q2. B 문장들 중에서 to를 쓴 것과 for를 쓴 것을 구분해 보세요."
+        answer: "TO: Give the pen to me, I'll send a message to you<br />FOR: She made a cake for him, Mom bought new shoes for me<br />give, send는 to를 쓰고, make, buy는 for를 씁니다."
+      - type: qna
+        question: "Q3. 'Give it to me'는 자연스럽지만 'Give me it'은 어색합니다. 왜 그럴까요?"
+        answer: "목적어가 대명사(it, them)일 때는 '동사 + 물건 + to/for + 사람' 패턴이 자연스럽습니다.<br />대명사는 짧기 때문에 문장 중간에 넣으면 어색해지기 때문이에요."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 수여동사로 문장을 만드는 두 가지 패턴을 써 보세요."
+        answer: "패턴 1: 동사 + 사람 + 물건 (Give me the book)<br />패턴 2: 동사 + 물건 + to/for + 사람 (Give the book to me)<br />평가 기준: 두 패턴의 어순을 모두 맞히면 정답입니다."
+      - type: qna
+        question: "R2. TO를 쓰는 동사 3개와 FOR를 쓰는 동사 3개를 적어 보세요."
+        answer: "TO: give, send, show, bring, lend, tell 중 3개<br />FOR: buy, make, get 중 3개<br />평가 기준: 각각 3개씩 맞히면 정답입니다."
+      - type: qna
+        question: "R3. 왜 'Give me it'보다 'Give it to me'가 자연스러운가요?"
+        answer: "목적어가 대명사(it, them)일 때는 '동사 + 물건 + to + 사람' 패턴이 자연스럽습니다.<br />대명사는 짧아서 문장 중간에 두면 어색하기 때문입니다.<br />평가 기준: '대명사는 to/for 패턴을 쓴다'고 답하면 정답입니다."
+      - type: qna
+        question: "R4. 'buy'와 'give' 중 어떤 것이 FOR를 쓰나요?"
+        answer: "buy는 FOR를 씁니다. (Buy a gift for me.)<br />give는 TO를 씁니다. (Give the book to me.)<br />평가 기준: buy = for, give = to를 구분하면 정답입니다."
+      - type: qna
+        question: "R5. 한국 학습자가 자주 하는 실수 하나를 떠올려 보세요."
+        answer: "예시 답안:<br />• TO와 FOR 혼동: Buy a gift to me (X)<br />• 대명사일 때 잘못된 어순: Give me it (X)<br />• 전치사 빼먹기: Give the book me (X)<br />평가 기준: 위 실수 중 하나를 설명하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 to 또는 for를 넣어 문장을 완성하세요."
+      - type: qna
+        question: "Q1. Give the book ___ me."
+        answer: "to<br />설명: give는 전달의 의미이므로 to를 씁니다."
+      - type: qna
+        question: "Q2. She made a cake ___ her mom."
+        answer: "for<br />설명: make는 '~를 위해' 만들어주는 것이므로 for를 씁니다."
+      - type: qna
+        question: "Q3. Can you send this letter ___ your teacher?"
+        answer: "to<br />설명: send는 전달/이동의 의미이므로 to를 씁니다."
+      - type: qna
+        question: "Q4. I'll buy a present ___ my sister."
+        answer: "for<br />설명: buy는 '~를 위해' 사주는 것이므로 for를 씁니다."
+      - type: qna
+        question: "Q5. Please show your homework ___ me."
+        answer: "to<br />설명: show는 보여주는(전달) 의미이므로 to를 씁니다."
+      - type: qna
+        question: "Q6. Could you get some water ___ me?"
+        answer: "for<br />설명: get은 '~를 위해' 가져다주는 것이므로 for를 씁니다."
+      - type: qna
+        question: "Q7. Don't tell the secret ___ anyone."
+        answer: "to<br />설명: tell은 말해주는(전달) 의미이므로 to를 씁니다."
+      - type: qna
+        question: "Q8. My grandma knitted a sweater ___ me."
+        answer: "for<br />설명: knit(뜨개질하다)는 만들어주는 것이므로 for를 씁니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. 두 가지 패턴 중 하나로 쓰면 됩니다."
+      - type: qna
+        question: "T1. 나에게 그 책을 줘."
+        answer: "Give me the book. / Give the book to me.<br />평가 기준: 두 패턴 중 하나를 올바르게 쓰면 정답입니다."
+      - type: qna
+        question: "T2. 그녀가 나에게 생일 선물을 사줬어."
+        answer: "She bought me a birthday present. / She bought a birthday present for me.<br />평가 기준: buy + for 또는 buy + 사람 + 물건 패턴이 맞으면 정답입니다."
+      - type: qna
+        question: "T3. 네 사진 좀 보여줄래?"
+        answer: "Can you show me your photo? / Can you show your photo to me?<br />평가 기준: show + to 또는 show + 사람 + 물건 패턴이 맞으면 정답입니다."
+      - type: qna
+        question: "T4. 엄마가 나에게 아침을 만들어주셨어."
+        answer: "Mom made me breakfast. / Mom made breakfast for me.<br />평가 기준: make + for 또는 make + 사람 + 물건 패턴이 맞으면 정답입니다."
+      - type: qna
+        question: "T5. 그에게 메시지를 보내."
+        answer: "Send him a message. / Send a message to him.<br />평가 기준: send + to 또는 send + 사람 + 물건 패턴이 맞으면 정답입니다."
+      - type: qna
+        question: "T6. 나에게 그것을 줘. (it 사용)"
+        answer: "Give it to me.<br />평가 기준: 대명사 it이 목적어일 때는 'Give it to me' 패턴만 자연스럽습니다. 'Give me it'은 어색합니다."
+      - type: qna
+        question: "T7. 선생님이 우리에게 숙제를 주셨어."
+        answer: "The teacher gave us homework. / The teacher gave homework to us.<br />평가 기준: give + to 또는 give + 사람 + 물건 패턴이 맞으면 정답입니다."
+      - type: qna
+        question: "T8. 네 연필 좀 빌려줄래?"
+        answer: "Can you lend me your pencil? / Can you lend your pencil to me?<br />평가 기준: lend + to 또는 lend + 사람 + 물건 패턴이 맞으면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 다른 패턴으로 바꿔 보세요."
+      - type: qna
+        question: "TF1. Give me the ball. → to 사용해서 다시 쓰기"
+        answer: "Give the ball to me.<br />설명: '동사 + 사람 + 물건'을 '동사 + 물건 + to + 사람'으로 바꿨습니다."
+      - type: qna
+        question: "TF2. She sent a letter to her friend. → to 없이 다시 쓰기"
+        answer: "She sent her friend a letter.<br />설명: '동사 + 물건 + to + 사람'을 '동사 + 사람 + 물건'으로 바꿨습니다."
+      - type: qna
+        question: "TF3. Mom made dinner for us. → for 없이 다시 쓰기"
+        answer: "Mom made us dinner.<br />설명: '동사 + 물건 + for + 사람'을 '동사 + 사람 + 물건'으로 바꿨습니다."
+      - type: qna
+        question: "TF4. I'll buy him a new game. → for 사용해서 다시 쓰기"
+        answer: "I'll buy a new game for him.<br />설명: '동사 + 사람 + 물건'을 '동사 + 물건 + for + 사람'으로 바꿨습니다."
+      - type: qna
+        question: "TF5. 틀린 문장 고치기: Buy a gift to me."
+        answer: "Buy a gift for me.<br />설명: buy는 for를 씁니다. to가 아닙니다."
+      - type: qna
+        question: "TF6. 틀린 문장 고치기: Give me it."
+        answer: "Give it to me.<br />설명: 대명사(it)가 목적어일 때는 'Give it to me' 패턴이 자연스럽습니다."
+      - type: qna
+        question: "TF7. 틀린 문장 고치기: Make for me a sandwich."
+        answer: "Make a sandwich for me. / Make me a sandwich.<br />설명: 어순이 틀렸습니다. 전치사는 물건 뒤에 옵니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요!"
+      - type: qna
+        question: "A1. 친구에게 뭔가를 빌려달라고 부탁하는 문장을 영어로 써 보세요. (lend 사용)"
+        answer: "예시:<br />• Can you lend me your pen?<br />• Could you lend your book to me?<br />• Please lend me your eraser.<br />평가 기준: lend + 사람 + 물건 또는 lend + 물건 + to + 사람 패턴을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A2. 생일에 받고 싶은 선물에 대해 문장을 써 보세요. (buy 사용)"
+        answer: "예시:<br />• I want my mom to buy me a new phone.<br />• Can you buy a game for me?<br />• My dad will buy me a bicycle.<br />평가 기준: buy + 사람 + 물건 또는 buy + 물건 + for + 사람 패턴을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A3. 가족이 당신에게 해준 것을 영어로 써 보세요. (make, get, give 중 하나 사용)"
+        answer: "예시:<br />• My mom made me a delicious lunch.<br />• My dad got me a new bag for school.<br />• My sister gave me her old tablet.<br />평가 기준: 수여동사를 올바른 패턴으로 사용하면 정답입니다."
+      - type: qna
+        question: "A4. 친구에게 사진이나 영상을 보여주는 상황을 영어로 써 보세요. (show 사용)"
+        answer: "예시:<br />• Let me show you my new video.<br />• I showed my photos to my friends.<br />• Can I show you something cool?<br />평가 기준: show + 사람 + 물건 또는 show + 물건 + to + 사람 패턴을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A5. 누군가에게 메시지나 선물을 보내는 문장을 써 보세요. (send 사용)"
+        answer: "예시:<br />• I sent my friend a birthday message.<br />• I'll send a gift to my grandmother.<br />• She sent me a funny video.<br />평가 기준: send + 사람 + 물건 또는 send + 물건 + to + 사람 패턴을 올바르게 사용하면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 대화의 빈칸을 채우세요.<br />A: What did you get for your birthday?<br />B: My parents bought ___ ___ new laptop! (나에게 새 노트북을)<br />A: Wow! Can you show ___ ___ ___? (그것을 나에게)"
+        answer: "B: My parents bought me a new laptop!<br />A: Can you show it to me?<br />설명: 첫 번째는 '동사 + 사람 + 물건' 패턴, 두 번째는 대명사(it)이므로 '동사 + 물건 + to + 사람' 패턴을 씁니다."
+      - type: qna
+        question: "C2. 다음 문장들의 틀린 부분을 모두 찾아 고치세요.<br />'My mom made for me dinner. Then she gave me it. I sent to her a thank you message.'"
+        answer: "올바른 문장: My mom made dinner for me. / My mom made me dinner. Then she gave it to me. I sent her a thank you message. / I sent a thank you message to her.<br />설명:<br />• made for me dinner → made dinner for me 또는 made me dinner (어순)<br />• gave me it → gave it to me (대명사는 to 패턴)<br />• sent to her a message → sent her a message 또는 sent a message to her (어순)"
+      - type: qna
+        question: "C3. 같은 의미의 문장을 두 가지 패턴으로 써 보세요: '선생님이 학생들에게 질문을 했다' (ask)"
+        answer: "1. The teacher asked the students a question. (동사 + 사람 + 물건)<br />2. The teacher asked a question of the students. (동사 + 물건 + of + 사람)<br />참고: ask는 특별히 of를 쓰기도 합니다. 하지만 패턴 1이 더 일반적입니다."
+      - type: qna
+        question: "C4. 다음 상황을 영어로 3문장 이상 써 보세요: '생일날 친구가 선물을 줬고, 엄마가 케이크를 만들어 주셨고, 할머니가 카드를 보내주셨다.'"
+        answer: "예시:<br />• My friend gave me a present.<br />• Mom made a cake for me. / Mom made me a cake.<br />• Grandma sent me a card. / Grandma sent a card to me.<br />평가 기준: 3문장 모두 수여동사를 올바른 패턴(to 또는 for)으로 사용하면 정답입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. 수여동사의 두 가지 패턴은?"
+        answer: "패턴 1: 동사 + 사람 + 물건 (Give me the book)<br />패턴 2: 동사 + 물건 + to/for + 사람 (Give the book to me)"
+      - type: qna
+        question: "SR2. give, send, show는 ___ 를 쓰고, buy, make, get은 ___ 를 씁니다."
+        answer: "to, for"
+      - type: qna
+        question: "SR3. 빈칸: Give the pen ___ me."
+        answer: "to"
+      - type: qna
+        question: "SR4. 빈칸: She made a cake ___ her friend."
+        answer: "for"
+      - type: qna
+        question: "SR5. 틀린 곳 고치기: Buy a gift to me."
+        answer: "Buy a gift for me.<br />buy는 for를 씁니다."
+      - type: qna
+        question: "SR6. 틀린 곳 고치기: Give me it."
+        answer: "Give it to me.<br />대명사(it)는 to 패턴을 씁니다."
+      - type: qna
+        question: "SR7. 번역: 나에게 그것을 보여줘."
+        answer: "Show it to me."
+      - type: qna
+        question: "SR8. 번역: 엄마가 나에게 점심을 만들어주셨어."
+        answer: "Mom made me lunch. / Mom made lunch for me."
+      - type: qna
+        question: "SR9. 다른 패턴으로 바꾸기: I sent her a letter."
+        answer: "I sent a letter to her."
+      - type: qna
+        question: "SR10. 다른 패턴으로 바꾸기: He bought a present for me."
+        answer: "He bought me a present."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. 수여동사의 두 가지 패턴을 설명할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 영어 어순의 핵심을 이해했어요.<br />어렵다면: Give me the book = Give the book to me - 두 가지로 말할 수 있어요!"
+      - type: qna
+        question: "SC2. TO를 쓰는 동사와 FOR를 쓰는 동사를 구분할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 전치사 선택이 정확해질 거예요.<br />어렵다면: 암기 팁 - '사서 만들어 줘'(buy, make, get)는 FOR!"
+      - type: qna
+        question: "SC3. 대명사(it, them)가 목적어일 때 어떤 패턴을 써야 하는지 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 자연스러운 영어를 쓸 수 있어요.<br />어렵다면: Give me it (X) → Give it to me (O) - 대명사는 to/for 패턴!"
+      - type: qna
+        question: "SC4. TO와 FOR를 혼동하지 않고 쓸 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 한국인이 자주 틀리는 부분을 정복했어요!<br />어렵다면: TO는 전달(give, send), FOR는 혜택(buy, make)의 느낌이에요."
+      - type: note
+        content: "잘했어요! 오늘 배운 수여동사는 일상에서 정말 많이 쓰이는 표현이에요. 'Give me the book'처럼 바로 말할 수도 있고, 'Give the book to me'처럼 전치사를 써서 말할 수도 있어요. 대명사(it, them)일 때는 'Give it to me' 패턴을 쓴다는 것, 그리고 TO와 FOR를 구분하는 것만 기억하면 됩니다!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 TO vs FOR 구분과 대명사 패턴을 복습하세요!"
