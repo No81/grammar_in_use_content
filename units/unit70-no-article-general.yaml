@@ -1,0 +1,258 @@
+title: "Unit 70 · I like music / I hate exams (일반적인 의미의 복수/불가산 명사에 관사 없이)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 일반적인 것을 말할 때는 관사(a, an, the)를 붙이지 않습니다. 'I like music'은 '나는 음악을 좋아해'라는 뜻으로, 특정한 음악이 아니라 음악 전체를 말합니다."
+      - type: list
+        heading: "관사 없이 쓰는 경우 (일반적인 의미)"
+        list:
+          - "복수 명사 (일반): Dogs are friendly. (개들은 친근해.)"
+          - "불가산 명사 (일반): Water is important. (물은 중요해.)"
+          - "추상 명사: Love is beautiful. (사랑은 아름다워.)"
+          - "all/most/some + 명사: All children need love. (모든 아이들은 사랑이 필요해.)"
+      - type: text
+        content: "<span class='highlight'>형식 (Form)</span><br />• 일반적인 복수: I like cats. (the X)<br />• 일반적인 불가산: I drink milk. (the X)<br />• all/most/some + 명사: Most people like chocolate."
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 관사가 없으면 '전체적으로, 일반적으로'라는 느낌입니다. 'I like music'은 음악이라는 것 전체를 좋아한다는 뜻입니다. 반면 'I like the music'은 지금 듣고 있는 특정한 음악을 좋아한다는 뜻입니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 좋아하는 것/싫어하는 것: I love pizza. I hate tests.<br />• 일반적인 사실: Cats sleep a lot. Water boils at 100°C.<br />• 전체를 말할 때: All students study hard. Most birds can fly.<br />• 추상적인 개념: Happiness is important. Time flies."
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "좋아하는 것: I like music. (나는 음악을 좋아해.)"
+          - "싫어하는 것: I hate exams. (나는 시험이 싫어.)"
+          - "음식: I love ice cream. (나는 아이스크림을 좋아해.)"
+          - "동물: Dogs are loyal. (개들은 충성스러워.)"
+          - "일반적 사실: Milk is good for your health. (우유는 건강에 좋아.)"
+          - "추상 명사: Money doesn't buy happiness. (돈으로 행복을 살 수 없어.)"
+          - "취미: Books are fun to read. (책은 읽기에 재미있어.)"
+          - "학교: Homework helps students learn. (숙제는 학생들이 배우는 데 도움이 돼.)"
+          - "all + 명사: All children need sleep. (모든 아이들은 잠이 필요해.)"
+          - "most + 명사: Most teenagers like games. (대부분의 십대들은 게임을 좋아해.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 불필요한 the 사용: I like the music. (X) → I like music. (O) (일반적인 의미일 때)<br />2. 일반적인 복수에 the: The dogs are friendly. (X) → Dogs are friendly. (O) (개 전체를 말할 때)<br />3. 불가산 명사에 a/an: I like a rice. (X) → I like rice. (O)<br />4. all + the 사용: All the children (특정) vs All children (일반) - 상황에 따라 다름!<br />5. 단수로 일반화: Cat is friendly. (X) → Cats are friendly. (O)"
+      - type: text
+        content: "<span class='highlight'>일반 vs 특정 비교:</span><br />• 일반: I like music. (음악 전체가 좋아)<br />• 특정: I like the music in this cafe. (이 카페의 특정 음악)<br />• 일반: Dogs are friendly. (개들은 대체로 친근해)<br />• 특정: The dogs in the park are friendly. (공원의 그 개들)<br />• 일반: Water is healthy. (물은 건강에 좋아)<br />• 특정: The water in this bottle is cold. (이 병의 물)"
+      - type: text
+        content: "<span class='highlight'>all/most/some + 명사:</span><br />• All students need rest. (모든 학생들 - 일반)<br />• Most people like music. (대부분의 사람들 - 일반)<br />• Some birds can't fly. (몇몇 새들 - 일반)<br />비교: All the students in my class... (우리 반의 모든 학생들 - 특정 그룹)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I love chocolate."
+          - "Cats sleep a lot."
+          - "Water is necessary for life."
+          - "Most students study hard."
+          - "I hate mosquitoes."
+          - "Friendship is valuable."
+          - "All children need sleep."
+          - "Some birds can't fly."
+      - type: qna
+        question: "Q1. 위 문장들에서 명사(chocolate, cats, water, students, mosquitoes, friendship, children, birds) 앞에 a, an, the가 있나요?"
+        answer: "아니요, 없습니다!<br />일반적인 것을 말할 때는 관사를 붙이지 않습니다."
+      - type: qna
+        question: "Q2. 'Cats sleep a lot'에서 왜 cat(단수)이 아니라 cats(복수)를 썼을까요?"
+        answer: "고양이 전체를 말할 때는 복수형을 씁니다.<br />Cat sleeps a lot. (X) → Cats sleep a lot. (O)"
+      - type: qna
+        question: "Q3. 'Water is necessary for life'에서 water 앞에 the가 없는 이유는?"
+        answer: "물 전체를 일반적으로 말하기 때문입니다.<br />특정 물이 아니라 물이라는 것 자체를 말할 때 the를 쓰지 않습니다."
+      - type: qna
+        question: "Q4. 'All children need sleep'과 'Most students study hard'에서 children과 students 앞에 the가 없는 이유는?"
+        answer: "all, most, some 뒤에 일반적인 명사가 올 때는 the를 쓰지 않습니다.<br />All children = 모든 아이들 (일반적), Most students = 대부분의 학생들 (일반적)"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 일반적인 것을 말할 때 관사(a, an, the)를 쓰나요?"
+        answer: "아니요, 쓰지 않습니다.<br />예: I like music. (O), I like the music. (일반적 의미일 때 X)<br />평가 기준: '쓰지 않는다'고 답하면 정답입니다."
+      - type: qna
+        question: "R2. 일반적인 의미로 동물 전체를 말할 때 어떻게 쓰나요?"
+        answer: "복수형으로 씁니다. 관사 없이!<br />예: Dogs are friendly. (개들은 친근해)<br />평가 기준: '복수형, 관사 없이'라고 답하면 정답입니다."
+      - type: qna
+        question: "R3. 'I like music'과 'I like the music'의 차이는?"
+        answer: "I like music = 음악 전체를 좋아함 (일반)<br />I like the music = 특정 음악을 좋아함 (예: 지금 듣는 음악)<br />평가 기준: 일반 vs 특정의 차이를 설명하면 정답입니다."
+      - type: qna
+        question: "R4. all, most, some 뒤에 명사가 올 때 the를 쓰나요?"
+        answer: "일반적인 의미일 때는 쓰지 않습니다.<br />All children need love. (O) - 모든 아이들 일반<br />All the children in my class... (O) - 특정 그룹<br />평가 기준: '일반적 의미면 안 쓴다'고 답하면 정답입니다."
+      - type: qna
+        question: "R5. 불가산 명사(water, milk, rice 등)를 일반적으로 말할 때 어떻게 쓰나요?"
+        answer: "관사 없이 그냥 씁니다.<br />예: Water is important. Milk is healthy.<br />평가 기준: '관사 없이'라고 답하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "일반적인 의미일 때 빈칸에 알맞은 것을 고르세요. (a / the / 없음)"
+      - type: qna
+        question: "Q1. I love ___ pizza. (일반적으로 피자가 좋아)"
+        answer: "없음 (I love pizza.)<br />설명: 일반적으로 피자를 좋아할 때 관사 없이 씁니다."
+      - type: qna
+        question: "Q2. ___ dogs are loyal animals. (개들은 일반적으로)"
+        answer: "없음 (Dogs are loyal animals.)<br />설명: 개 전체를 말할 때 관사 없이 복수형으로 씁니다."
+      - type: qna
+        question: "Q3. ___ milk is good for health. (우유는 일반적으로)"
+        answer: "없음 (Milk is good for health.)<br />설명: 불가산 명사를 일반적으로 말할 때 관사 없이 씁니다."
+      - type: qna
+        question: "Q4. Most ___ teenagers like music. (대부분의 십대들은)"
+        answer: "없음 (Most teenagers like music.)<br />설명: most + 복수 명사 (일반적) - 관사 없음"
+      - type: qna
+        question: "Q5. ___ money can't buy happiness. (돈은 일반적으로)"
+        answer: "없음 (Money can't buy happiness.)<br />설명: 불가산 명사(money)를 일반적으로 말할 때 관사 없이 씁니다."
+      - type: qna
+        question: "Q6. I hate ___ tests. (시험이 전체적으로 싫어)"
+        answer: "없음 (I hate tests.)<br />설명: 시험 전체가 싫을 때 관사 없이 복수형으로 씁니다."
+      - type: qna
+        question: "Q7. All ___ children need love. (모든 아이들 - 일반적으로)"
+        answer: "없음 (All children need love.)<br />설명: all + 복수 명사 (일반적) - 관사 없음"
+      - type: qna
+        question: "Q8. ___ time flies. (시간은 일반적으로)"
+        answer: "없음 (Time flies.)<br />설명: 추상 명사(time)를 일반적으로 말할 때 관사 없이 씁니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. 일반적인 의미입니다!"
+      - type: qna
+        question: "T1. 나는 음악을 좋아해. (일반적으로)"
+        answer: "I like music.<br />평가 기준: music 앞에 the 없이 쓰면 정답입니다."
+      - type: qna
+        question: "T2. 고양이들은 많이 자. (고양이 전체)"
+        answer: "Cats sleep a lot.<br />평가 기준: Cats (복수, 관사 없음)로 쓰면 정답입니다."
+      - type: qna
+        question: "T3. 물은 중요해. (물 일반)"
+        answer: "Water is important.<br />평가 기준: Water 앞에 관사 없이 쓰면 정답입니다."
+      - type: qna
+        question: "T4. 대부분의 학생들은 숙제가 싫어."
+        answer: "Most students hate homework.<br />평가 기준: Most students (관사 없음), homework (관사 없음)으로 쓰면 정답입니다."
+      - type: qna
+        question: "T5. 사랑은 아름다워."
+        answer: "Love is beautiful.<br />평가 기준: Love 앞에 관사 없이 쓰면 정답입니다."
+      - type: qna
+        question: "T6. 나는 아이스크림을 좋아해. (일반적으로)"
+        answer: "I like ice cream.<br />평가 기준: ice cream 앞에 관사 없이 쓰면 정답입니다."
+      - type: qna
+        question: "T7. 새들은 날 수 있어. (새 전체)"
+        answer: "Birds can fly.<br />평가 기준: Birds (복수, 관사 없음)로 쓰면 정답입니다."
+      - type: qna
+        question: "T8. 모든 아이들은 놀이가 필요해."
+        answer: "All children need play.<br />평가 기준: All children (관사 없음), play (관사 없음)으로 쓰면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "일반적인 의미와 특정 의미의 문장을 비교하고 변형해 보세요."
+      - type: qna
+        question: "TF1. 특정 → 일반: I like the music in this cafe. → I like ___. (음악 전체)"
+        answer: "music<br />설명: 일반적인 의미로 바꾸면 the를 뺍니다."
+      - type: qna
+        question: "TF2. 일반 → 특정: Dogs are friendly. → ___ dogs in the park are friendly. (공원의 개들)"
+        answer: "The<br />설명: 특정 장소의 개들을 말할 때 The를 붙입니다."
+      - type: qna
+        question: "TF3. 특정 → 일반: The water in this bottle is cold. → ___ is necessary for life. (물 일반)"
+        answer: "Water<br />설명: 일반적인 의미로 바꾸면 관사 없이 씁니다."
+      - type: qna
+        question: "TF4. 단수 → 복수 (일반): A cat is cute. → ___ are cute. (고양이 전체)"
+        answer: "Cats<br />설명: 일반적인 의미로 동물 전체를 말할 때 복수형, 관사 없이 씁니다."
+      - type: qna
+        question: "TF5. 잘못된 문장 고치기: I like the music. (일반적인 의미일 때)"
+        answer: "I like music.<br />설명: 일반적으로 음악을 좋아할 때 the를 뺍니다."
+      - type: qna
+        question: "TF6. 잘못된 문장 고치기: The cats sleep a lot. (고양이 전체를 말할 때)"
+        answer: "Cats sleep a lot.<br />설명: 고양이 전체를 일반적으로 말할 때 The를 뺍니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요! 관사 없이 일반적인 의미로 써 보세요."
+      - type: qna
+        question: "A1. 좋아하는 음식에 대해 3문장을 써 보세요. (I like/love + 음식)"
+        answer: "예시: I love pizza. I like ice cream. I don't like vegetables.<br />평가 기준: 음식 이름 앞에 관사 없이 쓰면 정답입니다."
+      - type: qna
+        question: "A2. 동물에 대한 일반적인 사실을 3문장으로 써 보세요."
+        answer: "예시: Dogs are friendly. Cats like fish. Birds can fly.<br />평가 기준: 동물을 복수형으로, 관사 없이 쓰면 정답입니다."
+      - type: qna
+        question: "A3. 좋아하는 것과 싫어하는 것을 각각 2개씩 써 보세요."
+        answer: "예시: I like games. I love music. I hate tests. I don't like homework.<br />평가 기준: 명사 앞에 관사 없이 일반적 의미로 쓰면 정답입니다."
+      - type: qna
+        question: "A4. 'most + 명사'를 사용해서 2문장을 써 보세요."
+        answer: "예시: Most students like weekends. Most children love candy.<br />평가 기준: most + 복수 명사 (관사 없이) 구조로 쓰면 정답입니다."
+      - type: qna
+        question: "A5. 추상적인 것(happiness, love, time, money 등)에 대해 2문장을 써 보세요."
+        answer: "예시: Time is precious. Happiness is important.<br />평가 기준: 추상 명사 앞에 관사 없이 쓰면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 고치세요: 'I like the music.' (일반적으로 음악이 좋을 때)"
+        answer: "올바른 문장: I like music.<br />설명: 일반적인 의미일 때 the를 쓰지 않습니다."
+      - type: qna
+        question: "C2. 두 문장의 차이를 설명하세요:<br />a) I like chocolate.<br />b) I like the chocolate."
+        answer: "a) 초콜릿 전체를 일반적으로 좋아함<br />b) 특정 초콜릿(예: 지금 먹고 있는 것, 여기 있는 것)을 좋아함<br />일반 vs 특정의 차이입니다."
+      - type: qna
+        question: "C3. 빈칸을 채우세요: '___ need water to live.' (생물들은 전체적으로)"
+        answer: "Animals (또는 Plants, People 등)<br />설명: 복수형, 관사 없이 써야 일반적인 의미가 됩니다."
+      - type: qna
+        question: "C4. 다음 중 올바른 문장을 모두 고르세요:<br />a) The dogs are friendly. (공원에 있는 개들)<br />b) Dogs are friendly. (개 전체)<br />c) A dog is friendly. (개 한 마리)<br />d) Dog is friendly. (개 전체)"
+        answer: "올바른 문장: a, b, c<br />설명: a) 특정 개들 - OK, b) 일반적인 개들 - OK, c) 한 마리 - OK<br />d) 일반적으로 말할 때 단수에 관사 없이 쓰면 틀림. Dogs are friendly 또는 A dog is friendly로 써야 함."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. 일반적인 의미로: I love ___. (피자)"
+        answer: "pizza"
+      - type: qna
+        question: "SR2. 동물 전체: ___ are cute. (고양이들)"
+        answer: "Cats"
+      - type: qna
+        question: "SR3. 불가산 명사 일반: ___ is important. (물)"
+        answer: "Water"
+      - type: qna
+        question: "SR4. most + 명사: Most ___ like games. (학생들)"
+        answer: "students"
+      - type: qna
+        question: "SR5. 번역: 나는 음악을 좋아해. (일반적으로)"
+        answer: "I like music."
+      - type: qna
+        question: "SR6. 번역: 개들은 충성스러워. (개 전체)"
+        answer: "Dogs are loyal."
+      - type: qna
+        question: "SR7. 번역: 모든 아이들은 사랑이 필요해."
+        answer: "All children need love."
+      - type: qna
+        question: "SR8. 틀린 곳 고치기: I like the ice cream. (일반적 의미)"
+        answer: "I like ice cream."
+      - type: qna
+        question: "SR9. 틀린 곳 고치기: The birds can fly. (새 전체)"
+        answer: "Birds can fly."
+      - type: qna
+        question: "SR10. 일반 vs 특정: 'I like coffee'와 'I like the coffee'의 차이는?"
+        answer: "I like coffee = 커피 전체 (일반)<br />I like the coffee = 특정 커피 (예: 이 카페의 커피)"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. 일반적인 것을 말할 때 관사를 쓰지 않는다는 것을 알고 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 핵심 규칙을 이해했어요.<br />어렵다면: I like music, Dogs are friendly처럼 일반적인 것은 관사 없이 써요!"
+      - type: qna
+        question: "SC2. 일반적인 의미와 특정 의미의 차이를 구분할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 영어의 중요한 개념을 이해했습니다.<br />어렵다면: I like music (전체) vs I like the music (여기 음악) - 범위의 차이예요!"
+      - type: qna
+        question: "SC3. 일반적으로 동물을 말할 때 복수형을 쓴다는 것을 기억하나요?"
+        answer: "할 수 있다면: 완벽해요! 복수형 + 관사 없음을 잘 알고 있어요.<br />어렵다면: Cats are cute. (O), Cat is cute. (X) - 복수형으로!"
+      - type: note
+        content: "잘했어요! 일반적인 것을 말할 때는 관사를 붙이지 않습니다. I like music, Dogs are friendly, Water is important처럼 말하면 됩니다. 특정한 것을 말할 때만 the를 붙여요!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 'I like music (일반)'과 'I like the music (특정)'의 차이를 기억하세요!"

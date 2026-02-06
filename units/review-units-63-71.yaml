@@ -1,0 +1,367 @@
+title: "A and the Review - Units 63-71 종합 복습"
+meta: "대상: 6학년 · 난이도: 통합 · 권장 45-60분 (A4 3-4p)"
+scope:
+  units: "Units 63-71"
+  topics: "부정관사(a/an), 단수/복수, 셀 수 있는/없는 명사, 정관사(the), 장소 표현, 일반적 의미, 장소 이름"
+  prerequisite: "A and the 파트의 모든 유닛 학습 완료"
+sections:
+  - title: "1. A and the 문법 맵"
+    items:
+      - type: text
+        content: "이번 복습에서는 관사(a/an/the)의 모든 용법을 통합하여 정리합니다. 언제 a/an을 쓰고, 언제 the를 쓰고, 언제 관사를 쓰지 않는지 확실히 구분하는 것이 목표입니다."
+      - type: list
+        heading: "이 복습에서 다루는 유닛들"
+        list:
+          - "Unit 63: a/an - 부정관사 기초 (자음/모음 소리 구분)"
+          - "Unit 64: singular and plural - 단수와 복수 명사 형태"
+          - "Unit 65: countable/uncountable 1 - 셀 수 있는/없는 명사 구분"
+          - "Unit 66: countable/uncountable 2 - 같은 단어의 가산/불가산 용법"
+          - "Unit 67: a/an and the - 부정관사와 정관사의 차이"
+          - "Unit 68: the 심화 - 최상급, 서수, 유일한 것, the + 형용사"
+          - "Unit 69: go to work/home - 관사 없이 쓰는 장소 표현"
+          - "Unit 70: I like music - 일반적 의미의 무관사 표현"
+          - "Unit 71: the + place names - 장소 이름에서 the 사용법"
+      - type: note
+        content: "<span class='highlight'>핵심 구분점:</span><br />- a/an vs the: 처음 언급 vs 이미 언급/특정<br />- a/an vs 무관사: 셀 수 있는 단수 vs 셀 수 없는 명사<br />- the vs 무관사: 특정한 것 vs 일반적인 것<br />- go to school vs go to the hospital: 본래 목적 vs 방문"
+      - type: list
+        heading: "관사 사용 총정리표"
+        list:
+          - "a/an: 셀 수 있는 명사 단수 + 처음 언급 + 직업"
+          - "the: 이미 언급 + 유일한 것 + 최상급 + 서수 + 특정한 것"
+          - "무관사: 일반적인 복수 + 셀 수 없는 명사 + go to school 류"
+          - "장소 이름: 강/바다/산맥 = the, 나라/도시/산 = 무관사"
+
+  - title: "2. 핵심 개념 비교"
+    items:
+      - type: text
+        content: "관사 사용에서 가장 헷갈리는 부분들을 비교해 봅시다."
+      - type: text
+        content: "<span class='highlight'>1. a/an vs the: 처음 vs 다시</span><br /><br /><b>구분 기준:</b><br />- a/an: 처음 언급할 때, 불특정한 하나<br />- the: 이미 언급했거나, 서로 알고 있거나, 특정한 것<br /><br /><b>예문 비교:</b><br />- I saw a dog. The dog was cute. (처음 -> 다시)<br />- Can you open the window? (둘 다 아는 창문)<br /><br /><b>흔한 실수:</b><br />- I saw a cat. A cat was sleeping. (X) -> The cat was sleeping. (O)<br />- He is the doctor. (X, 직업) -> He is a doctor. (O)<br /><br /><b>판별 팁:</b> 처음 말하면 a/an, 다시 말하면 the!"
+      - type: text
+        content: "<span class='highlight'>2. 셀 수 있음 vs 셀 수 없음</span><br /><br /><b>구분 기준:</b><br />- 셀 수 있음: a/an 사용 가능, 복수형 있음 (a book, books)<br />- 셀 수 없음: a/an 불가, 복수형 없음 (water, music)<br /><br /><b>예문 비교:</b><br />- I have a book. / I have books.<br />- I need water. (a water X, waters X)<br /><br /><b>흔한 실수:</b><br />- I have a homework. (X) -> I have homework. (O)<br />- Can I have a water? (X) -> Can I have some water? (O)<br />- I like musics. (X) -> I like music. (O)<br /><br /><b>판별 팁:</b> water, music, homework, money, information은 셀 수 없음!"
+      - type: text
+        content: "<span class='highlight'>3. 같은 단어도 의미에 따라 달라짐</span><br /><br /><b>구분 기준:</b><br />- 전체/개별: 셀 수 있음 (a cake = 케이크 한 개)<br />- 일부/재료: 셀 수 없음 (some cake = 케이크 조금)<br /><br /><b>예문 비교:</b><br />- I bought a cake. (통케이크 한 개)<br />- Would you like some cake? (케이크 조금)<br />- I saw a chicken. (닭 한 마리)<br />- I ate some chicken. (닭고기)<br /><br /><b>흔한 실수:</b><br />- She has long hairs. (X) -> She has long hair. (O)<br />- Is there a room for me? (X, 자리) -> Is there room for me? (O)<br /><br /><b>판별 팁:</b> 전체면 a/an, 일부/재료면 무관사+some!"
+      - type: text
+        content: "<span class='highlight'>4. 일반적 vs 특정: the 유무</span><br /><br /><b>구분 기준:</b><br />- 일반적: 관사 없이 (I like music. Dogs are friendly.)<br />- 특정: the 사용 (I like the music in this cafe.)<br /><br /><b>예문 비교:</b><br />- I like coffee. (커피 전체가 좋아)<br />- I like the coffee here. (여기 커피가 좋아)<br />- Cats sleep a lot. (고양이 전체)<br />- The cats in the park are cute. (공원의 그 고양이들)<br /><br /><b>흔한 실수:</b><br />- I like the pizza. (X, 일반적 의미) -> I like pizza. (O)<br />- The dogs are friendly. (X, 개 전체) -> Dogs are friendly. (O)<br /><br /><b>판별 팁:</b> 전체/일반이면 무관사, 특정하면 the!"
+      - type: text
+        content: "<span class='highlight'>5. go to school vs go to the hospital</span><br /><br /><b>구분 기준:</b><br />- 본래 목적: 관사 없이 (go to school = 공부하러)<br />- 방문/볼일: the 사용 (go to the hospital = 진료받으러)<br /><br /><b>예문 비교:</b><br />- I go to school. (학생으로서 공부하러)<br />- Mom went to the school. (방문 목적)<br />- She went to the bank. (은행 볼일)<br /><br /><b>특별 규칙:</b><br />- go home (to 없음!), at home, come home<br />- go to bed, in bed (자러/쉬는 상태)<br /><br /><b>판별 팁:</b> school/work/bed/home은 본래 목적이면 관사 없이!"
+      - type: text
+        content: "<span class='highlight'>6. 장소 이름: the 있음 vs 없음</span><br /><br /><b>구분 기준:</b><br />- the 없음: 나라, 도시, 대륙, 산 하나, 호수, 공원, 역<br />- the 있음: 강, 바다, 산맥, 사막, 특수 나라(UK, USA), 박물관, 호텔<br /><br /><b>예문 비교:</b><br />- I live in Korea. / I visited Seoul.<br />- The Han River is long. / The Pacific is big.<br />- Mount Everest (산 하나) vs The Alps (산맥)<br />- Seoul Station (역) vs the British Museum (박물관)<br /><br /><b>흔한 실수:</b><br />- the Korea (X) -> Korea (O)<br />- Han River (X) -> the Han River (O)<br />- the Mount Everest (X) -> Mount Everest (O)<br /><br /><b>판별 팁:</b> 물이 흐르면 the! 그룹이면 the! Republic/Kingdom/States면 the!"
+
+  - title: "3. 통합 진단"
+    items:
+      - type: note
+        content: "각 문제를 풀고 유닛별 점수를 계산해 보세요. 약한 영역을 찾아 Section 7에서 집중 복습하세요."
+      - type: qna
+        question: "D1. I need ___ umbrella. (a/an)"
+        answer: "an (Unit 63)<br />설명: umbrella는 모음 소리 '엄'으로 시작하므로 an입니다."
+      - type: qna
+        question: "D2. She is ___ honest person. (a/an)"
+        answer: "an (Unit 63)<br />설명: honest의 h는 묵음이라 '어니스트'로 발음합니다. 모음 소리!"
+      - type: qna
+        question: "D3. I have two ___. (book/books)"
+        answer: "books (Unit 64)<br />설명: 숫자 2 이상 뒤에는 복수형을 씁니다."
+      - type: qna
+        question: "D4. There are many ___. (child/children)"
+        answer: "children (Unit 64)<br />설명: child의 불규칙 복수형은 children입니다."
+      - type: qna
+        question: "D5. Can I have ___ water? (a/some)"
+        answer: "some (Unit 65)<br />설명: water는 셀 수 없는 명사이므로 a가 아닌 some을 씁니다."
+      - type: qna
+        question: "D6. We have ___ homework. (a/some)"
+        answer: "some (Unit 65)<br />설명: homework는 셀 수 없는 명사입니다. a homework (X)"
+      - type: qna
+        question: "D7. Would you like ___ cake? (a/some, 케이크 조금)"
+        answer: "some (Unit 66)<br />설명: 케이크 조금(일부)을 권할 때는 some cake입니다."
+      - type: qna
+        question: "D8. She has beautiful ___. (hair/hairs)"
+        answer: "hair (Unit 66)<br />설명: 머리카락 전체를 말할 때 hair는 셀 수 없음. hairs (X)"
+      - type: qna
+        question: "D9. I saw a dog. ___ dog was big. (A/The)"
+        answer: "The (Unit 67)<br />설명: 이미 언급한 개를 다시 말할 때 the를 씁니다."
+      - type: qna
+        question: "D10. My mom is ___ nurse. (a/the)"
+        answer: "a (Unit 67)<br />설명: 직업을 말할 때는 a/an을 씁니다."
+      - type: qna
+        question: "D11. ___ sun is very bright today. (A/The)"
+        answer: "The (Unit 68)<br />설명: 태양은 세상에 하나뿐이므로 the sun입니다."
+      - type: qna
+        question: "D12. This is ___ best pizza ever! (a/the)"
+        answer: "the (Unit 68)<br />설명: 최상급(best) 앞에는 항상 the를 씁니다."
+      - type: qna
+        question: "D13. I go to ___ every day. (school/the school, 학생으로서)"
+        answer: "school (Unit 69)<br />설명: 학생이 공부하러 가는 것이므로 관사 없이 go to school."
+      - type: qna
+        question: "D14. Let's go ___. (home/to home)"
+        answer: "home (Unit 69)<br />설명: home 앞에는 to를 쓰지 않습니다. go to home (X)"
+      - type: qna
+        question: "D15. I like ___. (music/the music, 일반적으로)"
+        answer: "music (Unit 70)<br />설명: 일반적으로 음악을 좋아할 때 the 없이 씁니다."
+      - type: qna
+        question: "D16. ___ are friendly. (Dog/Dogs, 개 전체)"
+        answer: "Dogs (Unit 70)<br />설명: 일반적으로 동물 전체를 말할 때 복수형, 관사 없이."
+      - type: qna
+        question: "D17. I live in ___. (Korea/the Korea)"
+        answer: "Korea (Unit 71)<br />설명: 나라 이름에는 the를 붙이지 않습니다."
+      - type: qna
+        question: "D18. ___ Han River is long. (The/X)"
+        answer: "The (Unit 71)<br />설명: 강 이름에는 the를 붙입니다."
+      - type: note
+        content: "<span class='highlight'>채점 가이드:</span><br />- Units 63-64 (a/an, 복수): D1, D2, D3, D4 -> __/4점<br />- Units 65-66 (가산/불가산): D5, D6, D7, D8 -> __/4점<br />- Units 67-68 (a/an vs the): D9, D10, D11, D12 -> __/4점<br />- Units 69-70 (무관사 표현): D13, D14, D15, D16 -> __/4점<br />- Unit 71 (장소 이름): D17, D18 -> __/2점<br /><br />총점: __/18점<br />- 16-18점: 훌륭합니다!<br />- 13-15점: 좋아요, 조금만 더 연습!<br />- 9-12점: Section 7에서 약한 영역 복습 필요<br />- 8점 이하: 각 유닛 다시 학습 권장"
+
+  - title: "4. 인터리빙 연습"
+    items:
+      - type: note
+        content: "30개의 문제가 무작위로 섞여 있습니다. 각 문제가 어떤 유닛의 내용인지 생각하며 풀어 보세요."
+      - type: qna
+        question: "I1. ___ Pacific Ocean is very big. (The/X)"
+        answer: "The (Unit 71)<br />설명: 바다/대양 이름에는 the를 붙입니다."
+      - type: qna
+        question: "I2. I need ___ new pencil. (a/an)"
+        answer: "a (Unit 63)<br />설명: new는 자음 소리 'ㄴ'으로 시작하므로 a입니다."
+      - type: qna
+        question: "I3. We should help ___ poor. (a/the)"
+        answer: "the (Unit 68)<br />설명: the + 형용사 = ~한 사람들. the poor = 가난한 사람들."
+      - type: qna
+        question: "I4. I ate ___ chicken for dinner. (a/some, 닭고기)"
+        answer: "some (Unit 66)<br />설명: 닭고기(음식)를 말할 때 chicken은 셀 수 없음. some chicken."
+      - type: qna
+        question: "I5. He goes to ___ at 8 a.m. (work/the work)"
+        answer: "work (Unit 69)<br />설명: 출근할 때 go to work - 관사 없이."
+      - type: qna
+        question: "I6. I love ___. (ice cream/the ice cream, 일반적으로)"
+        answer: "ice cream (Unit 70)<br />설명: 일반적으로 아이스크림을 좋아할 때 the 없이 씁니다."
+      - type: qna
+        question: "I7. She has three ___. (watch/watches)"
+        answer: "watches (Unit 64)<br />설명: -ch로 끝나는 명사는 -es를 붙여 복수형을 만듭니다."
+      - type: qna
+        question: "I8. I visited ___ Seoul last summer. (the/X)"
+        answer: "X (관사 없음) (Unit 71)<br />설명: 도시 이름에는 the를 붙이지 않습니다."
+      - type: qna
+        question: "I9. Can you turn off ___ TV? (a/the)"
+        answer: "the (Unit 67)<br />설명: 서로 알고 있는 특정 TV이므로 the."
+      - type: qna
+        question: "I10. I bought ___ bottle of water. (a/the)"
+        answer: "a (Unit 65)<br />설명: 물 한 병을 처음 언급할 때 a bottle of water."
+      - type: qna
+        question: "I11. It's late. Go to ___. (bed/the bed, 자러)"
+        answer: "bed (Unit 69)<br />설명: 자러 갈 때 go to bed - 관사 없이."
+      - type: qna
+        question: "I12. ___ Alps are beautiful. (The/X)"
+        answer: "The (Unit 71)<br />설명: 산맥(여러 산들의 그룹)에는 the를 붙입니다."
+      - type: qna
+        question: "I13. My uncle is ___ artist. (a/an)"
+        answer: "an (Unit 63)<br />설명: artist는 모음 소리 '아'로 시작하므로 an입니다."
+      - type: qna
+        question: "I14. ___ water is important for life. (The/X, 물 일반)"
+        answer: "X (관사 없음) (Unit 70)<br />설명: 일반적으로 물을 말할 때 관사 없이."
+      - type: qna
+        question: "I15. I saw a bird. ___ bird was beautiful. (A/The)"
+        answer: "The (Unit 67)<br />설명: 이미 언급한 새를 다시 말할 때 the."
+      - type: qna
+        question: "I16. There are five ___. (fish/fishes)"
+        answer: "fish (Unit 64)<br />설명: fish는 단복수 동형입니다. five fish가 맞습니다."
+      - type: qna
+        question: "I17. We have ___ same hobby. (a/the)"
+        answer: "the (Unit 68)<br />설명: same 앞에는 항상 the를 붙입니다. the same."
+      - type: qna
+        question: "I18. She went to ___ hospital. (the/X, 진료)"
+        answer: "the (Unit 69)<br />설명: 병원에 진료받으러 갈 때 go to the hospital."
+      - type: qna
+        question: "I19. I want to climb ___ Mount Everest. (the/X)"
+        answer: "X (관사 없음) (Unit 71)<br />설명: 하나의 산에는 the를 붙이지 않습니다. Mount + 이름."
+      - type: qna
+        question: "I20. Would you like ___ coffee? (a/some, 커피 좀)"
+        answer: "some (Unit 65)<br />설명: 커피(음료)를 권할 때 some coffee."
+      - type: qna
+        question: "I21. This is ___ most difficult question. (a/the)"
+        answer: "the (Unit 68)<br />설명: 최상급(most difficult) 앞에는 the."
+      - type: qna
+        question: "I22. I bought ___ cake for the party. (a/some, 통케이크)"
+        answer: "a (Unit 66)<br />설명: 케이크 한 개 전체를 샀을 때 a cake."
+      - type: qna
+        question: "I23. ___ cats sleep a lot. (The/X, 고양이 전체)"
+        answer: "X (관사 없음) (Unit 70)<br />설명: 고양이 전체를 일반적으로 말할 때 복수, 관사 없이."
+      - type: qna
+        question: "I24. My family lives in ___ United States. (the/X)"
+        answer: "the (Unit 71)<br />설명: States가 포함되어 있으므로 the United States."
+      - type: qna
+        question: "I25. He waited for ___ hour. (a/an)"
+        answer: "an (Unit 63)<br />설명: hour의 h는 묵음이라 모음 소리 '아'로 시작합니다."
+      - type: qna
+        question: "I26. My mom is at ___ now. (home/the home)"
+        answer: "home (Unit 69)<br />설명: at home - 관사 없이."
+      - type: qna
+        question: "I27. There are many ___. (city/cities)"
+        answer: "cities (Unit 64)<br />설명: 자음+y로 끝나면 y를 i로 바꾸고 -es. city -> cities."
+      - type: qna
+        question: "I28. Is there ___ for me? (room/a room, 자리/공간)"
+        answer: "room (Unit 66)<br />설명: 자리/공간을 말할 때 room은 셀 수 없음. a room = 방."
+      - type: qna
+        question: "I29. ___ moon is bright tonight. (A/The)"
+        answer: "The (Unit 68)<br />설명: 달은 하나뿐이므로 the moon."
+      - type: qna
+        question: "I30. I need ___ information about the train. (a/some)"
+        answer: "some (Unit 65)<br />설명: information은 셀 수 없는 명사이므로 a가 아닌 some을 씁니다."
+
+  - title: "5. 오류 탐지 & 수정"
+    items:
+      - type: note
+        content: "다음 문장에서 틀린 부분을 찾아 고치세요. 어떤 유닛의 규칙을 위반했는지도 확인하세요."
+      - type: qna
+        question: "E1. I am student."
+        answer: "틀린 부분: am student<br />문제: 직업/신분 앞에 a/an 빠짐<br />위반 규칙: Unit 63 - a/an 사용<br />수정: I am a student.<br />설명: 영어에서 직업/신분을 말할 때 반드시 a/an이 필요합니다."
+      - type: qna
+        question: "E2. She ate a apple."
+        answer: "틀린 부분: a apple<br />문제: 모음 소리 앞에 a 사용<br />위반 규칙: Unit 63 - a vs an<br />수정: She ate an apple.<br />설명: apple은 모음 소리 '애'로 시작하므로 an을 씁니다."
+      - type: qna
+        question: "E3. I have two book and three pencil."
+        answer: "틀린 부분: two book, three pencil<br />문제: 숫자 뒤에 복수형 안 씀<br />위반 규칙: Unit 64 - 복수형<br />수정: I have two books and three pencils.<br />설명: 2 이상의 숫자 뒤에는 반드시 복수형(-s)을 씁니다."
+      - type: qna
+        question: "E4. The childs are playing."
+        answer: "틀린 부분: childs<br />문제: 불규칙 복수형 오류<br />위반 규칙: Unit 64 - 불규칙 복수<br />수정: The children are playing.<br />설명: child의 복수형은 childs가 아니라 children입니다."
+      - type: qna
+        question: "E5. I need a water."
+        answer: "틀린 부분: a water<br />문제: 셀 수 없는 명사에 a 사용<br />위반 규칙: Unit 65 - 불가산 명사<br />수정: I need water. / I need some water.<br />설명: water는 셀 수 없으므로 a를 쓸 수 없습니다."
+      - type: qna
+        question: "E6. I have many homeworks."
+        answer: "틀린 부분: homeworks<br />문제: 셀 수 없는 명사에 복수형<br />위반 규칙: Unit 65 - 불가산 명사<br />수정: I have a lot of homework.<br />설명: homework는 셀 수 없으므로 복수형이 없습니다."
+      - type: qna
+        question: "E7. She has long hairs."
+        answer: "틀린 부분: hairs<br />문제: 머리카락 전체를 복수형으로<br />위반 규칙: Unit 66 - hair 용법<br />수정: She has long hair.<br />설명: 머리카락 전체를 말할 때 hair는 셀 수 없습니다."
+      - type: qna
+        question: "E8. I saw a cat. A cat was cute."
+        answer: "틀린 부분: A cat (두 번째)<br />문제: 이미 언급한 것에 a 사용<br />위반 규칙: Unit 67 - a/an vs the<br />수정: I saw a cat. The cat was cute.<br />설명: 이미 언급한 것을 다시 말할 때는 the를 씁니다."
+      - type: qna
+        question: "E9. He is the doctor. (직업 소개)"
+        answer: "틀린 부분: the doctor<br />문제: 직업에 the 사용<br />위반 규칙: Unit 67 - 직업은 a/an<br />수정: He is a doctor.<br />설명: 직업을 소개할 때는 a/an을 씁니다."
+      - type: qna
+        question: "E10. Sun is very hot."
+        answer: "틀린 부분: Sun<br />문제: 유일한 것에 the 빠짐<br />위반 규칙: Unit 68 - 유일한 것<br />수정: The sun is very hot.<br />설명: 태양은 하나뿐이므로 the sun입니다."
+      - type: qna
+        question: "E11. This is best movie ever!"
+        answer: "틀린 부분: best<br />문제: 최상급 앞에 the 빠짐<br />위반 규칙: Unit 68 - 최상급<br />수정: This is the best movie ever!<br />설명: 최상급 앞에는 항상 the가 필요합니다."
+      - type: qna
+        question: "E12. I go to home after school."
+        answer: "틀린 부분: to home<br />문제: home 앞에 to 사용<br />위반 규칙: Unit 69 - go home<br />수정: I go home after school.<br />설명: home 앞에는 to를 쓰지 않습니다."
+      - type: qna
+        question: "E13. I go to the school every day. (학생)"
+        answer: "틀린 부분: the school<br />문제: 본래 목적에 the 사용<br />위반 규칙: Unit 69 - go to school<br />수정: I go to school every day.<br />설명: 학생이 공부하러 갈 때 관사 없이 go to school."
+      - type: qna
+        question: "E14. I like the music. (일반적으로)"
+        answer: "틀린 부분: the music<br />문제: 일반적 의미에 the 사용<br />위반 규칙: Unit 70 - 일반적 의미<br />수정: I like music.<br />설명: 일반적으로 음악을 좋아할 때 the 없이."
+      - type: qna
+        question: "E15. I visited the Korea last year."
+        answer: "틀린 부분: the Korea<br />문제: 나라 이름에 the 사용<br />위반 규칙: Unit 71 - 나라 이름<br />수정: I visited Korea last year.<br />설명: 나라 이름에는 the를 붙이지 않습니다."
+
+  - title: "6. 통합 프로젝트"
+    items:
+      - type: note
+        content: "여러 유닛의 문법을 함께 사용하여 글을 써 보세요. 각 과제에서 요구하는 문법 요소를 모두 포함해야 합니다."
+      - type: qna
+        question: "P1. 나의 하루 일과 쓰기: 다음 요소를 모두 포함하여 5문장 이상 쓰세요.<br />- a/an + 직업 (가족 소개)<br />- go to school/work/home (장소 이동)<br />- 셀 수 없는 명사 (음식/음료)<br />- 복수형 (물건들)"
+        answer: "예시 답안:<br />My dad is a doctor. He goes to work at 7 a.m. I go to school at 8. For breakfast, I eat rice and drink some milk. I have many books in my bag. After school, I go home and do homework.<br /><br />평가 기준:<br />- 사용한 유닛: 63(a/an + 직업), 64(복수형), 65(불가산 명사), 69(go to school/work/home)<br />- 문법 정확도: 관사와 복수형이 올바른지<br />- 창의성: 자연스러운 일과 표현"
+      - type: qna
+        question: "P2. 좋아하는 것 소개하기: 다음 요소를 모두 포함하여 5문장 이상 쓰세요.<br />- 일반적 의미의 복수 (I like cats.)<br />- 일반적 의미의 불가산 (I like music.)<br />- 최상급 + the (the best)<br />- the same (같은 것)"
+        answer: "예시 답안:<br />I love music. I also like cats because they are cute. Dogs are friendly too. Pizza is my favorite food. It is the best food in the world! My friend and I have the same hobby. We both like playing games.<br /><br />평가 기준:<br />- 사용한 유닛: 70(일반적 의미), 68(최상급, the same)<br />- 문법 정확도: 일반적 의미에 the 없이, 최상급에 the 있음<br />- 창의성: 다양한 좋아하는 것 표현"
+      - type: qna
+        question: "P3. 여행 계획 쓰기: 다음 요소를 모두 포함하여 5문장 이상 쓰세요.<br />- 나라/도시 이름 (the 없이)<br />- 강/바다/산맥 이름 (the 사용)<br />- the + 최상급/서수<br />- a/an + 장소/물건"
+        answer: "예시 답안:<br />I want to visit Japan next summer. I will go to Tokyo first. It will be my first trip to Asia. I want to see the Pacific Ocean. Mount Fuji is the most famous mountain in Japan. I will stay at a nice hotel. The Alps are also on my travel list for the future.<br /><br />평가 기준:<br />- 사용한 유닛: 71(장소 이름), 68(최상급, 서수), 63(a/an)<br />- 문법 정확도: 나라/도시는 the 없이, 바다/산맥은 the 있음<br />- 창의성: 구체적인 여행 계획"
+      - type: qna
+        question: "P4. 음식 주문 대화 만들기: A와 B의 대화를 만드세요. 다음 표현을 모두 사용하세요.<br />- a/an + 음식 (셀 수 있는)<br />- some + 음식 (셀 수 없는)<br />- Would you like...? / Can I have...?<br />- a glass of / a piece of"
+        answer: "예시 답안:<br />A: Would you like some coffee?<br />B: Yes, please. Can I have a cup of coffee?<br />A: Sure. Would you like some cake too?<br />B: Yes, I'd like a piece of cake.<br />A: And an apple?<br />B: No, thank you. Just the coffee and cake.<br /><br />평가 기준:<br />- 사용한 유닛: 63(a/an), 65(some + 불가산), 66(a piece of)<br />- 대화 자연스러움: 질문-대답 흐름<br />- 다양성: 여러 음식 표현 사용"
+
+  - title: "7. 약점 집중 복습"
+    items:
+      - type: note
+        content: "진단 평가(Section 3)에서 약한 영역만 선택해서 푸세요. 모든 영역이 강하다면 건너뛰어도 됩니다."
+      - type: text
+        content: "<span class='highlight'>Units 63-64 복습 (a/an, 단수/복수)</span>"
+      - type: note
+        content: "핵심: a + 자음 소리, an + 모음 소리 / 복수형: 대부분 -s, 특별 규칙(-es, -ies, 불규칙)"
+      - type: qna
+        question: "R1. 빈칸 채우기: ___ university, ___ hour, ___ honest boy"
+        answer: "a university, an hour, an honest boy<br />설명: u가 '유' 소리(자음) = a, h가 묵음(모음 소리) = an"
+      - type: qna
+        question: "R2. 복수형 쓰기: bus, city, child, leaf"
+        answer: "buses, cities, children, leaves<br />설명: -s로 끝나면 -es, 자음+y면 -ies, 불규칙, -f면 -ves"
+      - type: qna
+        question: "R3. 틀린 곳 고치기: I am teacher. I have two watchs."
+        answer: "I am a teacher. I have two watches.<br />설명: 직업 앞에 a/an 필요, watch -> watches"
+      - type: text
+        content: "<span class='highlight'>Units 65-66 복습 (가산/불가산 명사)</span>"
+      - type: note
+        content: "핵심: 셀 수 없는 명사 = water, milk, bread, rice, homework, music, money, information / 양 표현 = a glass of, a piece of"
+      - type: qna
+        question: "R4. 셀 수 있음 O, 셀 수 없음 X: book, water, apple, homework, friend, music"
+        answer: "book(O), water(X), apple(O), homework(X), friend(O), music(X)<br />설명: 물, 숙제, 음악은 셀 수 없음"
+      - type: qna
+        question: "R5. 틀린 곳 고치기: I need a water. She has many informations."
+        answer: "I need water/some water. She has a lot of information.<br />설명: water, information은 셀 수 없음"
+      - type: qna
+        question: "R6. a cake vs some cake, hair vs a hair의 차이를 설명하세요."
+        answer: "a cake = 통케이크 한 개, some cake = 케이크 조금(일부)<br />hair = 머리카락 전체, a hair = 머리카락 한 올<br />전체/개별이면 가산, 일부/재료면 불가산"
+      - type: text
+        content: "<span class='highlight'>Units 67-68 복습 (a/an vs the)</span>"
+      - type: note
+        content: "핵심: a/an = 처음/불특정, the = 이미 언급/특정/유일/최상급/서수/the same"
+      - type: qna
+        question: "R7. 빈칸 채우기: I saw ___ cat. ___ cat was cute. (a/the)"
+        answer: "a, The<br />설명: 처음에는 a, 다시 말할 때는 the"
+      - type: qna
+        question: "R8. 빈칸 채우기: ___ sun, ___ best, ___ first, ___ same color"
+        answer: "the sun, the best, the first, the same color<br />설명: 유일한 것, 최상급, 서수, same 앞에는 the"
+      - type: qna
+        question: "R9. 틀린 곳 고치기: He is the engineer. (직업) Moon is beautiful."
+        answer: "He is an engineer. The moon is beautiful.<br />설명: 직업은 a/an, 유일한 것은 the"
+      - type: text
+        content: "<span class='highlight'>Units 69-70 복습 (무관사 표현)</span>"
+      - type: note
+        content: "핵심: 본래 목적 = go to school/work/bed, go home (to 없음!) / 일반적 의미 = 복수/불가산 관사 없이"
+      - type: qna
+        question: "R10. 빈칸 채우기: go to ___, go ___, go to ___, at ___ (학교, 집, 침대, 직장)"
+        answer: "go to school, go home, go to bed, at work<br />설명: 본래 목적이면 관사 없이, home 앞에는 to도 없음"
+      - type: qna
+        question: "R11. 일반적 의미로 쓰기: 나는 피자를 좋아해. 개들은 친근해."
+        answer: "I like pizza. Dogs are friendly.<br />설명: 일반적 의미면 관사 없이 (the pizza X, The dogs X)"
+      - type: qna
+        question: "R12. 틀린 곳 고치기: I go to home. I like the music. (일반적 의미)"
+        answer: "I go home. I like music.<br />설명: home 앞에 to 없음, 일반적 의미에 the 없음"
+      - type: text
+        content: "<span class='highlight'>Unit 71 복습 (장소 이름)</span>"
+      - type: note
+        content: "핵심: the 없음 = 나라/도시/대륙/산/호수/공원/역 / the 있음 = 강/바다/산맥/사막/UK,USA/박물관/호텔"
+      - type: qna
+        question: "R13. the가 필요한 것 고르기: Korea, Han River, Seoul, Alps, Mount Everest, Pacific"
+        answer: "the 필요: Han River, Alps, Pacific<br />the 불필요: Korea, Seoul, Mount Everest<br />설명: 강, 산맥, 바다 = the / 나라, 도시, 산 하나 = 무관사"
+      - type: qna
+        question: "R14. 틀린 곳 고치기: I live in the Korea. Han River is long."
+        answer: "I live in Korea. The Han River is long.<br />설명: 나라는 the 없이, 강은 the 있음"
+
+  - title: "8. 종합 자기 평가 & 학습 계획"
+    items:
+      - type: note
+        content: "복습을 마치며 스스로를 점검해 봅시다!"
+      - type: qna
+        question: "SC1. a와 an을 소리로 구분할 수 있나요? (a university, an hour)"
+        answer: "할 수 있다면: 훌륭합니다! 핵심 규칙을 완벽히 이해했어요.<br />어렵다면: 철자가 아닌 '소리'가 기준! 자음 소리 = a, 모음 소리 = an"
+      - type: qna
+        question: "SC2. 셀 수 있는 명사와 셀 수 없는 명사를 구분할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 어려운 개념을 이해했습니다.<br />어렵다면: water, music, homework, money = 셀 수 없음! a 불가, 복수형 없음!"
+      - type: qna
+        question: "SC3. a/an과 the의 차이(처음 vs 다시)를 설명할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 관사의 핵심을 이해했어요.<br />어렵다면: 처음 말하면 a/an, 다시 말하면 the! 'a dog -> the dog' 패턴!"
+      - type: qna
+        question: "SC4. go to school과 go to the hospital의 차이를 알고 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 무관사 규칙을 이해했어요.<br />어렵다면: 본래 목적(공부) = 관사 없이, 방문/볼일 = the 사용!"
+      - type: qna
+        question: "SC5. 장소 이름에서 the가 필요한 것과 아닌 것을 구분할 수 있나요?"
+        answer: "할 수 있다면: 대단해요! 복잡한 규칙도 잘 정리했어요.<br />어렵다면: 물이 흐르면 the(강, 바다), 그룹이면 the(산맥), Republic/Kingdom/States면 the!"
+      - type: note
+        content: "<span class='highlight'>나의 복습 결과</span><br />진단 평가 점수: __/18<br />가장 자신있는 유닛: ______<br />더 연습이 필요한 유닛: ______"
+      - type: note
+        content: "<span class='highlight'>다음 주 학습 계획</span><br />- 점수가 낮은 유닛: 해당 유닛 다시 학습 후 복습<br />- 특히 주의: a/an vs the 구분, 셀 수 없는 명사, go to school 류<br />- 추천: 영어 읽을 때 관사 사용 패턴 관찰하기<br />- 추천: 일기 쓸 때 관사 의식하며 쓰기"
+      - type: note
+        content: "잘했어요! 관사(a/an/the)는 영어의 가장 어려운 부분 중 하나입니다. 처음엔 헷갈려도 계속 연습하면 자연스럽게 쓸 수 있게 됩니다. 특히 'a/an = 처음/하나', 'the = 특정/유일', '무관사 = 일반적'이라는 큰 원칙을 기억하세요!"
+      - type: note
+        content: "다음 목표: 관사 복습이 끝나면 다음 파트로 넘어가거나, 약한 유닛을 다시 학습해 보세요. 관사는 매일 쓰는 표현이니 실제 영어 문장에서 어떻게 쓰이는지 관찰하는 것이 가장 좋습니다!"

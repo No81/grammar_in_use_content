@@ -1,0 +1,268 @@
+title: "Unit 64 · train(s) bus(es) (단수와 복수 명사)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 명사는 '하나'일 때 단수(singular), '둘 이상'일 때 복수(plural)로 씁니다. 복수형은 보통 명사 끝에 -s나 -es를 붙여 만들지만, 불규칙하게 변하는 명사도 있고, 아예 복수형이 없는 명사도 있습니다."
+      - type: list
+        heading: "형식 (Form) - 복수형 만드는 규칙"
+        list:
+          - "기본 규칙: 명사 + s → book → books, dog → dogs"
+          - "-s, -ss, -sh, -ch, -x, -o로 끝나면: 명사 + es → bus → buses, watch → watches"
+          - "자음 + y로 끝나면: y를 i로 바꾸고 + es → city → cities, baby → babies"
+          - "모음 + y로 끝나면: 그냥 + s → day → days, boy → boys"
+          - "-f/-fe로 끝나면: f를 v로 바꾸고 + es → leaf → leaves, knife → knives"
+          - "불규칙 복수: child → children, man → men, woman → women, tooth → teeth, foot → feet, mouse → mice"
+          - "단복수 동형: sheep → sheep, fish → fish, deer → deer"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 영어에서는 셀 수 있는 명사가 하나인지 여러 개인지를 반드시 구분합니다. 한국어에서는 '책 한 권', '책 세 권' 모두 '책'이지만, 영어에서는 one book, three books로 반드시 표시해야 합니다."
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 단수: 하나일 때 - a book, one apple, this pen<br />• 복수: 둘 이상일 때 - two books, five apples, these pens<br />• 복수: 일반적인 것을 말할 때 - I like dogs. (개들을 좋아해 = 개라는 동물 전체)<br />• 복수: 여러 종류를 말할 때 - There are many fruits. (다양한 과일이 있어)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "학교: I have three textbooks in my bag. (내 가방에 교과서 세 권이 있어.)"
+          - "학교: There are many desks and chairs in the classroom. (교실에 책상과 의자가 많아.)"
+          - "친구: My friends live in different cities. (내 친구들은 다른 도시들에 살아.)"
+          - "친구: Two boys and three girls are playing soccer. (남자아이 둘과 여자아이 셋이 축구를 하고 있어.)"
+          - "가족: I have two sisters and one brother. (나는 언니 둘과 남동생 하나가 있어.)"
+          - "가족: My parents bought new dishes for our kitchen. (부모님이 우리 주방에 새 접시들을 사셨어.)"
+          - "취미: I collect stamps from many countries. (나는 여러 나라에서 온 우표를 모아.)"
+          - "동물: There are five fish in the tank. (수조에 물고기 다섯 마리가 있어.)"
+          - "음식: She ate two sandwiches and three cookies. (그녀는 샌드위치 두 개와 쿠키 세 개를 먹었어.)"
+          - "일상: I brush my teeth twice a day. (나는 하루에 두 번 이를 닦아.)"
+          - "게임: The heroes have special abilities. (영웅들은 특별한 능력이 있어.)"
+          - "쇼핑: These watches are very expensive. (이 시계들은 매우 비싸.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 복수형 생략: I have two book (X) → I have two books (O)<br />2. -es 빠뜨림: two buss (X) → two buses (O)<br />3. y 규칙 실수: citys (X) → cities (O) / days (O, 모음+y는 그냥 s)<br />4. 불규칙 복수 실수: childs (X) → children (O), mans (X) → men (O)<br />5. 셀 수 없는 명사에 -s: informations (X) → information (O), musics (X) → music (O)"
+      - type: text
+        content: "<span class='highlight'>셀 수 없는 명사 (Uncountable Nouns):</span><br />다음 명사들은 복수형이 없습니다. -s를 붙이면 안 됩니다!<br />• water (물), milk (우유), rice (쌀), bread (빵)<br />• money (돈), time (시간), homework (숙제)<br />• music (음악), information (정보), news (뉴스)<br />• advice (조언), furniture (가구), luggage (짐)<br /><br />양을 표현할 때: some water, a glass of water, two pieces of bread"
+      - type: text
+        content: "<span class='highlight'>a/an vs 복수:</span><br />• a book (책 한 권) - 단수일 때 a/an 사용<br />• an apple (사과 한 개) - 모음으로 시작하면 an<br />• books (책들) - 복수일 때는 a/an 없이 바로 -s<br />• the books (그 책들) - the는 단수/복수 모두 사용 가능"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "I have one cat and two dogs."
+          - "She watches three buses pass by every morning."
+          - "There are many countries in Asia."
+          - "The children are playing in the park."
+          - "I need some water and two apples."
+          - "My feet hurt after walking so long."
+          - "The leaves are falling from the trees."
+      - type: qna
+        question: "Q1. -s로 끝나는 단어(bus)와 -ch로 끝나는 단어(watch)의 복수형은 어떻게 만드나요?"
+        answer: "둘 다 -es를 붙입니다.<br />bus → buses, watch → watches<br />발음상 -s만 붙이면 말하기 어려워서 -es를 붙입니다."
+      - type: qna
+        question: "Q2. country와 boy는 둘 다 y로 끝나는데, 복수형이 왜 다른가요?"
+        answer: "country: 자음(r) + y → y를 i로 바꾸고 + es = countries<br />boy: 모음(o) + y → 그냥 + s = boys<br />y 앞이 자음이면 ies, 모음이면 ys!"
+      - type: qna
+        question: "Q3. 5번 문장에서 water에는 왜 -s가 없나요?"
+        answer: "water는 셀 수 없는 명사(uncountable noun)입니다.<br />물은 하나, 둘로 셀 수 없으므로 복수형이 없습니다.<br />apple은 셀 수 있어서 two apples라고 합니다."
+      - type: qna
+        question: "Q4. 6번과 7번 문장에서 feet과 leaves는 각각 foot과 leaf의 복수형인데, 어떤 패턴이 보이나요?"
+        answer: "foot → feet: 모음이 바뀌는 불규칙 복수형입니다.<br />leaf → leaves: f가 v로 바뀌고 -es가 붙습니다.<br />규칙적으로 -s만 붙이지 않는 특별한 단어들이에요!"
+      - type: qna
+        question: "Q5. 1번 문장에서 one cat과 two dogs를 비교해 보세요. a/an과 숫자 뒤에 오는 명사 형태가 어떻게 다른가요?"
+        answer: "one cat: 숫자 1 뒤에도 단수형을 씁니다.<br />two dogs: 2 이상의 숫자 뒤에는 복수형(-s)을 씁니다.<br />a/an도 단수일 때만 쓰고, 복수일 때는 쓰지 않아요!"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 대부분의 명사 복수형은 어떻게 만드나요?"
+        answer: "명사 + s<br />예: book → books, pen → pens<br />평가 기준: '-s를 붙인다'라고 답하거나 예시를 올바르게 쓰면 정답입니다."
+      - type: qna
+        question: "R2. bus, watch, box처럼 -s, -ch, -x로 끝나는 명사의 복수형은?"
+        answer: "명사 + es<br />예: bus → buses, watch → watches, box → boxes<br />평가 기준: '-es를 붙인다'라고 답하거나 예시를 올바르게 쓰면 정답입니다."
+      - type: qna
+        question: "R3. city처럼 '자음 + y'로 끝나는 명사의 복수형은?"
+        answer: "y를 i로 바꾸고 + es<br />예: city → cities, baby → babies<br />평가 기준: 'y를 i로 바꾸고 es', 'ies로 바꾼다', 또는 예시를 올바르게 쓰면 정답입니다."
+      - type: qna
+        question: "R4. child, man, foot의 복수형은?"
+        answer: "child → children, man → men, foot → feet<br />불규칙 복수형입니다.<br />평가 기준: 세 단어 중 두 개 이상 정확히 맞추면 정답입니다."
+      - type: qna
+        question: "R5. water, music, information에 왜 -s를 붙이면 안 되나요?"
+        answer: "셀 수 없는 명사(uncountable nouns)이기 때문입니다.<br />복수형이 없습니다.<br />평가 기준: '셀 수 없는 명사', '셀 수 없어서', 또는 '복수형이 없다'라고 답하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 알맞은 복수형을 넣으세요."
+      - type: qna
+        question: "Q1. one book → two ___"
+        answer: "books<br />설명: 기본 규칙 - 명사 + s"
+      - type: qna
+        question: "Q2. one bus → three ___"
+        answer: "buses<br />설명: -s로 끝나는 명사 + es"
+      - type: qna
+        question: "Q3. one sandwich → four ___"
+        answer: "sandwiches<br />설명: -ch로 끝나는 명사 + es"
+      - type: qna
+        question: "Q4. one city → many ___"
+        answer: "cities<br />설명: 자음 + y → y를 i로 바꾸고 + es"
+      - type: qna
+        question: "Q5. one day → five ___"
+        answer: "days<br />설명: 모음 + y → 그냥 + s"
+      - type: qna
+        question: "Q6. one child → ten ___"
+        answer: "children<br />설명: 불규칙 복수형"
+      - type: qna
+        question: "Q7. one tooth → all my ___"
+        answer: "teeth<br />설명: 불규칙 복수형 (tooth → teeth)"
+      - type: qna
+        question: "Q8. one leaf → many ___"
+        answer: "leaves<br />설명: -f → v + es"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 고양이 두 마리가 있어."
+        answer: "I have two cats.<br />평가 기준: two cats(복수형)가 맞으면 정답입니다."
+      - type: qna
+        question: "T2. 버스 세 대가 지나갔어."
+        answer: "Three buses passed by.<br />평가 기준: buses(es 복수형)가 맞으면 정답입니다."
+      - type: qna
+        question: "T3. 아이들이 공원에서 놀고 있어."
+        answer: "The children are playing in the park.<br />평가 기준: children(불규칙 복수)이 맞으면 정답입니다."
+      - type: qna
+        question: "T4. 나는 여러 나라를 방문하고 싶어."
+        answer: "I want to visit many countries.<br />평가 기준: countries(y→ies)가 맞으면 정답입니다."
+      - type: qna
+        question: "T5. 그 남자들은 키가 커."
+        answer: "The men are tall.<br />평가 기준: men(불규칙 복수)이 맞으면 정답입니다."
+      - type: qna
+        question: "T6. 식탁 위에 토마토 다섯 개가 있어."
+        answer: "There are five tomatoes on the table.<br />평가 기준: tomatoes(o→es)가 맞으면 정답입니다."
+      - type: qna
+        question: "T7. 그녀는 시계 두 개를 가지고 있어."
+        answer: "She has two watches.<br />평가 기준: watches(ch→ches)가 맞으면 정답입니다."
+      - type: qna
+        question: "T8. 나무에 나뭇잎들이 많아."
+        answer: "There are many leaves on the tree.<br />평가 기준: leaves(f→ves)가 맞으면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "단수를 복수로, 복수를 단수로 바꿔 보세요."
+      - type: qna
+        question: "TF1. I have a dog. → I have three ___."
+        answer: "dogs<br />설명: a dog(단수) → dogs(복수)"
+      - type: qna
+        question: "TF2. She bought a dress. → She bought two ___."
+        answer: "dresses<br />설명: -ss로 끝나는 명사 + es"
+      - type: qna
+        question: "TF3. The woman is running. → The ___ are running."
+        answer: "women<br />설명: 불규칙 복수형 (woman → women)"
+      - type: qna
+        question: "TF4. I see a fox. → I see many ___."
+        answer: "foxes<br />설명: -x로 끝나는 명사 + es"
+      - type: qna
+        question: "TF5. There are five sheep. → There is one ___."
+        answer: "sheep<br />설명: 단복수 동형 (sheep → sheep)"
+      - type: qna
+        question: "TF6. The babies are sleeping. → The ___ is sleeping."
+        answer: "baby<br />설명: babies(복수) → baby(단수)"
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요! 힌트와 문장 시작을 참고하세요."
+      - type: qna
+        question: "A1. 너의 방에 있는 물건들을 3개 이상 복수형으로 써 보세요.<br />힌트 단어: books, pencils, posters, toys, clothes<br />문장 시작: There are... / I have..."
+        answer: "예시: There are many books on my desk. I have three pencils in my pencil case. Two posters are on my wall.<br />평가 기준: 복수형을 사용하여 3개 이상의 물건을 표현하면 정답입니다."
+      - type: qna
+        question: "A2. 너의 학교에 대해 복수형을 사용하여 문장을 써 보세요.<br />힌트 단어: classrooms, teachers, students, desks, friends<br />문장 시작: There are... / My school has..."
+        answer: "예시: There are many classrooms in my school. Twenty teachers work here. Five hundred students study at my school.<br />평가 기준: 복수형을 사용하여 학교에 대해 표현하면 정답입니다."
+      - type: qna
+        question: "A3. 너의 가족에 대해 복수형을 사용하여 문장을 써 보세요.<br />힌트 단어: brothers, sisters, parents, grandparents, pets<br />문장 시작: I have... / My family has..."
+        answer: "예시: I have two brothers. My parents have busy jobs. We have three pets in our family.<br />평가 기준: 복수형을 사용하여 가족에 대해 표현하면 정답입니다."
+      - type: qna
+        question: "A4. 불규칙 복수형(children, men, women, teeth, feet)을 사용하여 문장을 써 보세요.<br />문장 시작: The children... / My teeth... / My feet..."
+        answer: "예시: The children in my class are friendly. My teeth are clean. My feet are size 250.<br />평가 기준: 불규칙 복수형을 사용하면 정답입니다."
+      - type: qna
+        question: "A5. 셀 수 없는 명사(water, music, homework)를 사용하여 문장을 써 보세요.<br />힌트: 이 단어들에는 -s를 붙이지 않습니다!<br />문장 시작: I drink... / I listen to... / I have a lot of..."
+        answer: "예시: I drink a lot of water every day. I listen to music when I study. I have a lot of homework today.<br />평가 기준: 셀 수 없는 명사를 -s 없이 올바르게 사용하면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장의 틀린 부분을 찾아 고치세요: 'I have two book and three pencil.'"
+        answer: "올바른 문장: I have two books and three pencils.<br />설명: 숫자(two, three) 뒤에 오는 명사는 복수형이어야 합니다."
+      - type: qna
+        question: "C2. 다음 문장의 틀린 부분을 찾아 고치세요: 'The childs are playing with the boxs.'"
+        answer: "올바른 문장: The children are playing with the boxes.<br />설명: child → children (불규칙), box → boxes (-x + es)"
+      - type: qna
+        question: "C3. 다음 중 올바른 문장은?<br />a) I need some informations.<br />b) I need some information."
+        answer: "b) I need some information.<br />설명: information은 셀 수 없는 명사라서 복수형이 없습니다."
+      - type: qna
+        question: "C4. 다음 문장에서 틀린 곳을 모두 찾아 고치세요: 'Two mans caught three fishs and two mouses.'"
+        answer: "올바른 문장: Two men caught three fish and two mice.<br />설명: man → men, fish → fish (단복수 동형), mouse → mice (불규칙)"
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. book의 복수형은?"
+        answer: "books<br />규칙: 기본 규칙 (명사 + s)"
+      - type: qna
+        question: "SR2. bus의 복수형은?"
+        answer: "buses<br />규칙: -s로 끝나는 명사 + es"
+      - type: qna
+        question: "SR3. city의 복수형은?"
+        answer: "cities<br />규칙: 자음 + y → y를 i로 바꾸고 + es"
+      - type: qna
+        question: "SR4. child의 복수형은?"
+        answer: "children<br />규칙: 불규칙 복수형"
+      - type: qna
+        question: "SR5. tooth의 복수형은?"
+        answer: "teeth<br />규칙: 불규칙 복수형"
+      - type: qna
+        question: "SR6. leaf의 복수형은?"
+        answer: "leaves<br />규칙: -f → v + es"
+      - type: qna
+        question: "SR7. 번역: 나는 고양이 두 마리가 있어."
+        answer: "I have two cats."
+      - type: qna
+        question: "SR8. 번역: 버스 세 대가 있어."
+        answer: "There are three buses."
+      - type: qna
+        question: "SR9. 틀린 곳 고치기: two watchs"
+        answer: "two watches"
+      - type: qna
+        question: "SR10. water에 -s를 붙일 수 있나요? 왜요?"
+        answer: "없습니다. water는 셀 수 없는 명사이기 때문입니다."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. 대부분의 명사에 -s를 붙여 복수형을 만들 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 기본 규칙을 알고 있어요.<br />어렵다면: book → books, pen → pens처럼 -s만 붙이면 됩니다!"
+      - type: qna
+        question: "SC2. -s, -ch, -x로 끝나는 명사에 -es를 붙인다는 것을 기억하나요?"
+        answer: "할 수 있다면: 대단해요! bus → buses, watch → watches를 알고 있습니다.<br />어렵다면: 발음상 -es가 필요해요. 'buss'보다 'buses'가 말하기 쉽죠?"
+      - type: qna
+        question: "SC3. 불규칙 복수형(child → children, man → men)을 기억하나요?"
+        answer: "할 수 있다면: 완벽해요! 특별한 규칙도 이해했습니다.<br />어렵다면: 이런 단어들은 외워야 해요. children, men, women, teeth, feet!"
+      - type: qna
+        question: "SC4. 셀 수 없는 명사(water, music)에 -s를 붙이면 안 된다는 것을 알고 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 어려운 개념을 이해했어요.<br />어렵다면: 물, 음악, 정보 같은 것은 하나, 둘로 셀 수 없어서 복수형이 없어요."
+      - type: note
+        content: "잘했어요! 영어에서 복수형은 정말 중요합니다. 대부분은 -s, 특별한 경우에는 -es, 그리고 불규칙 복수형을 기억하세요. 셀 수 없는 명사에는 -s를 붙이지 않는 것도 잊지 마세요!"
+      - type: note
+        content: "성장 마인드셋: 실수는 배움의 기회입니다! 'childs'라고 썼다가 'children'으로 고치는 과정이 바로 실력이 느는 순간이에요. 틀려도 괜찮아요. 다시 도전하면 됩니다!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 buses, cities, children, teeth 같은 다양한 복수형을 연습하세요! 조금씩 연습하면 자연스럽게 복수형을 쓸 수 있게 됩니다."
