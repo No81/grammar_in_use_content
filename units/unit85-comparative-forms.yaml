@@ -1,0 +1,281 @@
+title: "Unit 85 · old/older, expensive/more expensive (비교급 - 형용사 비교)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "두 사람이나 두 가지를 비교할 때 '더 ~한'이라는 표현을 비교급이라고 합니다. 영어에서 비교급을 만드는 방법은 형용사의 길이에 따라 달라집니다!"
+      - type: list
+        heading: "기본 규칙 (Form)"
+        list:
+          - "짧은 형용사 (1음절): -er을 붙인다 → old → older, tall → taller, fast → faster"
+          - "긴 형용사 (3음절 이상): more를 앞에 붙인다 → expensive → more expensive, beautiful → more beautiful"
+          - "2음절 형용사: 대부분 more를 붙이지만, -y로 끝나면 -ier로 바꾼다 → happy → happier, easy → easier"
+      - type: text
+        content: "<span class='highlight'>형식 (Form) 정리</span><br />• 1음절: tall → taller, short → shorter, old → older, young → younger<br />• 1음절 (단모음+단자음): big → bigger, hot → hotter, thin → thinner (자음을 한 번 더 쓰고 -er)<br />• 2음절 -y로 끝남: happy → happier, easy → easier, funny → funnier (y를 i로 바꾸고 -er)<br />• 2음절 이상: expensive → more expensive, interesting → more interesting<br />• 불규칙 변화: good → better, bad → worse, far → farther/further"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span> 비교급은 두 대상을 비교할 때 '더 ~한'이라는 의미입니다. '~보다'라는 뜻으로 than을 함께 사용할 수 있습니다. 예: Tom is taller than me. (Tom은 나보다 더 키가 커.)"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 두 사람 비교: My brother is older than me. (내 남동생은 나보다 나이가 많아.)<br />• 두 물건 비교: This phone is more expensive than that one. (이 핸드폰은 저것보다 더 비싸.)<br />• 두 상황 비교: Today is hotter than yesterday. (오늘은 어제보다 더 더워.)<br />• 변화 설명: I'm getting taller. (나는 점점 키가 커지고 있어.)"
+      - type: list
+        heading: "음절 수 세는 법"
+        list:
+          - "1음절: old, tall, big, fast, cheap, nice (모음 소리 1개)"
+          - "2음절: happy (hap-py), easy (eas-y), famous (fa-mous), clever (clev-er)"
+          - "3음절 이상: expensive (ex-pen-sive), beautiful (beau-ti-ful), interesting (in-ter-est-ing)"
+      - type: list
+        heading: "철자 규칙 - 주의할 점!"
+        list:
+          - "자음 + 단모음 + 자음으로 끝나면 자음을 두 번 쓴다: big → bigger, hot → hotter, thin → thinner, fat → fatter"
+          - "-e로 끝나면 -r만 붙인다: nice → nicer, large → larger, wide → wider"
+          - "-y로 끝나면 y를 i로 바꾸고 -er: happy → happier, easy → easier, heavy → heavier"
+      - type: list
+        heading: "불규칙 비교급 (꼭 외우세요!)"
+        list:
+          - "good → better (좋은 → 더 좋은): This game is better than that one."
+          - "bad → worse (나쁜 → 더 나쁜): My cold is worse today."
+          - "far → farther/further (먼 → 더 먼): The library is farther than the school."
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "학교: Math is harder than English for me. (나에게 수학은 영어보다 더 어려워.)"
+          - "학교: This test was easier than the last one. (이번 시험이 저번 시험보다 더 쉬웠어.)"
+          - "친구: My friend is funnier than me. (내 친구가 나보다 더 재밌어.)"
+          - "친구: She is more popular than her sister. (그녀는 언니보다 더 인기가 많아.)"
+          - "가족: My dad is taller than my mom. (아빠가 엄마보다 키가 더 커.)"
+          - "가족: My younger brother is stronger than me now. (내 남동생이 이제 나보다 더 힘이 세.)"
+          - "취미: This game is more exciting than that one. (이 게임이 저 게임보다 더 재밌어.)"
+          - "취미: Running is healthier than sitting all day. (하루 종일 앉아있는 것보다 달리기가 더 건강해.)"
+          - "음식: Pizza is more delicious than salad. (피자가 샐러드보다 더 맛있어.)"
+          - "음식: This apple is sweeter than that one. (이 사과가 저것보다 더 달아.)"
+          - "일상: Summer is hotter than spring. (여름이 봄보다 더 더워.)"
+          - "일상: My new bag is bigger than my old one. (내 새 가방이 옛날 것보다 더 커.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. more + -er 중복: more taller (X) → taller (O) 또는 more tall (X) → taller (O)<br />2. 긴 형용사에 -er: expensiver (X) → more expensive (O)<br />3. 불규칙 형태 실수: gooder (X) → better (O), badder (X) → worse (O)<br />4. 철자 실수: biger (X) → bigger (O), hapier (X) → happier (O)<br />5. than 대신 then 쓰기: taller then me (X) → taller than me (O)"
+      - type: text
+        content: "<span class='highlight'>2음절 형용사의 비교급</span><br />2음절 형용사는 조금 복잡합니다:<br />• -y로 끝나면 → -ier: happy → happier, easy → easier, funny → funnier<br />• -er, -le, -ow로 끝나면 → -er: clever → cleverer, simple → simpler, narrow → narrower<br />• 그 외 대부분 → more: famous → more famous, careful → more careful, modern → more modern<br /><br />잘 모르겠으면 more를 쓰는 것이 더 안전합니다!"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "Tom is tall. → Tom is taller than Sam."
+          - "This book is old. → This book is older than that one."
+          - "The bag is big. → The bag is bigger than the box."
+          - "She is happy. → She is happier than before."
+          - "This movie is interesting. → This movie is more interesting than that one."
+          - "The car is expensive. → The car is more expensive than the bike."
+          - "This answer is good. → This answer is better than the last one."
+          - "The weather is bad. → The weather is worse than yesterday."
+      - type: qna
+        question: "Q1. 1-4번 문장에서 형용사가 어떻게 변하나요? (tall, old, big, happy)"
+        answer: "1음절 형용사(tall, old)는 -er을 붙이고, big은 자음을 두 번 쓰고 -er (bigger), happy는 y를 i로 바꾸고 -er (happier)을 붙입니다.<br />짧은 형용사들은 모두 -er로 끝나는 형태가 됩니다."
+      - type: qna
+        question: "Q2. 5-6번 문장에서 interesting과 expensive는 왜 -er이 아닌 more를 사용하나요?"
+        answer: "interesting(4음절)과 expensive(4음절)는 긴 형용사이기 때문입니다.<br />3음절 이상의 긴 형용사는 -er을 붙이지 않고 앞에 more를 붙입니다."
+      - type: qna
+        question: "Q3. 7-8번 문장에서 good과 bad의 비교급은 무엇인가요? 왜 특별한가요?"
+        answer: "good → better, bad → worse<br />이것들은 불규칙 비교급입니다. -er을 붙이거나 more를 쓰지 않고, 완전히 다른 형태로 변합니다. 꼭 암기해야 합니다!"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 1음절 형용사의 비교급은 어떻게 만드나요?"
+        answer: "형용사에 -er을 붙입니다.<br />예: tall → taller, old → older, fast → faster<br />평가 기준: '-er을 붙인다'라고 답하면 정답입니다."
+      - type: qna
+        question: "R2. 3음절 이상의 긴 형용사의 비교급은 어떻게 만드나요?"
+        answer: "형용사 앞에 more를 붙입니다.<br />예: expensive → more expensive, beautiful → more beautiful<br />평가 기준: 'more를 앞에 붙인다'라고 답하면 정답입니다."
+      - type: qna
+        question: "R3. big의 비교급은 무엇인가요? 왜 biger가 아닌가요?"
+        answer: "bigger입니다.<br />big은 '자음+단모음+자음'으로 끝나기 때문에 마지막 자음 g를 한 번 더 쓰고 -er을 붙입니다.<br />평가 기준: bigger라고 답하고, 자음을 두 번 쓰는 이유를 설명하면 정답입니다."
+      - type: qna
+        question: "R4. good과 bad의 비교급은 무엇인가요?"
+        answer: "good → better, bad → worse<br />이것들은 불규칙 비교급입니다.<br />평가 기준: better와 worse를 정확히 답하면 정답입니다."
+      - type: qna
+        question: "R5. happy의 비교급은 무엇인가요? 어떤 규칙이 적용되나요?"
+        answer: "happier입니다.<br />-y로 끝나는 형용사는 y를 i로 바꾸고 -er을 붙입니다.<br />평가 기준: happier라고 답하고, y→i 규칙을 언급하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "괄호 안의 형용사를 비교급으로 바꿔 빈칸을 채우세요."
+      - type: qna
+        question: "Q1. My sister is ___ than me. (tall)"
+        answer: "taller<br />설명: tall은 1음절 형용사이므로 -er을 붙입니다."
+      - type: qna
+        question: "Q2. This pizza is ___ than that one. (big)"
+        answer: "bigger<br />설명: big은 '자음+단모음+자음'으로 끝나므로 g를 두 번 쓰고 -er을 붙입니다."
+      - type: qna
+        question: "Q3. English is ___ than Korean for me. (easy)"
+        answer: "easier<br />설명: easy는 -y로 끝나므로 y를 i로 바꾸고 -er을 붙입니다."
+      - type: qna
+        question: "Q4. This movie is ___ than that one. (interesting)"
+        answer: "more interesting<br />설명: interesting은 4음절의 긴 형용사이므로 앞에 more를 붙입니다."
+      - type: qna
+        question: "Q5. Today is ___ than yesterday. (hot)"
+        answer: "hotter<br />설명: hot은 '자음+단모음+자음'으로 끝나므로 t를 두 번 쓰고 -er을 붙입니다."
+      - type: qna
+        question: "Q6. This phone is ___ than my old one. (expensive)"
+        answer: "more expensive<br />설명: expensive는 4음절의 긴 형용사이므로 앞에 more를 붙입니다."
+      - type: qna
+        question: "Q7. My dog is ___ than your cat. (fast)"
+        answer: "faster<br />설명: fast는 1음절 형용사이므로 -er을 붙입니다."
+      - type: qna
+        question: "Q8. This test was ___ than the last one. (good)"
+        answer: "better<br />설명: good은 불규칙 비교급으로 better가 됩니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 내 동생보다 키가 더 커."
+        answer: "I am taller than my brother/sister.<br />평가 기준: taller than 구조를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "T2. 이 가방은 저것보다 더 비싸."
+        answer: "This bag is more expensive than that one.<br />평가 기준: more expensive than 구조를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "T3. 여름이 봄보다 더 더워."
+        answer: "Summer is hotter than spring.<br />평가 기준: hotter(t 두 번)를 올바르게 쓰면 정답입니다."
+      - type: qna
+        question: "T4. 이 게임이 저 게임보다 더 재밌어."
+        answer: "This game is more exciting/interesting than that game/one.<br />평가 기준: more + 긴 형용사 구조를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "T5. 내 새 신발이 옛날 것보다 더 편해."
+        answer: "My new shoes are more comfortable than my old ones.<br />평가 기준: more comfortable를 사용하면 정답입니다."
+      - type: qna
+        question: "T6. 오늘 기분이 어제보다 더 좋아."
+        answer: "I feel better today than yesterday. 또는 Today I feel better than yesterday.<br />평가 기준: better(good의 비교급)를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "T7. 이 책이 저것보다 더 두꺼워."
+        answer: "This book is thicker than that one.<br />평가 기준: thicker(k 두 번)를 올바르게 쓰면 정답입니다."
+      - type: qna
+        question: "T8. 그녀는 나보다 더 행복해 보여."
+        answer: "She looks happier than me.<br />평가 기준: happier(y→i)를 올바르게 쓰면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "다음 형용사들의 비교급 형태를 쓰세요."
+      - type: qna
+        question: "TF1. short → ___"
+        answer: "shorter<br />설명: 1음절 형용사이므로 -er을 붙입니다."
+      - type: qna
+        question: "TF2. thin → ___"
+        answer: "thinner<br />설명: '자음+단모음+자음'으로 끝나므로 n을 두 번 쓰고 -er을 붙입니다."
+      - type: qna
+        question: "TF3. pretty → ___"
+        answer: "prettier<br />설명: -y로 끝나므로 y를 i로 바꾸고 -er을 붙입니다."
+      - type: qna
+        question: "TF4. beautiful → ___"
+        answer: "more beautiful<br />설명: 3음절 이상의 긴 형용사이므로 앞에 more를 붙입니다."
+      - type: qna
+        question: "TF5. nice → ___"
+        answer: "nicer<br />설명: -e로 끝나는 형용사는 -r만 붙입니다."
+      - type: qna
+        question: "TF6. bad → ___"
+        answer: "worse<br />설명: 불규칙 비교급입니다. badder가 아닙니다!"
+      - type: qna
+        question: "TF7. 틀린 곳 고치기: This is more taller than that."
+        answer: "This is taller than that.<br />설명: more와 -er을 동시에 사용하면 안 됩니다. tall은 1음절이므로 taller만 씁니다."
+      - type: qna
+        question: "TF8. 틀린 곳 고치기: She is beautifuler than her sister."
+        answer: "She is more beautiful than her sister.<br />설명: beautiful은 3음절 형용사이므로 -er이 아닌 more를 사용합니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요!"
+      - type: qna
+        question: "A1. 너와 너의 친구를 비교하는 문장을 3개 써 보세요. (키, 나이, 성격 등)"
+        answer: "예시: I am taller than my friend. My friend is funnier than me. I am older than my friend.<br />평가 기준: 비교급 + than 구조를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A2. 너의 방에 있는 물건 두 개를 비교하는 문장을 2개 써 보세요."
+        answer: "예시: My desk is bigger than my chair. My lamp is more expensive than my clock.<br />평가 기준: 짧은 형용사는 -er, 긴 형용사는 more를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A3. 두 과목을 비교하는 문장을 2개 써 보세요. (어려움, 재미, 쉬움 등)"
+        answer: "예시: Math is harder than English. Science is more interesting than history.<br />평가 기준: 비교급 형태를 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A4. 오늘 날씨와 어제 날씨를 비교하는 문장을 써 보세요."
+        answer: "예시: Today is colder than yesterday. Today is sunnier than yesterday.<br />평가 기준: 날씨 형용사의 비교급을 올바르게 사용하면 정답입니다."
+      - type: qna
+        question: "A5. good/better 또는 bad/worse를 사용해서 문장을 2개 만들어 보세요."
+        answer: "예시: My score is better than last time. My cold is worse than yesterday.<br />평가 기준: better나 worse를 올바르게 사용하면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장에서 틀린 부분을 모두 찾아 고치세요: 'This phone is more cheaper and more gooder than that one.'"
+        answer: "올바른 문장: This phone is cheaper and better than that one.<br />설명:<br />• more cheaper → cheaper (cheap은 1음절이므로 -er만 사용, more 중복 금지)<br />• more gooder → better (good의 비교급은 better, gooder는 없음)"
+      - type: qna
+        question: "C2. 다음 중 비교급이 잘못된 것을 모두 고르세요: (1) hotter (2) biger (3) more easy (4) beautifuler (5) worse"
+        answer: "(2)와 (4)가 틀렸습니다.<br />• (2) biger → bigger (g를 두 번 써야 함)<br />• (4) beautifuler → more beautiful (긴 형용사는 more 사용)<br />(1) hotter (O), (3) more easy는 easier가 더 자연스럽지만 틀린 건 아님, (5) worse (O)"
+      - type: qna
+        question: "C3. 다음 빈칸에 알맞은 비교급을 쓰세요: My brother is ___ (young) than me, but he is ___ (strong) and ___ (athletic) than me."
+        answer: "younger, stronger, more athletic<br />설명: young과 strong은 1음절이므로 -er, athletic은 3음절이므로 more를 사용합니다."
+      - type: qna
+        question: "C4. 비교급을 사용해서 너의 옛날과 지금을 비교하는 문장을 3개 이상 써 보세요."
+        answer: "예시: I am taller than before. I am smarter than last year. My English is better than two years ago. I am more confident than I was.<br />평가 기준: 다양한 비교급을 올바르게 사용하고 than을 적절히 사용하면 정답입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. 짧은 형용사(1음절)의 비교급은 어떻게 만드나요?"
+        answer: "-er을 붙인다<br />예: old → older"
+      - type: qna
+        question: "SR2. 긴 형용사(3음절 이상)의 비교급은 어떻게 만드나요?"
+        answer: "앞에 more를 붙인다<br />예: expensive → more expensive"
+      - type: qna
+        question: "SR3. big → ___"
+        answer: "bigger<br />설명: 자음을 두 번 쓰고 -er"
+      - type: qna
+        question: "SR4. happy → ___"
+        answer: "happier<br />설명: y를 i로 바꾸고 -er"
+      - type: qna
+        question: "SR5. good → ___"
+        answer: "better<br />설명: 불규칙 비교급"
+      - type: qna
+        question: "SR6. bad → ___"
+        answer: "worse<br />설명: 불규칙 비교급"
+      - type: qna
+        question: "SR7. 번역: 이것이 저것보다 더 비싸."
+        answer: "This is more expensive than that."
+      - type: qna
+        question: "SR8. 번역: 그녀는 나보다 더 키가 커."
+        answer: "She is taller than me."
+      - type: qna
+        question: "SR9. 틀린 곳 고치기: This is more taller."
+        answer: "This is taller.<br />설명: more와 -er을 동시에 사용하면 안 됩니다."
+      - type: qna
+        question: "SR10. 틀린 곳 고치기: She is gooder at math."
+        answer: "She is better at math.<br />설명: good의 비교급은 better입니다."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. 짧은 형용사와 긴 형용사의 비교급 만드는 법을 구분할 수 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 핵심 규칙을 이해했습니다.<br />어렵다면: 1음절 = -er 붙이기, 3음절 이상 = more 붙이기를 기억하세요!"
+      - type: qna
+        question: "SC2. big → bigger, hot → hotter처럼 자음을 두 번 쓰는 규칙을 알고 있나요?"
+        answer: "할 수 있다면: 대단해요! 철자 규칙까지 완벽히 알고 있군요.<br />어렵다면: '자음+단모음+자음'으로 끝나는 짧은 형용사는 마지막 자음을 두 번 쓰고 -er을 붙여요."
+      - type: qna
+        question: "SC3. good → better, bad → worse를 기억하고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 불규칙 비교급을 잘 외웠군요.<br />어렵다면: 이 두 개는 꼭 암기하세요! gooder, badder는 없어요."
+      - type: qna
+        question: "SC4. 'more taller'처럼 more와 -er을 같이 쓰면 안 된다는 것을 알고 있나요?"
+        answer: "할 수 있다면: 훌륭해요! 한국 학습자들이 자주 하는 실수를 피할 수 있겠네요.<br />어렵다면: 비교급은 -er 또는 more 둘 중 하나만 사용해요. 절대 함께 쓰지 않아요!"
+      - type: note
+        content: "잘했어요! 비교급은 영어에서 정말 자주 사용되는 표현이에요. 형용사의 길이에 따라 -er을 붙이거나 more를 붙이는 규칙만 기억하면 됩니다. 불규칙 비교급 good→better, bad→worse도 꼭 외워두세요!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 철자 규칙(bigger, happier)과 불규칙 비교급(better, worse)을 복습하세요!"
