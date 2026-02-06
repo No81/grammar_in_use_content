@@ -1,0 +1,264 @@
+title: "Unit 102 · from...to, until, since, for (기간 전치사)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 <span class='highlight'>기간(얼마 동안)</span>이나 <span class='highlight'>시작점과 끝점</span>을 말할 때 사용하는 전치사들을 배워봅시다. from...to, until, since, for 네 가지를 정확하게 구분해서 사용하면 시간 표현이 훨씬 자연스러워져요!"
+      - type: list
+        heading: "형식 (Form) - 기간 전치사 네 가지"
+        list:
+          - "<strong>from A to B</strong>: A부터 B까지 (시작점 → 끝점)"
+          - "from Monday to Friday (월요일부터 금요일까지)"
+          - "from 9:00 to 5:00 (9시부터 5시까지)"
+          - "from January to March (1월부터 3월까지)"
+          - "<strong>until / till</strong>: ~까지 (끝점만 강조)"
+          - "until 6 o'clock (6시까지)"
+          - "until Friday (금요일까지)"
+          - "till tomorrow (내일까지) - until의 줄임말"
+          - "<strong>since</strong>: ~부터 (시작점, 과거부터 지금까지)"
+          - "since 2020 (2020년부터)"
+          - "since Monday (월요일부터)"
+          - "since I was young (어렸을 때부터)"
+          - "<strong>for</strong>: ~동안 (기간의 길이)"
+          - "for 3 hours (3시간 동안)"
+          - "for 2 weeks (2주 동안)"
+          - "for a long time (오랫동안)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• from...to: 시작과 끝을 모두 알려줌 (A→B)<br />• until/till: 끝나는 시점만 강조 (→B)<br />• since: 시작 시점부터 지금까지 계속 (~부터 지금까지)<br />• for: 기간의 '길이'를 말함 (얼마나 오래)"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 시간표 말할 때: I have school from 9:00 to 3:00. (9시부터 3시까지 학교야.)<br />• 기다릴 때: Wait until I come back. (내가 돌아올 때까지 기다려.)<br />• 경험 말할 때: I've lived here since 2018. (2018년부터 여기 살았어.)<br />• 기간 말할 때: I studied for 2 hours. (2시간 동안 공부했어.)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "학교: School is from Monday to Friday. (학교는 월요일부터 금요일까지야.)"
+          - "학교: I study from 7:00 to 9:00. (나는 7시부터 9시까지 공부해.)"
+          - "학교: I've been at this school since 2023. (2023년부터 이 학교에 다녀.)"
+          - "학교: I studied English for 3 hours. (영어를 3시간 동안 공부했어.)"
+          - "친구: Wait here until 5 o'clock. (5시까지 여기서 기다려.)"
+          - "친구: We've been friends since kindergarten. (유치원 때부터 친구야.)"
+          - "가족: Dad works from 9 to 6. (아빠는 9시부터 6시까지 일해.)"
+          - "가족: I'll stay until mom comes. (엄마 올 때까지 있을 거야.)"
+          - "취미: I practiced piano for 1 hour. (피아노를 1시간 동안 연습했어.)"
+          - "취미: I've played games since I was 7. (7살 때부터 게임을 해왔어.)"
+          - "일상: The store is open from 10 to 8. (가게는 10시부터 8시까지 열어.)"
+          - "일상: I slept for 9 hours last night. (어젯밤에 9시간 동안 잤어.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. since vs for 혼동: since + 시점(언제부터), for + 기간(얼마나)<br />   since 2020 (O) / since 3 years (X) → for 3 years (O)<br />2. until vs by 혼동: until은 '~까지 계속', by는 '~까지 완료'<br />   Wait until 5:00 (5시까지 기다려) / Finish by 5:00 (5시까지 끝내)<br />3. from...to에서 to 빼먹기: from 9 to 5 (O) / from 9 - 5 (X)"
+      - type: text
+        content: "<span class='highlight'>since vs for 비교:</span><br /><br /><strong>since + 시점 (언제부터)</strong><br />• since 2020 (2020년부터)<br />• since Monday (월요일부터)<br />• since last summer (지난 여름부터)<br />• since I was born (태어났을 때부터)<br /><br /><strong>for + 기간 (얼마 동안)</strong><br />• for 3 years (3년 동안)<br />• for 2 hours (2시간 동안)<br />• for a long time (오랫동안)<br />• for a week (일주일 동안)"
+      - type: text
+        content: "<span class='highlight'>until과 by의 차이:</span><br /><br /><strong>until: ~까지 계속</strong><br />• I'll wait until 5:00. (5시까지 기다릴게.)<br />→ 5시까지 '계속' 기다리는 것<br /><br /><strong>by: ~까지 완료</strong><br />• I'll finish by 5:00. (5시까지 끝낼게.)<br />→ 5시 '이전에' 끝나는 것<br /><br />Wait until... (계속 기다림)<br />Finish by... (그 전에 완료)"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "A. I work from 9:00 to 6:00."
+          - "B. Stay here until I come back."
+          - "C. I've lived here since 2019."
+          - "D. I studied for 3 hours."
+          - "E. The movie is from 7 to 9."
+          - "F. Wait until tomorrow."
+          - "G. She's been sick since Monday."
+          - "H. We played for 2 hours."
+      - type: qna
+        question: "Q1. from...to가 쓰인 문장(A, E)을 보세요. 어떤 정보를 알려주나요?"
+        answer: "시작 시간과 끝나는 시간을 둘 다 알려줍니다.<br />• from 9:00 to 6:00: 9시에 시작해서 6시에 끝남<br />• from 7 to 9: 7시에 시작해서 9시에 끝남"
+      - type: qna
+        question: "Q2. since가 쓰인 문장(C, G)의 공통점은?"
+        answer: "둘 다 '과거의 특정 시점'부터 '지금까지 계속'인 상황입니다.<br />• since 2019: 2019년부터 지금까지<br />• since Monday: 월요일부터 지금까지<br />since 뒤에는 '시점'이 옵니다."
+      - type: qna
+        question: "Q3. for가 쓰인 문장(D, H)의 공통점은?"
+        answer: "둘 다 '얼마나 오래'인지 기간의 길이를 말합니다.<br />• for 3 hours: 3시간의 길이<br />• for 2 hours: 2시간의 길이<br />for 뒤에는 '기간(길이)'이 옵니다."
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. '9시부터 5시까지'를 영어로 어떻게 쓰나요?"
+        answer: "from 9:00 to 5:00 / from 9 to 5<br />평가 기준: from...to 형태를 쓰면 정답입니다."
+      - type: qna
+        question: "R2. '~까지 (끝점만)'를 나타내는 전치사는?"
+        answer: "until (또는 till)<br />예: Wait until 5 o'clock.<br />평가 기준: until 또는 till이라고 답하면 정답입니다."
+      - type: qna
+        question: "R3. since와 for의 차이점은?"
+        answer: "• since + 시점 (언제부터): since 2020<br />• for + 기간 (얼마나): for 3 years<br />평가 기준: 시점 vs 기간의 차이를 설명하면 정답입니다."
+      - type: qna
+        question: "R4. '3시간 동안'을 영어로 어떻게 쓰나요?"
+        answer: "for 3 hours<br />평가 기준: for + 기간 형태를 쓰면 정답입니다."
+      - type: qna
+        question: "R5. until과 by의 차이점은?"
+        answer: "• until: ~까지 계속 (Wait until 5:00)<br />• by: ~까지 완료 (Finish by 5:00)<br />평가 기준: 계속 vs 완료의 차이를 설명하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 from...to, until, since, for 중 알맞은 것을 넣으세요."
+      - type: qna
+        question: "Q1. I work ___ 9:00 ___ 6:00."
+        answer: "from / to<br />설명: 시작(9시)과 끝(6시)을 모두 말할 때는 from...to"
+      - type: qna
+        question: "Q2. Wait here ___ I come back."
+        answer: "until (또는 till)<br />설명: '내가 돌아올 때까지'라는 끝점을 말할 때는 until"
+      - type: qna
+        question: "Q3. I've lived here ___ 2018."
+        answer: "since<br />설명: '2018년부터 지금까지'라는 시작 시점을 말할 때는 since"
+      - type: qna
+        question: "Q4. I studied ___ 2 hours."
+        answer: "for<br />설명: '2시간 동안'이라는 기간의 길이를 말할 때는 for"
+      - type: qna
+        question: "Q5. The store is open ___ Monday ___ Saturday."
+        answer: "from / to<br />설명: 월요일부터 토요일까지 열려있다는 시작과 끝"
+      - type: qna
+        question: "Q6. She's been my friend ___ we were 5."
+        answer: "since<br />설명: '5살 때부터'라는 과거 시점부터 지금까지"
+      - type: qna
+        question: "Q7. I'll stay ___ 10 o'clock."
+        answer: "until (또는 till)<br />설명: '10시까지'라는 끝점"
+      - type: qna
+        question: "Q8. We played games ___ a long time."
+        answer: "for<br />설명: '오랫동안'이라는 기간의 길이"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 월요일부터 금요일까지 학교에 가."
+        answer: "I go to school from Monday to Friday.<br />평가 기준: from...to 형태가 맞으면 정답입니다."
+      - type: qna
+        question: "T2. 5시까지 기다려줘."
+        answer: "Wait until 5 o'clock. / Wait till 5.<br />평가 기준: until/till을 쓰면 정답입니다."
+      - type: qna
+        question: "T3. 나는 2020년부터 영어를 공부해왔어."
+        answer: "I've studied English since 2020.<br />평가 기준: since + 시점을 쓰면 정답입니다."
+      - type: qna
+        question: "T4. 나는 2시간 동안 게임을 했어."
+        answer: "I played games for 2 hours.<br />평가 기준: for + 기간을 쓰면 정답입니다."
+      - type: qna
+        question: "T5. 영화는 7시부터 9시까지야."
+        answer: "The movie is from 7 to 9. / from 7:00 to 9:00<br />평가 기준: from...to 형태가 맞으면 정답입니다."
+      - type: qna
+        question: "T6. 내가 올 때까지 여기 있어."
+        answer: "Stay here until I come.<br />평가 기준: until을 쓰면 정답입니다."
+      - type: qna
+        question: "T7. 우리는 어렸을 때부터 친구야."
+        answer: "We've been friends since we were young.<br />평가 기준: since + 과거 시점을 쓰면 정답입니다."
+      - type: qna
+        question: "T8. 아빠는 8시간 동안 일하셔."
+        answer: "My dad works for 8 hours. / Dad works for 8 hours.<br />평가 기준: for + 기간을 쓰면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I study from 7 to 9. (until로 바꾸기)"
+        answer: "I study until 9. / I study until 9 o'clock.<br />설명: from...to 대신 끝점만 말하면 until"
+      - type: qna
+        question: "TF2. I've known him since 2020. (기간으로 바꾸기 - 지금이 2025년이라면)"
+        answer: "I've known him for 5 years.<br />설명: since 2020 = for 5 years (2020부터 2025년까지)"
+      - type: qna
+        question: "TF3. 틀린 부분 고치기: I've lived here since 5 years."
+        answer: "I've lived here for 5 years.<br />설명: '5년'은 기간(길이)이므로 for를 씁니다. since + 시점!"
+      - type: qna
+        question: "TF4. 틀린 부분 고치기: I work from 9 until 6."
+        answer: "I work from 9 to 6. (또는 I work until 6.)<br />설명: from...to 또는 until 하나만 씁니다."
+      - type: qna
+        question: "TF5. Wait here until mom comes. ('5시까지'로 바꾸기)"
+        answer: "Wait here until 5 o'clock. / Wait here until 5.<br />설명: 끝점을 시간으로 바꿨습니다."
+      - type: qna
+        question: "TF6. for 3 hours를 포함한 문장 만들기"
+        answer: "예시:<br />• I studied for 3 hours.<br />• We played games for 3 hours.<br />• I slept for 3 hours.<br />평가 기준: for 3 hours를 올바르게 사용하면 정답입니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요!"
+      - type: qna
+        question: "A1. 너의 학교 시간표를 영어로 말해 보세요. (from...to 사용)"
+        answer: "예시:<br />• I have school from 9:00 to 3:00.<br />• My English class is from 10:00 to 10:40.<br />평가 기준: from...to 형태가 맞으면 정답입니다."
+      - type: qna
+        question: "A2. 이 학교에 언제부터 다녔어? since를 사용해서 영어로 써 보세요."
+        answer: "예시:<br />• I've been at this school since 2023.<br />• I've studied here since March.<br />평가 기준: since + 시점 형태가 맞으면 정답입니다."
+      - type: qna
+        question: "A3. 어제 뭘 얼마 동안 했어? for를 사용해서 영어로 써 보세요."
+        answer: "예시:<br />• I played games for 2 hours.<br />• I studied for 1 hour.<br />• I watched TV for 30 minutes.<br />평가 기준: for + 기간 형태가 맞으면 정답입니다."
+      - type: qna
+        question: "A4. 친구와 언제부터 친구야? since를 사용해서 영어로 써 보세요."
+        answer: "예시:<br />• We've been friends since 2020.<br />• We've been friends since first grade.<br />• We've been friends since we were 8.<br />평가 기준: since + 과거 시점 형태가 맞으면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장들의 틀린 부분을 찾아 고치세요.<br />'I've studied since 3 hours. Wait from 5 o'clock. The store opens from 9 until 6.'"
+        answer: "올바른 문장들:<br />• I've studied for 3 hours. (3시간은 기간이므로 for)<br />• Wait until 5 o'clock. (끝점만 말할 때는 until)<br />• The store opens from 9 to 6. (from...to 함께 쓰기)"
+      - type: qna
+        question: "C2. since 2020과 for 4 years의 차이점을 설명하고, 둘 다 사용해서 문장을 만들어 보세요."
+        answer: "차이점:<br />• since 2020: 시작 시점을 말함 (언제부터)<br />• for 4 years: 기간의 길이를 말함 (얼마나 오래)<br /><br />예문:<br />• I've lived here since 2020. (시점)<br />• I've lived here for 4 years. (기간)<br />같은 의미를 다르게 표현할 수 있습니다!"
+      - type: qna
+        question: "C3. until과 by를 각각 사용해서 문장을 만들고 차이점을 설명해 보세요."
+        answer: "예문:<br />• Wait until 5:00. (5시까지 계속 기다려)<br />• Finish by 5:00. (5시 이전에 끝내)<br /><br />차이점:<br />• until: 5시까지 계속 그 행동을 함<br />• by: 5시가 되기 전에 완료해야 함"
+      - type: qna
+        question: "C4. 다음 정보로 4문장을 만들어 보세요: 학교(9시-3시), 공부(2시간 동안), 친구(2021년부터), 기다림(엄마 올 때까지)"
+        answer: "예시 답안:<br />1. I go to school from 9 to 3.<br />2. I studied for 2 hours.<br />3. We've been friends since 2021.<br />4. I'll wait until mom comes.<br />평가 기준: 각 전치사를 올바르게 사용하면 정답입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. '시작부터 끝까지'는 영어로 ___ A ___ B"
+        answer: "from / to"
+      - type: qna
+        question: "SR2. '~까지 (끝점)'는 영어로 ___"
+        answer: "until (또는 till)"
+      - type: qna
+        question: "SR3. since 뒤에는 ___(시점/기간)이 온다."
+        answer: "시점 (예: since 2020)"
+      - type: qna
+        question: "SR4. for 뒤에는 ___(시점/기간)이 온다."
+        answer: "기간 (예: for 3 hours)"
+      - type: qna
+        question: "SR5. 빈칸: I work ___ 9 ___ 5."
+        answer: "from / to"
+      - type: qna
+        question: "SR6. 빈칸: I've lived here ___ 2019."
+        answer: "since"
+      - type: qna
+        question: "SR7. 빈칸: I studied ___ 3 hours."
+        answer: "for"
+      - type: qna
+        question: "SR8. 틀린 곳 고치기: I've known him since 5 years."
+        answer: "I've known him for 5 years.<br />'5년'은 기간이므로 for!"
+      - type: qna
+        question: "SR9. 번역: 금요일까지 기다려."
+        answer: "Wait until Friday."
+      - type: qna
+        question: "SR10. until과 by의 차이는?"
+        answer: "until: ~까지 계속 / by: ~까지 완료"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. from...to, until, since, for를 각각 언제 쓰는지 설명할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 기간 전치사를 잘 이해했어요.<br />어렵다면: from...to=시작~끝, until=끝점, since=시점부터, for=기간 동안"
+      - type: qna
+        question: "SC2. since와 for의 차이를 알고 있나요?"
+        answer: "할 수 있다면: 대단해요! 가장 헷갈리는 부분을 정확히 알고 있어요!<br />어렵다면: since + 2020(시점) / for + 3 years(기간)"
+      - type: qna
+        question: "SC3. until과 by의 차이를 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 세부 차이까지 이해했어요!<br />어렵다면: until=계속, by=완료"
+      - type: note
+        content: "잘했어요! 오늘 기간을 표현하는 네 가지 전치사를 배웠습니다. from...to는 시작과 끝, until은 끝점, since는 시작 시점, for는 기간의 길이를 나타내요. 특히 since와 for의 차이를 잘 기억하세요!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 since vs for 차이를 복습하세요!"

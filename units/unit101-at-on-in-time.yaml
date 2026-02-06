@@ -1,0 +1,265 @@
+title: "Unit 101 · at 8:00 on Monday in April (시간 전치사: at, on, in)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "영어에서 시간을 말할 때는 <span class='highlight'>at, on, in</span> 세 가지 전치사를 사용해요. 각각 다른 종류의 시간에 쓰입니다. 정확한 시간에는 at, 요일이나 날짜에는 on, 월/년/계절에는 in을 써요!"
+      - type: list
+        heading: "형식 (Form) - 시간 전치사 세 가지"
+        list:
+          - "<strong>at + 정확한 시간</strong>: 시계로 볼 수 있는 시간"
+          - "at 8:00 (8시에)"
+          - "at noon (정오에)"
+          - "at midnight (자정에)"
+          - "at night (밤에) ← 예외!"
+          - ""
+          - "<strong>on + 요일/날짜</strong>: 달력에서 하루"
+          - "on Monday (월요일에)"
+          - "on July 4th (7월 4일에)"
+          - "on my birthday (내 생일에)"
+          - "on Christmas Day (크리스마스 날에)"
+          - ""
+          - "<strong>in + 월/년/계절/시간대</strong>: 더 긴 기간"
+          - "in April (4월에)"
+          - "in 2024 (2024년에)"
+          - "in summer (여름에)"
+          - "in the morning (아침에)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• at: 시계 바늘이 가리키는 '정확한 순간'<br />• on: 달력에서 특정 '하루'를 가리킴<br />• in: 시간의 '범위/기간' 안에 있음"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 약속 시간 말할 때: Let's meet at 3 o'clock. (3시에 만나자.)<br />• 일정 말할 때: I have English class on Tuesday. (화요일에 영어 수업이 있어.)<br />• 계절/월 말할 때: I was born in December. (나는 12월에 태어났어.)<br />• 하루 중 시간대 말할 때: I study in the evening. (나는 저녁에 공부해.)"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "학교: School starts at 9:00. (학교는 9시에 시작해.)"
+          - "학교: We have a test on Friday. (금요일에 시험이 있어.)"
+          - "학교: Summer vacation is in July. (여름 방학은 7월에 있어.)"
+          - "친구: I'll call you at 5:30. (5시 30분에 전화할게.)"
+          - "친구: Let's play on Saturday. (토요일에 놀자.)"
+          - "가족: My dad wakes up at 6:00. (아빠는 6시에 일어나셔.)"
+          - "가족: We visit grandma on Sundays. (우리는 일요일마다 할머니 댁에 가.)"
+          - "가족: My sister was born in March. (내 여동생은 3월에 태어났어.)"
+          - "취미: I practice piano in the afternoon. (나는 오후에 피아노를 연습해.)"
+          - "일상: I go to bed at 10 o'clock. (나는 10시에 자러 가.)"
+          - "일상: It snows a lot in winter. (겨울에 눈이 많이 와.)"
+          - "특별한 날: We have a party on New Year's Day. (새해 첫날에 파티가 있어.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. 'in night' (X) → 'at night' (O): night는 예외로 at을 씀!<br />2. 'on morning' (X) → 'in the morning' (O): 아침/오후/저녁은 in + the<br />3. 'at Monday' (X) → 'on Monday' (O): 요일에는 on!<br />4. 'in 3 o'clock' (X) → 'at 3 o'clock' (O): 정확한 시간에는 at!"
+      - type: text
+        content: "<span class='highlight'>특별한 표현들:</span><br /><br /><strong>at을 쓰는 경우:</strong><br />• at noon (정오에)<br />• at midnight (자정에)<br />• at night (밤에) ← 예외!<br />• at the weekend (주말에) - 영국식<br /><br /><strong>on을 쓰는 경우:</strong><br />• on Monday morning (월요일 아침에)<br />• on my birthday (내 생일에)<br />• on Christmas Eve (크리스마스 이브에)<br /><br /><strong>in을 쓰는 경우:</strong><br />• in the morning/afternoon/evening<br />• in spring/summer/fall/winter<br />• in the 21st century (21세기에)"
+      - type: text
+        content: "<span class='highlight'>시간 전치사 요약표:</span><br /><br />| 전치사 | 사용하는 시간 | 예시 |<br />|--------|---------------|------|<br />| at | 정확한 시간, 밤 | at 8:00, at night |<br />| on | 요일, 날짜 | on Monday, on July 4th |<br />| in | 월, 년, 계절, 시간대 | in April, in 2024, in summer |"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "A. I wake up at 7:00."
+          - "B. We have art class on Wednesday."
+          - "C. My birthday is in October."
+          - "D. The movie starts at 6:30."
+          - "E. Let's meet on Saturday."
+          - "F. It's very hot in summer."
+          - "G. I read books at night."
+          - "H. I exercise in the morning."
+      - type: qna
+        question: "Q1. at이 쓰인 문장(A, D, G)에서 공통점은 무엇인가요?"
+        answer: "모두 '정확한 시간'이나 'night(밤)'에 at이 쓰였어요.<br />• at 7:00 (정확한 시간)<br />• at 6:30 (정확한 시간)<br />• at night (밤 - 예외!)"
+      - type: qna
+        question: "Q2. on이 쓰인 문장(B, E)에서 공통점은 무엇인가요?"
+        answer: "모두 '요일'에 on이 쓰였어요.<br />• on Wednesday (요일)<br />• on Saturday (요일)<br />요일이나 특정 날짜에는 on!"
+      - type: qna
+        question: "Q3. in이 쓰인 문장(C, F, H)에서 공통점은 무엇인가요?"
+        answer: "모두 '월', '계절', '시간대'에 in이 쓰였어요.<br />• in October (월)<br />• in summer (계절)<br />• in the morning (시간대)<br />긴 기간에는 in!"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 정확한 시간(예: 3:00)에는 어떤 전치사를 쓰나요?"
+        answer: "at<br />예: at 3:00, at noon, at midnight<br />평가 기준: at이라고 답하면 정답입니다."
+      - type: qna
+        question: "R2. 요일(예: Monday)에는 어떤 전치사를 쓰나요?"
+        answer: "on<br />예: on Monday, on Friday<br />평가 기준: on이라고 답하면 정답입니다."
+      - type: qna
+        question: "R3. 월이나 계절(예: April, summer)에는 어떤 전치사를 쓰나요?"
+        answer: "in<br />예: in April, in summer, in 2024<br />평가 기준: in이라고 답하면 정답입니다."
+      - type: qna
+        question: "R4. '밤에'는 'in night'일까요, 'at night'일까요?"
+        answer: "at night<br />night는 예외로 at을 씁니다!<br />평가 기준: at night라고 답하면 정답입니다."
+      - type: qna
+        question: "R5. '아침에'는 영어로 어떻게 쓰나요?"
+        answer: "in the morning<br />아침/오후/저녁은 in + the를 씁니다.<br />평가 기준: in the morning이라고 답하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 at, on, 또는 in 중 알맞은 것을 넣으세요."
+      - type: qna
+        question: "Q1. School starts ___ 8:30."
+        answer: "at<br />설명: 정확한 시간(8:30)에는 at을 씁니다."
+      - type: qna
+        question: "Q2. We don't have school ___ Sundays."
+        answer: "on<br />설명: 요일(Sundays)에는 on을 씁니다."
+      - type: qna
+        question: "Q3. It's very cold ___ winter."
+        answer: "in<br />설명: 계절(winter)에는 in을 씁니다."
+      - type: qna
+        question: "Q4. I usually wake up ___ 7 o'clock."
+        answer: "at<br />설명: 정확한 시간(7 o'clock)에는 at을 씁니다."
+      - type: qna
+        question: "Q5. My mom's birthday is ___ May 5th."
+        answer: "on<br />설명: 특정 날짜(May 5th)에는 on을 씁니다."
+      - type: qna
+        question: "Q6. I like to read ___ night."
+        answer: "at<br />설명: night는 예외로 at을 씁니다!"
+      - type: qna
+        question: "Q7. The flowers bloom ___ spring."
+        answer: "in<br />설명: 계절(spring)에는 in을 씁니다."
+      - type: qna
+        question: "Q8. Let's meet ___ Saturday ___ 3:00."
+        answer: "on / at<br />설명: 요일에는 on, 시간에는 at을 씁니다."
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요. 시간 전치사에 주의하세요!"
+      - type: qna
+        question: "T1. 나는 7시에 일어나."
+        answer: "I wake up at 7:00. / I wake up at 7 o'clock.<br />평가 기준: at + 시간 형태가 맞으면 정답입니다."
+      - type: qna
+        question: "T2. 우리는 금요일에 영화를 봐."
+        answer: "We watch a movie on Friday.<br />평가 기준: on + 요일 형태가 맞으면 정답입니다."
+      - type: qna
+        question: "T3. 그녀는 8월에 태어났어."
+        answer: "She was born in August.<br />평가 기준: in + 월 형태가 맞으면 정답입니다."
+      - type: qna
+        question: "T4. 아빠는 밤에 일하셔."
+        answer: "My dad works at night. / Dad works at night.<br />평가 기준: at night를 쓰면 정답입니다."
+      - type: qna
+        question: "T5. 나는 오후에 숙제를 해."
+        answer: "I do homework in the afternoon.<br />평가 기준: in the afternoon을 쓰면 정답입니다."
+      - type: qna
+        question: "T6. 크리스마스는 12월 25일이야."
+        answer: "Christmas is on December 25th.<br />평가 기준: on + 날짜 형태가 맞으면 정답입니다."
+      - type: qna
+        question: "T7. 여름에는 해가 길어."
+        answer: "The days are long in summer.<br />평가 기준: in summer를 쓰면 정답입니다."
+      - type: qna
+        question: "T8. 영화가 8시 30분에 시작해."
+        answer: "The movie starts at 8:30.<br />평가 기준: at + 시간 형태가 맞으면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I wake up at 7:00. (시간을 '아침에'로 바꾸기)"
+        answer: "I wake up in the morning.<br />설명: 정확한 시간 대신 시간대를 쓰면 in the morning이 됩니다."
+      - type: qna
+        question: "TF2. We have a test on Monday. (월요일 → 금요일로 바꾸기)"
+        answer: "We have a test on Friday.<br />설명: 요일이 바뀌어도 전치사 on은 그대로입니다."
+      - type: qna
+        question: "TF3. 틀린 부분 고치기: I was born at April."
+        answer: "I was born in April.<br />설명: 월(April)에는 at이 아니라 in을 씁니다."
+      - type: qna
+        question: "TF4. 틀린 부분 고치기: She reads books in night."
+        answer: "She reads books at night.<br />설명: night는 예외로 at을 씁니다!"
+      - type: qna
+        question: "TF5. 틀린 부분 고치기: Let's meet in Saturday."
+        answer: "Let's meet on Saturday.<br />설명: 요일(Saturday)에는 in이 아니라 on을 씁니다."
+      - type: qna
+        question: "TF6. School starts at 9:00. (요일 추가: Monday)"
+        answer: "School starts at 9:00 on Monday.<br />설명: 시간과 요일을 함께 쓸 때는 at + 시간, on + 요일입니다."
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요!"
+      - type: qna
+        question: "A1. 너의 생일은 언제야? 영어로 써 보세요."
+        answer: "예시:<br />• My birthday is on March 15th.<br />• My birthday is in October.<br />평가 기준: on + 날짜 또는 in + 월을 쓰면 정답입니다."
+      - type: qna
+        question: "A2. 너는 보통 몇 시에 일어나? 영어로 써 보세요."
+        answer: "예시:<br />• I usually wake up at 7:00.<br />• I wake up at 6:30 in the morning.<br />평가 기준: at + 시간을 쓰면 정답입니다."
+      - type: qna
+        question: "A3. 가장 좋아하는 계절은 언제야? 그 이유는? 영어로 써 보세요."
+        answer: "예시:<br />• I like summer because we have vacation in July.<br />• I love winter because it snows in December.<br />평가 기준: in + 계절/월을 쓰면 정답입니다."
+      - type: qna
+        question: "A4. 이번 주에 특별한 계획이 있어? 요일과 시간을 포함해서 영어로 써 보세요."
+        answer: "예시:<br />• I have a piano lesson on Wednesday at 4:00.<br />• We go to grandma's house on Sunday.<br />평가 기준: on + 요일, at + 시간을 올바르게 쓰면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장들의 틀린 부분을 모두 찾아 고치세요.<br />'I wake up in 7:00. School starts at Monday. We have vacation at summer.'"
+        answer: "올바른 문장들:<br />• I wake up at 7:00. (시간에는 at)<br />• School starts on Monday. (요일에는 on)<br />• We have vacation in summer. (계절에는 in)"
+      - type: qna
+        question: "C2. 왜 'at night'인데 'in the morning'일까요? 차이점을 설명해 보세요."
+        answer: "night만 예외적으로 at을 씁니다!<br />• morning, afternoon, evening은 모두 in + the를 씁니다.<br />• 하지만 night는 at night입니다. (the도 없음!)<br /><br />쉽게 기억하기: night는 '정확한 시점'처럼 느껴져서 at을 쓴다고 생각하세요."
+      - type: qna
+        question: "C3. 'on Monday morning'과 'in the morning'의 차이점을 설명해 보세요."
+        answer: "• in the morning: 매일 아침, 또는 특정하지 않은 아침<br />  예: I exercise in the morning. (아침에 운동해.)<br /><br />• on Monday morning: 특정 월요일 아침<br />  예: We have a test on Monday morning. (월요일 아침에 시험이 있어.)<br /><br />특정 요일 + 시간대는 on + 요일 + 시간대!"
+      - type: qna
+        question: "C4. 다음 정보를 사용해서 3문장을 만들어 보세요: 생일(6월 15일), 일어나는 시간(7시), 좋아하는 계절(가을)"
+        answer: "예시 답안:<br />1. My birthday is on June 15th.<br />2. I wake up at 7:00 every day.<br />3. I love fall because the weather is nice.<br /><br />평가 기준: on + 날짜, at + 시간, in + 계절을 모두 올바르게 사용하면 정답입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. 정확한 시간(예: 3:00)에는 ___ 을 씁니다."
+        answer: "at"
+      - type: qna
+        question: "SR2. 요일(예: Monday)에는 ___ 을 씁니다."
+        answer: "on"
+      - type: qna
+        question: "SR3. 월/계절(예: April, summer)에는 ___ 을 씁니다."
+        answer: "in"
+      - type: qna
+        question: "SR4. 빈칸: I go to school ___ 8:30."
+        answer: "at"
+      - type: qna
+        question: "SR5. 빈칸: We don't have school ___ Saturdays."
+        answer: "on"
+      - type: qna
+        question: "SR6. 빈칸: My birthday is ___ December."
+        answer: "in"
+      - type: qna
+        question: "SR7. 예외! '밤에'는 ___ night."
+        answer: "at"
+      - type: qna
+        question: "SR8. 틀린 곳 고치기: I study at the afternoon."
+        answer: "I study in the afternoon.<br />시간대(morning/afternoon/evening)에는 in + the!"
+      - type: qna
+        question: "SR9. 번역: 토요일 3시에 만나자."
+        answer: "Let's meet on Saturday at 3:00."
+      - type: qna
+        question: "SR10. 번역: 겨울에는 눈이 와."
+        answer: "It snows in winter."
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. at, on, in 중 어떤 것을 언제 쓰는지 설명할 수 있나요?"
+        answer: "할 수 있다면: 훌륭합니다! 시간 전치사의 기본을 이해했어요.<br />어렵다면: at = 시간, on = 요일/날짜, in = 월/년/계절 로 기억하세요!"
+      - type: qna
+        question: "SC2. 'at night'가 왜 예외인지 기억하나요?"
+        answer: "할 수 있다면: 대단해요! 예외 규칙을 잘 알고 있어요.<br />어렵다면: night만 특별히 at을 쓴다고 외우세요!"
+      - type: qna
+        question: "SC3. 'in the morning'과 'on Monday morning'의 차이를 알고 있나요?"
+        answer: "할 수 있다면: 완벽해요! 세부 규칙까지 이해했어요.<br />어렵다면: 요일이 붙으면 on을 쓴다고 기억하세요!"
+      - type: note
+        content: "잘했어요! 오늘 영어에서 가장 많이 쓰는 시간 전치사 at, on, in을 배웠습니다. at은 정확한 시간, on은 요일과 날짜, in은 월/년/계절에 쓴다는 것을 기억하세요! 그리고 at night는 예외라는 것도요!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 at night와 in the morning의 차이를 기억하세요!"

@@ -1,0 +1,271 @@
+title: "Unit 105 · in, at, on (장소 전치사 2: 도시, 건물, 교통)"
+meta: "대상: 6학년 · 난이도: 중 · 권장 30분 (A4 2p)"
+sections:
+  - title: "1. 핵심 개념 정리"
+    items:
+      - type: text
+        content: "이번에는 <span class='highlight'>나라/도시, 건물, 교통수단</span>에서 in, at, on을 어떻게 사용하는지 배워봅시다. 같은 장소라도 어떤 의미로 말하느냐에 따라 전치사가 달라질 수 있어요!"
+      - type: list
+        heading: "in + 나라/도시/동네 (넓은 지역 안)"
+        list:
+          - "in Korea (한국에)"
+          - "in Seoul (서울에)"
+          - "in Gangnam (강남에)"
+          - "in Asia (아시아에)"
+      - type: list
+        heading: "at + 건물/장소 (특정 장소)"
+        list:
+          - "at school (학교에)"
+          - "at home (집에)"
+          - "at the station (역에)"
+          - "at the airport (공항에)"
+      - type: list
+        heading: "on + 대중교통/층 (버스, 기차, 비행기, 층)"
+        list:
+          - "on the bus (버스에서)"
+          - "on the train (기차에서)"
+          - "on a plane (비행기에서)"
+          - "on the second floor (2층에)"
+      - type: list
+        heading: "in + 작은 탈것 (차, 택시)"
+        list:
+          - "in a car (차 안에)"
+          - "in a taxi (택시 안에)"
+      - type: text
+        content: "<span class='highlight'>의미/뉘앙스:</span><br />• in + 도시/나라: 그 지역 '안 어딘가'에 있음<br />• at + 건물: 그 장소에서 '활동'을 함<br />• on + 대중교통: 탈것 '위에서' 이동 중<br />• in + 작은 차: 좁은 공간 '안에' 있음"
+      - type: text
+        content: "<span class='highlight'>언제 쓰나요?</span><br />• 사는 곳 말할 때: I live in Seoul. (서울에 살아.)<br />• 위치 말할 때: I'm at school. (학교에 있어.)<br />• 이동 중 말할 때: I'm on the bus. (버스에 있어.)<br />• 특별한 표현: at home, at work, at school"
+      - type: list
+        heading: "더 많은 예문 (다양한 상황)"
+        list:
+          - "나라/도시: I live in Korea. (나는 한국에 살아.)"
+          - "나라/도시: My cousin lives in Busan. (내 사촌은 부산에 살아.)"
+          - "나라/도시: The Eiffel Tower is in Paris. (에펠탑은 파리에 있어.)"
+          - "건물: I study at school. (나는 학교에서 공부해.)"
+          - "건물: Mom is at work. (엄마는 직장에 계셔.)"
+          - "건물: We arrived at the airport. (공항에 도착했어.)"
+          - "교통: I'm on the bus now. (지금 버스 타고 있어.)"
+          - "교통: She fell asleep on the train. (그녀는 기차에서 잠들었어.)"
+          - "교통: We're on a plane to Japan. (일본 가는 비행기에 있어.)"
+          - "차: Get in the car! (차에 타!)"
+          - "차: Dad is in the taxi. (아빠가 택시 안에 계셔.)"
+          - "층: My classroom is on the third floor. (내 교실은 3층에 있어.)"
+      - type: note
+        content: "⚠️ 한국 학습자가 자주 하는 실수:<br />1. at vs in 건물 혼동:<br />   'at school' = 학교에서 (활동 강조)<br />   'in the school' = 학교 건물 안에 (위치 강조)<br /><br />2. 교통수단 전치사 혼동:<br />   on the bus (O) / in the bus (X)<br />   in the car (O) / on the car (X - 차 지붕 위!)<br /><br />3. at home (O) / in home (X):<br />   home은 특별히 at과 함께 써요!"
+      - type: text
+        content: "<span class='highlight'>at school vs in the school:</span><br /><br /><strong>at school</strong> (관사 없음!)<br />• 학교에서 공부하는 중 (학생/선생님으로서)<br />• I'm at school. (학교에 있어 - 수업 중)<br /><br /><strong>in the school</strong> (관사 있음!)<br />• 학교 건물 내부 어딘가에<br />• The gym is in the school. (체육관이 학교 안에 있어.)<br /><br />비슷하게: at home(집에서) vs in the house(집 건물 안)"
+      - type: text
+        content: "<span class='highlight'>교통수단 전치사 정리:</span><br /><br /><strong>on (대중교통, 서서 이동 가능)</strong><br />• on the bus (버스에서)<br />• on the train (기차에서)<br />• on a plane (비행기에서)<br />• on a ship (배에서)<br />• on a bike (자전거에서)<br /><br /><strong>in (작은 탈것, 앉아서만)</strong><br />• in a car (차 안에서)<br />• in a taxi (택시 안에서)<br /><br />기억법: 서서 다닐 수 있으면 on, 앉아만 있으면 in!"
+
+  - title: "2. Noticing 활동"
+    items:
+      - type: text
+        content: "다음 문장들을 관찰하고 패턴을 스스로 발견해 보세요!"
+      - type: list
+        heading: "예문들을 관찰하세요"
+        list:
+          - "A. I live in Seoul."
+          - "B. I'm at school now."
+          - "C. She is on the bus."
+          - "D. Dad is in the car."
+          - "E. We arrived at the station."
+          - "F. My grandma lives in Busan."
+          - "G. I'm on the second floor."
+          - "H. Mom is at work."
+      - type: qna
+        question: "Q1. in이 쓰인 문장(A, D, F)을 보세요. 어떤 장소들인가요?"
+        answer: "• in Seoul, in Busan: 도시 (넓은 지역)<br />• in the car: 작은 탈것 (좁은 공간 안)<br />도시나 작은 차 안에는 in!"
+      - type: qna
+        question: "Q2. at이 쓰인 문장(B, E, H)을 보세요. 어떤 공통점이 있나요?"
+        answer: "모두 특정 '장소/지점'을 나타내요.<br />• at school: 학교라는 장소<br />• at the station: 역이라는 지점<br />• at work: 직장이라는 장소<br />건물이나 시설을 '활동 장소'로 말할 때 at!"
+      - type: qna
+        question: "Q3. on이 쓰인 문장(C, G)에서 공통점은?"
+        answer: "• on the bus: 대중교통 위/안<br />• on the second floor: 층 위<br />대중교통이나 층에는 on!"
+
+  - title: "3. 회상 연습 (Retrieval Practice)"
+    items:
+      - type: note
+        content: "설명을 다시 보지 말고, 기억을 떠올려서 답해 보세요!"
+      - type: qna
+        question: "R1. 나라나 도시에는 어떤 전치사를 쓰나요?"
+        answer: "in<br />예: in Korea, in Seoul<br />평가 기준: in이라고 답하면 정답입니다."
+      - type: qna
+        question: "R2. '학교에 있어 (수업 중)'는 영어로?"
+        answer: "I'm at school.<br />활동하는 장소로서 학교는 at!<br />평가 기준: at school이라고 답하면 정답입니다."
+      - type: qna
+        question: "R3. 버스에서는 in? on?"
+        answer: "on<br />예: I'm on the bus.<br />대중교통에는 on!<br />평가 기준: on이라고 답하면 정답입니다."
+      - type: qna
+        question: "R4. 차 안에서는 in? on?"
+        answer: "in<br />예: I'm in the car.<br />작은 탈것에는 in!<br />평가 기준: in이라고 답하면 정답입니다."
+      - type: qna
+        question: "R5. '집에 있어'는 영어로?"
+        answer: "I'm at home.<br />home은 특별히 at과 함께!<br />평가 기준: at home이라고 답하면 정답입니다."
+
+  - title: "4. 기초 연습 - 빈칸 채우기"
+    items:
+      - type: note
+        content: "빈칸에 in, at, 또는 on 중 알맞은 것을 넣으세요."
+      - type: qna
+        question: "Q1. I live ___ Korea."
+        answer: "in<br />설명: 나라는 넓은 지역이므로 in"
+      - type: qna
+        question: "Q2. She is ___ school now."
+        answer: "at<br />설명: 학교에서 활동 중이므로 at"
+      - type: qna
+        question: "Q3. I'm ___ the bus."
+        answer: "on<br />설명: 대중교통에는 on"
+      - type: qna
+        question: "Q4. Dad is ___ his car."
+        answer: "in<br />설명: 작은 탈것에는 in"
+      - type: qna
+        question: "Q5. We arrived ___ the airport."
+        answer: "at<br />설명: 공항이라는 지점에 도착"
+      - type: qna
+        question: "Q6. My room is ___ the third floor."
+        answer: "on<br />설명: ~층에는 on"
+      - type: qna
+        question: "Q7. She lives ___ Tokyo."
+        answer: "in<br />설명: 도시는 넓은 지역이므로 in"
+      - type: qna
+        question: "Q8. Mom is ___ home."
+        answer: "at<br />설명: home은 at과 함께 사용"
+
+  - title: "5. 문장 만들기 - 번역"
+    items:
+      - type: note
+        content: "한글 문장을 영어로 번역해 보세요."
+      - type: qna
+        question: "T1. 나는 한국에 살아."
+        answer: "I live in Korea.<br />평가 기준: in + 나라가 맞으면 정답입니다."
+      - type: qna
+        question: "T2. 나는 지금 학교에 있어."
+        answer: "I'm at school now.<br />평가 기준: at school이 맞으면 정답입니다."
+      - type: qna
+        question: "T3. 그녀는 버스에 있어."
+        answer: "She is on the bus.<br />평가 기준: on the bus가 맞으면 정답입니다."
+      - type: qna
+        question: "T4. 내 사촌은 부산에 살아."
+        answer: "My cousin lives in Busan.<br />평가 기준: in + 도시가 맞으면 정답입니다."
+      - type: qna
+        question: "T5. 엄마는 직장에 계셔."
+        answer: "Mom is at work.<br />평가 기준: at work가 맞으면 정답입니다."
+      - type: qna
+        question: "T6. 차에 타!"
+        answer: "Get in the car!<br />평가 기준: in the car가 맞으면 정답입니다."
+      - type: qna
+        question: "T7. 내 교실은 2층에 있어."
+        answer: "My classroom is on the second floor.<br />평가 기준: on the ... floor가 맞으면 정답입니다."
+      - type: qna
+        question: "T8. 우리는 역에 도착했어."
+        answer: "We arrived at the station.<br />평가 기준: at the station이 맞으면 정답입니다."
+
+  - title: "6. 변형 연습"
+    items:
+      - type: note
+        content: "주어진 문장을 지시에 따라 변형해 보세요."
+      - type: qna
+        question: "TF1. I'm on the bus. (bus → car로 바꾸기)"
+        answer: "I'm in the car.<br />설명: 작은 탈것(car)에는 on이 아니라 in!"
+      - type: qna
+        question: "TF2. I live in Seoul. (Seoul → Korea로 바꾸기)"
+        answer: "I live in Korea.<br />설명: 도시나 나라 모두 in!"
+      - type: qna
+        question: "TF3. 틀린 부분 고치기: I'm in the bus."
+        answer: "I'm on the bus.<br />설명: 버스(대중교통)에는 on!"
+      - type: qna
+        question: "TF4. 틀린 부분 고치기: She is in school now."
+        answer: "She is at school now.<br />설명: '학교에서 활동 중'이면 at school!"
+      - type: qna
+        question: "TF5. 틀린 부분 고치기: I'm in home."
+        answer: "I'm at home.<br />설명: home은 at과 함께 사용!"
+      - type: qna
+        question: "TF6. My room is on the second floor. (2층 → 5층)"
+        answer: "My room is on the fifth floor.<br />설명: 몇 층이든 on + floor!"
+
+  - title: "7. 실생활 적용"
+    items:
+      - type: note
+        content: "자신의 이야기를 만들어 보세요!"
+      - type: qna
+        question: "A1. 너는 어디에 살아? 도시와 나라를 영어로 써 보세요."
+        answer: "예시:<br />• I live in Seoul, Korea.<br />• I live in Busan.<br />평가 기준: in + 도시/나라가 맞으면 정답입니다."
+      - type: qna
+        question: "A2. 지금 어디에 있어? at을 사용해서 영어로 써 보세요."
+        answer: "예시:<br />• I'm at home.<br />• I'm at school.<br />• I'm at the library.<br />평가 기준: at + 장소가 맞으면 정답입니다."
+      - type: qna
+        question: "A3. 학교 가는 길에 무엇을 타? on/in을 사용해서 영어로 써 보세요."
+        answer: "예시:<br />• I go to school on the bus.<br />• I'm in my mom's car.<br />• I ride on the subway.<br />평가 기준: 교통수단에 맞는 전치사를 쓰면 정답입니다."
+      - type: qna
+        question: "A4. 너의 교실이나 방은 몇 층에 있어? on을 사용해서 영어로 써 보세요."
+        answer: "예시:<br />• My classroom is on the fourth floor.<br />• My room is on the second floor.<br />평가 기준: on the ... floor가 맞으면 정답입니다."
+
+  - title: "8. 종합 문제"
+    items:
+      - type: note
+        content: "조금 더 깊이 생각해 봅시다!"
+      - type: qna
+        question: "C1. 다음 문장들의 틀린 부분을 찾아 고치세요.<br />'I live at Seoul. She is in the bus. He is in home.'"
+        answer: "올바른 문장들:<br />• I live in Seoul. (도시에는 in)<br />• She is on the bus. (대중교통에는 on)<br />• He is at home. (home은 at과 함께)"
+      - type: qna
+        question: "C2. 'in the car'인데 왜 'on the bus'일까요?"
+        answer: "• 작은 탈것(car, taxi): 좁아서 '안에' 앉아있는 느낌 → in<br />• 대중교통(bus, train): 넓어서 '위에서' 서거나 걷는 느낌 → on<br /><br />기억법: 서서 다닐 수 있으면 on, 앉아만 있으면 in!"
+      - type: qna
+        question: "C3. 'at school'과 'in the school'의 차이점을 설명해 보세요."
+        answer: "• at school (관사 X): 학교에서 학생/선생님으로 활동 중<br />  I study at school. (학교에서 공부해 - 학생으로서)<br /><br />• in the school (관사 O): 학교 건물 내부 어딘가<br />  The gym is in the school. (체육관이 학교 안에 있어)<br /><br />'활동'을 강조하면 at, '건물 위치'를 말하면 in the!"
+      - type: qna
+        question: "C4. 다음 정보로 4문장을 만들어 보세요: 사는 곳(서울), 학교 위치(3층), 통학 방법(버스), 현재 위치(집)"
+        answer: "예시 답안:<br />1. I live in Seoul.<br />2. My classroom is on the third floor.<br />3. I go to school on the bus.<br />4. I'm at home now.<br /><br />평가 기준: 각 상황에 맞는 전치사를 사용하면 정답입니다."
+
+  - title: "9. 내일 복습용 문제 (Spaced Repetition Review)"
+    items:
+      - type: note
+        content: "내일 이 문제들을 다시 풀어 보세요!"
+      - type: qna
+        question: "SR1. 나라/도시에는 ___ 을 씁니다."
+        answer: "in (in Korea, in Seoul)"
+      - type: qna
+        question: "SR2. 학교에서 활동 중 = ___ school"
+        answer: "at"
+      - type: qna
+        question: "SR3. 대중교통(버스, 기차) = ___"
+        answer: "on (on the bus)"
+      - type: qna
+        question: "SR4. 작은 탈것(차, 택시) = ___"
+        answer: "in (in the car)"
+      - type: qna
+        question: "SR5. 집에 = ___ home"
+        answer: "at"
+      - type: qna
+        question: "SR6. 3층에 = ___ the third floor"
+        answer: "on"
+      - type: qna
+        question: "SR7. 빈칸: I live ___ Busan."
+        answer: "in"
+      - type: qna
+        question: "SR8. 틀린 곳 고치기: I'm in the train."
+        answer: "I'm on the train."
+      - type: qna
+        question: "SR9. 번역: 엄마는 직장에 계셔."
+        answer: "Mom is at work."
+      - type: qna
+        question: "SR10. 버스에 타다 = get ___ the bus"
+        answer: "on"
+
+  - title: "10. 자기 점검 & 격려"
+    items:
+      - type: note
+        content: "스스로에게 물어보세요!"
+      - type: qna
+        question: "SC1. 도시/나라에 in을 쓴다는 것을 기억하나요?"
+        answer: "할 수 있다면: 훌륭합니다! 지역 표현을 정확하게 할 수 있어요.<br />어렵다면: in Seoul, in Korea 처럼 넓은 지역은 in!"
+      - type: qna
+        question: "SC2. 대중교통과 작은 차의 전치사 차이를 알고 있나요?"
+        answer: "할 수 있다면: 대단해요! 교통수단 표현을 잘 이해했어요!<br />어렵다면: 버스/기차=on, 차/택시=in"
+      - type: qna
+        question: "SC3. at school, at home, at work를 사용할 수 있나요?"
+        answer: "할 수 있다면: 완벽해요! 일상 표현을 잘 할 수 있어요!<br />어렵다면: 이 세 표현은 그냥 외우세요!"
+      - type: note
+        content: "잘했어요! 오늘 도시, 건물, 교통수단에서 in, at, on을 어떻게 쓰는지 배웠습니다. 도시는 in, 건물/활동 장소는 at, 대중교통은 on이에요. 그리고 at home, at school, at work는 특별한 표현이라는 것도 기억하세요!"
+      - type: note
+        content: "내일 할 일: '9. 내일 복습용 문제'를 다시 풀어 보세요. 특히 on the bus vs in the car 차이를 기억하세요!"
